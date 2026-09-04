@@ -27,9 +27,19 @@ def load_seen(path):
     if not path.exists():
         return []
 
-    data = json.loads(path.read_text(encoding="utf-8"))
-    return data.get("items", [])
+    text = path.read_text(encoding="utf-8").strip()
+    if not text:
+        # File exists but is empty (e.g. created by `touch` before its
+        # first real write) — treat the same as "no history yet".
+        return []
 
+    try:
+        data = json.loads(text)
+    except json.JSONDecodeError:
+        print(f"Warning: {path} contains invalid JSON — treating as empty.")
+        return []
+
+    return data.get("items", [])
 
 def save_seen(path, entries):
     path.parent.mkdir(parents=True, exist_ok=True)

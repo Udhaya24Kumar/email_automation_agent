@@ -38,14 +38,9 @@ def _prune(entries: list[dict]) -> list[dict]:
 
 def load_week(path: Path) -> list[dict]:
     """Return the last RETENTION_DAYS days of stored items, oldest first."""
-    if not path.exists():
-        return []
-
-    data = json.loads(path.read_text(encoding="utf-8"))
-    entries = _prune(data.get("items", []))
+    entries = _prune(_load_raw(path))
     entries.sort(key=lambda e: e.get("date_added", ""))
     return entries
-
 
 def append_today(path: Path, items: list[dict], today_iso: str) -> None:
     """Append today's sent items to the rolling weekly store.
@@ -68,9 +63,20 @@ def append_today(path: Path, items: list[dict], today_iso: str) -> None:
         encoding="utf-8",
     )
 
-
 def _load_raw(path: Path) -> list[dict]:
     if not path.exists():
         return []
-    data = json.loads(path.read_text(encoding="utf-8"))
+
+    text = path.read_text(encoding="utf-8").strip()
+    if not text:
+        # File exists but is empty (e.g. created by `touch` before its
+        # first real write) — treat the same as "no history yet".
+        return []
+
+    try:
+        data = json.loads(text)
+    except json.JSONDecodeError:
+        print(f"Warning: {path} contains invalid JSON — treating as empty.")
+        return []
+
     return data.get("items", [])
