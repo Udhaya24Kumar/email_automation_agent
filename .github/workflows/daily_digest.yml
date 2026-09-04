@@ -2,27 +2,40 @@ name: Daily SSC Current Affairs Digest
 
 on:
   schedule:
-    # 1:00 UTC = 6:30 AM IST. GitHub's cron can run a few minutes late
-    # during peak load — that's normal and fine for a daily digest.
+    # 06:30 IST = 01:00 UTC. GitHub's schedule runner can lag a few minutes
+    # during high load, so treat this as "around 6:30am IST", not exact.
     - cron: "0 1 * * *"
-  workflow_dispatch: {}   # lets you trigger it manually from the Actions tab
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
 
 jobs:
   send-digest:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Check out repo
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Fetch digest and send email
-        run: python main.py
+      - name: Run digest
         env:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           TO_EMAIL: ${{ secrets.TO_EMAIL }}
+        run: python scripts/main.py
+
+      - name: Commit updated seen_titles.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/seen_titles.json
+          git diff --staged --quiet || git commit -m "Update seen_titles.json [skip ci]"
+          git push

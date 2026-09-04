@@ -1,0 +1,34 @@
+name: Weekly SSC Current Affairs Report
+
+on:
+  schedule:
+    # 07:00 IST Sunday = 01:30 UTC Sunday. Runs after that morning's own
+    # digest.yml run (06:30 IST), so Sunday's items are already in
+    # data/weekly_items.json by the time this fires.
+    - cron: "30 1 * * 0"
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+jobs:
+  send-weekly-report:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Build and send weekly report
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          TO_EMAIL: ${{ secrets.TO_EMAIL }}
+        run: python scripts/weekly_report.py
