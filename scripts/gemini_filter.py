@@ -226,17 +226,36 @@ def _extract_json(text: str):
 
 def _fallback(items):
     """
-    Safe fallback if Gemini is unavailable.
+    Safe fallback if Gemini is unavailable (missing/invalid API key, rate
+    limit, network error, bad JSON, anything caught in enrich_items()'s
+    try/except).
 
-    Never treat unfiltered news as SSC-relevant.
+    Fails OPEN, as documented in the README: a broken AI step should
+    degrade the digest, not blank it. Every item is kept with its
+    original (untranslated) title/excerpt, tagged at the "useful" (3)
+    importance tier so it clears filter_low_relevance()'s >=3 cutoff
+    below — Gemini being unreachable is not evidence an article is
+    SSC-irrelevant.
     """
 
     print(
-        "Gemini unavailable — rejecting unfiltered articles."
+        f"Gemini unavailable — keeping all {len(items)} unfiltered "
+        "article(s) as-is (fails open)."
     )
 
-    return []
+    return [
+        {
+            **item,
+            "title": item.get("title", ""),
+            "summary": item.get("excerpt") or item.get("title", ""),
+            "keywords": [],
+            "importance": 3,
+            "relevance": "medium",
+        }
+        for item in items
+    ]
 
+    
 def _build_batch_prompt(items, start_index):
     """Build a small Gemini request."""
 
