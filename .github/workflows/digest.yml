@@ -2,8 +2,7 @@ name: Daily SSC Current Affairs Digest
 
 on:
   schedule:
-    # 06:30 IST = 01:00 UTC. GitHub's schedule runner can lag a few minutes
-    # during high load, so treat this as "around 6:30am IST", not exact.
+    # 06:30 IST = 01:00 UTC
     - cron: "0 1 * * *"
   workflow_dispatch: {}
 
@@ -13,6 +12,7 @@ permissions:
 jobs:
   send-digest:
     runs-on: ubuntu-latest
+
     steps:
       - name: Check out repo
         uses: actions/checkout@v4
@@ -25,18 +25,22 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run digest
+      - name: Run daily SSC digest
         env:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           TO_EMAIL: ${{ secrets.TO_EMAIL }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: gemini-3.6-flash
         run: python scripts/main.py
 
-      - name: Commit updated data files
+      - name: Save deduplication state
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/seen_titles.json data/weekly_items.json
-          git diff --staged --quiet || git commit -m "Update seen_titles.json / weekly_items.json [skip ci]"
+
+          git add -f data/seen_titles.json data/weekly_items.json
+
+          git diff --staged --quiet || git commit -m "Update digest state [skip ci]"
+
           git push
