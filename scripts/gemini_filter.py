@@ -1,36 +1,27 @@
 """
-SSC-focused Gemini filtering and enrichment.
+Enrich articles with SSC CGL relevance using Gemini API.
 
-Pipeline:
-    Raw news
-        ↓
-    Gemini SSC relevance filtering
-        ↓
-    Factual summary
-        ↓
-    SSC keywords
-        ↓
-    Importance score
-        ↓
-    Top 30 articles
+Takes merged/deduplicated articles and:
+1. Filters for SSC CGL exam usefulness
+2. Rewrites titles/summaries in exam-friendly language
+3. Extracts exam keywords
+4. Assigns importance (1-5)
 
-Gemini is instructed to use ONLY the supplied title/excerpt.
+Falls back gracefully if Gemini unavailable.
 """
 
 import json
 import os
 import re
-import time
 
+import google.genai as genai
 from dotenv import load_dotenv
-from google import genai
 
 load_dotenv()
 
-MAX_FINAL_ITEMS = 30
-BATCH_SIZE = 20
 GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.6-flash")
-
+BATCH_SIZE = 20
+MAX_FINAL_ITEMS = 30
 
 SYSTEM_INSTRUCTION = """
 You are an expert SSC CGL current-affairs editor.
@@ -95,25 +86,18 @@ REJECT:
 
 SSC VALUE TEST:
 
-Ask:
-
-"Could SSC realistically create a General Awareness or Current Affairs
+Ask: "Could SSC realistically create a General Awareness or Current Affairs
 question from the facts in this article?"
 
 If NO → importance 1 or 2.
-
 If YES → importance 3, 4 or 5.
 
 IMPORTANT:
 
 Use ONLY the supplied title and excerpt.
-
 DO NOT use outside knowledge.
-
 DO NOT invent facts.
-
 DO NOT add facts from memory.
-
 DO NOT assume missing information.
 
 Every keyword must be directly supported by the supplied text.
@@ -140,57 +124,71 @@ For Hindi content, translate into clear English without adding facts.
 
 Return ONLY a JSON array.
 
-IMPORTANT:
+IMPORTANT: Return ONLY articles that have SSC importance 4 or 5.
 
-Return ONLY articles that have SSC importance 4, or 5.
-
-DO NOT return articles with importance 1 or 2.
+DO NOT return articles with importance 1, 2 or 3.
 
 For every returned article, include its original input index.
-
-You may return fewer articles than the number of input articles.
-
-Return ONLY a JSON array.
-
-Required format:
-
-[
-  {
-    "index": 0,
-    "title": "Short factual title",
-    "summary": "Short factual explanation.",
-    "keywords": [
-      "Organisation: ...",
-      "Scheme: ...",
-      "Place: ...",
-      "Number: ..."
-    ],
-    "importance": 5
-  }
-]
-
-Required format:
-
-[
-  {
-    "index": 0,
-    "title": "Short factual title",
-    "summary": "Short factual explanation.",
-    "keywords": [
-      "Organisation: ...",
-      "Scheme: ...",
-      "Place: ...",
-      "Number: ..."
-    ],
-    "importance": 5
-  }
-]
-
-The index MUST match the input index.
-
-Do not include markdown.
-Do not include explanations outside JSON.
 """
+
+
+def _extract_ssc_keywords(title: str, excerpt: str) -> list[str]:
+    """
+    Extract SSC-exam-focused keywords from title and excerpt.
+    
+    Looks for:
+    - Proper nouns (organisations, places, people names)
+    - Key numbers/percentages
+    - Important schemes/programmes
+    - Government bodies
+    - Acronyms
+    """
+    text = (title or "") + " " + (excerpt or "")
+    
+    # Common words to skip
+    skip_words = {
+        "the", "a", "an", "and", "or", "but", "is", "was", "are",
+        "be", "been", "have", "has", "had", "do", "does", "did",
+        "will", "would", "could", "should", "may", "might", "must",
+        "can", "of", "to", "in", "on", "at", "by", "for", "with",
+        "from", "as", "said", "says", "told", "new", "old", "more",
+        "india", "indian", "country", "year", "time", "news", "report",
+    }
+    
+    keywords = []
+    seen = set()
+    
+    # Pattern 1: Capitalized words (proper nouns)
+    words = re.findall(r'\b[A-Z][a-z]+(?:\s+[A-Z][a-z]+)*\b', text)
+    for word in words:
+        if word.lower() not in skip_words and len(word) > 2:
+            if word.lower() not in seen:
+                keywords.append(word)
+                seen.add(word.lower())
+    
+    # Pattern 2: ALL CAPS (acronyms like SEBI, RBI, ISRO)
+    acronyms = re.findall(r'\b[A-Z]{2,}\b', text)
+    for acronym in acronyms:
+        if acronym.lower() not in skip_words and len(acronym) >= 2:
+            if acronym not in seen:
+                keywords.append(acronym)
+                seen.add(acronym.lower())
+    
+    # Pattern 3: Numbers with % (percentages, rates)
+    percentages = re.findall(r'[\d.]+\s*%', text)
+    for pct in percentages:
+        if pct not in seen:
+            keywords.append(pct.strip())
+            seen.add(pct.lower())
+    
+    # Pattern 4: Numbers with currency/units
+    numbers = re.findall(r'₹[\d,.]+ (?:crore|lakh|billion|million|trillion)?', text, re.IGNORECASE)
+    for num in numbers:
+        if num not in seen:
+            keywords.append(num.strip())
+            seen.add(num.lower())
+    
+    return list(keywords)[:6]  # Cap at 6 keywords
 
 
 def _extract_json(text: str):
@@ -226,21 +224,15 @@ def _extract_json(text: str):
 
 def _fallback(items):
     """
-    Safe fallback if Gemini is unavailable (missing/invalid API key, rate
-    limit, network error, bad JSON, anything caught in enrich_items()'s
-    try/except).
+    Safe fallback if Gemini is unavailable.
 
-    Fails OPEN, as documented in the README: a broken AI step should
-    degrade the digest, not blank it. Every item is kept with its
-    original (untranslated) title/excerpt, tagged at the "useful" (3)
-    importance tier so it clears filter_low_relevance()'s >=3 cutoff
-    below — Gemini being unreachable is not evidence an article is
-    SSC-irrelevant.
+    Keeps all items with auto-extracted SSC keywords and importance=3
+    (fails OPEN: better to include borderline items than to blank the digest).
     """
 
     print(
         f"Gemini unavailable — keeping all {len(items)} unfiltered "
-        "article(s) as-is (fails open)."
+        "article(s) with auto-extracted keywords (fails open)."
     )
 
     return [
@@ -248,14 +240,17 @@ def _fallback(items):
             **item,
             "title": item.get("title", ""),
             "summary": item.get("excerpt") or item.get("title", ""),
-            "keywords": [],
+            "keywords": _extract_ssc_keywords(
+                item.get("title", ""),
+                item.get("excerpt", "")
+            ),
             "importance": 3,
             "relevance": "medium",
         }
         for item in items
     ]
 
-    
+
 def _build_batch_prompt(items, start_index):
     """Build a small Gemini request."""
 
@@ -278,66 +273,52 @@ def _build_batch_prompt(items, start_index):
         + json.dumps(
             payload,
             ensure_ascii=False,
-            indent=2,
         )
     )
 
 
-def _call_gemini(client, prompt, retries=3):
-    """Send one batch to Gemini with retry handling."""
+def _call_gemini(client, prompt):
+    """Make a Gemini API call with retry logic."""
 
-    for attempt in range(1, retries + 1):
+    max_attempts = 3
+
+    for attempt in range(1, max_attempts + 1):
         try:
             response = client.models.generate_content(
                 model=GEMINI_MODEL,
                 contents=prompt,
-                config={
-                    "temperature": 0.1,
-                    "response_mime_type": "application/json",
-                },
             )
 
-            text = response.text
-
-            if not text:
-                raise ValueError(
-                    "Gemini returned an empty response."
-                )
-
-            return _extract_json(text)
+            return _extract_json(response.text)
 
         except Exception as exc:
             print(
-                f"Gemini attempt {attempt}/{retries} failed: {exc}"
+                f"Gemini attempt {attempt}/{max_attempts} failed: {exc}"
             )
 
-            if attempt == retries:
+            if attempt < max_attempts:
+                import time
+                wait = min(10, 5 * attempt)
+                print(f"Retrying in {wait} seconds...")
+                time.sleep(wait)
+            else:
                 raise
 
-            wait_seconds = 5 * attempt
-
-            print(
-                f"Retrying in {wait_seconds} seconds..."
-            )
-
-            time.sleep(wait_seconds)
+    raise Exception("Gemini failed after max retries")
 
 
 def _normalise_result(original, result):
-    """Safely merge Gemini's result with the original article."""
+    """Convert Gemini's response into our internal format."""
 
-    if not isinstance(result, dict):
-        raise ValueError("Gemini returned an invalid article object.")
-
-    summary = str(
-        result.get("summary")
-        or original.get("excerpt")
+    title = (
+        result.get("title")
         or original.get("title")
         or ""
     ).strip()
 
-    title = str(
-        result.get("title")
+    summary = (
+        result.get("summary")
+        or original.get("excerpt")
         or original.get("title")
         or ""
     ).strip()
@@ -381,8 +362,8 @@ def enrich_items(items):
     """
     Process news through Gemini in batches.
 
-    Gemini may return only SSC-relevant articles.
-    Each returned article must contain its original index.
+    Preserves partial results: if batch N fails, batches 1...N-1 still
+    go through enrichment. Only failed batches fall back to auto-keywords.
     """
 
     if not items:
@@ -393,7 +374,7 @@ def enrich_items(items):
     if not api_key:
         print(
             "GEMINI_API_KEY not set — "
-            "skipping AI SSC filtering."
+            "skipping AI SSC filtering, using auto-keywords."
         )
         return _fallback(items)
 
@@ -408,6 +389,7 @@ def enrich_items(items):
         client = genai.Client(api_key=api_key)
 
         enriched = []
+        failed_batches = []
 
         total_batches = (
             len(items) + BATCH_SIZE - 1
@@ -425,77 +407,97 @@ def enrich_items(items):
                 f"{len(batch)} article(s)"
             )
 
-            prompt = _build_batch_prompt(
-                batch,
-                start,
-            )
-
-            results = _call_gemini(
-                client,
-                prompt,
-            )
-
-            if not isinstance(results, list):
-                raise ValueError(
-                    "Gemini response is not a JSON array."
+            try:
+                prompt = _build_batch_prompt(
+                    batch,
+                    start,
                 )
 
-            print(
-                f"Gemini batch {batch_number}: "
-                f"{len(batch)} input → "
-                f"{len(results)} SSC candidate(s)"
-            )
-
-            for result in results:
-
-                if not isinstance(result, dict):
-                    print(
-                        "Skipping invalid Gemini result."
-                    )
-                    continue
-
-                returned_index = result.get("index")
-
-                try:
-                    returned_index = int(returned_index)
-                except (TypeError, ValueError):
-                    print(
-                        "Skipping Gemini result with "
-                        "invalid index."
-                    )
-                    continue
-
-                if (
-                    returned_index < start
-                    or returned_index >= start + len(batch)
-                ):
-                    print(
-                        f"Skipping Gemini result with "
-                        f"out-of-range index "
-                        f"{returned_index}."
-                    )
-                    continue
-
-                original = items[returned_index]
-
-                enriched.append(
-                    _normalise_result(
-                        original,
-                        result,
-                    )
+                results = _call_gemini(
+                    client,
+                    prompt,
                 )
+
+                if not isinstance(results, list):
+                    raise ValueError(
+                        "Gemini response is not a JSON array."
+                    )
+
+                print(
+                    f"Gemini batch {batch_number}: "
+                    f"{len(batch)} input → "
+                    f"{len(results)} SSC candidate(s)"
+                )
+
+                for result in results:
+
+                    if not isinstance(result, dict):
+                        print(
+                            "Skipping invalid Gemini result."
+                        )
+                        continue
+
+                    returned_index = result.get("index")
+
+                    try:
+                        returned_index = int(returned_index)
+                    except (TypeError, ValueError):
+                        print(
+                            "Skipping Gemini result with "
+                            "invalid index."
+                        )
+                        continue
+
+                    if (
+                        returned_index < start
+                        or returned_index >= start + len(batch)
+                    ):
+                        print(
+                            f"Skipping Gemini result with "
+                            f"out-of-range index "
+                            f"{returned_index}."
+                        )
+                        continue
+
+                    original = items[returned_index]
+
+                    enriched.append(
+                        _normalise_result(
+                            original,
+                            result,
+                        )
+                    )
+
+            except Exception as batch_exc:
+                print(
+                    f"Gemini batch {batch_number} failed: {batch_exc}. "
+                    f"Falling back for this batch only."
+                )
+                failed_batches.append(batch)
 
         print(
             f"Gemini filtering completed: "
             f"{len(enriched)} SSC candidate(s) "
-            f"returned."
+            f"from successful batch(es)."
         )
+
+        # Fallback only for failed batches, preserving successful ones
+        fallback_items = []
+        for batch in failed_batches:
+            fallback_items.extend(batch)
+
+        if fallback_items:
+            print(
+                f"Falling back for {len(fallback_items)} "
+                f"item(s) from failed batch(es)."
+            )
+            enriched.extend(_fallback(fallback_items))
 
         return enriched
 
     except Exception as exc:
         print(
-            f"Gemini filtering failed: {exc}"
+            f"Gemini filtering failed catastrophically: {exc}"
         )
 
         print(
@@ -503,6 +505,8 @@ def enrich_items(items):
         )
 
         return _fallback(items)
+
+
 def filter_low_relevance(items):
     """
     Keep only SSC-relevant articles.
@@ -530,19 +534,9 @@ def filter_low_relevance(items):
         reverse=True,
     )
 
-    dropped = len(items) - len(relevant)
-
     print(
-        f"SSC filtering: "
-        f"{len(relevant)} relevant, "
-        f"{dropped} rejected."
+        f"SSC filtering: {len(relevant)} relevant, "
+        f"{len(items) - len(relevant)} rejected."
     )
 
     return relevant[:MAX_FINAL_ITEMS]
-
-
-if __name__ == "__main__":
-    print(
-        "gemini_filter.py is a library module. "
-        "Run main.py to execute the complete pipeline."
-    )
