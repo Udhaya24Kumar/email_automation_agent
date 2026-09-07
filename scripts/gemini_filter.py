@@ -407,7 +407,7 @@ def enrich_items(items):
                 f"{len(batch)} article(s)"
             )
 
-            try:
+            try:  # PER-BATCH error handling (NEW)
                 prompt = _build_batch_prompt(
                     batch,
                     start,
@@ -468,7 +468,7 @@ def enrich_items(items):
                         )
                     )
 
-            except Exception as batch_exc:
+            except Exception as batch_exc:  # CATCH batch error only
                 print(
                     f"Gemini batch {batch_number} failed: {batch_exc}. "
                     f"Falling back for this batch only."
@@ -505,7 +505,6 @@ def enrich_items(items):
         )
 
         return _fallback(items)
-
 
 def filter_low_relevance(items):
     """
