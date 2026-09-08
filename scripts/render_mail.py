@@ -54,35 +54,43 @@ def _render_keywords(keywords) -> str:
     keyword_items = []
 
     for keyword in keywords[:MAX_KEYWORDS_PER_ITEM]:
+        # Keywords are in "Category: Value" format
+        # Style them nicely with the category bold
+        if ":" in keyword:
+            category, value = keyword.split(":", 1)
+            formatted = f"<strong>{category.strip()}:</strong> {_safe(value.strip())}"
+        else:
+            formatted = _safe(keyword)
+        
         keyword_items.append(
             f"""
             <li style="
-                margin-bottom:6px;
+                margin-bottom:8px;
                 color:#333333;
                 font-size:14px;
-                line-height:1.5;
+                line-height:1.6;
             ">
-                {_safe(keyword)}
+                {formatted}
             </li>
             """
         )
 
     return f"""
     <div style="
-        margin-top:14px;
-        padding:12px 14px;
-        background:#f7f7f7;
-        border-left:4px solid #555555;
+        margin-top:16px;
+        padding:14px 16px;
+        background:#f0f5fa;
+        border-left:4px solid #1565c0;
         border-radius:4px;
     ">
         <div style="
             font-weight:700;
             font-size:13px;
-            letter-spacing:0.4px;
-            margin-bottom:7px;
-            color:#333333;
+            letter-spacing:0.5px;
+            margin-bottom:10px;
+            color:#0d47a1;
         ">
-            📌 SSC KEYWORDS
+            📌 SSC EXAM KEYWORDS
         </div>
 
         <ul style="

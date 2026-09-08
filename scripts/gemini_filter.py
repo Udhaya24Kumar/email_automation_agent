@@ -122,6 +122,48 @@ ONLY scores 3, 4 and 5 should ultimately be included.
 
 For Hindi content, translate into clear English without adding facts.
 
+KEYWORDS FORMAT (CRITICAL):
+
+Keywords MUST be in "Category: Value" format, not plain text.
+
+Examples:
+
+Economics article:
+- Organisation: RBI / Ministry of Finance
+- Action: Interest rate increase / Policy announcement
+- Figure: 5.5% / ₹100 crore
+- Impact: Inflation control / GDP growth
+
+Defence article:
+- Organisation: IAF / Ministry of Defence
+- Equipment: Su-30 MKI / PSLV / BrahMos missile
+- Partner: Russia / France
+- Objective: Military strength / Regional stability
+
+Environment article:
+- Issue: Climate change / Deforestation
+- Location: Amazon / Western Ghats / Himalayan region
+- Figure: 10,000 sq km / 2°C warming
+- Programme: Forest protection / Carbon neutrality
+
+Science/Tech article:
+- Organisation: ISRO / IIT / CNES
+- Mission: Chandrayaan / Aditya L1 / Mars Orbiter
+- Technology: Rocket launch / AI research
+- Achievement: Record / Breakthrough
+
+Government article:
+- Scheme: AYUSHMAN BHARAT / PM-KISAN
+- Ministry: Health / Agriculture / Commerce
+- Beneficiary: Citizens / Farmers / Students
+- Allocation: ₹5000 crore / 100 million people
+
+Sports article:
+- Tournament: AFC U20 Asian Cup / Olympics
+- Achievement: Qualification / Gold medal
+- Athlete: Name of player / Team name
+- Record: 20-year wait / First time
+
 Return ONLY a JSON array.
 
 IMPORTANT: Return ONLY articles that have SSC importance 4 or 5.
@@ -136,59 +178,67 @@ def _extract_ssc_keywords(title: str, excerpt: str) -> list[str]:
     """
     Extract SSC-exam-focused keywords from title and excerpt.
     
+    Returns structured keywords in "Category: Value" format.
+    
     Looks for:
-    - Proper nouns (organisations, places, people names)
-    - Key numbers/percentages
-    - Important schemes/programmes
-    - Government bodies
-    - Acronyms
+    - Organisations (ISRO, RBI, Ministry names, etc.)
+    - Schemes/Programmes (AYUSHMAN, PM-KISAN, etc.)
+    - Locations (specific places, regions)
+    - Key figures/numbers (percentages, monetary values)
+    - Achievements/Events
     """
     text = (title or "") + " " + (excerpt or "")
-    
-    # Common words to skip
-    skip_words = {
-        "the", "a", "an", "and", "or", "but", "is", "was", "are",
-        "be", "been", "have", "has", "had", "do", "does", "did",
-        "will", "would", "could", "should", "may", "might", "must",
-        "can", "of", "to", "in", "on", "at", "by", "for", "with",
-        "from", "as", "said", "says", "told", "new", "old", "more",
-        "india", "indian", "country", "year", "time", "news", "report",
-    }
     
     keywords = []
     seen = set()
     
-    # Pattern 1: Capitalized words (proper nouns)
-    words = re.findall(r'\b[A-Z][a-z]+(?:\s+[A-Z][a-z]+)*\b', text)
-    for word in words:
-        if word.lower() not in skip_words and len(word) > 2:
-            if word.lower() not in seen:
-                keywords.append(word)
-                seen.add(word.lower())
-    
-    # Pattern 2: ALL CAPS (acronyms like SEBI, RBI, ISRO)
+    # Pattern 1: Extract acronyms (likely organisations: ISRO, RBI, IAF, etc.)
     acronyms = re.findall(r'\b[A-Z]{2,}\b', text)
-    for acronym in acronyms:
-        if acronym.lower() not in skip_words and len(acronym) >= 2:
-            if acronym not in seen:
-                keywords.append(acronym)
-                seen.add(acronym.lower())
+    org_acronyms = [a for a in acronyms if len(a) >= 2 and a not in seen]
+    if org_acronyms:
+        for acr in org_acronyms[:2]:  # Take top 2
+            keywords.append(f"Organisation: {acr}")
+            seen.add(acr)
     
-    # Pattern 3: Numbers with % (percentages, rates)
+    # Pattern 2: Extract capitalized multi-word phrases (schemes, missions, locations)
+    phrases = re.findall(r'\b(?:[A-Z][a-z]+\s+){1,3}[A-Z][a-z]+\b', text)
+    phrases = list(dict.fromkeys(phrases))  # Deduplicate
+    for phrase in phrases[:2]:  # Take top 2
+        if phrase.lower() not in seen:
+            # Categorize based on common keywords
+            if any(w in phrase.lower() for w in ['scheme', 'mission', 'plan', 'program', 'initiative']):
+                keywords.append(f"Scheme: {phrase}")
+            elif any(w in phrase.lower() for w in ['ministry', 'department', 'institute', 'board', 'authority']):
+                keywords.append(f"Organisation: {phrase}")
+            else:
+                keywords.append(f"Event: {phrase}")
+            seen.add(phrase.lower())
+    
+    # Pattern 3: Extract numbers with units (percentages, figures, amounts)
     percentages = re.findall(r'[\d.]+\s*%', text)
-    for pct in percentages:
-        if pct not in seen:
-            keywords.append(pct.strip())
-            seen.add(pct.lower())
+    if percentages:
+        keywords.append(f"Figure: {percentages[0].strip()}")
     
-    # Pattern 4: Numbers with currency/units
-    numbers = re.findall(r'₹[\d,.]+ (?:crore|lakh|billion|million|trillion)?', text, re.IGNORECASE)
-    for num in numbers:
-        if num not in seen:
-            keywords.append(num.strip())
-            seen.add(num.lower())
+    amounts = re.findall(r'₹[\d,.]+ (?:crore|lakh|billion|million|trillion)?', text, re.IGNORECASE)
+    if amounts:
+        keywords.append(f"Amount: {amounts[0].strip()}")
     
-    return list(keywords)[:6]  # Cap at 6 keywords
+    # Pattern 4: Extract specific locations mentioned
+    location_patterns = [
+        r'\b[A-Z][a-z]+ Pradesh\b',
+        r'\b[A-Z][a-z]+ Valley\b',
+        r'\b[A-Z][a-z]+ Ocean\b',
+        r'\b[A-Z][a-z]+ Sea\b',
+        r'\b[A-Z][a-z]+ River\b',
+        r'\b[A-Z][a-z]+ Mountains\b',
+    ]
+    for pattern in location_patterns:
+        locations = re.findall(pattern, text)
+        if locations:
+            keywords.append(f"Location: {locations[0]}")
+            break
+    
+    return keywords[:6]  # Cap at 6 keywords
 
 
 def _extract_json(text: str):
@@ -407,7 +457,7 @@ def enrich_items(items):
                 f"{len(batch)} article(s)"
             )
 
-            try:  # PER-BATCH error handling (NEW)
+            try:
                 prompt = _build_batch_prompt(
                     batch,
                     start,
@@ -468,7 +518,7 @@ def enrich_items(items):
                         )
                     )
 
-            except Exception as batch_exc:  # CATCH batch error only
+            except Exception as batch_exc:
                 print(
                     f"Gemini batch {batch_number} failed: {batch_exc}. "
                     f"Falling back for this batch only."
@@ -505,6 +555,7 @@ def enrich_items(items):
         )
 
         return _fallback(items)
+
 
 def filter_low_relevance(items):
     """
