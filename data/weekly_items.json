@@ -1,1301 +1,148 @@
 {
   "items": [
     {
-<<<<<<< Updated upstream
-      "title": "Japan Reinforces Male-Only Imperial Succession Rules",
-      "summary": "Japan Reinforces Male-Only Imperial Succession Rules",
+      "title": "ISRO and CNES to Launch Joint Indo-French TRISHNA Mission via PSLV",
+      "summary": "ISRO and the French National Space Agency (CNES) are collaborating on the TRISHNA mission. The joint space mission is scheduled for launch next year onboard ISRO's Polar Satellite Launch Vehicle (PSLV).",
       "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/japan-reinforces-male-only-imperial-succession-rules/",
-      "importance": 3,
-      "date_added": "2026-09-06"
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/we-have-complete-trust-in-our-indian-partners-frenchnational-space-agency/article71440261.ece",
+      "importance": 5,
+      "date_added": "2026-09-08"
     },
     {
-      "title": "Government Appoints Eight New High Court Chief Justices",
-      "summary": "Government Appoints Eight New High Court Chief Justices",
-      "category": "national",
+      "title": "5th Swachh Vayu Sarvekshan Awards Conferred",
+      "summary": "The 5th Swachh Vayu Sarvekshan Awards have been officially conferred.",
+      "category": "environment",
       "source": "gktoday",
-      "url": "https://www.gktoday.in/government-appoints-eight-new-high-court-chief-justices/",
-      "importance": 3,
-      "date_added": "2026-09-06"
+      "url": "https://www.gktoday.in/5th-swachh-vayu-sarvekshan-awards-conferred/",
+      "importance": 5,
+      "date_added": "2026-09-08"
     },
     {
-      "title": "Sanjay K. Agrawal Appointed Rajasthan High Court Chief Justice",
-      "summary": "Sanjay K. Agrawal Appointed Rajasthan High Court Chief Justice",
+      "title": "New UN Map Shows Aksai Chin and Arunachal Pradesh with Unspecified Claim Lines",
+      "summary": "A new map released by the United Nations depicts Arunachal Pradesh and Aksai Chin between Indian and Chinese claim lines. It depicts the eastern border of Aksai Chin as the 'Indian Line' and includes a 'Chinese line' between Ladakh and Aksai Chin.",
       "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/sanjay-k-agrawal-appointed-rajasthan-high-court-chief-justice/",
-      "importance": 3,
-      "date_added": "2026-09-06"
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/new-un-map-depicts-arunachal-pradesh-and-aksai-chin-as-territories-caught-between-indian-line-and-chinese-line/article71437431.ece",
+      "importance": 4,
+      "date_added": "2026-09-08"
     },
     {
-      "title": "India’s Direct Tax Buoyancy Stays Above 1 for Third Year",
-      "summary": "India’s Direct Tax Buoyancy Stays Above 1 for Third Year",
+      "title": "2,000-Year-Old Megalithic Burial Chamber Discovered in Kasaragod, Kerala",
+      "summary": "A 2,000-year-old Megalithic burial chamber indicating ancient human settlement was discovered at Nittadukkam in Kasaragod district, Kerala. Historians noted that local beliefs surrounding the site helped preserve one of the region's oldest surviving historical monuments.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/megalithic-burial-chamber-discovered-at-kanhangad-in-keralam-throwing-light-into-2000-year-old-human-settlement/article71438361.ece",
+      "importance": 4,
+      "date_added": "2026-09-08"
+    },
+    {
+      "title": "India-Iran Bilateral Talks Focus on Chabahar Port Ahead of BRICS Summit",
+      "summary": "Iran's Foreign Ministry reaffirmed its civilisational ties with India, highlighting Chabahar Port as a major topic of bilateral consultations between the two countries ahead of the BRICS summit.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/iran-values-long-standing-civilisational-ties-with-india-foreign-ministry/article71441080.ece",
+      "importance": 4,
+      "date_added": "2026-09-08"
+    },
+    {
+      "title": "U.K. Recognises India's Carbon Credit Scheme Under Carbon Tax Mechanism",
+      "summary": "The United Kingdom has recognised India's carbon credit scheme under its carbon tax mechanism. This recognition enables U.K. importers of eligible Indian goods covered under CBAM to seek carbon price relief.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/uk-recognises-indias-carbon-credit-scheme-under-its-carbon-tax-mechanism-official/article71440204.ece",
+      "importance": 4,
+      "date_added": "2026-09-08"
+    },
+    {
+      "title": "Justice Sanjay Kumar Agrawal Sworn In as Chief Justice of Rajasthan High Court",
+      "summary": "Justice Sanjay Kumar Agrawal has taken oath as the Chief Justice of the Rajasthan High Court. He assumes office following the tenure of Justice Sanjeev Prakash Sharma, who served as Acting Chief Justice.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/rajasthan/sanjay-kumar-agrawal-sworn-in-as-rajasthan-hc-chief-justice/article71439110.ece",
+      "importance": 4,
+      "date_added": "2026-09-08"
+    },
+    {
+      "title": "FATF Warns of 'Digital Hawala' Aiding Money Laundering and Terror Financing",
+      "summary": "A report by the Financial Action Task Force (FATF) highlights that the fusion of virtual assets with traditional hawala systems is driving money laundering and terror financing. The global watchdog stated that nearly 70% of surveyed jurisdictions reported the integration of new technologies into these networks.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/rise-of-digital-hawala-aiding-money-laundering-terror-financing-global-watchdog-says/article71439339.ece",
+      "importance": 4,
+      "date_added": "2026-09-08"
+    },
+    {
+      "title": "Government Reduces Rural LPG Cylinder Booking Interval to 25 Days",
+      "summary": "The government has reduced the minimum booking interval for LPG cylinders for rural consumers from 45 days to 25 days. This decision brings the booking timeline for rural consumers on par with urban consumers.",
       "category": "economy",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/indias-direct-tax-buoyancy-stays-above-1-for-third-year/",
-      "importance": 3,
-      "date_added": "2026-09-06"
-    },
-    {
-      "title": "How three Keralam nuns stitched together clothing venture ‘Stand By Me’ in a struggle for survival after standing up against the Church",
-      "summary": "The three nuns at St. Francis Mission Home at Kuravilangad in Kottayam seek to carve out a life of their own after years of isolation and hardship following their stand in the Bishop Franco Mulakkal case",
-      "category": "national",
       "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/how-three-keralam-nuns-have-launched-clothing-venture-stand-by-me-in-a-struggle-for-survival/article71431372.ece",
-      "importance": 3,
-      "date_added": "2026-09-06"
+      "url": "https://www.thehindu.com/news/national/oil-ministry-lpg-booking-interval-rural-urban-areas-suresh-gopi/article71438250.ece",
+      "importance": 4,
+      "date_added": "2026-09-08"
     },
     {
-      "title": "Mappilappattu singer Nisar Wayanad passes away in Dubai",
-      "summary": "According to reports, Nisar, 44, had been undergoing treatment for fever at a private hospital in Dubai",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/mappilappattu-singer-nisar-wayanad-passes-away-in-dubai/article71434512.ece",
-      "importance": 3,
-      "date_added": "2026-09-06"
-    },
-    {
-      "title": "Govt must listen to Maharashtra students’ voice otherwise ‘Chhatron ki Goonj’ will grow louder: Rahul",
-      "summary": "Mr. Gandhi said whether it's the Central or State government, every student is \"tormented\" by the BJP regime",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/govt-must-listen-to-maharashtra-students-voice-otherwise-chhatron-ki-goonj-will-grow-louder-rahul/article71434526.ece",
-      "importance": 3,
-      "date_added": "2026-09-06"
-    },
-    {
-      "title": "Farakka rail restoration nears completion; North Bengal train services may resume soon",
-      "summary": "Trial run conducted on restored down line as railway authorities inspect tracks for safety",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/west-bengal/farakka-rail-restoration-nears-completion-north-bengaltrain-servicesmayresume-soon/article71432010.ece",
-      "importance": 3,
-      "date_added": "2026-09-06"
-    },
-    {
-      "title": "News in Frames | Where the mountains narrate stories",
-      "summary": "Suru Valley preserves a rich cultural heritage shaped by Purgi traditions, Islamic and Buddhist influences; the Suru Summer Festival recently showcased this legacy as the administration promotes Kargil as a sustainable tourism destination",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/news-in-frames-where-the-mountainsnarrate-stories/article71434468.ece",
-      "importance": 3,
-      "date_added": "2026-09-06"
-    },
-    {
-      "title": "Flyover to cut down travel time by 30 minutes",
-      "summary": "With the main viaduct 2.53 kilometres long and 16.61 metres wide with four lanes, the structure takes off from Nalgonda Crossroads, flies over the Chanchalguda, Saidabad and IS Sadan junctions, to land at Champapet",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/telangana/flyover-to-cut-down-travel-time-by-30-minutes/article71423552.ece",
-      "importance": 3,
-      "date_added": "2026-09-06"
-    },
-    {
-      "title": "Teachers’ Day 2026: A deep dive into the education ecosystem",
-      "summary": "As we celebrate Teachers’ Day 2026, here are some of the best articles that celebrate the OG influencers",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/education/teachers-day-2026-a-deep-dive-into-the-education-ecosystem/article71431339.ece",
-      "importance": 3,
-      "date_added": "2026-09-06"
-    },
-    {
-      "title": "Kanthapuram A.P. Aboobacker | Power beyond the pulpit",
-      "summary": "The Muslim cleric and scholar based in Keralam has faced criticism over his recent comments that women should remain at home rather than occupy public spaces",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/kanthapuram-ap-aboobacker-power-beyond-the-pulpit/article71433157.ece",
-      "importance": 3,
-      "date_added": "2026-09-06"
-    },
-    {
-      "title": "Eight High Court judges appointed as Chief Justices",
-      "summary": "Chief Justice of the Rajasthan High Court’s appointment comes amid a recent controversy involving Acting Chief Justice in the HC",
-      "category": "awards",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/eight-high-court-judges-appointed-as-chief-justices/article71433268.ece",
-      "importance": 3,
-      "date_added": "2026-09-06"
-    },
-    {
-      "title": "Javelin | An icon of modern warfare",
-      "summary": "The anti-tank system India is planning to acquire is a mainstay brigade combat team weapon for the U.S. Army and Marine Corps",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/javelin-an-icon-of-modern-warfare/article71433164.ece",
-      "importance": 3,
-      "date_added": "2026-09-06"
-    },
-    {
-      "title": "BJP MP Dinesh Sharma appointed Lt Governor of Andaman and Nicobar Islands",
-      "summary": "Mr. Sharma will succeed Admiral D K Joshi (retd), who took over as lieutenant governor of the Andaman and Nicobar Islands on October 8, 2017.",
-      "category": "awards",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/andaman-and-nicobar-islands/bjp-mp-dinesh-sharma-appointed-lt-governor-of-andaman-and-nicobar-islands/article71433503.ece",
-      "importance": 3,
-      "date_added": "2026-09-06"
-    },
-    {
-      "title": "Sudivya Kumar, JMM senior leader and Jharkhand Minister, dies at 56",
-      "summary": "The JMM expressed shock and grief over the minister's death, describing his demise as an “irreparable loss” to the party, the government and Jharkhand",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/jharkhand/sudivya-kumar-jmm-senior-leader-and-jharkhand-minister-dies-at-56/article71434454.ece",
-      "importance": 3,
-      "date_added": "2026-09-06"
-    },
-    {
-      "title": "The feminist organiser and her everyday rebellions",
-      "summary": "Gloria Steinem, 92, who gave feminism a good name and an image that debunked the stereotype, died in her New York home; through her life, she had a strong connection with India",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/gloria-steinem-death-feminist-organiser-indian-connection/article71425460.ece",
-      "importance": 3,
-      "date_added": "2026-09-06"
-    },
-    {
-      "title": "China to proceed with Brahmaputra mega dam despite new concerns",
-      "summary": "Dubbed the ‘project of the century’ by Beijing, it has been included in China’s 15th Five-Year Plan for renewable energy; of concern to India is the impact it could have downstream, particularly in the aftermath of the recent devastating flash flood along the Nepal-China border",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/china-to-proceed-with-brahmaputra-mega-dam-despite-new-concerns/article71432282.ece",
-      "importance": 3,
-      "date_added": "2026-09-06"
-    },
-    {
-      "title": "In Congress organisational reshuffle, Sachin Pilot gets poll-bound Punjab, Surjewala for Gujarat, Baghel moved to Assam",
-      "summary": "Ahead of crucial Assembly elections, the change in Punjab is most significant as it comes amid intense factionalism between the camps of former CM Charanjit Singh Channi and PC chief Amrinder Singh Raja Warring; Sukhdeo Bhagat made AICC in-charge of Chhattisgarh, Sirivella Prasad of Maharashtra, P.V. Mohan in-charge of Andhra Pradesh",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/congress-replaces-bhupesh-baghel-with-sachin-pilot-as-punjab-general-secretary/article71432855.ece",
-      "importance": 3,
-      "date_added": "2026-09-06"
-    },
-    {
-      "title": "Madanapalle weavers fight to keep their heritage alive amid economic hardship, fading tradition",
-      "summary": "For generations, weaving has been a way of life for this town that is celebrated as a handloom and silk saree hub. But, declining returns, health concerns, fewer younger people willing to pursue this craft, and competition from power looms are making it difficult for the traditional weaving community to keep the craft alive and earn their livelihood",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/madanapalle-weavers-fight-to-keep-their-heritage-alive-amid-economic-hardship-fading-tradition/article71427094.ece",
-      "importance": 3,
-      "date_added": "2026-09-06"
-    },
-    {
-      "title": "Voter lists shrink by more than 15% since 2024 in States where SIR phase-3 draft lists are out",
-      "summary": "Maharashtra records the largest drop in absolute numbers, losing 15,896,198 electors or 17.08% in the draft phase, while Delhi and Chandigarh register the sharpest dips in percentage at 35.89% and 31.84% respectively",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/voter-lists-shrink-by-more-than-15-since-2024-in-states-where-sir-phase-3-draft-lists-are-out/article71432179.ece",
-      "importance": 3,
-      "date_added": "2026-09-06"
-    },
-    {
-      "title": "Congress will launch 100-day OBC rights campaign: Koppula Raju",
-      "summary": "Koppula Raju said the slogan raised by Congress leader Rahul Gandhi during his Bharat Jodo Yatra had evolved into a movement and that Telangana had emerged as a “role model” in conducting a scientific caste survey under Chief Minister A. Revanth Reddy.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/telangana/congress-will-launch-100-day-obc-rights-campaign-koppula-raju/article71432981.ece",
-      "importance": 3,
-      "date_added": "2026-09-06"
-    },
-    {
-      "title": "Bengal CM calls for reducing screen time for students; says mobile phones should be restricted in schools",
-      "summary": "Chief Minister Suvendu Adhikari announced that two ‘CM Shri’ schools, modelled after PM Shri schools, will be opened in each district",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/west-bengal/bengal-cm-calls-for-reducing-screen-time-for-students-says-mobile-phones-should-be-restricted-in-schools/article71432576.ece",
-      "importance": 3,
-      "date_added": "2026-09-06"
-    },
-    {
-      "title": "Bihar govt. restricts CBI power; State nod mandatory to probe against its employees",
-      "summary": "However, the notification issued by the Bihar Home Department on September 3, 2026, clearly stated that the CBI will not require permission from the State government to take action against Central Government employees",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/bihar/bihar-govt-restricts-cbi-power-state-nod-mandatory-to-probe-against-its-employees/article71431967.ece",
-      "importance": 3,
-      "date_added": "2026-09-06"
-    },
-    {
-      "title": "VTU asks principals of engineering colleges to dedicate time slots for student interaction and grievance redressal",
-      "summary": "The colleges have been asked to maintain a grievance log book. In the log book, the principal must record the date, brief nature of the grievance/query, and the action taken or resolution provided, wherever applicable.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/vtu-asks-principals-of-engineering-colleges-to-dedicate-time-slots-for-student-interaction-and-grievance-redressal/article71432794.ece",
-      "importance": 3,
-      "date_added": "2026-09-06"
-    },
-    {
-      "title": "Spotlight on illegal coal trade in Meghalaya after truck accident",
-      "summary": "A High Court-constituted panel has sought a detailed inquiry into whether the coal transported in the truck was legally auctioned or illegally mined",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/meghalaya/spotlight-on-illegal-coal-trade-in-meghalaya-after-truck-accident/article71432293.ece",
-      "importance": 3,
-      "date_added": "2026-09-06"
-    },
-    {
-      "title": "MLA seeks steps to address water shortage in Chittoor, Vaduthala areas",
-      "summary": "Drinking water supply in Chittoor and Vaduthala areas has been significantly disrupted for nearly a month, causing immense difficulty to residents.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/mla-seeks-steps-to-address-water-shortage-in-chittoor-vaduthala-areas/article71433057.ece",
-      "importance": 3,
-      "date_added": "2026-09-06"
-    },
-    {
-      "title": "Manipur tribe body seeks ‘impartial’ NIA probe in killing of three church leaders",
-      "summary": "The Thadou Inpi Manipur resents the sloth in the probe and says the lack of publicly known arrests has raised concerns about the transparency and credibility of the investigation",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/manipur/manipur-tribe-body-seeks-impartial-nia-probe-in-killing-of-three-church-leaders/article71432079.ece",
-      "importance": 3,
-      "date_added": "2026-09-06"
-    },
-    {
-      "title": "Traffic curbs in Kochi in view of police marathon",
-      "summary": "Curbs will be imposed on the stretch of NH 544 between SCMS, Kalamassery, and JLN Stadium, Kaloor; Aluva-Ernakulam PWD Road, and the premises of the stadium between 3 p.m. and 7 p.m.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/traffic-curbs-in-kochi-in-view-of-police-marathon/article71433014.ece",
-      "importance": 3,
-      "date_added": "2026-09-06"
-    },
-    {
-      "title": "342 complete training at OTA; commissioned as officers in Indian Army",
-      "summary": "17 from seven friendly foreign countries also complete training",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/342-complete-training-at-ota-commissioned-as-officers-in-indian-army/article71431381.ece",
-      "importance": 3,
-      "date_added": "2026-09-06"
-    },
-    {
-      "title": "India Eyes Nuclear Power in Andaman Islands",
-      "summary": "India Eyes Nuclear Power in Andaman Islands",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/india-eyes-nuclear-power-in-andaman-islands/",
-      "importance": 3,
-      "date_added": "2026-09-07"
-    },
-    {
-      "title": "16th National Meet of Biodiversity Boards Held in Chandigarh",
-      "summary": "16th National Meet of Biodiversity Boards Held in Chandigarh",
+      "title": "Supreme Court Sets November 30 Deadline for Aravalli Committee Report",
+      "summary": "The Supreme Court refused to grant an extension to the high-powered committee on the Aravalli hills, fixing November 30 as the final deadline for its report. The panel is tasked with creating a uniform definition for the Aravalli range and recommending mining regulations.",
       "category": "environment",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/16th-national-meet-of-biodiversity-boards-held-in-chandigarh/",
-      "importance": 3,
-      "date_added": "2026-09-07"
-    },
-    {
-      "title": "IAF Sarang Team Reaches Egypt for El Alamein Airshow",
-      "summary": "IAF Sarang Team Reaches Egypt for El Alamein Airshow",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/iaf-sarang-team-reaches-egypt-for-el-alamein-airshow/",
-      "importance": 3,
-      "date_added": "2026-09-07"
-    },
-    {
-      "title": "India to Modify Su-30 MKI for RVV-BD Missiles",
-      "summary": "India to Modify Su-30 MKI for RVV-BD Missiles",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/india-to-modify-su-30-mki-for-rvv-bd-missiles/",
-      "importance": 3,
-      "date_added": "2026-09-07"
-    },
-    {
-      "title": "India Qualifies for AFC U20 Asian Cup After 20 Years",
-      "summary": "India Qualifies for AFC U20 Asian Cup After 20 Years",
-      "category": "sports",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/india-qualifies-for-afc-u20-asian-cup-after-20-years/",
-      "importance": 3,
-      "date_added": "2026-09-07"
-    },
-    {
-      "title": "National Workshop on Vulture Conservation Held in Panchkula",
-      "summary": "National Workshop on Vulture Conservation Held in Panchkula",
-      "category": "environment",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/national-workshop-on-vulture-conservation-held-in-panchkula/",
-      "importance": 3,
-      "date_added": "2026-09-07"
-    },
-    {
-      "title": "Vice President Launches India Valve Registry in Chennai",
-      "summary": "Vice President Launches India Valve Registry in Chennai",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/vice-president-launches-india-valve-registry-in-chennai/",
-      "importance": 3,
-      "date_added": "2026-09-07"
-    },
-    {
-      "title": "National Biodiversity Authority Crosses ₹200-Crore ABS Milestone",
-      "summary": "National Biodiversity Authority Crosses ₹200-Crore ABS Milestone",
-      "category": "environment",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/national-biodiversity-authority-crosses-%e2%82%b9200-crore-abs-milestone/",
-      "importance": 3,
-      "date_added": "2026-09-07"
-    },
-    {
-      "title": "Indore Metro Priority Corridor-2 Inaugurated",
-      "summary": "Indore Metro Priority Corridor-2 Inaugurated",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/indore-metro-priority-corridor-2-inaugurated/",
-      "importance": 3,
-      "date_added": "2026-09-07"
-    },
-    {
-      "title": "India Develops Small Machine for Fusion Research",
-      "summary": "India Develops Small Machine for Fusion Research",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/india-develops-small-machine-for-fusion-research/",
-      "importance": 3,
-      "date_added": "2026-09-07"
-    },
-    {
-      "title": "India, China hold first Corps Commander meeting in Arunachal",
-      "summary": "Talks take place a few days before the BRICS Summit, which Xi Jinping is expected to attend, and amid reports of tension in the Taksing area of Arunachal Pradesh; the meeting indicates an expansion of the military dialogue mechanism",
-      "category": "national",
       "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/india-china-hold-first-corps-commander-meeting-in-arunachal/article71435390.ece",
-      "importance": 3,
-      "date_added": "2026-09-07"
-    },
-    {
-      "title": "Government sells 4,000 tonnes of onion buffer stock",
-      "summary": "Government sells 4,000 tonnes of onion buffer stock",
-      "category": "economy",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/government-sells-4000-tonnes-of-onion-buffer-stock/",
-      "importance": 3,
-      "date_added": "2026-09-07"
-    },
-    {
-      "title": "Google Launches India-First Agricultural AI Models",
-      "summary": "Google Launches India-First Agricultural AI Models",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/google-launches-india-first-agricultural-ai-models/",
-      "importance": 3,
-      "date_added": "2026-09-07"
-    },
-    {
-      "title": "Jharkhand CID arrests one accused in JSSC-CGL exam irregularities case; 10 held so far",
-      "summary": "The Jharkhand government had earlier announced the cancellation of a host of recruitment tests, including the JSSC-CGL-2023 conducted on September 21 and 22, 2024, following protests",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-cid-arrests-one-accused-in-jssc-cgl-exam-irregularities-case-10-held-so-far/article71437496.ece",
-      "importance": 3,
-      "date_added": "2026-09-07"
-    },
-    {
-      "title": "Award-winning Keralam filmmaker R. Sarath passes away",
-      "summary": "He is known for his contemplative cinema that expressed environmental concerns",
-      "category": "awards",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/award-winning-keralam-filmmaker-r-sarath-passes-away/article71437514.ece",
-      "importance": 3,
-      "date_added": "2026-09-07"
-    },
-    {
-      "title": "Youth killed in accident involving Tamil Nadu Minister Jagadeshwari’s car near Chennai",
-      "summary": "She was travelling in a government vehicle, followed by an escort vehicle and her personal car; the Minister’s personal car allegedly hit the two-wheeler, killing the youth on the spot; the police arrested driver Chinna Agni of Madurai",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/youth-killed-in-accident-involving-tamil-nadu-minister-jagadeshwaris-car-near-chennai/article71437382.ece",
-      "importance": 3,
-      "date_added": "2026-09-07"
-    },
-    {
-      "title": "The Bhotekoshi flood | A Himalayan tragedy",
-      "summary": "Scientists investigate how a high-altitude rock-and-ice avalanche may have triggered one of Nepal’s most devastating floods; while experts have not directly attributed this event to climate change, they note that rising temperatures are warming the Himalayas and accelerating glacier melt",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/the-bhotekoshi-flood-a-himalayan-tragedy/article71405842.ece",
-      "importance": 3,
-      "date_added": "2026-09-07"
-    },
-    {
-      "title": "Keralam gym trainer arrested for allegedly drugging and sexually assaulting minor",
-      "summary": "A special squad took the accused into custody at Atholi on Sunday and recorded his arrest under sections of POCSO Act",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/keralam-gym-trainer-arrested-for-allegedly-drugging-and-sexually-assaulting-minor/article71437411.ece",
-      "importance": 3,
-      "date_added": "2026-09-07"
-    },
-    {
-      "title": "‘How can my press conference damage India-Bangladesh relations? I am not so powerful,’ says Sheikh Hasina",
-      "summary": "In an interview with The Hindu, Bangladesh’s former PM invokes the right to free speech and meeting party colleagues during her exile in India",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/opinion/interview/how-can-my-press-conference-damage-india-bangladesh-relations-i-am-not-so-powerful-says-sheikh-hasina/article71435253.ece",
-      "importance": 3,
-      "date_added": "2026-09-07"
-    },
-    {
-      "title": "Veteran Keralam cinematographer T.N. Krishnankutty dies",
-      "summary": "He worked in more than 70 films during his long career in Malayalam cinema",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/veteran-keralam-cinematographer-tn-krishnankutty-dies/article71437498.ece",
-      "importance": 3,
-      "date_added": "2026-09-07"
-    },
-    {
-      "title": "Dry spell pushes temperatures above normal at many places in Keralam",
-      "summary": "IMD issues heat alert warning of hot and humid conditions at isolated places in Keralam until September 8",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/dry-spell-pushes-temperature-around-44c-above-normal-at-many-places-in-keralam/article71437421.ece",
-      "importance": 3,
-      "date_added": "2026-09-07"
-    },
-    {
-      "title": "Google, TCS, and the physics of air-cooling a large data centre | Explained",
-      "summary": "Using air-cooling alone to cool a 1-GW data centre is considered impractical; while liquid-cooling imposes higher costs upfront, air-cooling imposes a performance and efficiency tax",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sci-tech/science/google-tcs-and-the-physics-of-air-cooling-a-large-data-centre-explained/article71434727.ece",
-      "importance": 3,
-      "date_added": "2026-09-07"
-    },
-    {
-      "title": "India, Bangladesh discuss cultural cooperation during ‘Nazrul Borsho’",
-      "summary": "Indian High Commissioner Dinesh Trivedi met Bangladesh's Cultural Affairs Minister Nitai Roy Chowdhury on September 6, during which they discussed the \"deep-rooted cultural connection\" between the peoples of the two countries",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/india-bangladesh-discuss-cultural-cooperation-during-nazrul-borsho/article71437423.ece",
-      "importance": 3,
-      "date_added": "2026-09-07"
-    },
-    {
-      "title": "Kochi Metro’s Pink Line stations to showcase Keralam’s cultural heritage",
-      "summary": "Each of the 11 stations on the Kakkanad extension will feature a distinct theme rooted in the State’s art and traditions. Themes range from cartoons and handloom to Kathakali, Kalaripayattu and Theyyam.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/cities/Kochi/kochi-metros-pink-line-stations-to-showcase-keralams-cultural-heritage/article71435051.ece",
-      "importance": 3,
-      "date_added": "2026-09-07"
-    },
-    {
-      "title": "Women’s Promo run attracts participants in large numbers in Vijayapura",
-      "summary": "It was organised as a run-up to the Vrikshathon Heritage Run scheduled for December 13",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/womens-promo-run-attracts-a-large-number-of-girls-women/article71435195.ece",
-      "importance": 3,
-      "date_added": "2026-09-07"
-    },
-    {
-      "title": "Tirupati MLA urges public to install eco-friendly Ganesh idols",
-      "summary": "Mr. Srinivasulu asked the organisers to ensure that the setup and management of the pandals reflect a spirit of devotion",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/tirupati-mla-urges-public-to-install-eco-friendly-ganesh-idols/article71435998.ece",
-      "importance": 3,
-      "date_added": "2026-09-07"
-    },
-    {
-      "title": "The burning question of child safety in Amravati’s government maternity hospital",
-      "summary": "Three newborn babies died and 36 were rescued after an explosion at Amravati’s government maternity hospital, a key healthcare facility serving the district and surrounding areas, including women with critical pregnancies. Snehal Mutha speaks to survivors, rescuers and hospital staff, who flag lapses in fire safety audits",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/maharashtra/theburningquestionof-childsafetyin-amravatis-government-maternity-hospital/article71421175.ece",
-      "importance": 3,
-      "date_added": "2026-09-07"
-    },
-    {
-      "title": "Punjab govt. objects to appointment of Ashwani Kumar Mishra as HC chief justice, asks Centre to stop oath ceremony",
-      "summary": "An official statement after the meeting of the State cabinet said it had resolved that the appointment and administration of oath should be put on hold until Punjab's views are obtained and duly considered.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/punjab/punjab-govt-objects-to-appointment-of-ashwani-kumar-mishra-as-hc-chief-justice-asks-centre-to-stop-oath-ceremony/article71437250.ece",
-      "importance": 3,
-      "date_added": "2026-09-07"
-    },
-    {
-      "title": "Delhi building collapse updates: At least five dead; FIR registered against alleged owner",
-      "summary": "Locals said the building, which comprises a basement plus five more floors, is at least 50 years old; 11 people were rescued, police said",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/cities/Delhi/delhi-satya-niketan-building-collapse-south-west-delhi-rescue-work-death-toll-september-3-2026/article71435076.ece",
-      "importance": 3,
-      "date_added": "2026-09-07"
-    },
-    {
-      "title": "Maharashtra Ministers call for DJ-free festivals citing health hazards",
-      "summary": "The demand for a festival free of DJs and high-powered loudspeakers has been gaining momentum in the State, with Pune-based activist Vidyanad Bapat emerging as one of the prominent voices opposing the use of high-decibel sound systems that cause noise pollution during festivities.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-ministers-call-for-dj-free-festivals-citing-health-hazards/article71435983.ece",
-      "importance": 3,
-      "date_added": "2026-09-07"
-=======
-      "title": "Argentina Escalates Falklands Dispute With UK",
-      "summary": "Argentina Escalates Falklands Dispute With UK",
-      "category": "international",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/argentina-escalates-falklands-dispute-with-uk/",
-      "importance": 3,
-      "date_added": "2026-09-04"
-    },
-    {
-      "title": "ISRO Launches GSLV-F17 with EOS-05 Satellite",
-      "summary": "ISRO Launches GSLV-F17 with EOS-05 Satellite",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/isro-launches-gslv-f17-with-eos-05-satellite/",
-      "importance": 3,
-      "date_added": "2026-09-04"
-    },
-    {
-      "title": "More than a week after Nepal’s deadliest flood disaster in years, here’s what we know so far",
-      "summary": "More than a week after catastrophic floods struck Nepal, rescue teams continue searching for the missing as authorities assess the scale of destruction. Here’s a look at what caused the disaster, the latest casualty figures, and the ongoing relief and recovery efforts.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/videos/more-than-a-week-after-nepals-deadliest-flood-disaster-in-years-heres-what-we-know-so-far/article71429685.ece",
-      "importance": 3,
-      "date_added": "2026-09-04"
-    },
-    {
-      "title": "A string of non-academic tasks take teachers away from classrooms",
-      "summary": "Non-academic tasks assigned to teachers, latest being SIR, has forced them to least engage in their primary responsibility in schools and colleges",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/a-string-of-non-academic-tasks-take-teachers-away-from-classrooms/article71428134.ece",
-      "importance": 3,
-      "date_added": "2026-09-04"
-    },
-    {
-      "title": "Climate change a common challenge, says government on Nepal Minister’s compensation demand",
-      "summary": "External Affairs Ministry spokesperson Randhir Jaiswal said developed countries responsible for emissions must “take the lead” and support developing nations through finance and technology transfer",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/climate-change-a-common-challenge-says-government-on-nepal-ministers-compensation-demand/article71429354.ece",
-      "importance": 3,
-      "date_added": "2026-09-04"
-    },
-    {
-      "title": "Kochi metro needs 17 more train rakes for Kakkanad, airport extensions",
-      "summary": "The additional rakes will be needed to maintain a train frequency of six to seven minutes on the proposed 11.20-km Pink Line to Kakkanad and the subsequent 19-km airport extension; only five to eight rakes would be sufficient for the Kakkanad corridor",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/kochi-metro-needs-17-more-train-rakes-for-kakkanad-airport-extensions/article71408085.ece",
-      "importance": 3,
-      "date_added": "2026-09-04"
-    },
-    {
-      "title": "Villagers drag, beat crocodile driven ashore by shrinking Tungabhadra in Andhra’s Kurnool",
-      "summary": "The falling river is bringing crocodiles onto the banks; DFO P. Shyamala asks people to call forest officials instead of chasing, catching or beating them",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/villagers-drag-beat-crocodile-driven-ashore-by-sinking-tungabhadra-in-andhras-kurnool/article71427457.ece",
-      "importance": 3,
-      "date_added": "2026-09-04"
-    },
-    {
-      "title": "Andhra Deputy CM Pawan Kalyan directs APPCB to study water pollution in Godavari River",
-      "summary": "The APPCB will collect water samples from the Godavari, 15 main drains and 45 minor drains for scientific analysis to document the levels and sources of pollution",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-deputy-cm-pawan-kalyan-directs-appcb-to-study-water-pollution-in-godavari-river/article71429170.ece",
-      "importance": 3,
-      "date_added": "2026-09-04"
-    },
-    {
-      "title": "Vijayawada airport new terminal likely to be ready by October, says official",
-      "summary": "The new terminal to feature multi-level operations, six aerobridges, escalators, state-of-the-art technology and upgraded passenger amenities",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/cities/Vijayawada/vijayawada-airport-new-terminal-likely-to-be-ready-by-october-says-official/article71429109.ece",
-      "importance": 3,
-      "date_added": "2026-09-04"
-    },
-    {
-      "title": "A.P. High Court Bench will be set up in Kurnool, asserts Minister",
-      "summary": "Noting that the process of setting up a High Court bench involved legal procedures and protocols, the Minister appeals to the protesting advocates not to take hasty decisions",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-high-court-bench-will-be-set-up-in-kurnool-asserts-minister/article71429064.ece",
-      "importance": 3,
-      "date_added": "2026-09-04"
-    },
-    {
-      "title": "Little Krishnas steal the show at Janmashtami celebrations",
-      "summary": "Cultural programmes, Utti beating competitions and special pujas add to teh festive fervour",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/cities/Visakhapatnam/little-krishnas-steal-the-show-at-janmashtami-celebrations/article71428377.ece",
-      "importance": 3,
-      "date_added": "2026-09-04"
-    },
-    {
-      "title": "Relief for contract staff in Health Dept. as Andhra govt. responds to demands positively",
-      "summary": "Eligible staff working in X-ray and radiology departments of teaching hospitals to get to 30 days of special leave after every 11 months of service; guidelines issued to address staff shortages",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/cities/Vijayawada/relief-for-contract-staff-in-health-dept-as-andhra-govt-responds-to-demands-positively/article71428228.ece",
-      "importance": 3,
-      "date_added": "2026-09-04"
-    },
-    {
-      "title": "Congress to expand ‘Chhatron Ki Goonj’ campaign to more than 800 cities",
-      "summary": "Leader of the Opposition in Parliament Rahul Gandhi to address 28 student interactions in the first phase of the campaign; plans to appoint coordinators to scale up the outreach",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/congress-to-expand-chhatron-ki-goonj-campaign-to-more-than-800-cities/article71429097.ece",
-      "importance": 3,
-      "date_added": "2026-09-04"
-    },
-    {
-      "title": "CPM demands daily drinking water supply in GVMC’s 22nd ward",
-      "summary": "CPM demands daily drinking water supply in GVMC’s 22nd ward",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/cpm-demands-daily-drinking-water-supply-in-gvmcs-22nd-ward/article71428277.ece",
-      "importance": 3,
-      "date_added": "2026-09-04"
-    },
-    {
-      "title": "From worksheets to videos: Teachers are using AI tools to teach and upskill students and themselves",
-      "summary": "‘AI has made most teachers’ jobs easy. I use AI to create differentiated worksheets for each student that have to be solved at the end of every chapter,’ says one teacher in the city",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/from-worksheets-to-videos-teachers-are-using-ai-tools-to-teach-and-upskill-students-and-themselves/article71428485.ece",
-      "importance": 3,
-      "date_added": "2026-09-04"
-    },
-    {
-      "title": "IIT Madras Pravartak, SWAYAM Plus to offer multi-cloud foundation and security programme online",
-      "summary": "IIT Madras Pravartak, SWAYAM Plus to offer multi-cloud foundation and security programme online",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/iit-madras-pravartak-swayam-plus-to-offer-multi-cloud-foundation-and-security-programme-online/article71425152.ece",
-      "importance": 3,
-      "date_added": "2026-09-04"
-    },
-    {
-      "title": "Captive mines, SAIL merger sought for VSP",
-      "summary": "Captive mines, SAIL merger sought for VSP",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/captive-mines-sail-merger-sought-for-vsp/article71429043.ece",
-      "importance": 3,
-      "date_added": "2026-09-04"
-    },
-    {
-      "title": "After hotels and clubs, PG kitchens come under the scanner of FSDA officials",
-      "summary": "As many as 64 PGs were inspected, and 23 PG owners were issued notices for failing to meet the food safety standards, while one PG dining area was sealed",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/after-hotels-and-clubs-pg-kitchens-come-under-the-scanner-of-fsda-officials/article71429251.ece",
-      "importance": 3,
-      "date_added": "2026-09-04"
-    },
-    {
-      "title": "NTA takes AICTE help to map facilities for setting up testing centres",
-      "summary": "AICTE has set a September 15 deadline for institutes to submit the details following a National Testing Agency directive to support the transition of national examinations to online and CBT modes",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/nta-takes-aicte-help-to-map-facilities-for-setting-up-testing-centres/article71428278.ece",
-      "importance": 3,
-      "date_added": "2026-09-04"
-    },
-    {
-      "title": "‘Reflection of people's trust’: Modi hails Meloni on becoming Italy's longest continuously serving PM",
-      "summary": "Giorgia Meloni, 49, has been Italy's Prime Minister since October 22, 2022. She is also the first woman to hold the position",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/reflection-of-peoples-trust-modi-hails-meloni-on-becoming-italys-longest-continuously-serving-pm/article71429003.ece",
-      "importance": 3,
-      "date_added": "2026-09-04"
-    },
-    {
-      "title": "CET: Third round provisional results announced, Choice 4 introduced",
-      "summary": "For the convenience of candidates who have newly been allotted seats in the third round, the authority has, for the first time, introduced a Choice-4 option.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/cet-third-round-provisional-results-announced-choice-4-introduced/article71429343.ece",
-      "importance": 3,
-      "date_added": "2026-09-04"
-    },
-    {
-      "title": "Sabarimala ‘Thiruvabharanam’ carrier Gangadharan Pillai dies at 92",
-      "summary": "Pillai had been a member of the group carrying Thiruvabharana petakam to Sabarimala Lord Ayyappa Temple since the age of 18.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/sabarimala-thiruvabharanam-carrier-gangadharan-pillai-dies-at-92/article71429479.ece",
-      "importance": 3,
-      "date_added": "2026-09-04"
-    },
-    {
-      "title": "1,000 transplants and new beginnings: Thalassemia patients get a second chance",
-      "summary": "1,000 transplants and new beginnings: Thalassemia patients get a second chance",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/1000-transplants-and-new-beginnings-thalassemia-patients-get-a-second-chance/article71428948.ece",
-      "importance": 3,
-      "date_added": "2026-09-04"
-    },
-    {
-      "title": "Congress plans organisational revamp in U.P. ahead of Assembly polls",
-      "summary": "Congress finalises new District Congress Committee presidents as it seeks to strengthen its organisation in Uttar Pradesh ahead of Assembly elections",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/congress-plans-organisational-revamp-in-up-ahead-of-assembly-polls/article71429195.ece",
-      "importance": 3,
-      "date_added": "2026-09-04"
-    },
-    {
-      "title": "KRMB panel meet fails to arrive at consensus on water-sharing",
-      "summary": "Full-fledged meeting of the river board likely in the last week this month; Telangana says AP drawing large quantities of water unilaterally",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/telangana/krmb-panel-meet-fails-to-arrive-at-consensus-on-water-sharing/article71428503.ece",
-      "importance": 3,
-      "date_added": "2026-09-04"
-    },
-    {
-      "title": "Ponguleti Srinivas Reddy blames previous BRS government for ‘Polavaram backwater threat’ to flood- prone areas in Bhadrachalam",
-      "summary": "Ponguleti Srinivas Reddy blames previous BRS government for ‘Polavaram backwater threat’ to flood- prone areas in Bhadrachalam",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/telangana/ponguleti-srinivas-reddy-blames-previous-brs-government-for-polavaram-backwater-threat-to-flood-prone-areas-in-bhadrachalam/article71428668.ece",
-      "importance": 3,
-      "date_added": "2026-09-04"
-    },
-    {
-      "title": "Venkaiah Naidu praises Cattamanchi’s contribution to Telugu literary criticism",
-      "summary": "Venkaiah Naidu praises Cattamanchi’s contribution to Telugu literary criticism",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/venkaiah-naidu-praises-cattamanchis-contribution-to-telugu-literary-criticism/article71428214.ece",
-      "importance": 3,
-      "date_added": "2026-09-04"
-    },
-    {
-      "title": "Govt. urged to expedite works of Sujala Sravanthi project",
-      "summary": "Govt. urged to expedite works of Sujala Sravanthi project",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/govt-urged-to-expedite-works-of-sujala-sravanthi-project/article71428439.ece",
-      "importance": 3,
-      "date_added": "2026-09-04"
-    },
-    {
-      "title": "Krishna Janmashtami fills Hyderabad with colour, music and midnight prayers",
-      "summary": "Temples across the city draw devotees through the day for abhishekams, bhajans, kirtans and cultural programmes, while neighbourhoods take on a festive glow",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/krishna-janmashtami-fills-hyderabad-with-colour-music-and-midnight-prayers/article71429311.ece",
-      "importance": 3,
-      "date_added": "2026-09-04"
-    },
-    {
-      "title": "Bengaluru police file zero FIR over ‘purification’ ritual Uttarakhand’s Haldwani",
-      "summary": "Bengaluru police file zero FIR over ‘purification’ ritual Uttarakhand’s Haldwani",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/cities/bangalore/bengaluru-police-file-zero-fir-over-purification-ritual-uttarakhands-haldwani/article71429197.ece",
-      "importance": 3,
-      "date_added": "2026-09-04"
-    },
-    {
-      "title": "Ahom Dynasty Capital Ensemble Added to UNESCO Tentative List",
-      "summary": "The Ahom Dynasty Capital Ensemble has been included in the UNESCO World Heritage Tentative List.",
-      "category": "international",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/ahom-dynasty-capital-ensemble-enters-unesco-tentative-list/",
-      "importance": 5,
-      "date_added": "2026-09-05"
-    },
-    {
-      "title": "India to Host BRICS Chief Justices' Forum",
-      "summary": "India is set to host the BRICS Chief Justices' Forum.",
-      "category": "international",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/india-to-host-brics-chief-justices-forum/",
-      "importance": 5,
-      "date_added": "2026-09-05"
-    },
-    {
-      "title": "President Droupadi Murmu Confers National Awards on Teachers",
-      "summary": "President Droupadi Murmu conferred National Awards on teachers, noting that education is essential for realizing equality of opportunity guaranteed by the Constitution.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/president-of-india-confers-national-awards-on-teachers/article71431816.ece",
-      "importance": 5,
-      "date_added": "2026-09-05"
-    },
-    {
-      "title": "28th Western Zonal Council Meeting Held in Panaji",
-      "summary": "Union Home and Cooperation Minister Amit Shah will chair the 28th meeting of the Western Zonal Council in Panaji, Goa.",
-      "category": "national",
-      "source": "pib",
-      "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2306927",
-      "importance": 5,
-      "date_added": "2026-09-05"
-    },
-    {
-      "title": "Telangana Government and TCS Announce ₹70,000 Crore AI Data Centre",
-      "summary": "Telangana Chief Minister Revanth Reddy and TCS have announced a ₹70,000 crore AI Data Centre to be set up in Future City. The Chief Minister set an inauguration deadline of June 2, 2028 for the project.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/telangana/revanth-and-tcs-announce-70000-crore-ai-data-centre-in-future-city-to-be-completed-by-june-2-2028/article71431767.ece",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/supreme-court-refuses-extension-for-aravalli-panel-sets-november-30-deadline-for-final-report/article71438037.ece",
       "importance": 4,
-      "date_added": "2026-09-05"
+      "date_added": "2026-09-08"
     },
     {
-      "title": "NIA Special Court Convicts 10 in 2013 Jheeram Valley Maoist Attack",
-      "summary": "An NIA Special Court convicted 10 individuals involved in the 2013 Jheeram Valley attack in Sukma district, Chhattisgarh, where Maoists targeted a convoy of political leaders.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/chhattisgarh/nia-special-court-convicts-10-accused-in-2013-jheeram-valley-massacre/article71431808.ece",
-      "importance": 4,
-      "date_added": "2026-09-05"
-    },
-    {
-      "title": "Study Findings on Ancient Martian Ocean and Valles Marineris Flood",
-      "summary": "A study published in the journal Icarus reveals that an ancient flood from Valles Marineris, the largest canyon system in the Solar System, released 1,245 trillion cubic metres of water. This flood is estimated to have raised the global mean level of Mars' ancient ocean by approximately 34 metres.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sci-tech/science/valles-marineris-flood-may-have-raised-ancient-martian-sea-level-by-34-metres/article71427793.ece",
-      "importance": 4,
-      "date_added": "2026-09-05"
-    },
-    {
-      "title": "Uttarakhand Waqf Board Proposes New Nikahnama Aligned with UCC",
-      "summary": "The Uttarakhand Waqf Board has proposed a revised nikahnama format allowing only one marriage to align with the Uniform Civil Code, which came into force in the state on January 27, 2025.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/uttarakhand/uttarakhand-waqf-board-proposes-new-nikahnama-to-align-with-ucc/article71432042.ece",
-      "importance": 4,
-      "date_added": "2026-09-05"
-    },
-    {
-      "title": "ECI Disqualifies Former MLA Under Representation of the People Act",
-      "summary": "The Election Commission of India barred former Velachery MLA Aassan Maulaana from contesting elections for three years. The decision was made after he failed to submit a true and correct account of his election expenses as required under the Representation of the People Act.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/eci-bars-former-velachery-mla-aassan-maulaana-from-contesting-elections-for-three-years/article71431382.ece",
-      "importance": 4,
-      "date_added": "2026-09-05"
-    },
-    {
-      "title": "India Votes in Favour of UNGA Resolution on New World Map",
-      "summary": "India voted in favour of a United Nations General Assembly resolution endorsing a new world map. The resolution noted concern over map distortions that minimise the perceived sizes of Africa, Latin America, and South Asia.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/india-votes-in-favour-of-unga-resolution-endorsing-new-world-map/article71431214.ece",
-      "importance": 4,
-      "date_added": "2026-09-05"
-    },
-    {
-      "title": "UNCLOS Regarded as Authoritative Law of the Sea with 172 State Parties",
-      "summary": "Magsaysay award winner Tommy Koh highlighted that 172 countries are parties to the UN Convention on the Law of the Sea (UNCLOS), which serves as the authoritative law of the sea.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/un-convention-on-the-law-of-the-sea-is-still-the-constitution-of-oceans/article71424675.ece",
-      "importance": 4,
-      "date_added": "2026-09-05"
-    },
-    {
-      "title": "Smriti Mandhana Surpasses Mithali Raj as Top Run Scorer with Record Century",
-      "summary": "Smriti Mandhana surpassed former captain Mithali Raj to become the highest run-scorer following her record-breaking 18th century against Hong Kong at the 2026 Asia Cup.",
+      "title": "Satwik-Chirag Secure 10th BWF World Tour Crown Ahead of Asian Games",
+      "summary": "Satwik-Chirag won their 10th BWF World Tour crown, providing a boost ahead of their Asian Games title defence.",
       "category": "sports",
       "source": "hindu",
-      "url": "https://www.thehindu.com/data/tracing-smriti-mandhanas-journey-to-the-top-with-a-record-18-centuries/article71431459.ece",
+      "url": "https://www.thehindu.com/sport/other-sports/satwiksairaj-rankireddy-chirag-shetty-win-china-masters-eye-asian-games-title-defence/article71440040.ece",
       "importance": 4,
-      "date_added": "2026-09-05"
+      "date_added": "2026-09-08"
     },
     {
-      "title": "Vice President Launches India Valve Registry in Chennai",
-      "summary": "The Vice President of India launched the India Valve Registry at the India Valves 2026 conference held in Chennai.",
-      "category": "national",
-      "source": "pib",
-      "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2306986",
+      "title": "NITI Aayog Launches PACT for Zero-Emission Freight",
+      "summary": "NITI Aayog has officially launched the PACT initiative aimed at promoting zero-emission freight.",
+      "category": "science",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/niti-aayog-launches-pact-for-zero-emission-freight/",
       "importance": 4,
-      "date_added": "2026-09-05"
+      "date_added": "2026-09-08"
     },
     {
-      "title": "LIC Gets RBI Approval for ICICI Bank Stake",
-      "summary": "The Reserve Bank of India has granted approval to Life Insurance Corporation of India to acquire a stake in ICICI Bank.",
+      "title": "President’s Colour Presented to Goa Police",
+      "summary": "The President's Colour honour has been presented to the Goa Police force.",
+      "category": "awards",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/presidents-colour-presented-to-goa-police/",
+      "importance": 4,
+      "date_added": "2026-09-08"
+    },
+    {
+      "title": "Piyush Goyal Sets 10-Million Medical Tourism Target",
+      "summary": "Union Minister Piyush Goyal has set a national target of 10 million for medical tourism.",
       "category": "economy",
       "source": "gktoday",
-      "url": "https://www.gktoday.in/lic-gets-rbi-approval-for-icici-bank-stake/",
+      "url": "https://www.gktoday.in/piyush-goyal-sets-10-million-medical-tourism-target/",
       "importance": 4,
-      "date_added": "2026-09-05"
+      "date_added": "2026-09-08"
     },
     {
-      "title": "Adani Defence Signs Five-Year Deal for AK-203 Ammunition",
-      "summary": "Adani Defence has signed a five-year agreement for the supply of AK-203 ammunition.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/adani-defence-signs-five-year-ak-203-ammunition-deal/",
-      "importance": 4,
-      "date_added": "2026-09-05"
-    },
-    {
-      "title": "Anil Chakravarthy Appointed as CEO of Adobe",
-      "summary": "Anil Chakravarthy has been named as the next Chief Executive Officer of Adobe.",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/anil-chakravarthy-named-adobes-next-ceo/",
-      "importance": 4,
-      "date_added": "2026-09-05"
-    },
-    {
-      "title": "AICTE Launches ₹245 Crore Doctoral Fellowship Programme",
-      "summary": "AICTE has introduced a Doctoral Fellowship Programme with a financial outlay of ₹245 crore.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/aicte-launches-%e2%82%b9245-crore-doctoral-fellowship-programme/",
-      "importance": 4,
-      "date_added": "2026-09-05"
-    },
-    {
-      "title": "India to Host iBRICS Global Sovereign Capital Summit",
-      "summary": "India will host the upcoming iBRICS Global Sovereign Capital Summit.",
+      "title": "UK Recognises India’s Carbon Credit Scheme",
+      "summary": "The United Kingdom has officially recognised India's Carbon Credit Scheme.",
       "category": "international",
       "source": "gktoday",
-      "url": "https://www.gktoday.in/india-to-host-ibrics-global-sovereign-capital-summit/",
+      "url": "https://www.gktoday.in/uk-recognises-indias-carbon-credit-scheme/",
       "importance": 4,
-      "date_added": "2026-09-05"
+      "date_added": "2026-09-08"
     },
     {
-      "title": "India Wins Nine Medals at International Earth Science Olympiad 2026",
-      "summary": "India achieved a total of nine medals at the International Earth Science Olympiad 2026.",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/india-wins-nine-medals-at-international-earth-science-olympiad-2026/",
-      "importance": 4,
-      "date_added": "2026-09-05"
-    },
-    {
-      "title": "Giorgia Meloni Becomes Italy's Longest-Serving Postwar Prime Minister",
-      "summary": "Giorgia Meloni has become the longest-serving postwar Prime Minister of Italy.",
-      "category": "international",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/giorgia-meloni-becomes-italys-longest-serving-postwar-prime-minister/",
-      "importance": 4,
-      "date_added": "2026-09-05"
-    },
-    {
-      "title": "BIO-NIVESH Launched for Biotechnology Investment",
-      "summary": "The BIO-NIVESH initiative has been launched to promote and facilitate investments in the biotechnology sector.",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/bio-nivesh-launched-for-biotechnology-investment/",
-      "importance": 4,
-      "date_added": "2026-09-05"
-    },
-    {
-      "title": "Hyderabad Airport Wins Three ACI World Recognitions",
-      "summary": "Hyderabad airport has bagged three recognitions from ACI World for providing superior passenger experience.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-airport-bags-three-aci-world-recognitions-for-passenger-experience/article71431517.ece",
-      "importance": 4,
-      "date_added": "2026-09-05"
-    },
-    {
-      "title": "India and Japan to Play Historic First T20I Marking 75 Years of Diplomatic Relations",
-      "summary": "The Indian men's cricket team will play its first-ever T20 International against Japan in Sano, Japan, to mark 75 years of India-Japan diplomatic relations.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/cricket/india-japan-set-for-historic-t20i-clash-ahead-of-asian-games/article71431320.ece",
-      "importance": 4,
-      "date_added": "2026-09-05"
-    },
-    {
-      "title": "Emergency Credit Line Guarantee Scheme (ECLGS) 5.0",
-      "summary": "The Ministry released details regarding the Emergency Credit Line Guarantee Scheme (ECLGS) 5.0.",
-      "category": "national",
-      "source": "pib",
-      "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2306877",
-      "importance": 4,
-      "date_added": "2026-09-05"
-    },
-    {
-      "title": "LIC Gets RBI Approval for ICICI Bank Stake",
-      "summary": "LIC Gets RBI Approval for ICICI Bank Stake",
+      "title": "Coastal Local Area Bank Gets Scheduled Bank Status",
+      "summary": "Coastal Local Area Bank has been granted official Scheduled Bank status.",
       "category": "economy",
       "source": "gktoday",
-      "url": "https://www.gktoday.in/lic-gets-rbi-approval-for-icici-bank-stake/",
-      "importance": 3,
-      "date_added": "2026-09-05"
-    },
-    {
-      "title": "Adani Defence signs five-year AK-203 ammunition deal",
-      "summary": "Adani Defence signs five-year AK-203 ammunition deal",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/adani-defence-signs-five-year-ak-203-ammunition-deal/",
-      "importance": 3,
-      "date_added": "2026-09-05"
-    },
-    {
-      "title": "Ahom Dynasty Capital Ensemble Enters UNESCO Tentative List",
-      "summary": "Ahom Dynasty Capital Ensemble Enters UNESCO Tentative List",
-      "category": "international",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/ahom-dynasty-capital-ensemble-enters-unesco-tentative-list/",
-      "importance": 3,
-      "date_added": "2026-09-05"
-    },
-    {
-      "title": "India to Host BRICS Chief Justices’ Forum",
-      "summary": "India to Host BRICS Chief Justices’ Forum",
-      "category": "international",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/india-to-host-brics-chief-justices-forum/",
-      "importance": 3,
-      "date_added": "2026-09-05"
-    },
-    {
-      "title": "India, Japan to Play First Men’s T20I",
-      "summary": "India, Japan to Play First Men’s T20I",
-      "category": "international",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/india-japan-to-play-first-mens-t20i/",
-      "importance": 3,
-      "date_added": "2026-09-05"
-    },
-    {
-      "title": "Munitions India, Drogo Aerospace Sign MoU for UAV Systems",
-      "summary": "Munitions India, Drogo Aerospace Sign MoU for UAV Systems",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/munitions-india-drogo-aerospace-sign-mou-for-uav-systems/",
-      "importance": 3,
-      "date_added": "2026-09-05"
-    },
-    {
-      "title": "Anil Chakravarthy Named Adobe’s Next CEO",
-      "summary": "Anil Chakravarthy Named Adobe’s Next CEO",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/anil-chakravarthy-named-adobes-next-ceo/",
-      "importance": 3,
-      "date_added": "2026-09-05"
-    },
-    {
-      "title": "AICTE Launches ₹245 Crore Doctoral Fellowship Programme",
-      "summary": "AICTE Launches ₹245 Crore Doctoral Fellowship Programme",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/aicte-launches-%e2%82%b9245-crore-doctoral-fellowship-programme/",
-      "importance": 3,
-      "date_added": "2026-09-05"
-    },
-    {
-      "title": "US FDA Approves AstraZeneca Breast Cancer Drug Etcamah",
-      "summary": "US FDA Approves AstraZeneca Breast Cancer Drug Etcamah",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/us-fda-approves-astrazeneca-breast-cancer-drug-etcamah/",
-      "importance": 3,
-      "date_added": "2026-09-05"
-    },
-    {
-      "title": "Mindoro Bleeding-Heart Pigeon Spotted in Philippines",
-      "summary": "Mindoro Bleeding-Heart Pigeon Spotted in Philippines",
-      "category": "environment",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/mindoro-bleeding-heart-pigeon-spotted-in-philippines/",
-      "importance": 3,
-      "date_added": "2026-09-05"
-    },
-    {
-      "title": "Scientists Discover Devil Flower Species in Thailand",
-      "summary": "Scientists Discover Devil Flower Species in Thailand",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/scientists-discover-devil-flower-species-in-thailand/",
-      "importance": 3,
-      "date_added": "2026-09-05"
-    },
-    {
-      "title": "Scientists Demonstrate Eight-Letter Genetic Alphabet Reading",
-      "summary": "Scientists Demonstrate Eight-Letter Genetic Alphabet Reading",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/scientists-demonstrate-eight-letter-genetic-alphabet-reading/",
-      "importance": 3,
-      "date_added": "2026-09-05"
-    },
-    {
-      "title": "India to Host iBRICS Global Sovereign Capital Summit",
-      "summary": "India to Host iBRICS Global Sovereign Capital Summit",
-      "category": "international",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/india-to-host-ibrics-global-sovereign-capital-summit/",
-      "importance": 3,
-      "date_added": "2026-09-05"
-    },
-    {
-      "title": "India Wins Nine Medals at International Earth Science Olympiad 2026",
-      "summary": "India Wins Nine Medals at International Earth Science Olympiad 2026",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/india-wins-nine-medals-at-international-earth-science-olympiad-2026/",
-      "importance": 3,
-      "date_added": "2026-09-05"
-    },
-    {
-      "title": "Giorgia Meloni Becomes Italy’s Longest-Serving Postwar Prime Minister",
-      "summary": "Giorgia Meloni Becomes Italy’s Longest-Serving Postwar Prime Minister",
-      "category": "international",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/giorgia-meloni-becomes-italys-longest-serving-postwar-prime-minister/",
-      "importance": 3,
-      "date_added": "2026-09-05"
-    },
-    {
-      "title": "Sikkim Identifies 40 High-Hazard Glacial Lakes",
-      "summary": "Sikkim Identifies 40 High-Hazard Glacial Lakes",
-      "category": "environment",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/sikkim-identifies-40-high-hazard-glacial-lakes/",
-      "importance": 3,
-      "date_added": "2026-09-05"
-    },
-    {
-      "title": "Sri Aurobindo Virtual Museum Unveiled at Auroville",
-      "summary": "Sri Aurobindo Virtual Museum Unveiled at Auroville",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/sri-aurobindo-virtual-museum-unveiled-at-auroville/",
-      "importance": 3,
-      "date_added": "2026-09-05"
-    },
-    {
-      "title": "Ig Nobel Prizes 2026 Awarded for Unusual Research",
-      "summary": "Ig Nobel Prizes 2026 Awarded for Unusual Research",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/ig-nobel-prizes-2026-awarded-for-unusual-research/",
-      "importance": 3,
-      "date_added": "2026-09-05"
-    },
-    {
-      "title": "Karnataka Announces State-Level Best Teacher Awards",
-      "summary": "Karnataka Announces State-Level Best Teacher Awards",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/karnataka-announces-state-level-best-teacher-awards/",
-      "importance": 3,
-      "date_added": "2026-09-05"
-    },
-    {
-      "title": "Climate scientist Krishna AchutaRao dies at 62",
-      "summary": "Among his key contributions were determining the degree to which observed climatic change could be attributed to human activity",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/cities/Delhi/climate-scientist-krishna-achutarao-dies-at-62/article71431445.ece",
-      "importance": 3,
-      "date_added": "2026-09-05"
-    },
-    {
-      "title": "BIO-NIVESH Launched for Biotechnology Investment",
-      "summary": "BIO-NIVESH Launched for Biotechnology Investment",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/bio-nivesh-launched-for-biotechnology-investment/",
-      "importance": 3,
-      "date_added": "2026-09-05"
-    },
-    {
-      "title": "Collector asks KMRL, MVD to resolve traffic woes along metro worksites",
-      "summary": "KMRL officials have been told to collaborate with the Motor Vehicles department to address traffic woes, especially on the stretch between St. Martin de Porres Church, Palarivattom, and Vazhakkala.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/collector-asks-kmrl-mvd-to-resolve-traffic-woes-along-metro-worksites/article71432037.ece",
-      "importance": 3,
-      "date_added": "2026-09-05"
-    },
-    {
-      "title": "Shift school to better building, Minister instructs Social Welfare Department",
-      "summary": "Shift school to better building, Minister instructs Social Welfare Department",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/shift-hostel-to-better-building-minister-instructs-social-welfare-department/article71431829.ece",
-      "importance": 3,
-      "date_added": "2026-09-05"
-    },
-    {
-      "title": "Police arrest man in ₹17.45 lakh theft from Puttaparthi college",
-      "summary": "According to the SP. the theft reportedly occurred on the night of July 23, when a three-member gang allegedly entered the accounts section from the back side of the building, broke open the almirah and fled with ₹17,45,450",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/police-arrest-man-in-1745-lakh-theft-from-puttaparthi-college/article71431868.ece",
-      "importance": 3,
-      "date_added": "2026-09-05"
-    },
-    {
-      "title": "Tsunami mock drill held in Thiruvananthapuram",
-      "summary": "To test the institutional preparedness, inter-agency coordination and emergency response protocols in the event of a natural calamity",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/tsunami-mock-drill-held-in-thiruvananthapuram/article71432171.ece",
-      "importance": 3,
-      "date_added": "2026-09-05"
-    },
-    {
-      "title": "Police action against SFI: Pinarayi urges Mallikarjun Kharge to restrain Congress-led Keralam govt from ‘pandering to Sangh Parivar’",
-      "summary": "Opposition Leader says there was no provocation for police to resort to ‘violent lathicharge’ on students, who were peacefully protesting against full rendition of Vande Mataram in front of university building",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/police-action-against-sfi-pinarayi-urges-mallikarjun-kharge-to-restrain-congress-led-keralam-govt-from-pandering-to-sangh-parivar/article71431471.ece",
-      "importance": 3,
-      "date_added": "2026-09-05"
-    },
-    {
-      "title": "Man killed after compressor-tractor falls into quarry pit",
-      "summary": "Man killed after compressor-tractor falls into quarry pit",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/man-killed-after-compressor-tractor-falls-into-quarry-pit/article71431875.ece",
-      "importance": 3,
-      "date_added": "2026-09-05"
-    },
-    {
-      "title": "Jagan demands CBI probe into alleged DSC-2025 recruitment scam",
-      "summary": "YSRCP chief alleges suppression of voices questioning the recruitment process; demands restoration of restricted social media accounts and Lokesh’s resignation",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/jagan-demands-cbi-probe-into-alleged-dsc-2025-recruitment-scam/article71432230.ece",
-      "importance": 3,
-      "date_added": "2026-09-05"
-    },
-    {
-      "title": "KRMB asks Telangana stop water drawal for power generation at Srisailam",
-      "summary": "It ignores huge volume of water drawal by A.P. without its approval since Aug. 10",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/telangana/krmb-asks-telangana-stop-water-drawal-for-power-generation-at-srisailam/article71431879.ece",
-      "importance": 3,
-      "date_added": "2026-09-05"
-    },
-    {
-      "title": "State govt. committed to ensuring life of dignity, self-respect for underprivileged, says Sharan Prakash Patil",
-      "summary": "State govt. committed to ensuring life of dignity, self-respect for underprivileged, says Sharan Prakash Patil",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/state-govt-committed-to-ensuring-life-of-dignity-self-respect-for-underprivileged-says-sharan-prakash-patil/article71431707.ece",
-      "importance": 3,
-      "date_added": "2026-09-05"
->>>>>>> Stashed changes
+      "url": "https://www.gktoday.in/coastal-local-area-bank-gets-scheduled-bank-status/",
+      "importance": 4,
+      "date_added": "2026-09-08"
     }
   ]
 }
