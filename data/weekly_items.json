@@ -143,6 +143,105 @@
       "url": "https://www.gktoday.in/coastal-local-area-bank-gets-scheduled-bank-status/",
       "importance": 4,
       "date_added": "2026-09-08"
+    },
+    {
+      "title": "Japan Credit Rating Agency Upgrades India to 'A' Sovereign Rating After 35 Years",
+      "summary": "The Japan Credit Rating Agency upgraded India's sovereign credit rating back to the 'A' grade for the first time since early 1988.",
+      "category": "economy",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/Economy/what-prompted-indias-return-to-the-a-rating-after-35-years/article71442079.ece",
+      "importance": 5,
+      "date_added": "2026-09-09"
+    },
+    {
+      "title": "Tamil Nadu GSDP Expanded by 15.98% in 2024-25 with State Debt at ₹8.53 Lakh Crore: CAG Report",
+      "summary": "According to the Comptroller and Auditor General (CAG), Tamil Nadu's Gross State Domestic Product (GSDP) expanded by 15.98% in 2024-25. The report also highlights that the total state debt stands at ₹8.53 lakh crore.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tns-gsdp-expanded-by-1598-in-2024-25-debt-stands-at-853-lakh-crore-cag/article71444013.ece",
+      "importance": 4,
+      "date_added": "2026-09-09"
+    },
+    {
+      "title": "Navy Chief Krishna Swaminathan Visits Australia and New Zealand to Boost Naval Ties",
+      "summary": "Navy Chief Krishna Swaminathan is undertaking visits to Australia and New Zealand to strengthen bilateral naval cooperation. The engagements aim to enhance ties with the Royal Australian Navy and the Royal New Zealand Navy.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/navy-chief-krishna-swaminathan-to-visit-australia-new-zealand-naval-ties-set-to-receive-boost/article71443325.ece",
+      "importance": 4,
+      "date_added": "2026-09-09"
+    },
+    {
+      "title": "Rajnath Singh Arrives in Sri Lanka for Three-Day Visit",
+      "summary": "Rajnath Singh has arrived in Sri Lanka for a three-day visit to engage with the country's leadership. The visit aims to foster productive bilateral engagement between the two nations.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/rajnath-singh-arrives-in-sri-lanka-for-three-day-visit/article71442452.ece",
+      "importance": 4,
+      "date_added": "2026-09-09"
+    },
+    {
+      "title": "Indore Slips from Top Position in 2025 Clean Air Survey to Lucknow",
+      "summary": "Indore lost its top spot in the 2025 clean air survey after falling one point short of Lucknow. Indore had previously topped the list with a maximum score of 200 out of 200.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/madhya-pradesh/indias-cleanest-city-indore-slips-from-top-spot-in-clean-air-survey-mayor-assures-anti-pollution-steps/article71445717.ece",
+      "importance": 4,
+      "date_added": "2026-09-09"
+    },
+    {
+      "title": "Justice Ravindra Vithalrao Ghuge Sworn In as Chief Justice of Calcutta High Court",
+      "summary": "Justice Ravindra Vithalrao Ghuge has been sworn in as the Chief Justice of the Calcutta High Court. The oath-taking ceremony was attended by Chief Minister Suvendu Adhikari and Assembly Speaker Rathindra Bose.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/west-bengal/justice-ravindra-vithalrao-ghuge-sworn-in-as-chief-justice-of-calcutta-high-court/article71445754.ece",
+      "importance": 4,
+      "date_added": "2026-09-09"
+    },
+    {
+      "title": "Chhattisgarh High Court Rules Religious Institutions Cannot Function as Courts",
+      "summary": "The Chhattisgarh High Court held that no religious institution can function as a court while quashing a Triple Talaq order passed by the Idara-E-Shariya Islami Court against a 38-year-old woman from Raipur.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/chhattisgarh/no-religious-institution-can-function-as-court-says-chhattisgarh-high-court/article71443643.ece",
+      "importance": 4,
+      "date_added": "2026-09-09"
+    },
+    {
+      "title": "India and France to Celebrate 2026 as Year of Innovation",
+      "summary": "Prime Minister Narendra Modi announced that India and France will celebrate 2026 as the India-France Year of Innovation to strengthen their strategic partnership.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/india-france-relations-have-reached-new-heights-pm-modi/article71436431.ece",
+      "importance": 4,
+      "date_added": "2026-09-09"
+    },
+    {
+      "title": "Public Accounts Committee Flags Failure to Transfer ₹9,222 Crore Cess to Reserve Funds",
+      "summary": "The Parliamentary Public Accounts Committee led by K.C. Venugopal questioned the Finance Ministry regarding the failure to transfer ₹9,222 crore in cess collections into designated reserve funds.",
+      "category": "economy",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/public-accounts-committee-flags-failure-to-transfer-9222-crore-in-cess-collections-to-designated-reserve-funds/article71443327.ece",
+      "importance": 4,
+      "date_added": "2026-09-09"
+    },
+    {
+      "title": "ISRO and ESA Sign Technical Implementing Plan for Gaganyaan Missions",
+      "summary": "ISRO and the European Space Agency signed a Technical Implementing Plan to provide Ground Tracking Support for Gaganyaan missions and explore future lunar and Venus cooperation.",
+      "category": "science",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/esa-to-explore-cooperation-with-isro-in-human-space-flight-lunar-and-venus-missions/article71445422.ece",
+      "importance": 4,
+      "date_added": "2026-09-09"
+    },
+    {
+      "title": "India Wins Five Medals at World Archery Para Series Stage III",
+      "summary": "India secured a total of five medals, comprising two gold, two silver, and one bronze, at the World Archery Para Series Stage III.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/india-bag-two-gold-two-silver-and-one-bronze-at-world-archery-para-series-stage-iii/article71442593.ece",
+      "importance": 4,
+      "date_added": "2026-09-09"
     }
   ]
 }
