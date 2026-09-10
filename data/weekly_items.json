@@ -242,6 +242,96 @@
       "url": "https://www.thehindu.com/sport/india-bag-two-gold-two-silver-and-one-bronze-at-world-archery-para-series-stage-iii/article71442593.ece",
       "importance": 4,
       "date_added": "2026-09-09"
+    },
+    {
+      "title": "Union Cabinet Approves Eight Railway Multi-Tracking Projects Costing ₹20,804 Crore",
+      "summary": "The Union Cabinet has approved eight railway multi-tracking projects worth an estimated ₹20,804 crore to enhance rail connectivity. Key projects include line doubling and third/fourth lines across routes such as Arakkonam-Renigunta, Whitefield-Bangarapet, and Hosur-Omalur.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/cabinet-approves-eight-railway-multi-tracking-projects-costing-20804-crore/article71447167.ece",
+      "importance": 5,
+      "date_added": "2026-09-10"
+    },
+    {
+      "title": "UN Nuclear Watchdog Reports Iran to UN Security Council After 20 Years",
+      "summary": "The UN nuclear watchdog board has reported Iran to the UN Security Council for the first time in 20 years regarding its nuclear programme. Western officials suspect traces indicate a past secret nuclear weapons programme, while Iran maintains its activities are entirely peaceful.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/un-nuclear-watchdog-board-reports-iran-to-un-security-council-for-the-first-time-in-20-years/article71449985.ece",
+      "importance": 5,
+      "date_added": "2026-09-10"
+    },
+    {
+      "title": "International Space Summit Begins in Paris",
+      "summary": "The International Space Summit has commenced in Paris with participation from 90 countries. The French President announced that over 50 projects expected to bring in billions in investments are set to be signed.",
+      "category": "science",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sci-tech/international-space-summit-gets-underway-in-paris/article71448673.ece",
+      "importance": 4,
+      "date_added": "2026-09-10"
+    },
+    {
+      "title": "Sheetal Devi Wins Gold at World Archery Para Series",
+      "summary": "Indian archer Sheetal Devi secured a gold medal at the World Archery Para Series.",
+      "category": "sports",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/sheetal-devi-wins-gold-at-world-archery-para-series/",
+      "importance": 4,
+      "date_added": "2026-09-10"
+    },
+    {
+      "title": "Chhattisgarh Approves ₹500 Crore for NIPUN Mission",
+      "summary": "The state government of Chhattisgarh approved ₹500 crore for the implementation of the NIPUN Mission.",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/chhattisgarh-approves-%e2%82%b9500-crore-nipun-mission/",
+      "importance": 4,
+      "date_added": "2026-09-10"
+    },
+    {
+      "title": "India to Host Global Dryland Congress 2026",
+      "summary": "India will host the Global Dryland Congress conference scheduled for 2026.",
+      "category": "international",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/india-to-host-global-dryland-congress-2026/",
+      "importance": 4,
+      "date_added": "2026-09-10"
+    },
+    {
+      "title": "Justice Pushpendra Bhati Sworn in as Chief Justice of J&K and Ladakh High Court",
+      "summary": "Justice Pushpendra Bhati has taken the oath of office as the Chief Justice of the High Court of Jammu & Kashmir and Ladakh. The oath was administered by Vinai Kumar Saxena, Lieutenant Governor of UT of Ladakh holding additional charge of UT of Jammu & Kashmir.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/justice-pushpendra-bhati-sworn-in-as-chief-justice-of-jk-ladakh-high-court/article71446374.ece",
+      "importance": 4,
+      "date_added": "2026-09-10"
+    },
+    {
+      "title": "IIM-Kozhikode Rises to 54th Rank in FT Masters in Management Rankings",
+      "summary": "Indian Institute of Management Kozhikode (IIM-K) advanced 15 positions to achieve 54th rank globally in the Financial Times Masters in Management rankings. The ranking places its flagship postgraduate programme among the top 55 management programmes worldwide.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/iim-kozhikode-rises-15-places-to-54th-in-ft-masters-in-management-rankings/article71441425.ece",
+      "importance": 4,
+      "date_added": "2026-09-10"
+    },
+    {
+      "title": "Supreme Court Inquires on BCCI Governance Under National Sports Governance Act",
+      "summary": "The Supreme Court has questioned why the BCCI and state cricket bodies should not be governed by the National Sports Governance Act. The inquiry is part of efforts to enhance transparency and accountability in Indian cricket governance.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/why-should-bcci-state-bodies-be-not-governed-by-national-sports-governance-act-asks-supreme-court/article71446539.ece",
+      "importance": 4,
+      "date_added": "2026-09-10"
+    },
+    {
+      "title": "UIDAI Launches Aadhaar Face Authentication SDK",
+      "summary": "The Unique Identification Authority of India (UIDAI) has launched the Aadhaar Face Authentication Software Development Kit (SDK).",
+      "category": "science",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/uidai-launches-aadhaar-face-authentication-sdk/",
+      "importance": 4,
+      "date_added": "2026-09-10"
     }
   ]
 }
