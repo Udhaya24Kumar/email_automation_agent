@@ -1,150 +1,6 @@
 {
   "items": [
     {
-      "title": "ISRO and CNES to Launch Joint Indo-French TRISHNA Mission via PSLV",
-      "summary": "ISRO and the French National Space Agency (CNES) are collaborating on the TRISHNA mission. The joint space mission is scheduled for launch next year onboard ISRO's Polar Satellite Launch Vehicle (PSLV).",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sci-tech/science/we-have-complete-trust-in-our-indian-partners-frenchnational-space-agency/article71440261.ece",
-      "importance": 5,
-      "date_added": "2026-09-08"
-    },
-    {
-      "title": "5th Swachh Vayu Sarvekshan Awards Conferred",
-      "summary": "The 5th Swachh Vayu Sarvekshan Awards have been officially conferred.",
-      "category": "environment",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/5th-swachh-vayu-sarvekshan-awards-conferred/",
-      "importance": 5,
-      "date_added": "2026-09-08"
-    },
-    {
-      "title": "New UN Map Shows Aksai Chin and Arunachal Pradesh with Unspecified Claim Lines",
-      "summary": "A new map released by the United Nations depicts Arunachal Pradesh and Aksai Chin between Indian and Chinese claim lines. It depicts the eastern border of Aksai Chin as the 'Indian Line' and includes a 'Chinese line' between Ladakh and Aksai Chin.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/new-un-map-depicts-arunachal-pradesh-and-aksai-chin-as-territories-caught-between-indian-line-and-chinese-line/article71437431.ece",
-      "importance": 4,
-      "date_added": "2026-09-08"
-    },
-    {
-      "title": "2,000-Year-Old Megalithic Burial Chamber Discovered in Kasaragod, Kerala",
-      "summary": "A 2,000-year-old Megalithic burial chamber indicating ancient human settlement was discovered at Nittadukkam in Kasaragod district, Kerala. Historians noted that local beliefs surrounding the site helped preserve one of the region's oldest surviving historical monuments.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/megalithic-burial-chamber-discovered-at-kanhangad-in-keralam-throwing-light-into-2000-year-old-human-settlement/article71438361.ece",
-      "importance": 4,
-      "date_added": "2026-09-08"
-    },
-    {
-      "title": "India-Iran Bilateral Talks Focus on Chabahar Port Ahead of BRICS Summit",
-      "summary": "Iran's Foreign Ministry reaffirmed its civilisational ties with India, highlighting Chabahar Port as a major topic of bilateral consultations between the two countries ahead of the BRICS summit.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/iran-values-long-standing-civilisational-ties-with-india-foreign-ministry/article71441080.ece",
-      "importance": 4,
-      "date_added": "2026-09-08"
-    },
-    {
-      "title": "U.K. Recognises India's Carbon Credit Scheme Under Carbon Tax Mechanism",
-      "summary": "The United Kingdom has recognised India's carbon credit scheme under its carbon tax mechanism. This recognition enables U.K. importers of eligible Indian goods covered under CBAM to seek carbon price relief.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/uk-recognises-indias-carbon-credit-scheme-under-its-carbon-tax-mechanism-official/article71440204.ece",
-      "importance": 4,
-      "date_added": "2026-09-08"
-    },
-    {
-      "title": "Justice Sanjay Kumar Agrawal Sworn In as Chief Justice of Rajasthan High Court",
-      "summary": "Justice Sanjay Kumar Agrawal has taken oath as the Chief Justice of the Rajasthan High Court. He assumes office following the tenure of Justice Sanjeev Prakash Sharma, who served as Acting Chief Justice.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/rajasthan/sanjay-kumar-agrawal-sworn-in-as-rajasthan-hc-chief-justice/article71439110.ece",
-      "importance": 4,
-      "date_added": "2026-09-08"
-    },
-    {
-      "title": "FATF Warns of 'Digital Hawala' Aiding Money Laundering and Terror Financing",
-      "summary": "A report by the Financial Action Task Force (FATF) highlights that the fusion of virtual assets with traditional hawala systems is driving money laundering and terror financing. The global watchdog stated that nearly 70% of surveyed jurisdictions reported the integration of new technologies into these networks.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/rise-of-digital-hawala-aiding-money-laundering-terror-financing-global-watchdog-says/article71439339.ece",
-      "importance": 4,
-      "date_added": "2026-09-08"
-    },
-    {
-      "title": "Government Reduces Rural LPG Cylinder Booking Interval to 25 Days",
-      "summary": "The government has reduced the minimum booking interval for LPG cylinders for rural consumers from 45 days to 25 days. This decision brings the booking timeline for rural consumers on par with urban consumers.",
-      "category": "economy",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/oil-ministry-lpg-booking-interval-rural-urban-areas-suresh-gopi/article71438250.ece",
-      "importance": 4,
-      "date_added": "2026-09-08"
-    },
-    {
-      "title": "Supreme Court Sets November 30 Deadline for Aravalli Committee Report",
-      "summary": "The Supreme Court refused to grant an extension to the high-powered committee on the Aravalli hills, fixing November 30 as the final deadline for its report. The panel is tasked with creating a uniform definition for the Aravalli range and recommending mining regulations.",
-      "category": "environment",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/supreme-court-refuses-extension-for-aravalli-panel-sets-november-30-deadline-for-final-report/article71438037.ece",
-      "importance": 4,
-      "date_added": "2026-09-08"
-    },
-    {
-      "title": "Satwik-Chirag Secure 10th BWF World Tour Crown Ahead of Asian Games",
-      "summary": "Satwik-Chirag won their 10th BWF World Tour crown, providing a boost ahead of their Asian Games title defence.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/other-sports/satwiksairaj-rankireddy-chirag-shetty-win-china-masters-eye-asian-games-title-defence/article71440040.ece",
-      "importance": 4,
-      "date_added": "2026-09-08"
-    },
-    {
-      "title": "NITI Aayog Launches PACT for Zero-Emission Freight",
-      "summary": "NITI Aayog has officially launched the PACT initiative aimed at promoting zero-emission freight.",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/niti-aayog-launches-pact-for-zero-emission-freight/",
-      "importance": 4,
-      "date_added": "2026-09-08"
-    },
-    {
-      "title": "President’s Colour Presented to Goa Police",
-      "summary": "The President's Colour honour has been presented to the Goa Police force.",
-      "category": "awards",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/presidents-colour-presented-to-goa-police/",
-      "importance": 4,
-      "date_added": "2026-09-08"
-    },
-    {
-      "title": "Piyush Goyal Sets 10-Million Medical Tourism Target",
-      "summary": "Union Minister Piyush Goyal has set a national target of 10 million for medical tourism.",
-      "category": "economy",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/piyush-goyal-sets-10-million-medical-tourism-target/",
-      "importance": 4,
-      "date_added": "2026-09-08"
-    },
-    {
-      "title": "UK Recognises India’s Carbon Credit Scheme",
-      "summary": "The United Kingdom has officially recognised India's Carbon Credit Scheme.",
-      "category": "international",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/uk-recognises-indias-carbon-credit-scheme/",
-      "importance": 4,
-      "date_added": "2026-09-08"
-    },
-    {
-      "title": "Coastal Local Area Bank Gets Scheduled Bank Status",
-      "summary": "Coastal Local Area Bank has been granted official Scheduled Bank status.",
-      "category": "economy",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/coastal-local-area-bank-gets-scheduled-bank-status/",
-      "importance": 4,
-      "date_added": "2026-09-08"
-    },
-    {
       "title": "Japan Credit Rating Agency Upgrades India to 'A' Sovereign Rating After 35 Years",
       "summary": "The Japan Credit Rating Agency upgraded India's sovereign credit rating back to the 'A' grade for the first time since early 1988.",
       "category": "economy",
@@ -782,6 +638,240 @@
       "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2309939",
       "importance": 4,
       "date_added": "2026-09-14"
+    },
+    {
+      "title": "Government Notifies Changes Under Payment and Settlement Act, 2007 for UPI Charges",
+      "summary": "The government notified changes under the Payment and Settlement Act, 2007, keeping UPI transactions up to ₹2,000 free of charges. A decision regarding the Merchant Discount Rate (MDR) for higher-value payments is yet to be finalized.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/govt-bars-bank-charges-on-upi-payments-up-to-2k/article71466438.ece",
+      "importance": 5,
+      "date_added": "2026-09-15"
+    },
+    {
+      "title": "U.S. Lawmaker Proposes Amendment Naming India in Russia Sanctions Act",
+      "summary": "An amendment naming India was submitted in the Lindsey O Graham Sanctioning Russia and Iran Act, which was passed by the U.S. Senate by an 86-11 vote. The act targets Russia's leadership, energy sector, and shadow fleet vessels used to evade oil sanctions.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/us-lawmaker-submits-amendment-naming-india-in-russia-sanctions-act/article71466531.ece",
+      "importance": 4,
+      "date_added": "2026-09-15"
+    },
+    {
+      "title": "India Approves Expedited Electricity Export to Nepal",
+      "summary": "India's Ministry of Power has approved the expedited export of electricity to flood-hit Nepal to meet its power requirements. The initiative aims to strengthen energy cooperation between the two nations.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/Economy/india-approves-expedited-export-of-electricity-to-flood-hit-nepal/article71466141.ece",
+      "importance": 4,
+      "date_added": "2026-09-15"
+    },
+    {
+      "title": "Justice V. Kameswar Rao Sworn In as Chief Justice of Patna High Court",
+      "summary": "Justice V. Kameswar Rao has taken the oath of office as the Chief Justice of the Patna High Court. The ceremony took place at Lok Bhavan in the presence of Chief Minister Samrat Choudhary.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/bihar/justice-v-kameswar-rao-takes-oath-as-chief-justice-of-patna-high-court/article71463018.ece",
+      "importance": 4,
+      "date_added": "2026-09-15"
+    },
+    {
+      "title": "India and Canada Resume Talks for Proposed Bilateral Trade Pact",
+      "summary": "India and Canada have initiated the next round of negotiations for a proposed trade agreement. Both countries have set a target to increase their bilateral trade to $50 billion by the year 2030.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/Economy/india-canada-begin-next-round-of-talks-on-proposed-trade-pact-official/article71465752.ece",
+      "importance": 4,
+      "date_added": "2026-09-15"
+    },
+    {
+      "title": "Wholesale Price Index Inflation Rises to 9.92% in August",
+      "summary": "India's Wholesale Price Index (WPI) inflation increased to 9.92% in August owing to rising prices of food, fuel, and manufactured items. WPI inflation in manufactured items hit a series high of 8.37%, rising from 8.29% recorded in July.",
+      "category": "economy",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/Economy/wpi-inflation-rises-to-992-in-august-on-rising-prices-of-food-fuel-manufactured-items/article71465582.ece",
+      "importance": 4,
+      "date_added": "2026-09-15"
+    },
+    {
+      "title": "West Asia war LIVE: Saudi Arabia warns it will react 'firmly' to Houthi attacks",
+      "summary": "Saudi Arabian ‌Civil Defence sent an alert on September 15, ​after issuing alerts for potential danger ‌in six cities, including Yanbu, ‌the kingdom's ‌main ⁠Red Sea oil ⁠port, where millions of barrels a day ​are loaded",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/west-asia-war-live-updates-saudi-arabia-houthi-attacks-red-sea-us-iran-september-15-2026/article71466658.ece",
+      "importance": 3,
+      "date_added": "2026-09-15"
+    },
+    {
+      "title": "Pakistan court orders blocking passports of Khyber Pakhtunkhwa CM, 24 lawmakers of Imran Khan's party",
+      "summary": "The order comes amid heightened political activity by the PTI, which has announced a nationwide protest for September 27",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/pakistan-court-orders-blocking-passports-of-khyber-pakhtunkhwa-cm-24-lawmakers-of-imran-khans-party/article71466429.ece",
+      "importance": 3,
+      "date_added": "2026-09-15"
+    },
+    {
+      "title": "Drone shot down by NATO over Lithuania",
+      "summary": "Baltic states Lithuania, Latvia and Estonia — NATO members sharing a long border with Russia — regularly report drone incursions into their territories as part of Moscow's war with Ukraine.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/drone-shot-down-by-nato-over-lithuania/article71466527.ece",
+      "importance": 3,
+      "date_added": "2026-09-15"
+    },
+    {
+      "title": "Pakistan mulls revival of austerity measures amid West Asia hostilities",
+      "summary": "The indication of a possible revival of austerity measures came as petrol prices rose to PKR 375.82 per litre and high-speed diesel (HSD) to PKR 403.32 per litre",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/pakistan-mulls-revival-of-austerity-measures-amid-west-asia-hostilities/article71466489.ece",
+      "importance": 3,
+      "date_added": "2026-09-15"
+    },
+    {
+      "title": "Trump nominates Wesley Hunt to serve as U.S. Ambassador to Saudi; picks wife of 'God Bless the USA' singer as envoy to Barbados",
+      "summary": "The Republican lawmaker is near the end of his second term representing his Houston-area district and has served as a U.S. Army officer who served as a diplomatic liaison in Saudi Arabia",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/trump-nominates-republican-rep-to-serve-as-us-ambassador-to-saudi/article71466469.ece",
+      "importance": 3,
+      "date_added": "2026-09-15"
+    },
+    {
+      "title": "Asian Games venues and athletes unharmed by extensive flooding in Nagoya, Japan",
+      "summary": "Hirosawa said about 400 athletes and staff who are staying in converted shipping containers — remodeled to serve as temporary housing units for the Asian Games — were briefly evacuated to higher ground during the heavy rain",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/asian-games-venues-and-athletes-unharmed-by-extensive-flooding-in-nagoya-japan/article71446004.ece",
+      "importance": 3,
+      "date_added": "2026-09-15"
+    },
+    {
+      "title": "Who is fugitive Khadeer Khan Mohammed? | Explained",
+      "summary": "Why is Khadeer Khan Mohammed wanted by U.S. authorities in an alleged $93 million Medicare genetic-testing fraud case? What is the status of the investigation that began in 2025? What could happen next if he is in India?",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/who-is-fugitive-khadeer-khan-mohammed-explained/article71466787.ece",
+      "importance": 3,
+      "date_added": "2026-09-15"
+    },
+    {
+      "title": "How EU plans to keep children under 15 off social media",
+      "summary": "Under a proposal being prepared by the European Commission, children under 15 could face restrictions on creating and using accounts across a wide range of digital services",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sci-tech/technology/how-eu-plans-to-keep-children-under-15-off-social-media/article71466788.ece",
+      "importance": 3,
+      "date_added": "2026-09-15"
+    },
+    {
+      "title": "Remembering Dolly Parton, who gave away everything but her songs",
+      "summary": "The Queen of Country Music, who passed away recently, gave away more than 300 million books and millions of dollars in aid, but refused to surrender the copyright to one song, even for Elvis Presley.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/entertainment/music/remembering-dolly-parton-who-gave-away-everything-but-her-songs/article71392330.ece",
+      "importance": 3,
+      "date_added": "2026-09-15"
+    },
+    {
+      "title": "U.S. has weapons deployed in orbit, Space Force says",
+      "summary": "\"The U.S. has on-orbit space control weapons capable of defending the Joint Force against hostile adversary action,\" a U.S. Space Force spokesperson said in a statement that did not provide specifics on the weapons",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/us-has-weapons-deployed-in-orbit-space-force-says/article71466592.ece",
+      "importance": 3,
+      "date_added": "2026-09-15"
+    },
+    {
+      "title": "Houthi attack in southern Saudi Arabia wounds 13: Riyadh-led coalition",
+      "summary": "\"On September 14, the Militia launched attacks on civilian objects in the cities of Khamis Mushait, Abha, and Taif with several ballistic missiles and drones,” says coalition spokesman",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/houthi-attack-in-southern-saudi-arabia-wounds-13-riyadh-led-coalition/article71466568.ece",
+      "importance": 3,
+      "date_added": "2026-09-15"
+    },
+    {
+      "title": "Trump says there is ‘SICK conspiracy’ against AI and data centres, dismisses new guardrails",
+      "summary": "“The only control or ‘guardrails’ that AI needs is a STRONG AND SMART (High IQ!) PRESIDENT, and the U.S.A. has that, in spades!” Mr. Trump said",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sci-tech/technology/trump-dismisses-new-ai-guardrails-says-there-is-a-sick-conspiracy-against-ai-and-data-centers/article71466257.ece",
+      "importance": 3,
+      "date_added": "2026-09-15"
+    },
+    {
+      "title": "In loss for Trump, U.S. Supreme Court won't let Postal Service restrict mail ballots",
+      "summary": "Justice Samuel Alito, joined by fellow conservative Justice Clarence Thomas, dissented from the decision, comparing some ‌of the challengers’ claims to a “Hail Mary pass” that is “unlikely to be successfully completed,” using a football analogy",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/in-loss-for-trump-us-supreme-court-wont-let-postal-service-restrict-mail-ballots/article71466496.ece",
+      "importance": 3,
+      "date_added": "2026-09-15"
+    },
+    {
+      "title": "NATO fighter jet shoots down drone in Lithuania",
+      "summary": "Origin yet to be determined; drone alert was issued earlier in ​the capital ‌Vilnius and surrounding region.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/nato-fighter-jet-shoots-down-drone-in-lithuania/article71466476.ece",
+      "importance": 3,
+      "date_added": "2026-09-15"
+    },
+    {
+      "title": "BRICS: A strategic balancer?",
+      "summary": "BRICS: A strategic balancer?",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/the-view-from-india-newsletter-brics-a-strategic-balancer/article71465679.ece",
+      "importance": 3,
+      "date_added": "2026-09-15"
+    },
+    {
+      "title": "Police arrest man after multiple people wounded in China knife attack",
+      "summary": "A video seemingly captured from CCTV showed a man in a face mask stabbing a woman in the face as he walked past her in front of a restaurant.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/police-arrest-man-after-multiple-people-wounded-in-china-knife-attack/article71466601.ece",
+      "importance": 3,
+      "date_added": "2026-09-15"
+    },
+    {
+      "title": "U.S. Judge blocks Trump limits on duration of visas for foreign students, journalists",
+      "summary": "U.S. ​Department of Homeland Security adopted the policy ‌based on “exceptionally weak” rationales, the Judge said",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/us-judge-blocks-trump-limits-on-duration-of-visas-for-foreign-students-journalists/article71466466.ece",
+      "importance": 3,
+      "date_added": "2026-09-15"
+    },
+    {
+      "title": "Houthis say Saudi Arabia hits Yemen with 54 strikes after attack on bases",
+      "summary": "Saudi civil defence issued a brief alert for Najran in southwestern Saudi Arabia without elaborating on the cause for the warning",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/houthis-say-saudi-arabia-hits-yemen-with-54-strikes-after-attack-on-bases/article71466445.ece",
+      "importance": 3,
+      "date_added": "2026-09-15"
+    },
+    {
+      "title": "Russia hits petrol station, warehouse facilities in Kyiv, Mayor says",
+      "summary": "Russia has recently ‌started hitting petrol stations in Kyiv, expanding the range of target facilities. In recent months, Russia hit some 300 petrol stations, mainly in or near ‌Ukraine’s frontline regions.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/russia-hits-petrol-station-warehouse-facilities-in-kyiv-mayor-says/article71466640.ece",
+      "importance": 3,
+      "date_added": "2026-09-15"
+    },
+    {
+      "title": "French power sector labour strike takes 6.5 gigawatts offline overnight",
+      "summary": "Workers ‌and retirees in the French energy sector pay discounted rates, which their unions view as a core part of their compensation package; strike is expected to go ⁠through the day on September 15, suggesting the outages could be renewed or increased",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/french-power-sector-labour-strike-takes-65-gigawatts-offline-overnight/article71466448.ece",
+      "importance": 3,
+      "date_added": "2026-09-15"
     }
   ]
 }
