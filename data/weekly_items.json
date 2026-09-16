@@ -1,105 +1,6 @@
 {
   "items": [
     {
-      "title": "Japan Credit Rating Agency Upgrades India to 'A' Sovereign Rating After 35 Years",
-      "summary": "The Japan Credit Rating Agency upgraded India's sovereign credit rating back to the 'A' grade for the first time since early 1988.",
-      "category": "economy",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/business/Economy/what-prompted-indias-return-to-the-a-rating-after-35-years/article71442079.ece",
-      "importance": 5,
-      "date_added": "2026-09-09"
-    },
-    {
-      "title": "Tamil Nadu GSDP Expanded by 15.98% in 2024-25 with State Debt at ₹8.53 Lakh Crore: CAG Report",
-      "summary": "According to the Comptroller and Auditor General (CAG), Tamil Nadu's Gross State Domestic Product (GSDP) expanded by 15.98% in 2024-25. The report also highlights that the total state debt stands at ₹8.53 lakh crore.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/tns-gsdp-expanded-by-1598-in-2024-25-debt-stands-at-853-lakh-crore-cag/article71444013.ece",
-      "importance": 4,
-      "date_added": "2026-09-09"
-    },
-    {
-      "title": "Navy Chief Krishna Swaminathan Visits Australia and New Zealand to Boost Naval Ties",
-      "summary": "Navy Chief Krishna Swaminathan is undertaking visits to Australia and New Zealand to strengthen bilateral naval cooperation. The engagements aim to enhance ties with the Royal Australian Navy and the Royal New Zealand Navy.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/navy-chief-krishna-swaminathan-to-visit-australia-new-zealand-naval-ties-set-to-receive-boost/article71443325.ece",
-      "importance": 4,
-      "date_added": "2026-09-09"
-    },
-    {
-      "title": "Rajnath Singh Arrives in Sri Lanka for Three-Day Visit",
-      "summary": "Rajnath Singh has arrived in Sri Lanka for a three-day visit to engage with the country's leadership. The visit aims to foster productive bilateral engagement between the two nations.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/rajnath-singh-arrives-in-sri-lanka-for-three-day-visit/article71442452.ece",
-      "importance": 4,
-      "date_added": "2026-09-09"
-    },
-    {
-      "title": "Indore Slips from Top Position in 2025 Clean Air Survey to Lucknow",
-      "summary": "Indore lost its top spot in the 2025 clean air survey after falling one point short of Lucknow. Indore had previously topped the list with a maximum score of 200 out of 200.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/madhya-pradesh/indias-cleanest-city-indore-slips-from-top-spot-in-clean-air-survey-mayor-assures-anti-pollution-steps/article71445717.ece",
-      "importance": 4,
-      "date_added": "2026-09-09"
-    },
-    {
-      "title": "Justice Ravindra Vithalrao Ghuge Sworn In as Chief Justice of Calcutta High Court",
-      "summary": "Justice Ravindra Vithalrao Ghuge has been sworn in as the Chief Justice of the Calcutta High Court. The oath-taking ceremony was attended by Chief Minister Suvendu Adhikari and Assembly Speaker Rathindra Bose.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/west-bengal/justice-ravindra-vithalrao-ghuge-sworn-in-as-chief-justice-of-calcutta-high-court/article71445754.ece",
-      "importance": 4,
-      "date_added": "2026-09-09"
-    },
-    {
-      "title": "Chhattisgarh High Court Rules Religious Institutions Cannot Function as Courts",
-      "summary": "The Chhattisgarh High Court held that no religious institution can function as a court while quashing a Triple Talaq order passed by the Idara-E-Shariya Islami Court against a 38-year-old woman from Raipur.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/chhattisgarh/no-religious-institution-can-function-as-court-says-chhattisgarh-high-court/article71443643.ece",
-      "importance": 4,
-      "date_added": "2026-09-09"
-    },
-    {
-      "title": "India and France to Celebrate 2026 as Year of Innovation",
-      "summary": "Prime Minister Narendra Modi announced that India and France will celebrate 2026 as the India-France Year of Innovation to strengthen their strategic partnership.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/india-france-relations-have-reached-new-heights-pm-modi/article71436431.ece",
-      "importance": 4,
-      "date_added": "2026-09-09"
-    },
-    {
-      "title": "Public Accounts Committee Flags Failure to Transfer ₹9,222 Crore Cess to Reserve Funds",
-      "summary": "The Parliamentary Public Accounts Committee led by K.C. Venugopal questioned the Finance Ministry regarding the failure to transfer ₹9,222 crore in cess collections into designated reserve funds.",
-      "category": "economy",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/public-accounts-committee-flags-failure-to-transfer-9222-crore-in-cess-collections-to-designated-reserve-funds/article71443327.ece",
-      "importance": 4,
-      "date_added": "2026-09-09"
-    },
-    {
-      "title": "ISRO and ESA Sign Technical Implementing Plan for Gaganyaan Missions",
-      "summary": "ISRO and the European Space Agency signed a Technical Implementing Plan to provide Ground Tracking Support for Gaganyaan missions and explore future lunar and Venus cooperation.",
-      "category": "science",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sci-tech/science/esa-to-explore-cooperation-with-isro-in-human-space-flight-lunar-and-venus-missions/article71445422.ece",
-      "importance": 4,
-      "date_added": "2026-09-09"
-    },
-    {
-      "title": "India Wins Five Medals at World Archery Para Series Stage III",
-      "summary": "India secured a total of five medals, comprising two gold, two silver, and one bronze, at the World Archery Para Series Stage III.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/india-bag-two-gold-two-silver-and-one-bronze-at-world-archery-para-series-stage-iii/article71442593.ece",
-      "importance": 4,
-      "date_added": "2026-09-09"
-    },
-    {
       "title": "Union Cabinet Approves Eight Railway Multi-Tracking Projects Costing ₹20,804 Crore",
       "summary": "The Union Cabinet has approved eight railway multi-tracking projects worth an estimated ₹20,804 crore to enhance rail connectivity. Key projects include line doubling and third/fourth lines across routes such as Arakkonam-Renigunta, Whitefield-Bangarapet, and Hosur-Omalur.",
       "category": "national",
@@ -872,6 +773,177 @@
       "url": "https://www.thehindu.com/news/international/french-power-sector-labour-strike-takes-65-gigawatts-offline-overnight/article71466448.ece",
       "importance": 3,
       "date_added": "2026-09-15"
+    },
+    {
+      "title": "India-US Military Exercise Yudh Abhyas 2026 Begins at Auli and Mahajan",
+      "summary": "The joint India-US military exercise Yudh Abhyas 2026 has begun at Auli and Mahajan.",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/india-us-yudh-abhyas-2026-begins-at-auli-and-mahajan/",
+      "importance": 5,
+      "date_added": "2026-09-16"
+    },
+    {
+      "title": "Six States and UT Sign Agreement for Kishau Multipurpose Project on Tons River",
+      "summary": "Six States and a Union Territory have signed an agreement for the Kishau multipurpose project. The project will be located on the Tons river along the border of Uttarakhand and Himachal Pradesh.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/himachal-pradesh/six-states-ut-sign-kishau-multipurpose-project-agreement-cm-sukhu-hails-major-victory-for-himachal/article71468268.ece",
+      "importance": 5,
+      "date_added": "2026-09-16"
+    },
+    {
+      "title": "New Zealand Parliament Passes Trade Deal with India to Cut Tariffs",
+      "summary": "The Parliament of New Zealand has passed a trade agreement with India designed to reduce tariffs on most exports. Under the deal, more than half of all covered products will become duty-free from the day it takes effect.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/new-zealand-parliament-passes-india-trade-deal-cutting-tariffs-on-most-exports/article71470939.ece",
+      "importance": 5,
+      "date_added": "2026-09-16"
+    },
+    {
+      "title": "18th BRICS Summit Held in New Delhi",
+      "summary": "India hosted the 18th BRICS Summit in New Delhi, which highlighted its role in global governance reforms, trade cooperation, and international diplomacy. The meeting concluded with key outcomes framed around the New Delhi Declaration.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/videos/why-the-brics-summit-was-a-major-diplomatic-win-for-india/article71465371.ece",
+      "importance": 5,
+      "date_added": "2026-09-16"
+    },
+    {
+      "title": "Mazagon Dock Plans ₹27,000 Crore Shipbuilding Cluster in Raigad",
+      "summary": "Mazagon Dock has planned a new shipbuilding cluster in Raigad with an investment of ₹27,000 crore.",
+      "category": "economy",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/mazagon-dock-plans-%e2%82%b927000-crore-raigad-shipbuilding-cluster/",
+      "importance": 4,
+      "date_added": "2026-09-16"
+    },
+    {
+      "title": "Defence Ministry Unveils Policy Initiatives for MSMEs and Start-ups at VIMARSH",
+      "summary": "The Ministry of Defence announced key policy initiatives for MSMEs and start-ups at the VIMARSH event.",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/defence-ministry-unveils-policy-initiatives-for-msmes-and-start-ups-at-vimarsh/",
+      "importance": 4,
+      "date_added": "2026-09-16"
+    },
+    {
+      "title": "U.S. House Advances Russia Sanctions Bill Proposing 100% Tariffs on India",
+      "summary": "The U.S. House of Representatives passed a resolution by a 214-211 vote to advance a Russia sanctions bill that proposes 100% tariffs on India and other nations. The legislation is scheduled for a final vote in the House on September 16.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/russia-sanctions-bill-advances-in-us-house-india-tariffs-final-vote/article71470872.ece",
+      "importance": 4,
+      "date_added": "2026-09-16"
+    },
+    {
+      "title": "Indian Army Chief Dhiraj Seth Visits Russia to Deepen Defence Ties",
+      "summary": "Indian Army Chief Dhiraj Seth traveled to Russia to strengthen bilateral defence ties. A key focus of the discussions is the availability of spare parts and supplies for Russian-origin military equipment used by the Indian Army.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/army-chief-dhiraj-seth-heads-to-russia-amid-push-to-deepen-defence-ties/article71468886.ece",
+      "importance": 4,
+      "date_added": "2026-09-16"
+    },
+    {
+      "title": "India Revises Measurement of Nominal GDP",
+      "summary": "India has revised its nominal GDP calculation methodology to enhance economic tracking. The revision is primarily driven by the improved measurement of the country's unincorporated services sector.",
+      "category": "economy",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/opinion/op-ed/decoding-indias-gdp-base-revision/article71469721.ece",
+      "importance": 4,
+      "date_added": "2026-09-16"
+    },
+    {
+      "title": "India's Goods Exports Surge by 26% to Reduce Trade Deficit",
+      "summary": "India recorded a 26% surge in goods exports, which helped lower the August 2026 trade deficit. According to Commerce Secretary Rajesh Agrawal, merchandise export growth surpassed import growth in both percentage and absolute terms for the first time.",
+      "category": "economy",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/Economy/indias-26-goods-exports-surge-lowers-august-2026-trade-deficit/article71468184.ece",
+      "importance": 4,
+      "date_added": "2026-09-16"
+    },
+    {
+      "title": "Two New Frog Species Discovered in Mizoram",
+      "summary": "Scientists have identified two new frog species in Mizoram named Duttaphrynus phawngpui and Ingerana aizawl. The species are named after Mizoram's highest peak and its capital city, respectively.",
+      "category": "environment",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/mizoram/mizoram-yields-two-new-to-science-frog-species-one-hiding-in-plain-sight/article71467289.ece",
+      "importance": 4,
+      "date_added": "2026-09-16"
+    },
+    {
+      "title": "46th Chess Olympiad Commences in Samarkand",
+      "summary": "The 46th edition of the Chess Olympiad has commenced in Samarkand, featuring 208 nations in the open section and 191 in the women's section. The tournament is being played over 11 rounds in the Swiss system.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/other-sports/samarkand-chess-olympiad-2026-preview-india-chances/article71468821.ece",
+      "importance": 4,
+      "date_added": "2026-09-16"
+    },
+    {
+      "title": "Dhiraj Wins Archery World Championship Final Gold Title",
+      "summary": "Dhiraj won the gold medal title at the World Championship Final in archery. He became the second Indian archer to win a title in the event following Dola Banerjee's feat in 2007.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/other-sports/world-championship-final-gold-a-boost-not-just-for-the-asian-games-but-for-my-career-dhiraj/article71467921.ece",
+      "importance": 4,
+      "date_added": "2026-09-16"
+    },
+    {
+      "title": "Sree Charani Breaks Record for Highest ICC Rating Points by an Indian",
+      "summary": "Sree Charani achieved the highest ICC ranking points ever recorded by an Indian across both batting and bowling categories. She surpassed former skipper Mithali Raj's previous batting rating record of 780 points set in 2011.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/cricket/shree-charani-achieves-career-best-rating-deepti-climbs-to-no-2-in-t20i-rankings/article71467709.ece",
+      "importance": 4,
+      "date_added": "2026-09-16"
+    },
+    {
+      "title": "Asian Games Scheduled to Take Place in Aichi-Nagoya Region",
+      "summary": "The Asian Games will be held in Nagoya and the wider Aichi area from September 19 to October 4. Around 15,000 competitors and officials are expected to participate in the event.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/a-unique-experience-awaits-athletes-at-the-asian-games/article71362418.ece",
+      "importance": 4,
+      "date_added": "2026-09-16"
+    },
+    {
+      "title": "Indian Women's Cricket Team Defeats England in Historic Test at Lord's",
+      "summary": "The Indian women's cricket team registered a historic milestone by winning their first-ever women's Test match at Lord's against England. Following the victory, the team is set to focus on the UAE Asia Cup T20.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/cricket/weve-developed-winning-culture-hungry-for-more-says-harmanpreet-ahead-of-asia-cup-asian-games/article71390413.ece",
+      "importance": 4,
+      "date_added": "2026-09-16"
+    },
+    {
+      "title": "Odisha Receives ₹3,406 Crore SiC Semiconductor Facility",
+      "summary": "A SiC semiconductor facility valued at ₹3,406 crore is being set up in Odisha.",
+      "category": "science",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/odisha-gets-%e2%82%b93406-crore-sic-semiconductor-facility/",
+      "importance": 4,
+      "date_added": "2026-09-16"
+    },
+    {
+      "title": "Bharat Forge and Pratt & Whitney Partner for DRDO UAV Programme",
+      "summary": "Bharat Forge has partnered with Pratt & Whitney for the DRDO UAV programme.",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/bharat-forge-pratt-whitney-partner-for-drdo-uav-programme/",
+      "importance": 4,
+      "date_added": "2026-09-16"
+    },
+    {
+      "title": "World Circular Economy Forum 2026 Begins in Gandhinagar",
+      "summary": "The World Circular Economy Forum 2026 has officially commenced in Gandhinagar.",
+      "category": "international",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/world-circular-economy-forum-2026-begins-in-gandhinagar/",
+      "importance": 4,
+      "date_added": "2026-09-16"
     }
   ]
 }
