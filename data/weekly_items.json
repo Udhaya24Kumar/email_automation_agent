@@ -1,96 +1,6 @@
 {
   "items": [
     {
-      "title": "Union Cabinet Approves Eight Railway Multi-Tracking Projects Costing ₹20,804 Crore",
-      "summary": "The Union Cabinet has approved eight railway multi-tracking projects worth an estimated ₹20,804 crore to enhance rail connectivity. Key projects include line doubling and third/fourth lines across routes such as Arakkonam-Renigunta, Whitefield-Bangarapet, and Hosur-Omalur.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/cabinet-approves-eight-railway-multi-tracking-projects-costing-20804-crore/article71447167.ece",
-      "importance": 5,
-      "date_added": "2026-09-10"
-    },
-    {
-      "title": "UN Nuclear Watchdog Reports Iran to UN Security Council After 20 Years",
-      "summary": "The UN nuclear watchdog board has reported Iran to the UN Security Council for the first time in 20 years regarding its nuclear programme. Western officials suspect traces indicate a past secret nuclear weapons programme, while Iran maintains its activities are entirely peaceful.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/un-nuclear-watchdog-board-reports-iran-to-un-security-council-for-the-first-time-in-20-years/article71449985.ece",
-      "importance": 5,
-      "date_added": "2026-09-10"
-    },
-    {
-      "title": "International Space Summit Begins in Paris",
-      "summary": "The International Space Summit has commenced in Paris with participation from 90 countries. The French President announced that over 50 projects expected to bring in billions in investments are set to be signed.",
-      "category": "science",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sci-tech/international-space-summit-gets-underway-in-paris/article71448673.ece",
-      "importance": 4,
-      "date_added": "2026-09-10"
-    },
-    {
-      "title": "Sheetal Devi Wins Gold at World Archery Para Series",
-      "summary": "Indian archer Sheetal Devi secured a gold medal at the World Archery Para Series.",
-      "category": "sports",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/sheetal-devi-wins-gold-at-world-archery-para-series/",
-      "importance": 4,
-      "date_added": "2026-09-10"
-    },
-    {
-      "title": "Chhattisgarh Approves ₹500 Crore for NIPUN Mission",
-      "summary": "The state government of Chhattisgarh approved ₹500 crore for the implementation of the NIPUN Mission.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/chhattisgarh-approves-%e2%82%b9500-crore-nipun-mission/",
-      "importance": 4,
-      "date_added": "2026-09-10"
-    },
-    {
-      "title": "India to Host Global Dryland Congress 2026",
-      "summary": "India will host the Global Dryland Congress conference scheduled for 2026.",
-      "category": "international",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/india-to-host-global-dryland-congress-2026/",
-      "importance": 4,
-      "date_added": "2026-09-10"
-    },
-    {
-      "title": "Justice Pushpendra Bhati Sworn in as Chief Justice of J&K and Ladakh High Court",
-      "summary": "Justice Pushpendra Bhati has taken the oath of office as the Chief Justice of the High Court of Jammu & Kashmir and Ladakh. The oath was administered by Vinai Kumar Saxena, Lieutenant Governor of UT of Ladakh holding additional charge of UT of Jammu & Kashmir.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/justice-pushpendra-bhati-sworn-in-as-chief-justice-of-jk-ladakh-high-court/article71446374.ece",
-      "importance": 4,
-      "date_added": "2026-09-10"
-    },
-    {
-      "title": "IIM-Kozhikode Rises to 54th Rank in FT Masters in Management Rankings",
-      "summary": "Indian Institute of Management Kozhikode (IIM-K) advanced 15 positions to achieve 54th rank globally in the Financial Times Masters in Management rankings. The ranking places its flagship postgraduate programme among the top 55 management programmes worldwide.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/iim-kozhikode-rises-15-places-to-54th-in-ft-masters-in-management-rankings/article71441425.ece",
-      "importance": 4,
-      "date_added": "2026-09-10"
-    },
-    {
-      "title": "Supreme Court Inquires on BCCI Governance Under National Sports Governance Act",
-      "summary": "The Supreme Court has questioned why the BCCI and state cricket bodies should not be governed by the National Sports Governance Act. The inquiry is part of efforts to enhance transparency and accountability in Indian cricket governance.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/why-should-bcci-state-bodies-be-not-governed-by-national-sports-governance-act-asks-supreme-court/article71446539.ece",
-      "importance": 4,
-      "date_added": "2026-09-10"
-    },
-    {
-      "title": "UIDAI Launches Aadhaar Face Authentication SDK",
-      "summary": "The Unique Identification Authority of India (UIDAI) has launched the Aadhaar Face Authentication Software Development Kit (SDK).",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/uidai-launches-aadhaar-face-authentication-sdk/",
-      "importance": 4,
-      "date_added": "2026-09-10"
-    },
-    {
       "title": "UN Chief Antonio Guterres to Address BRICS Summit in India",
       "summary": "UN Secretary-General Antonio Guterres has been invited to address the Open Session at the BRICS Summit in India. He will focus on multipolarity and UNSC reforms under the summit theme 'Resilience, Innovation, Cooperation and Sustainability: Shaping the Future for Inclusive Global Growth'.",
       "category": "international",
@@ -944,6 +854,276 @@
       "url": "https://www.gktoday.in/world-circular-economy-forum-2026-begins-in-gandhinagar/",
       "importance": 4,
       "date_added": "2026-09-16"
+    },
+    {
+      "title": "Union Cabinet Raises EPFO Wage Ceiling to ₹25,000",
+      "summary": "The Union Cabinet has approved an increase in the EPFO wage ceiling to ₹25,000.",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/cabinet-raises-epfo-wage-ceiling-to-%e2%82%b925000/",
+      "importance": 5,
+      "date_added": "2026-09-17"
+    },
+    {
+      "title": "Anant Nag Selected for Dadasaheb Phalke Award",
+      "summary": "Actor Anant Nag has been chosen to receive the prestigious Dadasaheb Phalke Award.",
+      "category": "awards",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/anant-nag-to-receive-dadasaheb-phalke-award/",
+      "importance": 5,
+      "date_added": "2026-09-17"
+    },
+    {
+      "title": "Delhi Tops NITI Aayog's Electric Mobility Index",
+      "summary": "Delhi has ranked first in the Electric Mobility Index released by NITI Aayog.",
+      "category": "reports",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/delhi-tops-niti-aayogs-electric-mobility-index/",
+      "importance": 5,
+      "date_added": "2026-09-17"
+    },
+    {
+      "title": "APEDA Signs MoU with Gulfood Organiser for Food Trade",
+      "summary": "APEDA has signed a Memorandum of Understanding with the organiser of Gulfood to strengthen global food trade.",
+      "category": "international",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/apeda-signs-mou-with-gulfood-organiser-to-strengthen-global-food-trade/",
+      "importance": 4,
+      "date_added": "2026-09-17"
+    },
+    {
+      "title": "Oman Promotes Sohar Port as Energy Route for India",
+      "summary": "Oman is promoting Sohar Port as India's Gulf energy route.",
+      "category": "international",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/oman-promotes-sohar-port-as-indias-gulf-energy-route/",
+      "importance": 4,
+      "date_added": "2026-09-17"
+    },
+    {
+      "title": "U.S. House Passes Bill Authorising Tariffs on Russian Oil Buyers",
+      "summary": "The U.S. House of Representatives passed a bill authorising up to 100% tariffs on countries including India for purchasing oil and gas from Russia.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/mea-monitoring-developments-of-russia-sanctions-bill-in-us-congress/article71475348.ece",
+      "importance": 4,
+      "date_added": "2026-09-17"
+    },
+    {
+      "title": "Swachh Seva Aankalan Launched under Swachh Bharat Mission-Grameen",
+      "summary": "The Swachh Seva Aankalan initiative has been launched under the Swachh Bharat Mission-Grameen.",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/swachh-seva-aankalan-launched-for-swachh-bharat-mission-grameen/",
+      "importance": 4,
+      "date_added": "2026-09-17"
+    },
+    {
+      "title": "Project Cheetah Completes Four Years in India",
+      "summary": "India's Project Cheetah wildlife initiative has completed four years of operation.",
+      "category": "environment",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/project-cheetah-completes-four-years-in-india/",
+      "importance": 4,
+      "date_added": "2026-09-17"
+    },
+    {
+      "title": "Centre Reconstitutes Central Board of Film Certification",
+      "summary": "The Central Government has reconstituted the Central Board of Film Certification with 18 members.",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/centre-reconstitutes-central-board-of-film-certification-with-18-members/",
+      "importance": 4,
+      "date_added": "2026-09-17"
+    },
+    {
+      "title": "J&K MLAs decry 18% representation to Kashmir valley in UT officers’ list",
+      "summary": "J&amp;K CM Omar Abdullah distributed appointment orders to 55 newly selected candidates of the Combined Competitive Examination entering the Jammu & Kashmir Administrative Service and Jammu & Kashmir Accounts (Gazetted) Service",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-mlas-decry-18-representation-to-kashmir-valley-in-ut-officers-list/article71472329.ece",
+      "importance": 3,
+      "date_added": "2026-09-17"
+    },
+    {
+      "title": "Uttar Pradesh ATS arrests Tamil Nadu youth for allegedly planning terror activities",
+      "summary": "Maqsood Ali, who was allegedly in touch with Pakistani hackers and had developed a secure communication network for others like him, was arrested from Coimbatore with the assistance of Tamil Nadu ATS",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-ats-arrests-tamil-nadu-youth-for-allegedly-planning-terror-activities/article71474054.ece",
+      "importance": 3,
+      "date_added": "2026-09-17"
+    },
+    {
+      "title": "BIS raises gold hallmarking fee to ₹75 from ₹45 ahead of festive season",
+      "summary": "Expressing concern over the move, the All India Gem and Jewellery Domestic Council (GJC) urged the government and BIS to immediately review the decision and retain the existing charge pending stakeholder consultation",
+      "category": "economy",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/Economy/bis-raises-gold-hallmarking-fee-to-75-from-45-ahead-of-festive-season/article71471898.ece",
+      "importance": 3,
+      "date_added": "2026-09-17"
+    },
+    {
+      "title": "Uttar Pradesh deliberate on accelerating SDG targets focused on health, nutrition and education",
+      "summary": "Experts share innovations, experiences at the ‘Empowering Futures’ programme in Lucknow",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-deliberate-on-accelerating-sdg-targets-focused-on-health-nutrition-and-education/article71473350.ece",
+      "importance": 3,
+      "date_added": "2026-09-17"
+    },
+    {
+      "title": "Government functionary questions Rahul's criticism of UPI charges, says Congress MPs in panel gave nod",
+      "summary": "Why is Rahul Gandhi opposing something his own MPs, including former finance minister P.Chidambaram and former minister in the UPA government Manish Tewari supported within the parliamentary panel, says a senior government functionary",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/government-functionary-questions-rahuls-criticism-of-upi-charges-says-congress-mps-in-panel-gave-nod/article71475118.ece",
+      "importance": 3,
+      "date_added": "2026-09-17"
+    },
+    {
+      "title": "T.N. CM Vijay returns from U.K. with ₹15,300 crore investment commitments",
+      "summary": "He also met Indian High Commissioner Kumaran Periyasamy and held discussions on joint ventures between India and the U.K. under the Comprehensive Economic and Trade Agreement.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-cm-vijay-returns-from-uk-with-15300-crore-investment-commitments/article71475246.ece",
+      "importance": 3,
+      "date_added": "2026-09-17"
+    },
+    {
+      "title": "BJP MPs raise concerns over slow pace of infrastructure projects in Odisha",
+      "summary": "Nabrangpur MP Balabhadra Majhi, Bolangir MP Sangeeta Kumari Singh Deo and Kantabanji MLA Laxman Bag’s letters is said to put the Mohan Charan Majhi government in an uncomfortable position",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/odisha/bjp-mps-raise-concerns-over-slow-pace-of-infrastructure-projects-in-odisha/article71472679.ece",
+      "importance": 3,
+      "date_added": "2026-09-17"
+    },
+    {
+      "title": "CJP to launch ‘Adivasi School Thik Karo’ campaign from Gadchiroli on Sept. 17: Dipke",
+      "summary": "As part of the exercise, CJP representatives will visit tribal schools and inspect the facilities and infrastructure; Abhijeet Dipke tears up copy of MoU between Maharashtra govt., trust over tribal hostels",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/cjp-to-launch-adivasi-school-thik-karo-campaign-from-gadchiroli-on-sept-17-dipke/article71471862.ece",
+      "importance": 3,
+      "date_added": "2026-09-17"
+    },
+    {
+      "title": "NEET-UG protests: Supreme Court refuses change in High-Powered Enquiry Committee, says inquiry on pellet guns, excesses must come first",
+      "summary": "The court expressed a sense of chagrin that the disparagement from the petitioners’ side had commenced even before the HPEC had started work",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/neet-ug-protests-sc-refuses-change-in-hpec-says-enquiry-on-pellet-guns-excesses-must-come-first/article71471162.ece",
+      "importance": 3,
+      "date_added": "2026-09-17"
+    },
+    {
+      "title": "J&K CM Omar Abdullah backs Centre on UPI charges",
+      "summary": "Asserting that maintaining and operating the UPI infrastructure is not cheap, the Chief Minister said it takes a substantial amount of money to run the payment system",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-cm-omar-abdullah-backs-centre-on-upi-charges/article71474141.ece",
+      "importance": 3,
+      "date_added": "2026-09-17"
+    },
+    {
+      "title": "ICE agent charged with assault, lying about shooting, arrested in Minnesota",
+      "summary": "But a lawyer for the ICE agent, Rolando Cantu, said ‌in an interview that his client always intended to answer the charges in Minneapolis.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/ice-agent-charged-with-assault-lying-about-shooting-arrested-in-minnesota/article71475135.ece",
+      "importance": 3,
+      "date_added": "2026-09-17"
+    },
+    {
+      "title": "Federal Reserve hikes key rate to tackle ‘too high’ inflation, defying Trump demands for cut",
+      "summary": "Chairperson Warsh said renewed U.S.-Iran combat, which has driven up gas prices, also convinced officials to support rate hikes; President Trump reacted angrily to the decision, renewing his call for the Fed to lower interest rates “AND FAST”",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/federal-reserve-hikes-key-rate-for-first-time-in-three-years-defying-trump-demands-for-cut/article71474094.ece",
+      "importance": 3,
+      "date_added": "2026-09-17"
+    },
+    {
+      "title": "EU chief offers Canada ‘Associate Membership’ of bloc",
+      "summary": "Canadian PM Mark Carney has been pursuing closer ties with the European Union, as both seek to pivot away from a hostile United States under President Donald Trump.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/eu-chief-pitches-associate-member-status-for-canada/article71472016.ece",
+      "importance": 3,
+      "date_added": "2026-09-17"
+    },
+    {
+      "title": "EU to ban social media for under 13s, curb access until 15",
+      "summary": "The European Commission president and tech chief Henna Virkkunen will formally present the proposed “KIDS Act”, including the tiered age limits in Strasbourg, France, on September 16, 2026",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/eu-to-ban-social-media-for-under-13s-curb-access-until-15/article71472470.ece",
+      "importance": 3,
+      "date_added": "2026-09-17"
+    },
+    {
+      "title": "Parliament Standing Committee didn’t discuss MDR charges on UPI transactions, says Gaurav Gogoi",
+      "summary": "The Congress MP said that government representatives did not provide any ‘specific or satisfactory’ answers on the need for the new UPI charges",
+      "category": "economy",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/Economy/parliament-standing-committee-didnt-discuss-mdr-charges-on-upi-transactions-says-gaurav-gogoi/article71475383.ece",
+      "importance": 3,
+      "date_added": "2026-09-17"
+    },
+    {
+      "title": "FM urges industry to look beyond rate cuts to compliance and revenue; calls for robust tax policy research",
+      "summary": "Drawing comparisons with institutions such as the Institute for Fiscal Studies in the UK and the International Bureau of Fiscal Documentation in Amsterdam, Sitharaman said India needed more visible and rigorous independent tax policy research",
+      "category": "economy",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/Economy/fm-urges-industry-to-look-beyond-rate-cuts-to-compliance-revenue-calls-for-robust-tax-policy-research/article71472456.ece",
+      "importance": 3,
+      "date_added": "2026-09-17"
+    },
+    {
+      "title": "‘PM has redefined NOTA — Narendra’s Ongoing Trump Appeasement’: Congress after UPI move",
+      "summary": "Jairam Ramesh asked whether the government's move on MDR was done to enable U.S. card companies to compete with UPI",
+      "category": "economy",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/narendras-ongoing-trump-appeasement-congresss-dig-at-pm-on-upi-move/article71471176.ece",
+      "importance": 3,
+      "date_added": "2026-09-17"
+    },
+    {
+      "title": "Nabi, Dhir get maiden ODI call-ups for West Indies series",
+      "summary": "Rohit Sharma, Virat Kohli and Ravindra Jadeja are all part of the ODI series against the men from the Caribbean, providing vast experience to the Shubman Gill-led squad",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/cricket/nabidhirget-maidenodicall-ups-for-wiseries/article71473716.ece",
+      "importance": 3,
+      "date_added": "2026-09-17"
+    },
+    {
+      "title": "Government is ‘surrendering to American pressure’ with UPI charges, Rahul Gandhi alleges; Kharge terms it ‘loot’",
+      "summary": "The move is aimed at opening the digital payments sector to American companies, the Leader of the Opposition in the Lok Sabha says, alleging that a recent notification has quietly paved the way for imposing a Merchant Discount Rate on merchant transactions above ₹2,000",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/compromised-pm-modi-again-surrendering-to-us-pressure-rahul-on-governments-upi-move/article71467221.ece",
+      "importance": 3,
+      "date_added": "2026-09-17"
+    },
+    {
+      "title": "PM decided to prostrate before Trump, says Rahul on UPI charge",
+      "summary": "The Congress has sought to link the UPI decision to what it describes as growing U.S. pressure on India, including demands for changes to the zero merchant discount rate regime for UPI",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/pm-decided-to-prostrate-before-trump-says-rahul-on-upi-charge/article71472616.ece",
+      "importance": 3,
+      "date_added": "2026-09-17"
+    },
+    {
+      "title": "Spurious drug racket accused had shop near Minerva Circle in Bengaluru; SIT gets custody",
+      "summary": "One of the two main accused in the case is Veeresh Kumar Jain, a native of Rajasthan and proprietor of Krupa Healthcare near Minerva Circle in Bengaluru",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/pharmacy-owner-sent-to-sit-custody-in-spurious-drug-racket-case/article71473791.ece",
+      "importance": 3,
+      "date_added": "2026-09-17"
     }
   ]
 }
