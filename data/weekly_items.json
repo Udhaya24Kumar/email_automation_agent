@@ -1,141 +1,6 @@
 {
   "items": [
     {
-      "title": "UN Chief Antonio Guterres to Address BRICS Summit in India",
-      "summary": "UN Secretary-General Antonio Guterres has been invited to address the Open Session at the BRICS Summit in India. He will focus on multipolarity and UNSC reforms under the summit theme 'Resilience, Innovation, Cooperation and Sustainability: Shaping the Future for Inclusive Global Growth'.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/un-chief-to-stress-multipolarity-unsc-reforms-at-brics-summit-in-india/article71450463.ece",
-      "importance": 5,
-      "date_added": "2026-09-11"
-    },
-    {
-      "title": "India to Host 18th BRICS Summit 2026 in New Delhi",
-      "summary": "India will host world leaders in New Delhi on September 12-13 for the 18th BRICS Summit, marking the fourth time India assumes the group's chairmanship.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/18th-brics-summit-2026-world-leaders-attending-in-new-delhi-india-role-key-agenda/article71445723.ece",
-      "importance": 5,
-      "date_added": "2026-09-11"
-    },
-    {
-      "title": "India and U.S. Armies Conduct 22nd Edition of Exercise Yudh Abhyas",
-      "summary": "The Indian and U.S. armies are stepping up combat interoperability through the 22nd edition of the bilateral military exercise Yudh Abhyas. The U.S. Army's 3rd Multi-Domain Task Force is participating in the bilateral exercise.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/india-us-armies-step-up-combat-interoperability-with-22nd-yudh-abhyas/article71451971.ece",
-      "importance": 5,
-      "date_added": "2026-09-11"
-    },
-    {
-      "title": "Home Ministry Discusses Proposed Article 371 Body for Ladakh",
-      "summary": "The Ministry of Home Affairs met with LAB and KDA representatives to discuss the proposed structure of a unique UT-level elected body for Ladakh under Article 371.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/ladakh/no-statehood-ladakh-to-get-unique-elected-body-says-chief-secretary/article71452682.ece",
-      "importance": 4,
-      "date_added": "2026-09-11"
-    },
-    {
-      "title": "Jaishankar Meets Ismaili Leader Prince Rahim Aga Khan V",
-      "summary": "Prince Rahim Aga Khan V, the 50th Imam of the Ismaili Muslims, began his visit to India on September 9 following an invitation from Vice-President C.P. Radhakrishnan. During the visit, Jaishankar held a meeting with Prince Rahim Aga Khan V.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/jaishankar-meets-prince-rahim-aga-khan-v/article71454646.ece",
-      "importance": 4,
-      "date_added": "2026-09-11"
-    },
-    {
-      "title": "PM Modi and German Chancellor Merz Reaffirm Bilateral Cooperation",
-      "summary": "Prime Minister Modi and German Chancellor Merz exchanged views on regional and global developments during a phone call. The two leaders agreed to work closely together to promote global peace, stability, and prosperity.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/pm-modi-german-chancellor-merz-reaffirm-commitment-to-strengthen-cooperation/article71454626.ece",
-      "importance": 4,
-      "date_added": "2026-09-11"
-    },
-    {
-      "title": "India and Canada Aim to Finalise CEPA Trade Deal by Year-End",
-      "summary": "Canadian High Commissioner Christopher Cooter confirmed that India and Canada plan to complete the Comprehensive Economic Partnership Agreement (CEPA) by the end of the year to align with Prime Minister Narendra Modi's planned visit to Canada in December.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/india-canada-trade-deal-by-the-end-of-the-year-canadian-high-commissioner-cooter-says/article71452027.ece",
-      "importance": 4,
-      "date_added": "2026-09-11"
-    },
-    {
-      "title": "Chinese President Xi Jinping to Visit India After Seven-Year Gap",
-      "summary": "China has confirmed that President Xi Jinping will visit India after seven years to focus on trade and bilateral normalisation. Chinese Commerce Minister Wang Wentao and Indian Commerce Minister Piyush Goyal will hold discussions on the sidelines of the event.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/china-confirms-xi-to-visit-india-after-7-year-gap-trade-normalisation-on-agenda/article71451235.ece",
-      "importance": 4,
-      "date_added": "2026-09-11"
-    },
-    {
-      "title": "Shree Charani Becomes Fastest Indian to 50 T20I Wickets",
-      "summary": "Shree Charani has achieved the milestone of becoming the fastest Indian bowler to reach 50 wickets in T20 International cricket.",
-      "category": "sports",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/shree-charani-becomes-fastest-indian-to-50-t20i-wickets/",
-      "importance": 4,
-      "date_added": "2026-09-11"
-    },
-    {
-      "title": "Nirbhay Choudhary Sets New Men's Hammer Throw National Record",
-      "summary": "Nirbhay Choudhary broke the existing national record in the men's hammer throw event.",
-      "category": "sports",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/nirbhay-choudhary-breaks-mens-hammer-throw-national-record/",
-      "importance": 4,
-      "date_added": "2026-09-11"
-    },
-    {
-      "title": "IMF Welcomes Modernisation of India's Statistical Framework",
-      "summary": "The International Monetary Fund (IMF) has welcomed the ongoing modernisation of India's statistical framework.",
-      "category": "reports",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/imf-welcomes-indias-statistical-framework-modernisation/",
-      "importance": 4,
-      "date_added": "2026-09-11"
-    },
-    {
-      "title": "Government Releases DILRMP 3.0 Guidelines",
-      "summary": "The Government of India has officially launched the guidelines for DILRMP 3.0.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/government-launches-dilrmp-3-0-guidelines/",
-      "importance": 4,
-      "date_added": "2026-09-11"
-    },
-    {
-      "title": "Government Tightens Regulations on E-Commerce Discounts",
-      "summary": "The Government has introduced stricter regulatory measures regarding discount structures offered across e-commerce platforms.",
-      "category": "economy",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/government-tightens-e-commerce-rules-on-discounts/",
-      "importance": 4,
-      "date_added": "2026-09-11"
-    },
-    {
-      "title": "Dhruva Space and Safran Space Partner for Satellite Supply",
-      "summary": "Indian space firm Dhruva Space has signed a satellite supply deal with Safran Space.",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/dhruva-space-safran-space-sign-satellite-supply-deal/",
-      "importance": 4,
-      "date_added": "2026-09-11"
-    },
-    {
-      "title": "Union Minister Manohar Lal to Attend G20 Energy Ministerial Meeting in Houston",
-      "summary": "Union Minister Shri Manohar Lal will participate in the G20 Energy Abundance Ministerial Meeting. The meeting is taking place in Houston, USA.",
-      "category": "national",
-      "source": "pib",
-      "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2309006",
-      "importance": 4,
-      "date_added": "2026-09-11"
-    },
-    {
       "title": "Union Commerce Minister Proposes Linked Payment Systems at BRICS Business Forum",
       "summary": "Speaking at the inaugural session of the BRICS Business Forum, Union Commerce Minister Piyush Goyal called on BRICS nations to link payment systems and trade in local currencies. He noted that BRICS countries represent half of the global population and 40% of global GDP.",
       "category": "international",
@@ -1124,6 +989,132 @@
       "url": "https://www.thehindu.com/news/national/karnataka/pharmacy-owner-sent-to-sit-custody-in-spurious-drug-racket-case/article71473791.ece",
       "importance": 3,
       "date_added": "2026-09-17"
+    },
+    {
+      "title": "HAL Airport Becomes India's First to Operationalise RNP CAT H Helicopter Approach System",
+      "summary": "HAL Airport has become the first airport in India to operationalise the RNP CAT H helicopter approach procedure. The system uses a satellite-guided precision navigation system engineered specifically for helicopter operations.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/hal-airport-becomes-first-in-india-to-operationalise-rnp-cat-h-helicopter-approach/article71317031.ece",
+      "importance": 5,
+      "date_added": "2026-09-18"
+    },
+    {
+      "title": "Elena Rybakina Wins US Open Title and Ascends to World No. 1",
+      "summary": "Elena Rybakina won the US Open title by defeating the top seed and two-time defending champion in the final. Following her victory, she ascended to the World No. 1 ranking in women's tennis.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/tennis/elena-rybakina-world-no-1-us-open-2026-rise-sabalenka-analysis-stats/article71478154.ece",
+      "importance": 5,
+      "date_added": "2026-09-18"
+    },
+    {
+      "title": "Union Cabinet Approves ₹24,815 Crore Multi-Tracking Railway Projects in U.P. and Andhra Pradesh",
+      "summary": "The Union Cabinet has approved multi-tracking railway projects worth ₹24,815 crore across 15 districts in Uttar Pradesh and Andhra Pradesh. The project will expand the Indian Railways network by about 601 km and includes the ₹14,926 crore Ghaziabad-Sitapur line to enhance connectivity between northern and eastern India.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/union-cabinet-approves-24815-crore-multi-tracking-projects-across-15-districts-in-up-andhra-pradesh/article70878235.ece",
+      "importance": 4,
+      "date_added": "2026-09-18"
+    },
+    {
+      "title": "Union Cabinet Approves ₹9,889 Crore Railway Line Projects in Andhra Pradesh",
+      "summary": "The Union Cabinet has sanctioned new railway lines in Andhra Pradesh valued at ₹9,889 crore, featuring 198-km-long third and fourth lines between Rajahmundry and Visakhapatnam. The expansion aims to enhance port connectivity, boost tourism, and handle an additional freight traffic of 29.04 million tonnes per annum.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/union-cabinet-approves-new-railway-lines-at-a-cost-of-9889-crore-in-andhra-pradesh/article70877644.ece",
+      "importance": 4,
+      "date_added": "2026-09-18"
+    },
+    {
+      "title": "MHA Designates Shahzad Bhatti Network as Terrorist Organisation Under UAPA",
+      "summary": "The Union Ministry of Home Affairs has designated the Shahzad Bhatti Network as a terrorist organisation under the Unlawful Activities (Prevention) Act. The ministry notified that the group's activities pose a serious threat to national security, communal harmony, and the democratic system.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/why-was-shahzad-bhatti-network-designated-as-a-terrorist-group-under-uapa-explained/article71475616.ece",
+      "importance": 4,
+      "date_added": "2026-09-18"
+    },
+    {
+      "title": "West Bengal Joins Union Government's PM Vishwakarma Scheme",
+      "summary": "West Bengal has for the first time joined and launched the Union government's PM Vishwakarma Scheme. The state government also observed the launch event as Annapurna Divas.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/cities/kolkata/west-bengal-govt-participates-in-pm-modis-birthday-celebrations-life-size-statue-unveiled-at-bjp-office-in-kolkata/article71476992.ece",
+      "importance": 4,
+      "date_added": "2026-09-18"
+    },
+    {
+      "title": "PM Modi Addresses Semicon India 2026 on Semiconductor Manufacturing",
+      "summary": "Prime Minister Narendra Modi addressed Semicon India 2026, positioning India as a trustworthy destination for chipmaking amid concerns over supply chain weaponisation. He stressed that India's emergence as an electronics manufacturing hub will benefit the global economy.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/semicon-india-2026-indias-semiconductor-ecosystem-expanding-opening-new-opportunities-says-modi/article71475696.ece",
+      "importance": 4,
+      "date_added": "2026-09-18"
+    },
+    {
+      "title": "New Cat Species 'Tilcayo' Identified in Bolivia",
+      "summary": "A new cat species named 'Tilcayo' has been identified in Bolivia, marking the first such discovery in over a century. Genetic analysis indicates that the lineage separated from other tiger cats approximately 1.4 million years ago.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/new-cat-species-identified-in-bolivia-first-in-over-a-century/article71478144.ece",
+      "importance": 4,
+      "date_added": "2026-09-18"
+    },
+    {
+      "title": "Moody's Raises India's FY27 GDP Growth Forecast to 7%",
+      "summary": "Moody's has raised India's fiscal 2027 GDP growth forecast to 7%, citing resilience despite geopolitical tensions in West Asia. The rating agency noted that elevated energy prices and El Niño-related food price pressures remain risks to inflation and growth.",
+      "category": "economy",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/Economy/moodys-raises-india-fiscal-2027-gdp-growth-forecast-to-7-on-west-asia-resilience/article71479416.ece",
+      "importance": 4,
+      "date_added": "2026-09-18"
+    },
+    {
+      "title": "Government Launches 16th Round of Commercial Auctions for 25 Coal Blocks",
+      "summary": "The Government of India has put 25 coal blocks up for sale under the 16th round of commercial auctions. The offered mines are distributed across nine states, including Arunachal Pradesh, Bihar, Chhattisgarh, and Jharkhand.",
+      "category": "economy",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/Economy/govt-puts-25-coal-blocks-on-sale-in-16th-round-of-commercial-auctions/article71477934.ece",
+      "importance": 4,
+      "date_added": "2026-09-18"
+    },
+    {
+      "title": "Abhishek Sharma Scores Fastest T20 Century by an Indian",
+      "summary": "Abhishek Sharma scored a 34-ball century against Afghanistan, setting the record for the fastest hundred by an Indian in full-member T20 matches. He broke the previous national record of a 35-ball century set by Rohit Sharma in 2017.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/cricket/abhishek-blazes-fastest-century-in-full-member-t20s/article71478364.ece",
+      "importance": 4,
+      "date_added": "2026-09-18"
+    },
+    {
+      "title": "Astronomers Discover Youngest Known Planet Elias 2-24 b",
+      "summary": "Astronomers have discovered Elias 2-24 b, which has been identified as the youngest known planet.",
+      "category": "science",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/astronomers-discover-youngest-known-planet-elias-2-24-b/",
+      "importance": 4,
+      "date_added": "2026-09-18"
+    },
+    {
+      "title": "Ladakh Develops World's Highest-Altitude Flower Fields",
+      "summary": "Ladakh has successfully developed the world's highest-altitude flower fields.",
+      "category": "environment",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/ladakh-develops-worlds-highest-altitude-flower-fields/",
+      "importance": 4,
+      "date_added": "2026-09-18"
+    },
+    {
+      "title": "Scientists Identify Leopardus tilcayo in Bolivia",
+      "summary": "Scientists have identified Leopardus tilcayo in Bolivia.",
+      "category": "science",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/scientists-identify-leopardus-tilcayo-in-bolivia/",
+      "importance": 4,
+      "date_added": "2026-09-18"
     }
   ]
 }
