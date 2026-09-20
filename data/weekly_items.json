@@ -1,114 +1,6 @@
 {
   "items": [
     {
-      "title": "BRICS Leaders Meet in India for Annual Summit",
-      "summary": "BRICS leaders convened in India for their summit amidst global conflicts and international tensions. The meeting highlighted India's diplomatic efforts to balance ties with Russia, Iran, the U.S., and Europe.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/brics-leaders-meet-in-india-as-wars-and-us-tensions-test-the-bloc/article71459222.ece",
-      "importance": 5,
-      "date_added": "2026-09-13"
-    },
-    {
-      "title": "BRICS Summit Issues New Delhi Declaration",
-      "summary": "The BRICS summit chaired by the Prime Minister issued the New Delhi Declaration, calling for maximum restraint in ongoing wars and emphasizing peace.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/brics-issues-new-delhi-declaration-as-uae-and-iran-back-down-from-tough-positions/article71460749.ece",
-      "importance": 5,
-      "date_added": "2026-09-13"
-    },
-    {
-      "title": "India-Russia Bilateral Trade Target Set at $100 Billion by 2030",
-      "summary": "India and Russia have set a bilateral trade target of $100 billion to be achieved by the year 2030.",
-      "category": "international",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/india-russia-trade-target-set-at-100-billion-by-2030/",
-      "importance": 4,
-      "date_added": "2026-09-13"
-    },
-    {
-      "title": "Endangered Pygmy Hog Population Reaches 194 via Captive Breeding",
-      "summary": "The population of the endangered pygmy hog has increased from six in 1996 to 194 through a captive breeding programme in Assam.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/assam/assam-cm-highlights-big-comeback-of-small-hog/article71462548.ece",
-      "importance": 4,
-      "date_added": "2026-09-13"
-    },
-    {
-      "title": "PM Modi and President Xi Welcome Progress in India-China Bilateral Relations",
-      "summary": "Prime Minister Narendra Modi and Chinese President Xi Jinping welcomed steady progress in India-China bilateral relations. PM Modi stated that peace and tranquillity in border areas are essential for bilateral development, while President Xi referred to both nations as key Global South countries with significant responsibilities.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/xi-modi-welcome-steady-progress-in-india-china-ties/article71460892.ece",
-      "importance": 4,
-      "date_added": "2026-09-13"
-    },
-    {
-      "title": "Rajasthan High Court Rules Resigned Govt Employees Contesting Polls Cannot Seek Reinstatement",
-      "summary": "The Rajasthan High Court ruled that a government employee who quits to contest elections cannot seek reinstatement in service. The court upheld the Central Administrative Tribunal's finding that contesting an election as a political party candidate violates the requirement of maintaining political neutrality.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/rajasthan/govt-employee-quitting-to-fight-polls-cant-seek-reinstatement-rajasthan-high-court/article71460588.ece",
-      "importance": 4,
-      "date_added": "2026-09-13"
-    },
-    {
-      "title": "BRICS Leaders Stress Health Cooperation in New Delhi Declaration",
-      "summary": "BRICS leaders called for stronger cooperation in disease surveillance and medical product regulation in their New Delhi Declaration. They stressed the importance of strengthening health infrastructure and local production to enhance preparedness for future health emergencies.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/brics-leaders-call-for-stronger-cooperation-in-disease-surveillance-medical-product-regulation/article71461003.ece",
-      "importance": 4,
-      "date_added": "2026-09-13"
-    },
-    {
-      "title": "'Woman Unknown' Wins Top Prize at Venice Film Festival",
-      "summary": "'Woman Unknown' won the top prize at the Venice Film Festival, while John Malkovich was named best actor. Additionally, an Israeli-made Gaza documentary was awarded the special jury prize.",
-      "category": "awards",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/entertainment/venice-film-festival-woman-unknown-golden-lion-winners/article71461322.ece",
-      "importance": 4,
-      "date_added": "2026-09-13"
-    },
-    {
-      "title": "India Reaches Junior Women’s Asia Cup Final with 5-1 Win Over South Korea",
-      "summary": "India advanced to the final of the Junior Women’s Asia Cup after defeating South Korea 5-1, powered by a hat-trick from Supriya. India will face the winner of the second semifinal between hosts China and Japan in the summit clash.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/hockey/junior-womens-asia-cup-india-reaches-final-as-supriyas-hat-trick-seals-5-1-win-over-south-korea/article71459658.ece",
-      "importance": 4,
-      "date_added": "2026-09-13"
-    },
-    {
-      "title": "OPU-IVF Calf Born in Badri Cattle Breed Conservation Milestone",
-      "summary": "An OPU-IVF calf was born in Badri cattle, marking a major milestone in indigenous breed conservation.",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/opu-ivf-calf-born-in-badri-cattle-in-major-indigenous-breed-conservation-milestone/",
-      "importance": 4,
-      "date_added": "2026-09-13"
-    },
-    {
-      "title": "Colombo Security Conclave Table Top Exercise Concludes in Visakhapatnam",
-      "summary": "The Table Top Exercise under the Colombo Security Conclave concluded in Visakhapatnam.",
-      "category": "international",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/colombo-security-conclave-table-top-exercise-ends-in-visakhapatnam/",
-      "importance": 4,
-      "date_added": "2026-09-13"
-    },
-    {
-      "title": "Southern Railway Achieves 100% Electrification",
-      "summary": "Southern Railway has successfully achieved 100% electrification across its routes.",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/southern-railway-achieves-100-electrification/",
-      "importance": 4,
-      "date_added": "2026-09-13"
-    },
-    {
       "title": "Defence Ministry report notes S-400 air-defence engagement in Operation Sindoor",
       "summary": "According to the Defence Ministry's annual report, the S-400 air-defence system destroyed a Pakistani aircraft at a range of 314 km during Operation Sindoor. The report highlighted the engagement as a demonstration of the Indian Air Force's long-range air-defence capability.",
       "category": "national",
@@ -1268,6 +1160,204 @@
       "url": "https://www.thehindu.com/news/national/chhattisgarh/jhiram-valley-maoist-attack-case-rarest-of-rare-court-order/article71481943.ece",
       "importance": 3,
       "date_added": "2026-09-19"
+    },
+    {
+      "title": "20th Asian Games Begins in Nagoya; Manu Bhaker and Pawan Sehrawat Lead Indian Contingent",
+      "summary": "The 20th Asian Games officially opened in Nagoya, Japan, declared open by Japan's Emperor. Manu Bhaker and Pawan Sehrawat led the Indian contingent during the opening ceremony.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/asian-games-2026-live-updates-opening-ceremony-september-19-2026/article71483852.ece",
+      "importance": 5,
+      "date_added": "2026-09-20"
+    },
+    {
+      "title": "Pawan Sehrawat Named India's Flag-Bearer for 2026 Asian Games",
+      "summary": "Pawan Sehrawat has been selected as India's male flag-bearer for the Asian Games 2026.",
+      "category": "sports",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/pawan-sehrawat-named-indias-male-flag-bearer-for-asian-games-2026/",
+      "importance": 5,
+      "date_added": "2026-09-20"
+    },
+    {
+      "title": "Kannada Actor Anant Nag Honoured with Dadasaheb Phalke Award",
+      "summary": "Versatile Kannada actor Anant Nag has been honoured with the prestigious Dadasaheb Phalke Award.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/not-in-a-mould-anant-nag/article71485785.ece",
+      "importance": 5,
+      "date_added": "2026-09-20"
+    },
+    {
+      "title": "Deepika Scores Eight Goals as India Defeats Uzbekistan 19-0 in Asian Games 2026 Hockey",
+      "summary": "Indian hockey player Deepika scored eight goals to power India to a dominant 19-0 win against Uzbekistan at the Asian Games 2026.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/asian-games-2026-deepikas-eight-goal-blitz-powers-india-to-19-0-hockey-win-over-uzbekistan/article71487156.ece",
+      "importance": 4,
+      "date_added": "2026-09-20"
+    },
+    {
+      "title": "India Wins Silver Medal in Women's 10m Air Rifle Team Event at Asian Games",
+      "summary": "The Indian trio of Elavenil Valarivan, Sonam Maskar, and Vidarsa Vinod secured the silver medal in the women's 10m air rifle team event with 1898.0 points. China won the event with a world-record score of 1904.2 points.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/india-open-shooting-campaign-with-silver-in-womens-10m-air-rifle-team-event/article71487112.ece",
+      "importance": 4,
+      "date_added": "2026-09-20"
+    },
+    {
+      "title": "PM Modi Distributes 51,000 Appointment Letters at 20th Rozgar Mela",
+      "summary": "Prime Minister Narendra Modi distributed 51,000 appointment letters during the 20th Rozgar Mela.",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/pm-modi-distributes-51000-appointment-letters-at-20th-rozgar-mela/",
+      "importance": 4,
+      "date_added": "2026-09-20"
+    },
+    {
+      "title": "1965 War Hero Alfred Tyrone Cooke Passes Away",
+      "summary": "Alfred Tyrone Cooke, a hero of the 1965 war and recipient of the Vir Chakra, has passed away.",
+      "category": "awards",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/1965-war-hero-and-vir-chakra-awardee-alfred-tyrone-cooke-dies/",
+      "importance": 4,
+      "date_added": "2026-09-20"
+    },
+    {
+      "title": "U.S. Introduces Sanctions Act Affecting India's Russian Oil Imports and Tariffs",
+      "summary": "The United States introduced the Lindsey O. Graham Sanctioning Russia and Iran Act, 2026, which outlines conditions affecting tariffs and India's imports of Russian oil. The law details economic implications for India alongside provisions concerning potential tariff waivers.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/how-will-the-uss-sanctioning-act-affect-india-explained/article71485870.ece",
+      "importance": 4,
+      "date_added": "2026-09-20"
+    },
+    {
+      "title": "India Fulfilled All Paris Agreement Pledges, Says PM Modi",
+      "summary": "Prime Minister Narendra Modi announced that India has met all its Paris Agreement commitments and emphasised that the nation's per capita carbon emissions are lower than the global average.",
+      "category": "environment",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/pm-modi-inaugurates-ngts-climate-conference-highlights-climate-inequality/article71483805.ece",
+      "importance": 4,
+      "date_added": "2026-09-20"
+    },
+    {
+      "title": "2026 Asian Games Opens in Japan with 'One Asia, One Heart' Motto",
+      "summary": "The 2026 Asian Games commenced in host country Japan under the motto 'One Asia, one heart'. Emperor Naruhito formally declared the continental sports event open.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/asian-games-2026-one-asia-one-heart-as-continental-extravaganza-begins/article71484684.ece",
+      "importance": 4,
+      "date_added": "2026-09-20"
+    },
+    {
+      "title": "UN Appoints Luke Lindberg as Head of World Food Programme",
+      "summary": "The United Nations has appointed Luke Lindberg to head the World Food Programme.",
+      "category": "international",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/un-appoints-luke-lindberg-to-head-world-food-programme/",
+      "importance": 4,
+      "date_added": "2026-09-20"
+    },
+    {
+      "title": "Hansraj Singh Verma Appointed India's Ambassador to Cuba",
+      "summary": "Hansraj Singh Verma has been appointed as India's next Ambassador to Cuba.",
+      "category": "international",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/hansraj-singh-verma-appointed-indias-next-ambassador-to-cuba/",
+      "importance": 4,
+      "date_added": "2026-09-20"
+    },
+    {
+      "title": "PM Modi Inaugurates Conference on Environment and Climate Dynamics",
+      "summary": "Prime Minister Narendra Modi inaugurated the International Conference on 'The Future of Environment and Climate Dynamics'.",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/pm-modi-inaugurates-international-conference-on-the-future-of-environment-and-climate-dynamics/",
+      "importance": 4,
+      "date_added": "2026-09-20"
+    },
+    {
+      "title": "Yugan Sakthivel Muthukumaar Wins Men's Trap Gold",
+      "summary": "Yugan Sakthivel Muthukumaar secured the gold medal in the Men's Trap event.",
+      "category": "sports",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/yugan-sakthivel-muthukumaar-wins-mens-trap-gold/",
+      "importance": 4,
+      "date_added": "2026-09-20"
+    },
+    {
+      "title": "Karnataka Approves Marine Biotechnology Policy",
+      "summary": "The state government of Karnataka has approved its Marine Biotechnology Policy.",
+      "category": "science",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/karnataka-approves-marine-biotechnology-policy/",
+      "importance": 4,
+      "date_added": "2026-09-20"
+    },
+    {
+      "title": "India men’s cricket team dealing with clothing issue ahead of departure for Asian Games",
+      "summary": "There has been plenty of back and forth between BCCI and the Indian Olympic Association's kit supplier, JSW Inspire, regarding the players' jerseys",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/cricket/india-mens-cricket-team-dealing-with-clothing-issue-ahead-of-departure-for-asian-games/article71483867.ece",
+      "importance": 3,
+      "date_added": "2026-09-20"
+    },
+    {
+      "title": "We don't want Games host Japan losing money, says Asian Olympic official",
+      "summary": "Japan's hosting of the Asian Games with huts and a cruise ship is an example for other nations, says official",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/we-dont-want-games-host-japan-losing-money-says-asian-olympic-official/article71483993.ece",
+      "importance": 3,
+      "date_added": "2026-09-20"
+    },
+    {
+      "title": "Davis Cup: Nagal falters as Korea end India’s historic Final 8 hopes with 3-1 win",
+      "summary": "After Dhakshineswar Suresh and N. Sriram Balaji had revived India's hopes with a fighting doubles victory to cut the deficit to 1-2, Sumit Nagal needed to produce his best in the must-win rubber but instead endured a forgettable outing in the difficult heat, losing 1-6 2-6 to Korea number one Soon Woo Kwon",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/tennis/davis-cup-nagal-falters-as-korea-end-indias-historic-final-8-hopes-with-3-1-win/article71483943.ece",
+      "importance": 3,
+      "date_added": "2026-09-20"
+    },
+    {
+      "title": "Indians living in Japan on stand-by to house Asian Games athletes",
+      "summary": "Reports said the Indian embassy in Japan had helped reach out to around 2,000 families in Nagoya, some of whom are prepared to help",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/indians-living-in-japan-on-stand-by-to-house-asian-games-athletes/article71484089.ece",
+      "importance": 3,
+      "date_added": "2026-09-20"
+    },
+    {
+      "title": "‘Focus on giving your best, not complaining,’ Manu Bhaker tells fellow athletes",
+      "summary": "Athletes and officials from several countries, including India, have expressed dismay at the organisational mismanagement, cramped lodging and long travel time from hotels to training venues",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/focus-on-giving-your-best-not-complaining-manu-bhaker-tells-fellow-athletes/article71483945.ece",
+      "importance": 3,
+      "date_added": "2026-09-20"
+    },
+    {
+      "title": "Premier League: Brentford thrash Chelsea 3-0 in London derby",
+      "summary": "Brentford’s ‌win pushed the Bees, who are unbeaten so far in ​the league, up to third in the table ahead of the remaining weekend fixtures. Chelsea sit in ⁠seventh place",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/football/brentford-hammer-london-neighbours-chelsea-3-0/article71483598.ece",
+      "importance": 3,
+      "date_added": "2026-09-20"
+    },
+    {
+      "title": "ग्रामीण परिवर्तन के जमीनी शिल्पकार",
+      "summary": "ग्रामीण परिवर्तन के जमीनी शिल्पकार",
+      "category": "national",
+      "source": "pib",
+      "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2312620",
+      "importance": 3,
+      "date_added": "2026-09-20"
     }
   ]
 }
