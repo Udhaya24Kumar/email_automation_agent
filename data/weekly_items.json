@@ -1,96 +1,6 @@
 {
   "items": [
     {
-      "title": "Defence Ministry report notes S-400 air-defence engagement in Operation Sindoor",
-      "summary": "According to the Defence Ministry's annual report, the S-400 air-defence system destroyed a Pakistani aircraft at a range of 314 km during Operation Sindoor. The report highlighted the engagement as a demonstration of the Indian Air Force's long-range air-defence capability.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/s-400-destroyed-pakistani-aircraft-at-314-km-during-operation-sindoor-defence-ministry-report/article71463864.ece",
-      "importance": 5,
-      "date_added": "2026-09-14"
-    },
-    {
-      "title": "Dhiraj Wins Historic Men’s Recurve Gold at Archery World Cup Final",
-      "summary": "Dhiraj won a historic men’s recurve gold medal at the Saltillo World Cup Final by defeating Japan's Nakanishi Junya 6-5 in a tie-breaker shoot-off.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/archery-dhiraj-wins-historic-mens-recurve-gold-at-saltillo-world-cup-final/article71464452.ece",
-      "importance": 5,
-      "date_added": "2026-09-14"
-    },
-    {
-      "title": "India Wins Record-Extending Eighth Women’s Asia Cup Title",
-      "summary": "India defeated Sri Lanka by 72 runs in the final to clinch a record-extending eighth Women’s Asia Cup title.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/cricket/india-sri-lanka-womens-asia-cup-final-september-13-2026/article71463810.ece",
-      "importance": 5,
-      "date_added": "2026-09-14"
-    },
-    {
-      "title": "India Defeats Korea 4-1 to Win Record Sixth Asia Cup Title",
-      "summary": "India defeated Korea 4-1 to lift the continental Asia Cup title for a record sixth time, having previously won in 2004, 2008, 2015, 2023, and 2024.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/hockey/india-crowned-asia-cup-champions-with-4-1-win-over-korea/article71464116.ece",
-      "importance": 5,
-      "date_added": "2026-09-14"
-    },
-    {
-      "title": "UN Secretary-General Clarifies Position on UN Maps Following India's Objections",
-      "summary": "UN Secretary-General Antonio Guterres stated that there is no official 'UN map with borders' after India pointed out anomalies in a map used by the United Nations. The issue was raised by India during the UN's 'Correct the Map' resolution.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/there-is-no-such-thing-as-a-un-map-with-borders-guterres/article71464117.ece",
-      "importance": 4,
-      "date_added": "2026-09-14"
-    },
-    {
-      "title": "India restarts discussions for India-Africa Forum Summit on BRICS sidelines",
-      "summary": "India has restarted discussions on the next India-Africa Forum Summit following talks held by Prime Minister Modi with leaders from the African continent. The bilateral outreach discussions took place on the sidelines of the BRICS Summit.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/india-steps-up-africa-outreach-as-modi-holds-talks-with-leaders-from-the-continent/article71464256.ece",
-      "importance": 4,
-      "date_added": "2026-09-14"
-    },
-    {
-      "title": "IAF's Surya Kiran Aerobatic Team to perform at Meerut airshow",
-      "summary": "The Indian Air Force's Surya Kiran Aerobatic Team (SKAT) is scheduled to perform aerobatic displays at an airshow in Meerut. The performance will highlight precision manoeuvres including inverted flying, loops, and barrel rolls.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/uttar-pradesh/iafs-surya-kiran-team-to-perform-at-meerut-airshow/article71464002.ece",
-      "importance": 4,
-      "date_added": "2026-09-14"
-    },
-    {
-      "title": "Alexander Zverev Wins U.S. Open Title",
-      "summary": "Alexander Zverev defeated eighth seed Ben Shelton to win the U.S. Open men's singles title.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/tennis/zverev-beats-shelton-to-win-us-open-title/article71464673.ece",
-      "importance": 4,
-      "date_added": "2026-09-14"
-    },
-    {
-      "title": "Tanvi Patri Wins U17 Title at Badminton Asia Junior Championships",
-      "summary": "Tanvi Patri defeated Shaina Manimuthu 11-15, 15-10, 15-12 in an all-Indian final to win the U17 title at the Badminton Asia Junior Championships.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/tanvi-patri-wins-u17-title-in-all-indian-final-at-badminton-asia-junior-championships/article71464615.ece",
-      "importance": 4,
-      "date_added": "2026-09-14"
-    },
-    {
-      "title": "Union Home Minister Amit Shah Delivers Message on Hindi Diwas 2026",
-      "summary": "Union Minister of Home Affairs and Cooperation Shri Amit Shah issued an official message on the occasion of Hindi Diwas 2026.",
-      "category": "national",
-      "source": "pib",
-      "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2309939",
-      "importance": 4,
-      "date_added": "2026-09-14"
-    },
-    {
       "title": "Government Notifies Changes Under Payment and Settlement Act, 2007 for UPI Charges",
       "summary": "The government notified changes under the Payment and Settlement Act, 2007, keeping UPI transactions up to ₹2,000 free of charges. A decision regarding the Merchant Discount Rate (MDR) for higher-value payments is yet to be finalized.",
       "category": "national",
@@ -1358,6 +1268,123 @@
       "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2312620",
       "importance": 3,
       "date_added": "2026-09-20"
+    },
+    {
+      "title": "Suchika Tariyal Secures India's First Asian Games MMA Medal",
+      "summary": "Suchika Tariyal won India’s first-ever medal in Mixed Martial Arts (MMA) at the Asian Games.",
+      "category": "sports",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/suchika-tariyal-wins-indias-first-asian-games-mma-medal/",
+      "importance": 5,
+      "date_added": "2026-09-21"
+    },
+    {
+      "title": "India and Sri Lanka Conduct SLINEX-26 Maritime Exercise",
+      "summary": "India and Sri Lanka are jointly conducting the SLINEX-26 bilateral maritime exercise.",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/india-and-sri-lanka-conduct-slinex-26-maritime-exercise/",
+      "importance": 5,
+      "date_added": "2026-09-21"
+    },
+    {
+      "title": "Smriti Mandhana Becomes Leading Run-Scorer in Women's T20I Cricket",
+      "summary": "Indian cricketer Smriti Mandhana surpassed New Zealand's Suzie Bates to become the leading run-scorer in women's T20I cricket during the Asian Games 2026. The 30-year-old left-hander achieved the record during a match against Bangladesh.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/cricket/asian-games-2026-smriti-mandhana-surpasses-suzie-bates-to-become-womens-t20i-crickets-leading-run-scorer/article71487234.ece",
+      "importance": 5,
+      "date_added": "2026-09-21"
+    },
+    {
+      "title": "INS Trishul Conducts PASSEX with Egyptian Navy",
+      "summary": "Indian Naval Ship INS Trishul participated in a Maritime Passage Exercise (PASSEX) with the Egyptian Navy.",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/ins-trishul-conducts-passex-with-egyptian-navy/",
+      "importance": 4,
+      "date_added": "2026-09-21"
+    },
+    {
+      "title": "India-EU FTA Negotiations Focus on Copyright Act and WIPO Treaty",
+      "summary": "Draft copyright provisions under the India-EU Free Trade Agreement may require modifications to India's Copyright Act affecting exceptions for students, archivists, and internet service providers. Negotiators seek to restore the WIPO Copyright Treaty to the National Treatment clause to preserve India's digital copyright flexibilities.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/the-copyright-stakes-in-the-eu-fta/article71487735.ece",
+      "importance": 4,
+      "date_added": "2026-09-21"
+    },
+    {
+      "title": "United States Announces Sanctions on International Criminal Court Officials",
+      "summary": "U.S. Secretary of State Marco Rubio announced sanctions targeting officials of the International Criminal Court (ICC). The sanctions were issued over the court's attempts to assert authority over U.S. nationals and citizens of non-member states.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/us-sanctions-on-international-criminal-court-officials-explained/article71367867.ece",
+      "importance": 4,
+      "date_added": "2026-09-21"
+    },
+    {
+      "title": "BRICS Condemns EU Carbon Tax and Calls for Climate Funding",
+      "summary": "BRICS has condemned the European Union's carbon tax while demanding a significant increase in international climate funding. The group emphasised the need for funds to help developing countries adapt to climate change.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/brics-condemns-eu-carbon-tax/article71361332.ece",
+      "importance": 4,
+      "date_added": "2026-09-21"
+    },
+    {
+      "title": "India's Exports to Core BRICS Markets Surge 34% in April-August",
+      "summary": "India's exports to core BRICS nations surged by 34% during April-August, with China leading the growth. The share of core BRICS countries in India's total exports increased to 9.2% from 8.1% during the first five months of the fiscal year.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/indias-exports-to-core-brics-markets-surge-34-in-april-august-china-leads/article71487434.ece",
+      "importance": 4,
+      "date_added": "2026-09-21"
+    },
+    {
+      "title": "Suchika Wins India's First-Ever Medal in MMA at 2026 Asian Games",
+      "summary": "Suchika secured India's first-ever medal in Mixed Martial Arts (MMA) at the 2026 Asian Games. Additionally, India's men's 10m rifle team won a silver medal at the event.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-21-2026/article71488918.ece",
+      "importance": 4,
+      "date_added": "2026-09-21"
+    },
+    {
+      "title": "Vidarsa Vinod Becomes First Woman Shooter from Keralam to Win Asian Games Medal",
+      "summary": "Vidarsa Vinod became the first woman shooter from Keralam to win a medal at the Asian Games. She achieved this during her debut Asian Games, where she is also competing in the women's 50m rifle 3 Positions event.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/vidarsa-vinod-becomes-first-woman-shooter-from-keralam-to-win-medal-at-asian-games/article71487472.ece",
+      "importance": 4,
+      "date_added": "2026-09-21"
+    },
+    {
+      "title": "Shafali Verma's Unbeaten Century Powers India to Asian Games 2026 Women's Cricket Final",
+      "summary": "Shafali Verma scored an unbeaten 100 off 49 balls to fire India to 195 for four in the Asian Games 2026 second semifinal. Her performance secured India's spot in the women's cricket final and ensured a medal.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/cricket/asian-games-2026-women-cricket-india-vs-bangladesh-updates-semifinal-shafali-verma/article71487390.ece",
+      "importance": 4,
+      "date_added": "2026-09-21"
+    },
+    {
+      "title": "Vice-President to Inaugurate 9th India International Water Week",
+      "summary": "The Vice-President of India is scheduled to inaugurate the 9th edition of India International Water Week.",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/vice-president-to-inaugurate-9th-india-international-water-week/",
+      "importance": 4,
+      "date_added": "2026-09-21"
+    },
+    {
+      "title": "2026 Asian Games Hosted in Aichi-Nagoya, Japan",
+      "summary": "The 2026 edition of the Asian Games is being hosted in Aichi-Nagoya, Japan.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/asian-games-2026-medal-tally-live-india-full-winners-list-table-aichi-nagoya/article71484008.ece",
+      "importance": 4,
+      "date_added": "2026-09-21"
     }
   ]
 }
