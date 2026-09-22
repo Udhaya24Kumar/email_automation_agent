@@ -1,240 +1,6 @@
 {
   "items": [
     {
-      "title": "Government Notifies Changes Under Payment and Settlement Act, 2007 for UPI Charges",
-      "summary": "The government notified changes under the Payment and Settlement Act, 2007, keeping UPI transactions up to ₹2,000 free of charges. A decision regarding the Merchant Discount Rate (MDR) for higher-value payments is yet to be finalized.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/business/govt-bars-bank-charges-on-upi-payments-up-to-2k/article71466438.ece",
-      "importance": 5,
-      "date_added": "2026-09-15"
-    },
-    {
-      "title": "U.S. Lawmaker Proposes Amendment Naming India in Russia Sanctions Act",
-      "summary": "An amendment naming India was submitted in the Lindsey O Graham Sanctioning Russia and Iran Act, which was passed by the U.S. Senate by an 86-11 vote. The act targets Russia's leadership, energy sector, and shadow fleet vessels used to evade oil sanctions.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/us-lawmaker-submits-amendment-naming-india-in-russia-sanctions-act/article71466531.ece",
-      "importance": 4,
-      "date_added": "2026-09-15"
-    },
-    {
-      "title": "India Approves Expedited Electricity Export to Nepal",
-      "summary": "India's Ministry of Power has approved the expedited export of electricity to flood-hit Nepal to meet its power requirements. The initiative aims to strengthen energy cooperation between the two nations.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/business/Economy/india-approves-expedited-export-of-electricity-to-flood-hit-nepal/article71466141.ece",
-      "importance": 4,
-      "date_added": "2026-09-15"
-    },
-    {
-      "title": "Justice V. Kameswar Rao Sworn In as Chief Justice of Patna High Court",
-      "summary": "Justice V. Kameswar Rao has taken the oath of office as the Chief Justice of the Patna High Court. The ceremony took place at Lok Bhavan in the presence of Chief Minister Samrat Choudhary.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/bihar/justice-v-kameswar-rao-takes-oath-as-chief-justice-of-patna-high-court/article71463018.ece",
-      "importance": 4,
-      "date_added": "2026-09-15"
-    },
-    {
-      "title": "India and Canada Resume Talks for Proposed Bilateral Trade Pact",
-      "summary": "India and Canada have initiated the next round of negotiations for a proposed trade agreement. Both countries have set a target to increase their bilateral trade to $50 billion by the year 2030.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/business/Economy/india-canada-begin-next-round-of-talks-on-proposed-trade-pact-official/article71465752.ece",
-      "importance": 4,
-      "date_added": "2026-09-15"
-    },
-    {
-      "title": "Wholesale Price Index Inflation Rises to 9.92% in August",
-      "summary": "India's Wholesale Price Index (WPI) inflation increased to 9.92% in August owing to rising prices of food, fuel, and manufactured items. WPI inflation in manufactured items hit a series high of 8.37%, rising from 8.29% recorded in July.",
-      "category": "economy",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/business/Economy/wpi-inflation-rises-to-992-in-august-on-rising-prices-of-food-fuel-manufactured-items/article71465582.ece",
-      "importance": 4,
-      "date_added": "2026-09-15"
-    },
-    {
-      "title": "West Asia war LIVE: Saudi Arabia warns it will react 'firmly' to Houthi attacks",
-      "summary": "Saudi Arabian ‌Civil Defence sent an alert on September 15, ​after issuing alerts for potential danger ‌in six cities, including Yanbu, ‌the kingdom's ‌main ⁠Red Sea oil ⁠port, where millions of barrels a day ​are loaded",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/west-asia-war-live-updates-saudi-arabia-houthi-attacks-red-sea-us-iran-september-15-2026/article71466658.ece",
-      "importance": 3,
-      "date_added": "2026-09-15"
-    },
-    {
-      "title": "Pakistan court orders blocking passports of Khyber Pakhtunkhwa CM, 24 lawmakers of Imran Khan's party",
-      "summary": "The order comes amid heightened political activity by the PTI, which has announced a nationwide protest for September 27",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/pakistan-court-orders-blocking-passports-of-khyber-pakhtunkhwa-cm-24-lawmakers-of-imran-khans-party/article71466429.ece",
-      "importance": 3,
-      "date_added": "2026-09-15"
-    },
-    {
-      "title": "Drone shot down by NATO over Lithuania",
-      "summary": "Baltic states Lithuania, Latvia and Estonia — NATO members sharing a long border with Russia — regularly report drone incursions into their territories as part of Moscow's war with Ukraine.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/drone-shot-down-by-nato-over-lithuania/article71466527.ece",
-      "importance": 3,
-      "date_added": "2026-09-15"
-    },
-    {
-      "title": "Pakistan mulls revival of austerity measures amid West Asia hostilities",
-      "summary": "The indication of a possible revival of austerity measures came as petrol prices rose to PKR 375.82 per litre and high-speed diesel (HSD) to PKR 403.32 per litre",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/pakistan-mulls-revival-of-austerity-measures-amid-west-asia-hostilities/article71466489.ece",
-      "importance": 3,
-      "date_added": "2026-09-15"
-    },
-    {
-      "title": "Trump nominates Wesley Hunt to serve as U.S. Ambassador to Saudi; picks wife of 'God Bless the USA' singer as envoy to Barbados",
-      "summary": "The Republican lawmaker is near the end of his second term representing his Houston-area district and has served as a U.S. Army officer who served as a diplomatic liaison in Saudi Arabia",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/trump-nominates-republican-rep-to-serve-as-us-ambassador-to-saudi/article71466469.ece",
-      "importance": 3,
-      "date_added": "2026-09-15"
-    },
-    {
-      "title": "Asian Games venues and athletes unharmed by extensive flooding in Nagoya, Japan",
-      "summary": "Hirosawa said about 400 athletes and staff who are staying in converted shipping containers — remodeled to serve as temporary housing units for the Asian Games — were briefly evacuated to higher ground during the heavy rain",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/asian-games-venues-and-athletes-unharmed-by-extensive-flooding-in-nagoya-japan/article71446004.ece",
-      "importance": 3,
-      "date_added": "2026-09-15"
-    },
-    {
-      "title": "Who is fugitive Khadeer Khan Mohammed? | Explained",
-      "summary": "Why is Khadeer Khan Mohammed wanted by U.S. authorities in an alleged $93 million Medicare genetic-testing fraud case? What is the status of the investigation that began in 2025? What could happen next if he is in India?",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/who-is-fugitive-khadeer-khan-mohammed-explained/article71466787.ece",
-      "importance": 3,
-      "date_added": "2026-09-15"
-    },
-    {
-      "title": "How EU plans to keep children under 15 off social media",
-      "summary": "Under a proposal being prepared by the European Commission, children under 15 could face restrictions on creating and using accounts across a wide range of digital services",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sci-tech/technology/how-eu-plans-to-keep-children-under-15-off-social-media/article71466788.ece",
-      "importance": 3,
-      "date_added": "2026-09-15"
-    },
-    {
-      "title": "Remembering Dolly Parton, who gave away everything but her songs",
-      "summary": "The Queen of Country Music, who passed away recently, gave away more than 300 million books and millions of dollars in aid, but refused to surrender the copyright to one song, even for Elvis Presley.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/entertainment/music/remembering-dolly-parton-who-gave-away-everything-but-her-songs/article71392330.ece",
-      "importance": 3,
-      "date_added": "2026-09-15"
-    },
-    {
-      "title": "U.S. has weapons deployed in orbit, Space Force says",
-      "summary": "\"The U.S. has on-orbit space control weapons capable of defending the Joint Force against hostile adversary action,\" a U.S. Space Force spokesperson said in a statement that did not provide specifics on the weapons",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/us-has-weapons-deployed-in-orbit-space-force-says/article71466592.ece",
-      "importance": 3,
-      "date_added": "2026-09-15"
-    },
-    {
-      "title": "Houthi attack in southern Saudi Arabia wounds 13: Riyadh-led coalition",
-      "summary": "\"On September 14, the Militia launched attacks on civilian objects in the cities of Khamis Mushait, Abha, and Taif with several ballistic missiles and drones,” says coalition spokesman",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/houthi-attack-in-southern-saudi-arabia-wounds-13-riyadh-led-coalition/article71466568.ece",
-      "importance": 3,
-      "date_added": "2026-09-15"
-    },
-    {
-      "title": "Trump says there is ‘SICK conspiracy’ against AI and data centres, dismisses new guardrails",
-      "summary": "“The only control or ‘guardrails’ that AI needs is a STRONG AND SMART (High IQ!) PRESIDENT, and the U.S.A. has that, in spades!” Mr. Trump said",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sci-tech/technology/trump-dismisses-new-ai-guardrails-says-there-is-a-sick-conspiracy-against-ai-and-data-centers/article71466257.ece",
-      "importance": 3,
-      "date_added": "2026-09-15"
-    },
-    {
-      "title": "In loss for Trump, U.S. Supreme Court won't let Postal Service restrict mail ballots",
-      "summary": "Justice Samuel Alito, joined by fellow conservative Justice Clarence Thomas, dissented from the decision, comparing some ‌of the challengers’ claims to a “Hail Mary pass” that is “unlikely to be successfully completed,” using a football analogy",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/in-loss-for-trump-us-supreme-court-wont-let-postal-service-restrict-mail-ballots/article71466496.ece",
-      "importance": 3,
-      "date_added": "2026-09-15"
-    },
-    {
-      "title": "NATO fighter jet shoots down drone in Lithuania",
-      "summary": "Origin yet to be determined; drone alert was issued earlier in ​the capital ‌Vilnius and surrounding region.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/nato-fighter-jet-shoots-down-drone-in-lithuania/article71466476.ece",
-      "importance": 3,
-      "date_added": "2026-09-15"
-    },
-    {
-      "title": "BRICS: A strategic balancer?",
-      "summary": "BRICS: A strategic balancer?",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/the-view-from-india-newsletter-brics-a-strategic-balancer/article71465679.ece",
-      "importance": 3,
-      "date_added": "2026-09-15"
-    },
-    {
-      "title": "Police arrest man after multiple people wounded in China knife attack",
-      "summary": "A video seemingly captured from CCTV showed a man in a face mask stabbing a woman in the face as he walked past her in front of a restaurant.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/police-arrest-man-after-multiple-people-wounded-in-china-knife-attack/article71466601.ece",
-      "importance": 3,
-      "date_added": "2026-09-15"
-    },
-    {
-      "title": "U.S. Judge blocks Trump limits on duration of visas for foreign students, journalists",
-      "summary": "U.S. ​Department of Homeland Security adopted the policy ‌based on “exceptionally weak” rationales, the Judge said",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/us-judge-blocks-trump-limits-on-duration-of-visas-for-foreign-students-journalists/article71466466.ece",
-      "importance": 3,
-      "date_added": "2026-09-15"
-    },
-    {
-      "title": "Houthis say Saudi Arabia hits Yemen with 54 strikes after attack on bases",
-      "summary": "Saudi civil defence issued a brief alert for Najran in southwestern Saudi Arabia without elaborating on the cause for the warning",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/houthis-say-saudi-arabia-hits-yemen-with-54-strikes-after-attack-on-bases/article71466445.ece",
-      "importance": 3,
-      "date_added": "2026-09-15"
-    },
-    {
-      "title": "Russia hits petrol station, warehouse facilities in Kyiv, Mayor says",
-      "summary": "Russia has recently ‌started hitting petrol stations in Kyiv, expanding the range of target facilities. In recent months, Russia hit some 300 petrol stations, mainly in or near ‌Ukraine’s frontline regions.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/russia-hits-petrol-station-warehouse-facilities-in-kyiv-mayor-says/article71466640.ece",
-      "importance": 3,
-      "date_added": "2026-09-15"
-    },
-    {
-      "title": "French power sector labour strike takes 6.5 gigawatts offline overnight",
-      "summary": "Workers ‌and retirees in the French energy sector pay discounted rates, which their unions view as a core part of their compensation package; strike is expected to go ⁠through the day on September 15, suggesting the outages could be renewed or increased",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/french-power-sector-labour-strike-takes-65-gigawatts-offline-overnight/article71466448.ece",
-      "importance": 3,
-      "date_added": "2026-09-15"
-    },
-    {
       "title": "India-US Military Exercise Yudh Abhyas 2026 Begins at Auli and Mahajan",
       "summary": "The joint India-US military exercise Yudh Abhyas 2026 has begun at Auli and Mahajan.",
       "category": "national",
@@ -1385,6 +1151,276 @@
       "url": "https://www.thehindu.com/sport/asian-games-2026-medal-tally-live-india-full-winners-list-table-aichi-nagoya/article71484008.ece",
       "importance": 4,
       "date_added": "2026-09-21"
+    },
+    {
+      "title": "First V4+India Foreign Ministers Meeting Held",
+      "summary": "External Affairs Minister S. Jaishankar highlighted the first V4+India Foreign Ministers meeting as a historic occasion. The Visegrad Group (V4) comprises the Czech Republic, Hungary, Poland, and Slovakia, aiming to advance cooperation in military, economic, cultural, and energy affairs.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/historic-occasion-jaishankar-describes-first-v4india-foreign-ministers-meeting/article71493950.ece",
+      "importance": 5,
+      "date_added": "2026-09-22"
+    },
+    {
+      "title": "Interim Trust Set Up to Run India-Built Cultural Centre in Jaffna",
+      "summary": "An interim governing body has been established as a Trust to operationalise the India-built Cultural Centre in Jaffna. The move aims to provide administrative and financial autonomy for the facility's sustained operations.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/interim-governing-body-set-up-to-run-india-built-cultural-centre-in-jaffna/article71491183.ece",
+      "importance": 4,
+      "date_added": "2026-09-22"
+    },
+    {
+      "title": "RGCB Researchers Develop Nanopore Sensors for Parkinson’s Disease",
+      "summary": "Researchers at the Rajiv Gandhi Centre for Biotechnology (RGCB) in Kerala have designed self-assembling dual-diameter nanopore sensors for the early detection of Parkinson's disease. The sensors are capable of detecting biomarkers associated with neurodegenerative diseases with high sensitivity.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/researchers-at-rgcb-in-keralam-develop-nanopore-sensors-for-early-detection-of-parkinsons-disease/article71491768.ece",
+      "importance": 4,
+      "date_added": "2026-09-22"
+    },
+    {
+      "title": "Expansion of Perunthalaivar Kamarajar Breakfast Scheme Launched",
+      "summary": "The Perunthalaivar Kamarajar Breakfast Scheme has been expanded to cover students in Classes VI to VIII across government and government-aided schools. The scheme expansion will benefit approximately 15.3 lakh students across 15,454 schools.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/cm-vijay-launches-expanded-perunthalaivar-kamarajar-breakfast-scheme/article71494103.ece",
+      "importance": 4,
+      "date_added": "2026-09-22"
+    },
+    {
+      "title": "Six New Species Documented in Periyar Tiger Reserve Survey",
+      "summary": "A four-day faunal survey conducted at the Periyar Tiger Reserve in Kerala recorded six species previously undocumented in the reserve. The discoveries include one bird, one butterfly, and four odonate species.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/survey-discovers-six-new-species-from-periyar-tiger-reserve-in-keralam/article71491878.ece",
+      "importance": 4,
+      "date_added": "2026-09-22"
+    },
+    {
+      "title": "Transmission and Pathogen Facts of Scrub Typhus",
+      "summary": "Scrub typhus is a bacterial infection caused by the bacterium Orientia tsutsugamushi. It is transmitted to humans through the bites of infected larval mites or chiggers and is not a mosquito-borne disease.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sci-tech/health/what-is-scrub-typhus-explained/article71490796.ece",
+      "importance": 4,
+      "date_added": "2026-09-22"
+    },
+    {
+      "title": "Supreme Court Rules Aadhaar Card Invalid as Proof to Determine Age",
+      "summary": "The Supreme Court stated that an Aadhaar card is not a valid document for determining a person's age. A bench of Justices Sanjay Karol and Ujjal Bhuyan ruled that age must be determined from the date of birth mentioned in the school leaving certificate.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/aadhaar-card-not-valid-document-to-determine-age-supreme-court/article68800811.ece",
+      "importance": 4,
+      "date_added": "2026-09-22"
+    },
+    {
+      "title": "New Checklist Records 3,261 Flowering Plant Species in Agasthyamalai Biosphere Reserve",
+      "summary": "A research team from the Jawaharlal Nehru Tropical Botanic Garden and Research Institute compiled a new checklist recording 3,261 flowering plant species in the Agasthyamalai Biosphere Reserve. The study reaffirms the global significance of the Western Ghats as a major biodiversity hotspot.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/new-checklist-by-keralam-research-team-records-3261-flowering-plant-species-in-agasthyamalai-biosphere-reserve/article71490560.ece",
+      "importance": 4,
+      "date_added": "2026-09-22"
+    },
+    {
+      "title": "Suchika Tariyal Wins India's Maiden Asian Games Medal in Mixed Martial Arts",
+      "summary": "Suchika Tariyal won a bronze medal in mixed martial arts at the 20th edition of the Asian Games 2026. This marked India's maiden medal in the discipline, which made its debut at the Games.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/asian-games-2026-suchika-tariyal-loses-controversial-mma-semifinal-on-weight-rule-after-draw-settles-for-bronze/article71490379.ece",
+      "importance": 4,
+      "date_added": "2026-09-22"
+    },
+    {
+      "title": "India-New Zealand FTA ratified, to come into effect on October 20",
+      "summary": "Deal aims to double bilateral trade as NZ removes all tariffs on all goods imported from India, while India will remove or reduce tariffs on 95% of current imports from NZ; India’s dairy, sensitive agri sectors protected, says Commerce Minister",
+      "category": "economy",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/Economy/india-new-zealand-fta-ratified-will-enter-into-force-from-october-20/article71490545.ece",
+      "importance": 3,
+      "date_added": "2026-09-22"
+    },
+    {
+      "title": "CSK names Zaheer Khan as head coach for IPL 2027",
+      "summary": "The former Indian pacer replaces Kiwi Stephen Fleming who guided the Men in Yellow from 2009 to 2026",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/cricket/csk-names-zaheer-khan-as-head-coach-for-ipl-2027/article71491679.ece",
+      "importance": 3,
+      "date_added": "2026-09-22"
+    },
+    {
+      "title": "NHAI Issues Guidelines for High-Speed National Highways",
+      "summary": "NHAI Issues Guidelines for High-Speed National Highways",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/nhai-issues-guidelines-for-high-speed-national-highways/",
+      "importance": 3,
+      "date_added": "2026-09-22"
+    },
+    {
+      "title": "IAF to Host Second Edition of Tarang Shakti",
+      "summary": "IAF to Host Second Edition of Tarang Shakti",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/iaf-to-host-second-edition-of-tarang-shakti/",
+      "importance": 3,
+      "date_added": "2026-09-22"
+    },
+    {
+      "title": "ONGC Discovers Natural Gas in Mahanadi Offshore Basin",
+      "summary": "ONGC Discovers Natural Gas in Mahanadi Offshore Basin",
+      "category": "science",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/ongc-discovers-natural-gas-in-mahanadi-offshore-basin/",
+      "importance": 3,
+      "date_added": "2026-09-22"
+    },
+    {
+      "title": "From rallies to reels: political catchphrases turn dance anthems in Kolkata",
+      "summary": "Why are Kolkata club-goers dancing to Mamata Banerjee’s ‘Hamba Hamba’ and the BJP’s ‘Mach Chor’ ? From campaign songs and election slogans to viral reels and packed dancefloors, Bengal’s political techno remixes are blurring the lines between propaganda, memes and nightlife",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/entertainment/politics-to-parties-kolkatas-latest-viral-trend-has-people-dancing-to-political-slogans/article70996818.ece",
+      "importance": 3,
+      "date_added": "2026-09-22"
+    },
+    {
+      "title": "100% U.S. tariff threat: Can India’s new trade deals reduce its dependence on America?",
+      "summary": "As the Trump administration has repeatedly changed tariffs on Indian goods, New Delhi has been signing trade agreements at a rapid pace. But can these new markets meaningfully reduce India’s dependence on the U.S. as it’s faced with 100% tariffs?",
+      "category": "economy",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/infographics/2026-09-21/india-us-tariffs-fta-export-dependence/index.html",
+      "importance": 3,
+      "date_added": "2026-09-22"
+    },
+    {
+      "title": "Asian Games 2026 LIVE: India choose to bat against Sri Lanka in final; dominate Korea in kabaddi",
+      "summary": "Parth Mane returns to action with his first major senior medal fresh in his memory, while India face Japan in the women’s badminton quarterfinals",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-22-2026/article71492964.ece",
+      "importance": 3,
+      "date_added": "2026-09-22"
+    },
+    {
+      "title": "Infantino proposes consulting federations to reform FIFA",
+      "summary": "‘I will propose that the Council establish a direct, structured and time-limited consultation with confederations, Member Associations and relevant stakeholders on how FIFA’s decision-making can be further strengthened,’ Infantino wrote",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/football/infantino-proposes-consulting-federations-to-reform-fifa/article71493269.ece",
+      "importance": 3,
+      "date_added": "2026-09-22"
+    },
+    {
+      "title": "India Co-Sponsors Partners for Multilateralism Summit",
+      "summary": "India Co-Sponsors Partners for Multilateralism Summit",
+      "category": "international",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/india-co-sponsors-partners-for-multilateralism-summit/",
+      "importance": 3,
+      "date_added": "2026-09-22"
+    },
+    {
+      "title": "MoD Signs ₹586 Crore APU Contract for T-72, T-90 Tanks",
+      "summary": "MoD Signs ₹586 Crore APU Contract for T-72, T-90 Tanks",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/mod-signs-%e2%82%b9586-crore-apu-contract-for-t-72-t-90-tanks/",
+      "importance": 3,
+      "date_added": "2026-09-22"
+    },
+    {
+      "title": "Jayanti Prasad Gets Additional Charge as IBBI Chairperson",
+      "summary": "Jayanti Prasad Gets Additional Charge as IBBI Chairperson",
+      "category": "awards",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/jayanti-prasad-gets-additional-charge-as-ibbi-chairperson/",
+      "importance": 3,
+      "date_added": "2026-09-22"
+    },
+    {
+      "title": "Scientists Develop Plastic-to-Fuel Process",
+      "summary": "Scientists Develop Plastic-to-Fuel Process",
+      "category": "science",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/scientists-develop-plastic-to-fuel-process/",
+      "importance": 3,
+      "date_added": "2026-09-22"
+    },
+    {
+      "title": "‘Partners for Multilateralism’: India to attend new non-superpower grouping’s inaugural session at UN",
+      "summary": "Leaders of the EU, Brazil, Canada and Kenya launched a forum with a joint call for UN reform, collective action amidst conflicts",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/partners-for-multilateralism-india-to-attend-new-non-superpower-groupings-inaugural-session-at-un/article71490513.ece",
+      "importance": 3,
+      "date_added": "2026-09-22"
+    },
+    {
+      "title": "Three militants arrested in Manipur",
+      "summary": "Security forces arrested members of two factions of a banned group in Imphal East district in joint operations on Monday",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/manipur/three-militants-arrested-in-manipur/article71494246.ece",
+      "importance": 3,
+      "date_added": "2026-09-22"
+    },
+    {
+      "title": "IMD forecasts heavy rain in north coastal Andhra; Vizianagaram, Srikakulam on alert",
+      "summary": "Steady showers from Srikakulam to Anakapalli since Monday evening bring relief after days of heat; the IMD expects heavy to very heavy rain on Tuesday and Wednesday and winds of 40 to 60 kmph along the coast",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/imd-forecasts-heavy-rain-in-north-coastal-andhra-vizianagaram-srikakulam-on-alert/article71494190.ece",
+      "importance": 3,
+      "date_added": "2026-09-22"
+    },
+    {
+      "title": "Kerala HC quashes order by Income Tax Appellate Authority dismissing actor Jayasurya’s appeal against tax assessment",
+      "summary": "Court says tax authority cannot dismiss an appeal merely because the assessee failed to appear for the proceedings",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/kerala-hc-quashes-order-by-income-tax-appellate-authority-dismissing-actor-jayasuryas-appeal-against-tax-assessment/article71491857.ece",
+      "importance": 3,
+      "date_added": "2026-09-22"
+    },
+    {
+      "title": "Man critically injured, police officer wounded in gunfire near Ontario synagogue on Yom Kippur",
+      "summary": "The shooting comes months after Prime Minister Mark Carney warned that Canada was failing its Jewish community amid a surge in antisemitism.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/gunfire-near-ontario-synagogue-on-yom-kippur/article71490401.ece",
+      "importance": 3,
+      "date_added": "2026-09-22"
+    },
+    {
+      "title": "Explosion injures 3 South Korean military officers in DMZ",
+      "summary": "Two were ​evacuated by helicopter. The ⁠third is expected to be transported ‌by road before being airlifted by helicopter",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/three-south-korean-soldiers-injured-in-blast-at-dmz-military/article71490167.ece",
+      "importance": 3,
+      "date_added": "2026-09-22"
+    },
+    {
+      "title": "Whole of govt. approach being followed to address concerns of critical mineral recycling industry: G. Kishan Reddy",
+      "summary": "Union Mines Minister G. Kishan Reddy emphasised that efforts are being made to address all issues concerning the critical mineral recycling industry",
+      "category": "economy",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/Industry/whole-of-govt-approach-being-followed-to-address-concerns-of-critical-mineral-recycling-industry-g-kishan-reddy/article71492766.ece",
+      "importance": 3,
+      "date_added": "2026-09-22"
+    },
+    {
+      "title": "India, Canada to hold next round of talks from October 5 for proposed trade pact: Goyal",
+      "summary": "The fourth round of negotiations concluded in New Delhi on September 18",
+      "category": "economy",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/Economy/india-canada-to-hold-next-round-of-talks-from-october-5-for-proposed-trade-pact-goyal/article71491213.ece",
+      "importance": 3,
+      "date_added": "2026-09-22"
     }
   ]
 }
