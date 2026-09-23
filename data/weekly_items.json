@@ -1,177 +1,6 @@
 {
   "items": [
     {
-      "title": "India-US Military Exercise Yudh Abhyas 2026 Begins at Auli and Mahajan",
-      "summary": "The joint India-US military exercise Yudh Abhyas 2026 has begun at Auli and Mahajan.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/india-us-yudh-abhyas-2026-begins-at-auli-and-mahajan/",
-      "importance": 5,
-      "date_added": "2026-09-16"
-    },
-    {
-      "title": "Six States and UT Sign Agreement for Kishau Multipurpose Project on Tons River",
-      "summary": "Six States and a Union Territory have signed an agreement for the Kishau multipurpose project. The project will be located on the Tons river along the border of Uttarakhand and Himachal Pradesh.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/himachal-pradesh/six-states-ut-sign-kishau-multipurpose-project-agreement-cm-sukhu-hails-major-victory-for-himachal/article71468268.ece",
-      "importance": 5,
-      "date_added": "2026-09-16"
-    },
-    {
-      "title": "New Zealand Parliament Passes Trade Deal with India to Cut Tariffs",
-      "summary": "The Parliament of New Zealand has passed a trade agreement with India designed to reduce tariffs on most exports. Under the deal, more than half of all covered products will become duty-free from the day it takes effect.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/new-zealand-parliament-passes-india-trade-deal-cutting-tariffs-on-most-exports/article71470939.ece",
-      "importance": 5,
-      "date_added": "2026-09-16"
-    },
-    {
-      "title": "18th BRICS Summit Held in New Delhi",
-      "summary": "India hosted the 18th BRICS Summit in New Delhi, which highlighted its role in global governance reforms, trade cooperation, and international diplomacy. The meeting concluded with key outcomes framed around the New Delhi Declaration.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/videos/why-the-brics-summit-was-a-major-diplomatic-win-for-india/article71465371.ece",
-      "importance": 5,
-      "date_added": "2026-09-16"
-    },
-    {
-      "title": "Mazagon Dock Plans ₹27,000 Crore Shipbuilding Cluster in Raigad",
-      "summary": "Mazagon Dock has planned a new shipbuilding cluster in Raigad with an investment of ₹27,000 crore.",
-      "category": "economy",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/mazagon-dock-plans-%e2%82%b927000-crore-raigad-shipbuilding-cluster/",
-      "importance": 4,
-      "date_added": "2026-09-16"
-    },
-    {
-      "title": "Defence Ministry Unveils Policy Initiatives for MSMEs and Start-ups at VIMARSH",
-      "summary": "The Ministry of Defence announced key policy initiatives for MSMEs and start-ups at the VIMARSH event.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/defence-ministry-unveils-policy-initiatives-for-msmes-and-start-ups-at-vimarsh/",
-      "importance": 4,
-      "date_added": "2026-09-16"
-    },
-    {
-      "title": "U.S. House Advances Russia Sanctions Bill Proposing 100% Tariffs on India",
-      "summary": "The U.S. House of Representatives passed a resolution by a 214-211 vote to advance a Russia sanctions bill that proposes 100% tariffs on India and other nations. The legislation is scheduled for a final vote in the House on September 16.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/russia-sanctions-bill-advances-in-us-house-india-tariffs-final-vote/article71470872.ece",
-      "importance": 4,
-      "date_added": "2026-09-16"
-    },
-    {
-      "title": "Indian Army Chief Dhiraj Seth Visits Russia to Deepen Defence Ties",
-      "summary": "Indian Army Chief Dhiraj Seth traveled to Russia to strengthen bilateral defence ties. A key focus of the discussions is the availability of spare parts and supplies for Russian-origin military equipment used by the Indian Army.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/army-chief-dhiraj-seth-heads-to-russia-amid-push-to-deepen-defence-ties/article71468886.ece",
-      "importance": 4,
-      "date_added": "2026-09-16"
-    },
-    {
-      "title": "India Revises Measurement of Nominal GDP",
-      "summary": "India has revised its nominal GDP calculation methodology to enhance economic tracking. The revision is primarily driven by the improved measurement of the country's unincorporated services sector.",
-      "category": "economy",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/opinion/op-ed/decoding-indias-gdp-base-revision/article71469721.ece",
-      "importance": 4,
-      "date_added": "2026-09-16"
-    },
-    {
-      "title": "India's Goods Exports Surge by 26% to Reduce Trade Deficit",
-      "summary": "India recorded a 26% surge in goods exports, which helped lower the August 2026 trade deficit. According to Commerce Secretary Rajesh Agrawal, merchandise export growth surpassed import growth in both percentage and absolute terms for the first time.",
-      "category": "economy",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/business/Economy/indias-26-goods-exports-surge-lowers-august-2026-trade-deficit/article71468184.ece",
-      "importance": 4,
-      "date_added": "2026-09-16"
-    },
-    {
-      "title": "Two New Frog Species Discovered in Mizoram",
-      "summary": "Scientists have identified two new frog species in Mizoram named Duttaphrynus phawngpui and Ingerana aizawl. The species are named after Mizoram's highest peak and its capital city, respectively.",
-      "category": "environment",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/mizoram/mizoram-yields-two-new-to-science-frog-species-one-hiding-in-plain-sight/article71467289.ece",
-      "importance": 4,
-      "date_added": "2026-09-16"
-    },
-    {
-      "title": "46th Chess Olympiad Commences in Samarkand",
-      "summary": "The 46th edition of the Chess Olympiad has commenced in Samarkand, featuring 208 nations in the open section and 191 in the women's section. The tournament is being played over 11 rounds in the Swiss system.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/other-sports/samarkand-chess-olympiad-2026-preview-india-chances/article71468821.ece",
-      "importance": 4,
-      "date_added": "2026-09-16"
-    },
-    {
-      "title": "Dhiraj Wins Archery World Championship Final Gold Title",
-      "summary": "Dhiraj won the gold medal title at the World Championship Final in archery. He became the second Indian archer to win a title in the event following Dola Banerjee's feat in 2007.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/other-sports/world-championship-final-gold-a-boost-not-just-for-the-asian-games-but-for-my-career-dhiraj/article71467921.ece",
-      "importance": 4,
-      "date_added": "2026-09-16"
-    },
-    {
-      "title": "Sree Charani Breaks Record for Highest ICC Rating Points by an Indian",
-      "summary": "Sree Charani achieved the highest ICC ranking points ever recorded by an Indian across both batting and bowling categories. She surpassed former skipper Mithali Raj's previous batting rating record of 780 points set in 2011.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/cricket/shree-charani-achieves-career-best-rating-deepti-climbs-to-no-2-in-t20i-rankings/article71467709.ece",
-      "importance": 4,
-      "date_added": "2026-09-16"
-    },
-    {
-      "title": "Asian Games Scheduled to Take Place in Aichi-Nagoya Region",
-      "summary": "The Asian Games will be held in Nagoya and the wider Aichi area from September 19 to October 4. Around 15,000 competitors and officials are expected to participate in the event.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/a-unique-experience-awaits-athletes-at-the-asian-games/article71362418.ece",
-      "importance": 4,
-      "date_added": "2026-09-16"
-    },
-    {
-      "title": "Indian Women's Cricket Team Defeats England in Historic Test at Lord's",
-      "summary": "The Indian women's cricket team registered a historic milestone by winning their first-ever women's Test match at Lord's against England. Following the victory, the team is set to focus on the UAE Asia Cup T20.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/cricket/weve-developed-winning-culture-hungry-for-more-says-harmanpreet-ahead-of-asia-cup-asian-games/article71390413.ece",
-      "importance": 4,
-      "date_added": "2026-09-16"
-    },
-    {
-      "title": "Odisha Receives ₹3,406 Crore SiC Semiconductor Facility",
-      "summary": "A SiC semiconductor facility valued at ₹3,406 crore is being set up in Odisha.",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/odisha-gets-%e2%82%b93406-crore-sic-semiconductor-facility/",
-      "importance": 4,
-      "date_added": "2026-09-16"
-    },
-    {
-      "title": "Bharat Forge and Pratt & Whitney Partner for DRDO UAV Programme",
-      "summary": "Bharat Forge has partnered with Pratt & Whitney for the DRDO UAV programme.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/bharat-forge-pratt-whitney-partner-for-drdo-uav-programme/",
-      "importance": 4,
-      "date_added": "2026-09-16"
-    },
-    {
-      "title": "World Circular Economy Forum 2026 Begins in Gandhinagar",
-      "summary": "The World Circular Economy Forum 2026 has officially commenced in Gandhinagar.",
-      "category": "international",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/world-circular-economy-forum-2026-begins-in-gandhinagar/",
-      "importance": 4,
-      "date_added": "2026-09-16"
-    },
-    {
       "title": "Union Cabinet Raises EPFO Wage Ceiling to ₹25,000",
       "summary": "The Union Cabinet has approved an increase in the EPFO wage ceiling to ₹25,000.",
       "category": "national",
@@ -1421,6 +1250,276 @@
       "url": "https://www.thehindu.com/business/Economy/india-canada-to-hold-next-round-of-talks-from-october-5-for-proposed-trade-pact-goyal/article71491213.ece",
       "importance": 3,
       "date_added": "2026-09-22"
+    },
+    {
+      "title": "Indian Women's Cricket Team Clinches India's First Gold Medal at Asian Games 2026",
+      "summary": "The Indian women's cricket team won India's first gold medal at the Asian Games 2026 by defeating Sri Lanka in the final. Smriti Mandhana and Shafali Verma laid the foundation with a 99-run opening partnership before the spin quartet secured the win.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/cricket/womens-cricket-team-extends-dominance-delivers-india-its-first-gold-at-asian-games-2026/article71494713.ece",
+      "importance": 5,
+      "date_added": "2026-09-23"
+    },
+    {
+      "title": "Indian Men's Badminton Team Assures Back-to-Back Medals at Asian Games 2026",
+      "summary": "The Indian men's badminton team assured itself of a medal at the 2026 Asian Games. This marks the first time in 40 years that the Indian men's team has secured back-to-back medals at the continental event.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/asian-games-2026-indian-men-shuttlers-assured-of-a-medal-women-crash-out/article71496413.ece",
+      "importance": 4,
+      "date_added": "2026-09-23"
+    },
+    {
+      "title": "Yugan Sakthivel Wins Junior Men's Trap Event at ISSF Junior World Cup",
+      "summary": "Indian shooter Yugan Sakthivel won the junior men's trap event at the ISSF Junior World Cup.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/other-sports/yugan-sakthivel-wins-junior-mens-trap-event-at-issf-junior-world-cup/article71496101.ece",
+      "importance": 4,
+      "date_added": "2026-09-23"
+    },
+    {
+      "title": "Maharashtra SIR: 30% electorate likely to be disenfranchised, says Congress",
+      "summary": "Congress delegation flags SIR anomalies to Maharashtra Chief Electoral Officer, seeks two-month extension",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/206-crore-voter-roll-exclusions-in-maharashtra-alarming-says-congress-seeks-probe/article71495289.ece",
+      "importance": 3,
+      "date_added": "2026-09-23"
+    },
+    {
+      "title": "Trump praises new British PM Andy Burnham but slams U.K. deal on Indian Ocean islands",
+      "summary": "Despite U.K. nerves about how new PM Andy Burnham’s meeting with the U.S. President would go, as they sat in front of U.K. and U.S. flags, Mr. Trump declared that trans-Atlantic relations were “more up than they were with your last Prime Minister”",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/trump-praises-new-british-pm-andy-burnham-but-slams-uk-deal-on-indian-ocean-islands/article71498109.ece",
+      "importance": 3,
+      "date_added": "2026-09-23"
+    },
+    {
+      "title": "Bengaluru: Union Law Minister Meghwal visits NLSIU; ABVP submits memorandum against documentary screening",
+      "summary": "After the meeting at NLSIU, a delegation of the Akhil Bharatiya Vidyarthi Parishad (ABVP), Bengaluru, met him at Lok Bhavan and submitted a memorandum regarding the screening",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/bengaluru-union-law-minister-meghwal-visits-nlsiu-abvp-submits-memorandum-against-documentary-screening/article71473643.ece",
+      "importance": 3,
+      "date_added": "2026-09-23"
+    },
+    {
+      "title": "UCC bulldozer is to permanently polarise society: Congress",
+      "summary": "The Opposition party's assertion follows the resignation of former Bombay High Court judge Justice R.C. Chavan from the Maharashtra government's panel to prepare a draft for implementing the Uniform Civil Code (UCC), citing serious reservations about its decision to restrict public feedback on crucial social issues to a \"Yes/No\" format.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/ucc-bulldozer-is-to-permanently-polarise-society-congress/article71498337.ece",
+      "importance": 3,
+      "date_added": "2026-09-23"
+    },
+    {
+      "title": "‘No place for dictatorship’: Ritabrata Banerjee on EC’s TMC symbol freeze",
+      "summary": "The Election Commission has temporarily frozen the All India Trinamool Congress name and ‘Flowers and Grass’ symbol ahead of the West Bengal bypolls. Reacting to the order, Leader of the Opposition Ritabrata Banerjee said, “Democracy has no place for dictatorship.” Both rival factions have been asked to submit alternative names and symbols.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/west-bengal/no-place-for-dictatorship-ritabrata-banerjee-on-ecs-tmc-symbol-freeze/article71479312.ece",
+      "importance": 3,
+      "date_added": "2026-09-23"
+    },
+    {
+      "title": "Genome Analysis Centre to be established in Amaravati, says Health Minister",
+      "summary": "Satya Kumar Yadav inaugurates a genome sequencing centre at the NATCO cancer centre at the Government General Hospital in Guntur; says the proposed Quantum Valley centre will expand genetic testing and research, including the collection and analysis of genetic information related to cancer and rare diseases",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/genome-analysis-centre-to-be-established-in-amaravati-says-health-minister/article71496429.ece",
+      "importance": 3,
+      "date_added": "2026-09-23"
+    },
+    {
+      "title": "Amaravati Regional Summit in Vijayawada on October 16 ahead of CII Partnership Summit in Visakhapatnam",
+      "summary": "Stakeholders from eight districts will showcase local industrial potential; NTR Collector G. Lakshmisha urges entrepreneurs to use the regional summit to sign MoUs",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/amaravati-regional-summit-in-vijayawada-on-october-16-ahead-of-cii-partnership-summit-in-visakhapatnam/article71496636.ece",
+      "importance": 3,
+      "date_added": "2026-09-23"
+    },
+    {
+      "title": "Baba Siddique murder case: MCOCA court rejects Aakash Srivastav’s bail plea, SC denies relief to co-accused",
+      "summary": "The court said multiple circumstances, along with two confessional statements recorded under Section 18 of MCOCA, prima facie connected him to the alleged conspiracy",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/cities/mumbai/baba-siddique-murder-case-mcoca-court-rejects-aakash-srivastavs-bail-plea-sc-denies-relief-to-co-accused/article71497093.ece",
+      "importance": 3,
+      "date_added": "2026-09-23"
+    },
+    {
+      "title": "GBA disconnects electricity to commercial building at Domlur in crackdown on setback violation in Bengaluru",
+      "summary": "Among other things, GBA Chief Commissioner observed that a building was being constructed after demolishing an old structure without leaving a setback on all four sides",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/cities/bangalore/gba-cracks-down-on-domlur-building-over-setback-violation/article71495752.ece",
+      "importance": 3,
+      "date_added": "2026-09-23"
+    },
+    {
+      "title": "Research must rest on curiosity and evidence, says CSIRO scientist Anantanarayanan Raman at SRM University-AP",
+      "summary": "Delivering the 26th University Distinguished Lecture, the Australian agency’s senior scientist says openness does not mean accepting every new idea uncritically",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/research-must-rest-on-curiosity-and-evidence-says-csiro-scientist-anantanarayanan-raman-at-srm-university-ap/article71496388.ece",
+      "importance": 3,
+      "date_added": "2026-09-23"
+    },
+    {
+      "title": "Kadapa-based Shirdi Sai Electricals ships first 345 kV power transformer to U.S., targets ₹600 crore in exports",
+      "summary": "The 175 MVA extra-high voltage transformer was built at the company’s Naini plant in Prayagraj; SSEL is also seeking approvals in Europe",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/kadapa-based-shirdi-sai-electricals-ships-first-345-kv-power-transformer-to-us-targets-600-crore-in-exports/article71496257.ece",
+      "importance": 3,
+      "date_added": "2026-09-23"
+    },
+    {
+      "title": "Ethanol maker sues Andhra farmer for ₹1 crore over pollution allegations",
+      "summary": "The suit seeks an apology and a gag on ‘misleading’ statements from M. Muralidhar Reddy of Gandepalli, NTR district, where a Lokayukta inquiry found untreated effluents in an irrigation canal and the APPCB fined the company",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/ethanol-company-sues-andhra-farmer-over-pollution-claims-seeks-1-crore-compensation/article71496115.ece",
+      "importance": 3,
+      "date_added": "2026-09-23"
+    },
+    {
+      "title": "During Emergency, DMK members were detained on vague grounds ‘against the spirit’ of MISA provisions: Shah Commission",
+      "summary": "In Tamil Nadu, 1,027 persons were detained under the MISA of whom 570 belonged to opposition political parties, 139 were from banned organisations and 318 were described as anti-socials, criminals and others",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/emergency-dmk-members-detained-on-vague-grounds-against-spirit-of-misa-provisions-shah-commission/article71496089.ece",
+      "importance": 3,
+      "date_added": "2026-09-23"
+    },
+    {
+      "title": "The influence of Dalit voters in Uttar Pradesh",
+      "summary": "While the BSP has remained the most popular choice among Dalit voters, the BJP is steadily gaining ground particularly within the non-Jatavs",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/data/the-influence-of-dalit-voters-in-uttar-pradesh/article71496795.ece",
+      "importance": 3,
+      "date_added": "2026-09-23"
+    },
+    {
+      "title": "CITU opposes privatisation of Ramayapatnam Port",
+      "summary": "“Already, 80.55% of the port construction was completed so far. At a time when it can generate revenues, why the government is trying to privatise it? Who will be benefitted with this move?” asked a CITU leader",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/citu-opposes-privatisation-of-ramayapatnam-port/article71496395.ece",
+      "importance": 3,
+      "date_added": "2026-09-23"
+    },
+    {
+      "title": "BJP MLA stirs row with ‘Muslims should bring their daughters, sisters’ to Garba remarks",
+      "summary": "I want to tell Rameshwar Sharma ji that what he has said definitely works to divide this country. He should now take this up with his senior leaders in the Bharatiya Janata Party, said AIMIM State president Mohsin Ali Khan",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/madhya-pradesh/bjp-mla-stirs-row-with-muslims-should-bring-their-daughters-sisters-to-garba-remarks/article71496775.ece",
+      "importance": 3,
+      "date_added": "2026-09-23"
+    },
+    {
+      "title": "DGMA files statement on steps taken for technical assessment of MSC Elsa 3 wreck",
+      "summary": "The Directorate informs the Kerala High Court that it has identified two Indian firms with the technical capability to undertake the proposed multibeam and side scan surveys of the wreck and wreck site",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/dgma-files-statement-on-steps-taken-for-technical-assessment-of-msc-elsa-3-wreck/article71496496.ece",
+      "importance": 3,
+      "date_added": "2026-09-23"
+    },
+    {
+      "title": "Progressive Muslim groups oppose AIMPLB’s ‘Save India, Save Shariat’ campaign, call for gender-just reforms",
+      "summary": "Signatories argued that the campaign could provide political ammunition to the BJP and Sangh Parivar by allowing them to portray themselves as defenders of constitutional principles while suggesting that Muslims sought a separate legal framework",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/cities/mumbai/progressive-muslim-groups-oppose-aimplbs-save-india-save-shariat-campaign-call-for-gender-just-reforms/article71495952.ece",
+      "importance": 3,
+      "date_added": "2026-09-23"
+    },
+    {
+      "title": "We must reform the Security Council: UN chief Guterres in final UNGA address",
+      "summary": "This is the final high-level UN General Assembly week for Secretary General Guterres, whose second five-year tenure as head of the United Nations ends in December 2026",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/un-chief-antonio-guterres-last-unga-speech-2026/article71496335.ece",
+      "importance": 3,
+      "date_added": "2026-09-23"
+    },
+    {
+      "title": "More than 10,000 could flee Yemen fighting to Djibouti in coming months: UN",
+      "summary": "The Iran-backed Houthis earlier this month seized control of Yemen’s Red Sea coastline, in a dramatic offensive that has left hundreds of people on both sides dead, threatened global trade and pushed up energy prices",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/more-than-10000-could-flee-yemen-fighting-to-djibouti-in-coming-months-un/article71495274.ece",
+      "importance": 3,
+      "date_added": "2026-09-23"
+    },
+    {
+      "title": "Assam Holds Nearly 80% of World’s Rhino Population",
+      "summary": "Assam Holds Nearly 80% of World’s Rhino Population",
+      "category": "environment",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/assam-holds-nearly-80-of-worlds-rhino-population/",
+      "importance": 3,
+      "date_added": "2026-09-23"
+    },
+    {
+      "title": "Asian Games 2026 LIVE | Mirabai Chanu eyes gold as women’s 48kg weightlifting final begins",
+      "summary": "India’s men’s and women’s skeet teams clinched bronze medals in Nagoya, adding two more shooting medals to the country’s tally.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-23-2026/article71496842.ece",
+      "importance": 3,
+      "date_added": "2026-09-23"
+    },
+    {
+      "title": "Experts call for cities designed for and by women to create a safer environment",
+      "summary": "Women and girls should be partners in designing public spaces, a delegate stressed; national consultation was organised to mark 15 years of the UN Women’s Safe Cities and Safe Public Spaces initiative",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/experts-call-for-cities-designed-for-and-by-women-to-create-a-safer-environment/article71473261.ece",
+      "importance": 3,
+      "date_added": "2026-09-23"
+    },
+    {
+      "title": "HRF condemns Instagram curbs on ‘Stop Vizag Data Centers’ account, asks Meta to disclose legal basis",
+      "summary": "The forum says posts by the HRF and an investigative documentary have also been restricted, and seeks the name of the authority that sought the block",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/hrf-condemns-instagram-curbs-on-stop-vizag-data-centers-account-asks-meta-to-disclose-legal-basis/article71496541.ece",
+      "importance": 3,
+      "date_added": "2026-09-23"
+    },
+    {
+      "title": "Right treatment can bring injured athletes back, says sports injury specialist, citing policeman’s gold",
+      "summary": "Ch. Venkatesh of the DGP office, who had keyhole surgery on his knee in 2022 and nine months of physiotherapy, wins gold in taekwondo poomsae at the All India Police Judo Cluster Championship",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/right-treatment-can-bring-injured-athletes-back-says-sports-injury-specialist-citing-policemans-gold/article71496513.ece",
+      "importance": 3,
+      "date_added": "2026-09-23"
+    },
+    {
+      "title": "Communal harmony marks Vinayaka Chavithi procession in Kadapa ahead of Nimajjanam",
+      "summary": "Members of several communities join the procession and exchange pleasantries; police keep watch on sensitive pockets, and MLA Madhavi Reddy leads the Shobha Yatra from NGOs Colony",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/communal-harmony-marks-vinayaka-chavithi-procession-in-kadapa-ahead-of-nimajjanam/article71496384.ece",
+      "importance": 3,
+      "date_added": "2026-09-23"
+    },
+    {
+      "title": "Packed schedule for Jaishankar at UN as India campaigns for Security Council election",
+      "summary": "External Affairs Minister’s meetings with U.S. Secretary of State, Bangladesh Foreign Minister among several engagements set to be closely watched",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/packed-schedule-for-jaishankar-at-un-as-india-campaigns-for-security-council-election/article71496048.ece",
+      "importance": 3,
+      "date_added": "2026-09-23"
     }
   ]
 }
