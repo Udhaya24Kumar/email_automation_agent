@@ -1,276 +1,6 @@
 {
   "items": [
     {
-      "title": "Union Cabinet Raises EPFO Wage Ceiling to ₹25,000",
-      "summary": "The Union Cabinet has approved an increase in the EPFO wage ceiling to ₹25,000.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/cabinet-raises-epfo-wage-ceiling-to-%e2%82%b925000/",
-      "importance": 5,
-      "date_added": "2026-09-17"
-    },
-    {
-      "title": "Anant Nag Selected for Dadasaheb Phalke Award",
-      "summary": "Actor Anant Nag has been chosen to receive the prestigious Dadasaheb Phalke Award.",
-      "category": "awards",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/anant-nag-to-receive-dadasaheb-phalke-award/",
-      "importance": 5,
-      "date_added": "2026-09-17"
-    },
-    {
-      "title": "Delhi Tops NITI Aayog's Electric Mobility Index",
-      "summary": "Delhi has ranked first in the Electric Mobility Index released by NITI Aayog.",
-      "category": "reports",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/delhi-tops-niti-aayogs-electric-mobility-index/",
-      "importance": 5,
-      "date_added": "2026-09-17"
-    },
-    {
-      "title": "APEDA Signs MoU with Gulfood Organiser for Food Trade",
-      "summary": "APEDA has signed a Memorandum of Understanding with the organiser of Gulfood to strengthen global food trade.",
-      "category": "international",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/apeda-signs-mou-with-gulfood-organiser-to-strengthen-global-food-trade/",
-      "importance": 4,
-      "date_added": "2026-09-17"
-    },
-    {
-      "title": "Oman Promotes Sohar Port as Energy Route for India",
-      "summary": "Oman is promoting Sohar Port as India's Gulf energy route.",
-      "category": "international",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/oman-promotes-sohar-port-as-indias-gulf-energy-route/",
-      "importance": 4,
-      "date_added": "2026-09-17"
-    },
-    {
-      "title": "U.S. House Passes Bill Authorising Tariffs on Russian Oil Buyers",
-      "summary": "The U.S. House of Representatives passed a bill authorising up to 100% tariffs on countries including India for purchasing oil and gas from Russia.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/mea-monitoring-developments-of-russia-sanctions-bill-in-us-congress/article71475348.ece",
-      "importance": 4,
-      "date_added": "2026-09-17"
-    },
-    {
-      "title": "Swachh Seva Aankalan Launched under Swachh Bharat Mission-Grameen",
-      "summary": "The Swachh Seva Aankalan initiative has been launched under the Swachh Bharat Mission-Grameen.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/swachh-seva-aankalan-launched-for-swachh-bharat-mission-grameen/",
-      "importance": 4,
-      "date_added": "2026-09-17"
-    },
-    {
-      "title": "Project Cheetah Completes Four Years in India",
-      "summary": "India's Project Cheetah wildlife initiative has completed four years of operation.",
-      "category": "environment",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/project-cheetah-completes-four-years-in-india/",
-      "importance": 4,
-      "date_added": "2026-09-17"
-    },
-    {
-      "title": "Centre Reconstitutes Central Board of Film Certification",
-      "summary": "The Central Government has reconstituted the Central Board of Film Certification with 18 members.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/centre-reconstitutes-central-board-of-film-certification-with-18-members/",
-      "importance": 4,
-      "date_added": "2026-09-17"
-    },
-    {
-      "title": "J&K MLAs decry 18% representation to Kashmir valley in UT officers’ list",
-      "summary": "J&amp;K CM Omar Abdullah distributed appointment orders to 55 newly selected candidates of the Combined Competitive Examination entering the Jammu & Kashmir Administrative Service and Jammu & Kashmir Accounts (Gazetted) Service",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-mlas-decry-18-representation-to-kashmir-valley-in-ut-officers-list/article71472329.ece",
-      "importance": 3,
-      "date_added": "2026-09-17"
-    },
-    {
-      "title": "Uttar Pradesh ATS arrests Tamil Nadu youth for allegedly planning terror activities",
-      "summary": "Maqsood Ali, who was allegedly in touch with Pakistani hackers and had developed a secure communication network for others like him, was arrested from Coimbatore with the assistance of Tamil Nadu ATS",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-ats-arrests-tamil-nadu-youth-for-allegedly-planning-terror-activities/article71474054.ece",
-      "importance": 3,
-      "date_added": "2026-09-17"
-    },
-    {
-      "title": "BIS raises gold hallmarking fee to ₹75 from ₹45 ahead of festive season",
-      "summary": "Expressing concern over the move, the All India Gem and Jewellery Domestic Council (GJC) urged the government and BIS to immediately review the decision and retain the existing charge pending stakeholder consultation",
-      "category": "economy",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/business/Economy/bis-raises-gold-hallmarking-fee-to-75-from-45-ahead-of-festive-season/article71471898.ece",
-      "importance": 3,
-      "date_added": "2026-09-17"
-    },
-    {
-      "title": "Uttar Pradesh deliberate on accelerating SDG targets focused on health, nutrition and education",
-      "summary": "Experts share innovations, experiences at the ‘Empowering Futures’ programme in Lucknow",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-deliberate-on-accelerating-sdg-targets-focused-on-health-nutrition-and-education/article71473350.ece",
-      "importance": 3,
-      "date_added": "2026-09-17"
-    },
-    {
-      "title": "Government functionary questions Rahul's criticism of UPI charges, says Congress MPs in panel gave nod",
-      "summary": "Why is Rahul Gandhi opposing something his own MPs, including former finance minister P.Chidambaram and former minister in the UPA government Manish Tewari supported within the parliamentary panel, says a senior government functionary",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/government-functionary-questions-rahuls-criticism-of-upi-charges-says-congress-mps-in-panel-gave-nod/article71475118.ece",
-      "importance": 3,
-      "date_added": "2026-09-17"
-    },
-    {
-      "title": "T.N. CM Vijay returns from U.K. with ₹15,300 crore investment commitments",
-      "summary": "He also met Indian High Commissioner Kumaran Periyasamy and held discussions on joint ventures between India and the U.K. under the Comprehensive Economic and Trade Agreement.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-cm-vijay-returns-from-uk-with-15300-crore-investment-commitments/article71475246.ece",
-      "importance": 3,
-      "date_added": "2026-09-17"
-    },
-    {
-      "title": "BJP MPs raise concerns over slow pace of infrastructure projects in Odisha",
-      "summary": "Nabrangpur MP Balabhadra Majhi, Bolangir MP Sangeeta Kumari Singh Deo and Kantabanji MLA Laxman Bag’s letters is said to put the Mohan Charan Majhi government in an uncomfortable position",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/odisha/bjp-mps-raise-concerns-over-slow-pace-of-infrastructure-projects-in-odisha/article71472679.ece",
-      "importance": 3,
-      "date_added": "2026-09-17"
-    },
-    {
-      "title": "CJP to launch ‘Adivasi School Thik Karo’ campaign from Gadchiroli on Sept. 17: Dipke",
-      "summary": "As part of the exercise, CJP representatives will visit tribal schools and inspect the facilities and infrastructure; Abhijeet Dipke tears up copy of MoU between Maharashtra govt., trust over tribal hostels",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/maharashtra/cjp-to-launch-adivasi-school-thik-karo-campaign-from-gadchiroli-on-sept-17-dipke/article71471862.ece",
-      "importance": 3,
-      "date_added": "2026-09-17"
-    },
-    {
-      "title": "NEET-UG protests: Supreme Court refuses change in High-Powered Enquiry Committee, says inquiry on pellet guns, excesses must come first",
-      "summary": "The court expressed a sense of chagrin that the disparagement from the petitioners’ side had commenced even before the HPEC had started work",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/neet-ug-protests-sc-refuses-change-in-hpec-says-enquiry-on-pellet-guns-excesses-must-come-first/article71471162.ece",
-      "importance": 3,
-      "date_added": "2026-09-17"
-    },
-    {
-      "title": "J&K CM Omar Abdullah backs Centre on UPI charges",
-      "summary": "Asserting that maintaining and operating the UPI infrastructure is not cheap, the Chief Minister said it takes a substantial amount of money to run the payment system",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-cm-omar-abdullah-backs-centre-on-upi-charges/article71474141.ece",
-      "importance": 3,
-      "date_added": "2026-09-17"
-    },
-    {
-      "title": "ICE agent charged with assault, lying about shooting, arrested in Minnesota",
-      "summary": "But a lawyer for the ICE agent, Rolando Cantu, said ‌in an interview that his client always intended to answer the charges in Minneapolis.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/ice-agent-charged-with-assault-lying-about-shooting-arrested-in-minnesota/article71475135.ece",
-      "importance": 3,
-      "date_added": "2026-09-17"
-    },
-    {
-      "title": "Federal Reserve hikes key rate to tackle ‘too high’ inflation, defying Trump demands for cut",
-      "summary": "Chairperson Warsh said renewed U.S.-Iran combat, which has driven up gas prices, also convinced officials to support rate hikes; President Trump reacted angrily to the decision, renewing his call for the Fed to lower interest rates “AND FAST”",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/federal-reserve-hikes-key-rate-for-first-time-in-three-years-defying-trump-demands-for-cut/article71474094.ece",
-      "importance": 3,
-      "date_added": "2026-09-17"
-    },
-    {
-      "title": "EU chief offers Canada ‘Associate Membership’ of bloc",
-      "summary": "Canadian PM Mark Carney has been pursuing closer ties with the European Union, as both seek to pivot away from a hostile United States under President Donald Trump.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/eu-chief-pitches-associate-member-status-for-canada/article71472016.ece",
-      "importance": 3,
-      "date_added": "2026-09-17"
-    },
-    {
-      "title": "EU to ban social media for under 13s, curb access until 15",
-      "summary": "The European Commission president and tech chief Henna Virkkunen will formally present the proposed “KIDS Act”, including the tiered age limits in Strasbourg, France, on September 16, 2026",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/eu-to-ban-social-media-for-under-13s-curb-access-until-15/article71472470.ece",
-      "importance": 3,
-      "date_added": "2026-09-17"
-    },
-    {
-      "title": "Parliament Standing Committee didn’t discuss MDR charges on UPI transactions, says Gaurav Gogoi",
-      "summary": "The Congress MP said that government representatives did not provide any ‘specific or satisfactory’ answers on the need for the new UPI charges",
-      "category": "economy",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/business/Economy/parliament-standing-committee-didnt-discuss-mdr-charges-on-upi-transactions-says-gaurav-gogoi/article71475383.ece",
-      "importance": 3,
-      "date_added": "2026-09-17"
-    },
-    {
-      "title": "FM urges industry to look beyond rate cuts to compliance and revenue; calls for robust tax policy research",
-      "summary": "Drawing comparisons with institutions such as the Institute for Fiscal Studies in the UK and the International Bureau of Fiscal Documentation in Amsterdam, Sitharaman said India needed more visible and rigorous independent tax policy research",
-      "category": "economy",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/business/Economy/fm-urges-industry-to-look-beyond-rate-cuts-to-compliance-revenue-calls-for-robust-tax-policy-research/article71472456.ece",
-      "importance": 3,
-      "date_added": "2026-09-17"
-    },
-    {
-      "title": "‘PM has redefined NOTA — Narendra’s Ongoing Trump Appeasement’: Congress after UPI move",
-      "summary": "Jairam Ramesh asked whether the government's move on MDR was done to enable U.S. card companies to compete with UPI",
-      "category": "economy",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/narendras-ongoing-trump-appeasement-congresss-dig-at-pm-on-upi-move/article71471176.ece",
-      "importance": 3,
-      "date_added": "2026-09-17"
-    },
-    {
-      "title": "Nabi, Dhir get maiden ODI call-ups for West Indies series",
-      "summary": "Rohit Sharma, Virat Kohli and Ravindra Jadeja are all part of the ODI series against the men from the Caribbean, providing vast experience to the Shubman Gill-led squad",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/cricket/nabidhirget-maidenodicall-ups-for-wiseries/article71473716.ece",
-      "importance": 3,
-      "date_added": "2026-09-17"
-    },
-    {
-      "title": "Government is ‘surrendering to American pressure’ with UPI charges, Rahul Gandhi alleges; Kharge terms it ‘loot’",
-      "summary": "The move is aimed at opening the digital payments sector to American companies, the Leader of the Opposition in the Lok Sabha says, alleging that a recent notification has quietly paved the way for imposing a Merchant Discount Rate on merchant transactions above ₹2,000",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/compromised-pm-modi-again-surrendering-to-us-pressure-rahul-on-governments-upi-move/article71467221.ece",
-      "importance": 3,
-      "date_added": "2026-09-17"
-    },
-    {
-      "title": "PM decided to prostrate before Trump, says Rahul on UPI charge",
-      "summary": "The Congress has sought to link the UPI decision to what it describes as growing U.S. pressure on India, including demands for changes to the zero merchant discount rate regime for UPI",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/pm-decided-to-prostrate-before-trump-says-rahul-on-upi-charge/article71472616.ece",
-      "importance": 3,
-      "date_added": "2026-09-17"
-    },
-    {
-      "title": "Spurious drug racket accused had shop near Minerva Circle in Bengaluru; SIT gets custody",
-      "summary": "One of the two main accused in the case is Veeresh Kumar Jain, a native of Rajasthan and proprietor of Krupa Healthcare near Minerva Circle in Bengaluru",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/pharmacy-owner-sent-to-sit-custody-in-spurious-drug-racket-case/article71473791.ece",
-      "importance": 3,
-      "date_added": "2026-09-17"
-    },
-    {
       "title": "HAL Airport Becomes India's First to Operationalise RNP CAT H Helicopter Approach System",
       "summary": "HAL Airport has become the first airport in India to operationalise the RNP CAT H helicopter approach procedure. The system uses a satellite-guided precision navigation system engineered specifically for helicopter operations.",
       "category": "national",
@@ -1520,6 +1250,276 @@
       "url": "https://www.thehindu.com/news/national/packed-schedule-for-jaishankar-at-un-as-india-campaigns-for-security-council-election/article71496048.ece",
       "importance": 3,
       "date_added": "2026-09-23"
+    },
+    {
+      "title": "OECD Upgrades India's Growth Forecast for 2026-27 to 7.1%",
+      "summary": "The OECD has upgraded India's growth expansion forecast for 2026-27 to 7.1%. This follows recent growth outlook revisions for India by rating agencies Moody’s, S&P Global, and Fitch Ratings.",
+      "category": "economy",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/Economy/oecd-becomes-latest-global-agency-to-upgrade-indias-growth-up-2026-27-expansion-to-71/article71499132.ece",
+      "importance": 5,
+      "date_added": "2026-09-24"
+    },
+    {
+      "title": "Jay Meena Wins India's First-Ever Soft Tennis Bronze Medal at Asian Games",
+      "summary": "Jay Meena secured India's first-ever soft tennis bronze medal at the Asian Games. Competing in his third Asian Games, the 26-year-old athlete achieved this historic milestone after playing against Kurosaka.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/jay-meena-wins-indias-first-ever-soft-tennis-bronze-medal-at-asian-games/article71498494.ece",
+      "importance": 5,
+      "date_added": "2026-09-24"
+    },
+    {
+      "title": "SEBI Recognises Blue Bonds as Sustainable Finance Instruments",
+      "summary": "SEBI has recognised blue bonds as part of sustainable finance instruments in India. The announcement highlights the potential of blue bonds to support the country's blue economy.",
+      "category": "economy",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/Economy/blue-bonds-indias-new-ocean-of-finance/article71502859.ece",
+      "importance": 4,
+      "date_added": "2026-09-24"
+    },
+    {
+      "title": "FIFA World Cup 2026 Features 48 Teams in Expanded Format",
+      "summary": "The FIFA World Cup 2026 features 48 participating teams, marking the largest number in the competition's history. The group stage consists of 12 groups of four teams playing 72 matches to decide the 32 teams advancing to the knockout stage.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/infographics/2026-07-06/fifa-world-cup-2026-knockout-bracket-schedule-qualified-and-eliminated-teams/index.html",
+      "importance": 4,
+      "date_added": "2026-09-24"
+    },
+    {
+      "title": "Deen Dayal Upadhyaya Grameen Kaushalya Yojana 2.0",
+      "summary": "The Press Information Bureau highlighted the Deen Dayal Upadhyaya Grameen Kaushalya Yojana 2.0 (DDU-GKY 2.0) government scheme.",
+      "category": "national",
+      "source": "pib",
+      "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2314250",
+      "importance": 4,
+      "date_added": "2026-09-24"
+    },
+    {
+      "title": "Paper Leak: NTA debars Latur coaching centre owner’s son from NEET-UG for two years",
+      "summary": "According to the CBI, Shivraj Motegaonkar allegedly paid ₹5 lakh to procure chemistry questions from P.V. Kulkarni, who was on the NTA panel that set the questions for the examination.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/paper-leak-nta-debars-latur-coaching-centre-owners-son-from-neet-ug-for-two-years/article71502661.ece",
+      "importance": 3,
+      "date_added": "2026-09-24"
+    },
+    {
+      "title": "Defence Ministry signs ₹811 crore SAT-SAAW contract",
+      "summary": "Defence Ministry signs ₹811 crore SAT-SAAW contract",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/defence-ministry-signs-%e2%82%b9811-crore-sat-saaw-contract/",
+      "importance": 3,
+      "date_added": "2026-09-24"
+    },
+    {
+      "title": "Former Chief Election Commissioner questions legality of SIR, demands reversal of decisions",
+      "summary": "Former Chief Election Commissioner S.Y. Quraishi shares his views on the Special Intensive Revision (SIR) exercise, questioning its necessity, legality and implementation. He argues that India’s electoral rolls have been effectively maintained for decades and raises concerns about the impact and outcomes of the exercise.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/videos/former-chief-election-commissioner-questions-legality-of-sir-demands-reversal-of-decisions/article71502825.ece",
+      "importance": 3,
+      "date_added": "2026-09-24"
+    },
+    {
+      "title": "HEADS to bridge India’s mental healthcare gap with AI",
+      "summary": "NIMHANS in collaboration with IIT Kharagpur, and Lokopriya Gopinath Bordoloi Regional Institute of Mental Health, Tezpur, to formally launch HEADS (Human-in-the-loop Evaluation of Assisted Depression Screening) on September 24",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/heads-to-bridge-indias-mental-healthcare-gap-with-ai/article71499835.ece",
+      "importance": 3,
+      "date_added": "2026-09-24"
+    },
+    {
+      "title": "MANUU faces sexual harassment row over ICC report",
+      "summary": "The university refused to share the copy of the ICC report with the complainant, and the latter’s letters to the Department of Higher Education and the Ministry of Women and Child Development reportedly have not yielded any action",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/manuu-in-the-thick-of-sexual-harassment-controversy-accused-of-suppressing-icc-report-and-not-implementing-recommendations/article71500998.ece",
+      "importance": 3,
+      "date_added": "2026-09-24"
+    },
+    {
+      "title": "WB Minister and BJP MLA public spat embarrasses party",
+      "summary": "State BJP president Samik Bhattacharya has tried to downplay the development and said while Sharadwat Mukherjee remains a Minister, Piyush Kanoria is an old and dedicated BJP worker",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-cm-asks-ministers-to-concentrate-on-work-rather-than-being-hyperactive-on-the-street/article71501025.ece",
+      "importance": 3,
+      "date_added": "2026-09-24"
+    },
+    {
+      "title": "Opposition calls for CEC Gyanesh Kumar’s removal after report on Election Commissioners’ dissent",
+      "summary": "Both ECs recorded formal objections regarding centralisation of poll roll database, “illegal” changes in Form 6, removal of voters in West Bengal, Goa; terming the CEC the “chief architect of vote chori”, Congress calls for SC-monitored probe",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/election-commission-dissent-sparks-opposition-call-for-cec-gyanesh-kumars-removal/article71498434.ece",
+      "importance": 3,
+      "date_added": "2026-09-24"
+    },
+    {
+      "title": "One Indian killed in attack on ship off Oman; Centre condemns attack",
+      "summary": "Union Minister Sarbananda Sonowal said that Suraj Yadav from Uttar Pradesh succumbed to head injuries after the attack on the vessel MV Cape Dao; Mr. Sonowal also said there were 20 Indian seafarers on board, and all 19 surviving crew members have been safely evacuated by the Royal Navy of Oman",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/indian-national-killed-mv-cape-dao-attack-indian-embassy-oman/article71501151.ece",
+      "importance": 3,
+      "date_added": "2026-09-24"
+    },
+    {
+      "title": "Arunachal Pradesh State Cabinet approves panel for survey of Siang mega dam",
+      "summary": "Many villagers have been opposing the bid to prepare the pre-feasibility report for the proposed Siang Upper Multipurpose Project, which will generate an estimated 11,000 MW of electricity",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/arunachal-pradesh/arunachal-pradesh-state-cabinet-approves-panel-for-survey-of-siang-mega-dam/article71499793.ece",
+      "importance": 3,
+      "date_added": "2026-09-24"
+    },
+    {
+      "title": "CM Fadnavis and DCM Shinde visit drought-prone regions in Maharashtra",
+      "summary": "The tour of CM and DCM comes after Devendra Fadnavis announced the formation of a subcommittee to handle the drought issue under the chairmanship of Revenue Minister Chandrashekhar Bawankule",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/cm-fadnavisand-dcm-shinde-visit-drought-prone-regions-in-maharashtra/article71500515.ece",
+      "importance": 3,
+      "date_added": "2026-09-24"
+    },
+    {
+      "title": "U.P. CM Yogi launches Bharat Taxi and Mukhyamantri Krishak Samriddhi Yojana",
+      "summary": "Now, upon registration, taxi drivers will become part of Bharat Taxi on zero commission and will receive social security of ₹5 lakh, said Yogi Adityanath",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/bharat-taxi-to-operate-on-zero-commission-drivers-to-get-5-lakh-social-security-cm-yogi-adityanath/article71499180.ece",
+      "importance": 3,
+      "date_added": "2026-09-24"
+    },
+    {
+      "title": "Madhya Pradesh traders, retailers observe ‘No UPI Day’, seek rollback of MDR charges",
+      "summary": "In cities like Bhopal and Indore, QR code stickers and payment confirmation soundboxes on several shops were seen covered with a black cloth, with the traders requesting customers to pay in cash",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/madhya-pradesh/madhya-pradesh-traders-retailers-observe-no-upi-day-seek-rollback-of-mdr-charges/article71500720.ece",
+      "importance": 3,
+      "date_added": "2026-09-24"
+    },
+    {
+      "title": "Minister in CEC-EC selection panel fails ‘perception test’, says Justice Datta in split verdict",
+      "summary": "Justice Datta said the Minister “cannot be expected to defy the Prime Minister”; he said the Prime Minister and his Cabinet Minister shared a “collective responsibility” and inclusion of a Minister “fails to provide an independent countenance”",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/minister-in-cec-ec-selection-panel-fails-perception-test-says-justice-datta-in-split-verdict/article71499280.ece",
+      "importance": 3,
+      "date_added": "2026-09-24"
+    },
+    {
+      "title": "FSSAI Acts Against E-Commerce Food Claims",
+      "summary": "FSSAI Acts Against E-Commerce Food Claims",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/fssai-acts-against-e-commerce-food-claims/",
+      "importance": 3,
+      "date_added": "2026-09-24"
+    },
+    {
+      "title": "UK Sets Up First Military Space Squadron",
+      "summary": "UK Sets Up First Military Space Squadron",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/uk-sets-up-first-military-space-squadron/",
+      "importance": 3,
+      "date_added": "2026-09-24"
+    },
+    {
+      "title": "EC dissent row LIVE: Opposition seeks CEC Gyanesh Kumar’s removal; CJP's Dipke to address presser",
+      "summary": "The ECI responded on September 23, saying that all its actions have been in accordance with the laws and instructions of the Commission",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/ec-dissent-gyanesh-kumar-resignation-row-september-24-2026-live-updates/article71502728.ece",
+      "importance": 3,
+      "date_added": "2026-09-24"
+    },
+    {
+      "title": "Asian Games 2026 LIVE: Roshibina Devi bags second Asian Games silver in Wushu",
+      "summary": "It is third Asian Games medal for Roshibina, who won a silver at the 2023 Hangzhou Asian Games and a bronze at the 2018 Jakarta-Palembang Games",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/asian-games-2026-live-updates-on-september-24-2026/article71501314.ece",
+      "importance": 3,
+      "date_added": "2026-09-24"
+    },
+    {
+      "title": "Rahul Gandhi speaks to deceased IIT Bombay student’s parents",
+      "summary": "Indian Youth Congress president Uday Bhanu Chib and its Maharashtra unit chief Shivraj More were with Sahil’s parents when the call took place.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/cities/mumbai/rahul-gandhi-speaks-to-deceased-iit-bombay-students-parents/article71502794.ece",
+      "importance": 3,
+      "date_added": "2026-09-24"
+    },
+    {
+      "title": "Karnataka BJP gets new in-charge leader",
+      "summary": "He replaces Dr. Radhamohan Das Agarwal who was in-charge of the BJP’s Karnataka unit so far",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-bjp-gets-new-in-charge-leader/article71500938.ece",
+      "importance": 3,
+      "date_added": "2026-09-24"
+    },
+    {
+      "title": "Mamata calls for Chief Election Commissioner’s arrest, seeks fresh West Bengal polls",
+      "summary": "Former Chief Minister says there will be a nationwide protest and that INDIA bloc leaders will meet soon, asserting that all Opposition parties are together in this ‘fight’",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/west-bengal/mamata-banerjee-on-election-commission-friction-bengal-assembly-sir/article71499617.ece",
+      "importance": 3,
+      "date_added": "2026-09-24"
+    },
+    {
+      "title": "Ensure proper disposal of hazardous waste: Dinesh Reddy",
+      "summary": "As the APEMCL website has GPS-enabled system to monitor the management and shifting of hazardous waste, he appealed to the industries to promptly upload such details on the website",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/ensure-proper-disposal-of-hazardous-waste-dinesh-reddy/article71502694.ece",
+      "importance": 3,
+      "date_added": "2026-09-24"
+    },
+    {
+      "title": "How mobile games have become a means of protest against power crisis in Keralam",
+      "summary": "Games made by members of Left-leaning youth organisations criticise the UDF government and Keralam Chief Minister V.D. Satheesan humorously",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/how-mobile-games-have-become-a-means-of-protest-against-power-crisis-in-keralam/article71499638.ece",
+      "importance": 3,
+      "date_added": "2026-09-24"
+    },
+    {
+      "title": "BIS conducts search and seizure at Mysuru jewellery shop",
+      "summary": "The team seized around 430 grams of gold ornaments that did not bear the mandatory Hallmark Unique Identification (HUID) markings",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/bis-conducts-search-and-seizure-at-mysuru-jewellery-shop/article71500028.ece",
+      "importance": 3,
+      "date_added": "2026-09-24"
+    },
+    {
+      "title": "JLM urges Karnataka government to retain management of Anubhava Mantapa",
+      "summary": "This comes two days after the JLM general body resolved to seek day-to-day management of the institution from the State government",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/jlm-urges-the-government-to-retain-management-of-anubhava-mantapa/article71499983.ece",
+      "importance": 3,
+      "date_added": "2026-09-24"
+    },
+    {
+      "title": "IIT Bombay forms panel to probe student’s death",
+      "summary": "The Mumbai Police have transferred the probe into Sahil Wakode’s death to the Crime Branch; Prof. Suryanarayana Doolla, who has been named in the case, has been sent on leave",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/iit-bombay-forms-panel-to-probe-students-death/article71500841.ece",
+      "importance": 3,
+      "date_added": "2026-09-24"
     }
   ]
 }
