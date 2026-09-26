@@ -1,276 +1,6 @@
 {
   "items": [
     {
-      "title": "HAL Hands Over LCA Trainer Aircraft to IAF and Dhruv NG to Pawan Hans",
-      "summary": "Hindustan Aeronautics Limited (HAL) handed over two LCA trainer planes to the Indian Air Force and four Dhruv Next Generation (NG) helicopters to Pawan Hans Limited. This marks the induction of the civil-certified Dhruv NG into civil aviation.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/hal-hands-over-military-civil-aviation-and-training-platforms/article71480120.ece",
-      "importance": 5,
-      "date_added": "2026-09-19"
-    },
-    {
-      "title": "GRSE Launches Indigenous Ocean Research Vessel 'Sagar Manthan'",
-      "summary": "Kolkata-based Garden Reach Shipbuilders & Engineers (GRSE) has launched 'Sagar Manthan', an indigenously built ocean research vessel. The ₹840-crore vessel is expected to be ready for operational use by early 2028.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/kolkata-based-grse-launches-indigenous-ocean-research-vessel-sagar-manthan/article71446742.ece",
-      "importance": 5,
-      "date_added": "2026-09-19"
-    },
-    {
-      "title": "Karnataka Approves Tulu as Second Administrative Language in Two Districts",
-      "summary": "The Karnataka Cabinet has approved Tulu as the second administrative language for the Dakshina Kannada and Udupi districts.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/karnataka-cabinet-approves-tulu-as-second-administrative-language-in-dakshina-kannada-and-udupi/",
-      "importance": 4,
-      "date_added": "2026-09-19"
-    },
-    {
-      "title": "JPC Questions Centre on FCRA Amendment Provisions",
-      "summary": "Joint Parliamentary Committee (JPC) members questioned the Centre regarding foreign funds and asset takeover provisions in proposed FCRA amendments. The Home Ministry defended the changes as steps to enhance transparency and accountability.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/jpc-members-question-centre-on-foreign-funds-asset-takeover-provisions-in-fcra-amendments/article71481567.ece",
-      "importance": 4,
-      "date_added": "2026-09-19"
-    },
-    {
-      "title": "Supreme Court Petition Filed Against ECI Freeze on Party Symbol",
-      "summary": "A petition was filed in the Supreme Court against the Election Commission of India's freeze on the Trinamool Congress symbol. The plea argues that the ECI relied on statements of rebel legislators subject to disqualification under the Tenth Schedule (anti-defection law).",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/west-bengal/mamata-banerjee-moves-supreme-court-against-freeze-on-tmc-symbol/article71482413.ece",
-      "importance": 4,
-      "date_added": "2026-09-19"
-    },
-    {
-      "title": "Inaugural Carpathian Eight Regional Summit Hosted in Ukraine",
-      "summary": "Ukrainian President Zelenskyy hosted the inaugural summit of the 'Carpathian Eight' regional grouping. The summit brought together leaders from Ukraine, Romania, Serbia, Poland, Slovakia, the Czech Republic, Austria, and Hungary, along with involvement from the European Union.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/zelenskyy-hosts-leaders-from-seven-countries-for-regional-summit/article71482591.ece",
-      "importance": 4,
-      "date_added": "2026-09-19"
-    },
-    {
-      "title": "India and Bhutan Review Bilateral Development Cooperation",
-      "summary": "External Affairs Minister S. Jaishankar met with his Bhutanese counterpart to discuss advancing multifaceted bilateral engagement. The two sides commended progress in development partnership, energy, trade, connectivity, culture, and people-to-people ties.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/india-bhutan-commend-progress-in-bilateral-development-cooperation/article71480194.ece",
-      "importance": 4,
-      "date_added": "2026-09-19"
-    },
-    {
-      "title": "Denmark Inaugurates Greensand CO2 Storage Facility in North Sea",
-      "summary": "Denmark has inaugurated Greensand in the North Sea, bringing the European Union's first full-scale carbon dioxide storage site and value chain into operation.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/denmark-inaugurates-co2-storage-facility-in-north-sea/article71479679.ece",
-      "importance": 4,
-      "date_added": "2026-09-19"
-    },
-    {
-      "title": "Bank of Japan Raises Interest Rates to 31-Year High",
-      "summary": "The Bank of Japan has tightened monetary policy by raising interest rates to a 31-year high to battle inflation driven by rising oil prices from the West Asia crisis.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/business/Economy/bank-of-japan-hikes-rates-to-31-year-high-to-battle-inflation/article71479482.ece",
-      "importance": 4,
-      "date_added": "2026-09-19"
-    },
-    {
-      "title": "0.4% Merchant Discount Rate Applied to UPI Transactions Above ₹2,000",
-      "summary": "Starting October 15, a 0.4% Merchant Discount Rate will apply to person-to-merchant UPI payments exceeding ₹2,000, paid by merchants and capped at ₹300 for transactions of ₹75,000 or more.",
-      "category": "economy",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/business/Economy/mdr-apprehension-unlikely-to-spur-higher-cash-usage-rbi-deputy-governor/article71482058.ece",
-      "importance": 4,
-      "date_added": "2026-09-19"
-    },
-    {
-      "title": "NMDC Unveils Three-Phase Roadmap for Net Zero Operational Emissions by 2047",
-      "summary": "NMDC has announced a three-phase roadmap spanning short, medium, and long-term phases from FY 2026 to FY 2047 to achieve Net Zero operational emissions.",
-      "category": "economy",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/business/nmdc-targets-net-zero-operational-emissions-by-2047/article71481748.ece",
-      "importance": 4,
-      "date_added": "2026-09-19"
-    },
-    {
-      "title": "Net Direct Tax Collection Rises 13% to Over ₹12.12 Lakh Crore",
-      "summary": "Data from the Central Board of Direct Taxes shows net direct tax collection grew 13% to over ₹12.12 lakh crore, while refund issuance increased 29.19% to over ₹2.20 lakh crore.",
-      "category": "economy",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/business/Economy/net-direct-tax-collection-rises-13-to-over-1212-lakh-crore-till-september-17/article71480346.ece",
-      "importance": 4,
-      "date_added": "2026-09-19"
-    },
-    {
-      "title": "Manu Bhaker and Tejinderpal Toor Named India's Flag-Bearers for Asian Games Opening Ceremony",
-      "summary": "Manu Bhaker and Tejinderpal Toor have been named as India's flag-bearers for the Asian Games opening ceremony. Bhaker is the first athlete from independent India to win two medals in a single Olympics, while Toor has won gold in the last two Asian Games.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/asian-games-opening-ceremony-manu-bhaker-tejinderpal-toor-named-indias-flag-bearers/article71479779.ece",
-      "importance": 4,
-      "date_added": "2026-09-19"
-    },
-    {
-      "title": "Cochin Shipyard Lays Keel for Next-Generation Missile Vessels",
-      "summary": "Cochin Shipyard has laid the keel for Next-Generation Missile Vessels as part of naval defense manufacturing initiatives.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/cochin-shipyard-lays-keel-for-next-generation-missile-vessels/",
-      "importance": 4,
-      "date_added": "2026-09-19"
-    },
-    {
-      "title": "Scientists Discover DARE Cells Capable of Surviving Apoptosis",
-      "summary": "Scientists have identified a new category of biological cells termed DARE cells that possess the ability to survive apoptosis.",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/scientists-discover-dare-cells-that-survive-apoptosis/",
-      "importance": 4,
-      "date_added": "2026-09-19"
-    },
-    {
-      "title": "Odisha government plans 870-Acre Silicon Valley hub in Cuttack’s Naraj for semiconductor, IT projects",
-      "summary": "The State government has received investment proposals worth approximately Rs 23,600 crore and the potential to generate 6,100 employment opportunities, says Odisha CM",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/odisha/odisha-government-plans-870-acre-silicon-valley-hub-in-cuttacks-naraj-for-semiconductor-it-projects/article71481519.ece",
-      "importance": 3,
-      "date_added": "2026-09-19"
-    },
-    {
-      "title": "Bihar floods: Nitin Nabin donates three months’ Rajya Sabha MP salary to CM Relief Fund",
-      "summary": "The State government has already distributed ₹550 crore in direct financial assistance by transferring ₹7,000 to each flood affected family, the BJP National President said",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/bihar/bihar-floods-nitin-nabin-donates-three-months-rajya-sabha-mp-salary-to-cm-relief-fund/article71480661.ece",
-      "importance": 3,
-      "date_added": "2026-09-19"
-    },
-    {
-      "title": "PM Modi, UAE Preident discuss West Asia, strategic partnership during phone call",
-      "summary": "The Prime Minister and the UAE president reaffirmed their commitment to continued cooperation and coordination in efforts to promote regional peace, security and stability, a statement issued by the Prime Minister's Office said.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/pm-modi-uae-preident-discuss-west-asia-strategic-partnership-during-phone-call/article71483544.ece",
-      "importance": 3,
-      "date_added": "2026-09-19"
-    },
-    {
-      "title": "Four of a family returning from Ganesh immersion killed in road accident on NH-44 near Shamshabad",
-      "summary": "The family was travelling from their native Mettugadda Thanda in Nawabpet mandal of Mahabubnagar to Shamshabad after Ganesh immersion when their Innova (TS 07 GZ 9333) allegedly rammed into a divider during the wee hours of Saturday.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/four-of-a-family-returning-from-ganesh-immersion-killed-in-road-accident-on-nh-44-near-shamshabad/article71483497.ece",
-      "importance": 3,
-      "date_added": "2026-09-19"
-    },
-    {
-      "title": "How Chennai’s GCC expansion could reshape its real estate market",
-      "summary": "As Global Capability Centres (GCC) expand across the city’s key corridors, demand for Grade A offices and housing is expected to grow alongside supporting infrastructure",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/real-estate/how-chennais-gcc-expansion-could-reshape-its-real-estate-market/article71479560.ece",
-      "importance": 3,
-      "date_added": "2026-09-19"
-    },
-    {
-      "title": "Sharad Pawar urges Maharashtra government to declare drought, provide ₹50,000 per hectare relief",
-      "summary": "Instead of taking a decision based solely on the average district figures, the actual damage should be considered together based on taluka-wise rainfall, crop condition, and declare drought, says NCP (SP) leader Sharad Pawar",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/maharashtra/sharad-pawar-urges-maharashtra-government-to-declare-drought-provide-50000-per-hectare-relief/article71481982.ece",
-      "importance": 3,
-      "date_added": "2026-09-19"
-    },
-    {
-      "title": "Interests of a political party being served, says Mamata after losing TMC name and symbol; vows to fight back",
-      "summary": "Senior BJP leaders including Chief Minister Suvendu Adhikari said that it was divine intervention that Mamata Banerjee has lost her party’s symbol and name",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/west-bengal/mamata-after-losing-tmc-name-and-symbol-vows-to-fight-back/article71481628.ece",
-      "importance": 3,
-      "date_added": "2026-09-19"
-    },
-    {
-      "title": "What are the alternatives to SWIFT, and how are they faring? Explained",
-      "summary": "Multiple wars and U.S. weaponisation of the dollar through financial sanctions are making countries in the Global South think of bypassing the so-far universally accepted SWIFT system for inter-country payments",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/what-are-the-alternatives-to-swift-and-how-are-they-faring-explained/article71483749.ece",
-      "importance": 3,
-      "date_added": "2026-09-19"
-    },
-    {
-      "title": "Trump bans media outlets CNN, MS NOW, Politico from White House",
-      "summary": "“I am banning Fake News CNN, MSNOW... and Politico... from the White House,” the U.S. President said in a Truth Social post",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/trump-bans-media-outlets-cnn-ms-now-politico-from-white-house/article71482414.ece",
-      "importance": 3,
-      "date_added": "2026-09-19"
-    },
-    {
-      "title": "California Governor signs order to explore AI 'kill switch'",
-      "summary": "The federal government's abject failure to create any form of meaningful AI oversight or accountability should alarm every American, especially when AI CEOs themselves are begging for regulation, says Gavin Newsom",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/california-governor-signs-order-to-explore-ai-kill-switch/article71483530.ece",
-      "importance": 3,
-      "date_added": "2026-09-19"
-    },
-    {
-      "title": "Bihar announces OTS scheme for brick kilns, waives ₹90 crore interest on outstanding dues",
-      "summary": "Interest component will be waived off under OTS; It will benefit around 6000 brick kiln owners. It will be applicable for three months beginning Sep 21.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/bihar/bihar-announces-ots-scheme-for-brick-kilns-waives-90-crore-interest-on-outstanding-dues/article71480765.ece",
-      "importance": 3,
-      "date_added": "2026-09-19"
-    },
-    {
-      "title": "India rejects Pakistan’s allegations regarding collision of Indian, Pak ships in Arabian Sea",
-      "summary": "The incident happened on the night of September 15, when a Pakistani vessel closed in on a frontline Indian Navy warship that was on a routine surveillance mission in the north Arabian Sea",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/india-rejects-pakistans-allegations-regarding-collision-of-indian-pak-ships-in-arabian-sea/article71481465.ece",
-      "importance": 3,
-      "date_added": "2026-09-19"
-    },
-    {
-      "title": "Waste of public money amid economic crisis: U.P. Congress on PM’s birthday celebrations",
-      "summary": "State unit chief Ajay Rai alleged that 500 bikes were given in Varanasi with a deal that the people who ride them will have to pay ₹700 per day",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/uttar-pradesh/waste-of-public-money-amid-economic-crisis-up-congress-on-pms-birthday-celebrations/article71481573.ece",
-      "importance": 3,
-      "date_added": "2026-09-19"
-    },
-    {
-      "title": "Meghalaya IPS officer injured in ‘deliberate’ hit by two-wheeler",
-      "summary": "Police suspect members of the Khasi Students’ Union targeted Additional Superintendent of Police (Traffic) during a routine road check",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/meghalaya/meghalaya-ips-officer-injured-in-deliberate-hit-by-two-wheeler/article71480783.ece",
-      "importance": 3,
-      "date_added": "2026-09-19"
-    },
-    {
-      "title": "Jhiram Valley Maoist attack case ‘rarest of rare': court order",
-      "summary": "According to the September 16 verdict, the conspiracy behind the attack was finalised during a meeting of the South Regional Unified Command [of the Communist Party of India (Maoist)] held between February 16-25 in 2013",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/chhattisgarh/jhiram-valley-maoist-attack-case-rarest-of-rare-court-order/article71481943.ece",
-      "importance": 3,
-      "date_added": "2026-09-19"
-    },
-    {
       "title": "20th Asian Games Begins in Nagoya; Manu Bhaker and Pawan Sehrawat Lead Indian Contingent",
       "summary": "The 20th Asian Games officially opened in Nagoya, Japan, declared open by Japan's Emperor. Manu Bhaker and Pawan Sehrawat led the Indian contingent during the opening ceremony.",
       "category": "sports",
@@ -1664,6 +1394,276 @@
       "url": "https://www.thehindu.com/news/cities/Hyderabad/immersion-procession-of-khairatabad-ganesh-idol-in-hyderabad-gets-delayed-start/article71506890.ece",
       "importance": 3,
       "date_added": "2026-09-25"
+    },
+    {
+      "title": "Indian Coast Guard Joins QUAD-at-Sea Ship Observer Mission",
+      "summary": "The Indian Coast Guard has joined the QUAD-at-Sea Ship Observer Mission to enhance maritime security cooperation.",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/indian-coast-guard-joins-quad-at-sea-ship-observer-mission/",
+      "importance": 5,
+      "date_added": "2026-09-26"
+    },
+    {
+      "title": "India Women's Kabaddi Team Wins Gold at Asian Games 2026",
+      "summary": "India's women's kabaddi team defeated Iran 37-34 in the final to win the gold medal at the Asian Games 2026.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-26-2026/article71510179.ece",
+      "importance": 5,
+      "date_added": "2026-09-26"
+    },
+    {
+      "title": "Indian Women's Kabaddi Team Wins Gold at Asian Games 2026",
+      "summary": "India's women's kabaddi team won the gold medal at the 2026 Asian Games. The team has now achieved gold in every edition of the Asian Games except for the 2018 Jakarta Games.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/asian-games-2026-indias-women-roar-to-kabaddi-gold/article71511803.ece",
+      "importance": 5,
+      "date_added": "2026-09-26"
+    },
+    {
+      "title": "Suruchi and Kamaljeet Set Asian Record to Win Shooting Gold at Asian Games 2026",
+      "summary": "Suruchi and Kamaljeet secured gold in the 10m air pistol mixed team event at the 2026 Asian Games while creating a new Asian and Games record. In addition, the Indian men's 50m rifle 3-position team won a silver medal.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/asian-games-2026-suruchi-and-kamaljeet-end-indias-wait-for-a-shooting-gold/article71508738.ece",
+      "importance": 5,
+      "date_added": "2026-09-26"
+    },
+    {
+      "title": "PLI Schemes Disburse ₹36,754 Crore",
+      "summary": "Disbursements under the government's Production Linked Incentive (PLI) schemes have reached ₹36,754 crore.",
+      "category": "economy",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/pli-schemes-disburse-%e2%82%b936754-crore/",
+      "importance": 5,
+      "date_added": "2026-09-26"
+    },
+    {
+      "title": "Stanford Researcher Wins 2026 SASTRA-Ramanujan Award",
+      "summary": "A Stanford University researcher has won the prestigious 2026 SASTRA-Ramanujan Award.",
+      "category": "awards",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/stanford-researcher-wins-2026-sastra-ramanujan-award/",
+      "importance": 5,
+      "date_added": "2026-09-26"
+    },
+    {
+      "title": "India–UK Comprehensive Economic Trade Agreement (CETA) Comes into Force",
+      "summary": "The landmark India–UK Comprehensive Economic Trade Agreement (CETA) came into force on July 15. The agreement is set to benefit major sectors including pharmaceuticals, life sciences, electronics, engineering goods, and specialty chemicals.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/indiauk-ceta-comes-into-force-telangana-well-poised-to-reap-benefits/article71224059.ece",
+      "importance": 5,
+      "date_added": "2026-09-26"
+    },
+    {
+      "title": "Government Approves ₹50,000 Loan for FCV Tobacco Growers",
+      "summary": "The government has approved a ₹50,000 loan facility to support Flue-Cured Virginia (FCV) tobacco growers.",
+      "category": "economy",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/government-approves-%e2%82%b950000-loan-for-fcv-tobacco-growers/",
+      "importance": 4,
+      "date_added": "2026-09-26"
+    },
+    {
+      "title": "India Reserves Right to Join Russia's CBAM WTO Dispute",
+      "summary": "India has reserved its right to join Russia's Carbon Border Adjustment Mechanism (CBAM) dispute at the World Trade Organization (WTO).",
+      "category": "international",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/india-reserves-right-to-join-russias-cbam-wto-dispute/",
+      "importance": 4,
+      "date_added": "2026-09-26"
+    },
+    {
+      "title": "APEDA Facilitates Export of Gulbarga Tur Dal to Maldives",
+      "summary": "The Agricultural and Processed Food Products Export Development Authority (APEDA) facilitated the export of Gulbarga Tur Dal to the Maldives.",
+      "category": "economy",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/apeda-facilitates-export-of-gulbarga-tur-dal-to-maldives/",
+      "importance": 4,
+      "date_added": "2026-09-26"
+    },
+    {
+      "title": "Dhiraj Bommadevara Sets Asian Games Recurve Qualification Record",
+      "summary": "World No. 4 archer Dhiraj Bommadevara topped the recurve qualification at the Asian Games with a record score of 698 out of 720.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/dhiraj-sets-asian-games-record-tops-recurve-qualification-india-finish-second-in-team-events/article71511779.ece",
+      "importance": 4,
+      "date_added": "2026-09-26"
+    },
+    {
+      "title": "Prime Minister's SCO Visit to Address BRICS Summit, UNSC Term, and India-Central Asia Relations",
+      "summary": "The Prime Minister's visit to the Shanghai Cooperation Organisation (SCO) aims to bolster diplomatic ties with Iran, Tajikistan, and Central Asian nations. The itinerary includes discussions regarding the BRICS Summit, India's 2028-2029 UN Security Council term, and the India-Central Asia Summit.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/pms-sco-visit-is-loaded-with-expectations-on-brics-summit-and-unsc-election/article71404574.ece",
+      "importance": 4,
+      "date_added": "2026-09-26"
+    },
+    {
+      "title": "India and Chile to Begin Talks for Comprehensive Trade Pact",
+      "summary": "India and Chile have agreed to initiate talks for a comprehensive trade pact and deepen cooperation on Antarctica exploration. Additionally, world copper producer CODELCO signed an agreement with Hindustan Copper Ltd.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/india-chile-to-start-talks-for-comprehensive-trade-pact-pm/article69400958.ece",
+      "importance": 4,
+      "date_added": "2026-09-26"
+    },
+    {
+      "title": "PM Modi Holds Bilateral Talks with Bangladesh Chief Advisor Muhammad Yunus",
+      "summary": "Prime Minister Narendra Modi held a bilateral meeting with Bangladesh Chief Advisor Muhammad Yunus to discuss minority protection, boundary tensions, and Sheikh Hasina. The discussions also covered key water-sharing frameworks including the Ganges and Teesta Water Treaties.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/pm-modi-mohammad-yunus-meeting-updates/article69411639.ece",
+      "importance": 4,
+      "date_added": "2026-09-26"
+    },
+    {
+      "title": "Power Ministry Considers Mandatory 5% Imported Coal Blending for Power Plants",
+      "summary": "The Ministry of Power is discussing a plan requiring thermal power plants to blend up to 5% imported coal with domestic coal. The proposed measure aims to regulate fuel utilization across thermal power facilities.",
+      "category": "economy",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/Economy/govt-weighs-mandatory-blending-of-imported-coal-at-power-plants-sources-say/article71511447.ece",
+      "importance": 4,
+      "date_added": "2026-09-26"
+    },
+    {
+      "title": "Finance Ministry and Banks to Determine UPI Subsidy Post MDR Rollout",
+      "summary": "The Finance Ministry will consult with banks and merchants to decide the subsidy amount for the Unified Payments Interface (UPI) following the introduction of the Merchant Discount Rate (MDR). The plan ensures that MDR operational costs are not passed on to consumers.",
+      "category": "economy",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/Economy/government-and-banks-to-decide-subsidy-amount-for-upi-that-will-continue-after-mdr-comes-in/article71507443.ece",
+      "importance": 4,
+      "date_added": "2026-09-26"
+    },
+    {
+      "title": "Google to Test AI Chip in Space Under Project Suncatcher",
+      "summary": "Google is launching Project Suncatcher to test artificial intelligence hardware directly in space. The project will evaluate chip survival, cooling mechanisms, and satellite interconnectivity.",
+      "category": "science",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sci-tech/technology/google-to-test-ai-chip-in-space/article71507882.ece",
+      "importance": 4,
+      "date_added": "2026-09-26"
+    },
+    {
+      "title": "Kerala Recommends Limiting Western Ghats ESA to 8,590 Sq Km",
+      "summary": "The Kerala government has submitted recommendations to the Centre seeking to limit the Western Ghats Ecologically Sensitive Area (ESA) to 8,590 sq km. State Environment Minister Sunny Joseph stated that a resolution on the ESA issue will be introduced in the upcoming State Assembly session.",
+      "category": "environment",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/western-ghats-esa-keralam-submits-recommendations-to-centre-seeks-limiting-area-to-8590-sq-km/article71507728.ece",
+      "importance": 4,
+      "date_added": "2026-09-26"
+    },
+    {
+      "title": "Sawan Barwal Wins Historic Marathon Silver with National Record at Asian Games 2026",
+      "summary": "Sawan Barwal won a historic silver medal in the men's marathon at the 2026 Asian Games in Aichi-Nagoya, Japan. He completed the 42.195 km course in a national record time of 2 hours, 11 minutes, and 37 seconds.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/asian-games-2026-sawan-barwal-wins-historic-silver-mens-marathon-in-national-record-time/article71511502.ece",
+      "importance": 4,
+      "date_added": "2026-09-26"
+    },
+    {
+      "title": "Suruchi and Kamaljeet Win Gold in Shooting, Gulveer Singh Secures Silver at Asian Games 2026",
+      "summary": "Suruchi and Kamaljeet won the gold medal in shooting at the Asian Games 2026. Additionally, Gulveer Singh secured a silver medal for India in the men's 10,000m event.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-25-2026/article71505977.ece",
+      "importance": 4,
+      "date_added": "2026-09-26"
+    },
+    {
+      "title": "6th Cycle of Tiger Reserve Evaluation Launched",
+      "summary": "The 6th Cycle of Tiger Reserve Evaluation has been launched to evaluate tiger conservation and reserve management.",
+      "category": "environment",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/6th-cycle-of-tiger-reserve-evaluation-launched/",
+      "importance": 4,
+      "date_added": "2026-09-26"
+    },
+    {
+      "title": "IMC 2026 Launches Viksit Tech 47 Platform",
+      "summary": "The Viksit Tech 47 Platform was launched during the India Mobile Congress (IMC) 2026.",
+      "category": "science",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/imc-2026-launches-viksit-tech-47-platform/",
+      "importance": 4,
+      "date_added": "2026-09-26"
+    },
+    {
+      "title": "TRAI Launches Digital Connectivity Rating Platform",
+      "summary": "The Telecom Regulatory Authority of India (TRAI) has launched a Digital Connectivity Rating Platform.",
+      "category": "science",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/trai-launches-digital-connectivity-rating-platform/",
+      "importance": 4,
+      "date_added": "2026-09-26"
+    },
+    {
+      "title": "India and Qatar Sign Strategic Partnership Agreement",
+      "summary": "India has signed a strategic partnership agreement with Qatar, expanding its strategic ties among Gulf Cooperation Council member states. The two nations also discussed the Israel-Palestinian crisis during the interactions.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/pm-modi-amir-of-qatar-hold-talks-decide-to-elevate-india-qatar-ties-to-strategic-partnership/article69233809.ece",
+      "importance": 4,
+      "date_added": "2026-09-26"
+    },
+    {
+      "title": "U.S., China to set up ‘communication channel’ for AI incidents",
+      "summary": "The two countries established a “U.S.-China Super Intelligence (SI) Dialogue to exchange views on risks and benefits” of AI, the White House said in a fact sheet, noting that their leaders had agreed to use the term SI rather than AI.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/us-china-to-set-up-communication-channel-for-ai-incidents/article71511753.ece",
+      "importance": 3,
+      "date_added": "2026-09-26"
+    },
+    {
+      "title": "Imran Khan's PTI postpones planned Islamabad march to October 4",
+      "summary": "⁠Chief Minister of the PTI-ruled Khyber Pakhtunkhwa province, Sohail Afridi, made the announcement as the party presses for the release of the jailed Khan",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/imran-khans-pti-postpones-planned-islamabad-march-to-october-4/article71511612.ece",
+      "importance": 3,
+      "date_added": "2026-09-26"
+    },
+    {
+      "title": "Thiruvonam Bumper lottery results 2026: First prize ₹30 crore; check date and time",
+      "summary": "Here is everything you need to know about the upcoming 2026 Thiruvonam Bumper (BR-111) lucky draw, including the schedule and prize details.",
+      "category": "awards",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/thiruvonam-bumper-2026-results-br-111-check-result-date-time-and-prize-details/article71508047.ece",
+      "importance": 3,
+      "date_added": "2026-09-26"
+    },
+    {
+      "title": "IMD issues heavy rain alert for September 26–27 in Uttarakhand; CM Dhami directs officials to maintain vigilance",
+      "summary": "The Chief Minister appealed to residents and tourists to exercise extreme caution and urged people to travel only if essential and after checking the latest weather and road conditions.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/uttarakhand/imd-issues-heavy-rain-alert-for-september-2627-in-uttarakhand-cm-dhami-directs-officials-to-maintain-vigilance/article71511460.ece",
+      "importance": 3,
+      "date_added": "2026-09-26"
+    },
+    {
+      "title": "BJP wins mayor elections at three municipal corporations in Rajasthan",
+      "summary": "Prasanna Chand Mehta was elected Mayor of Jodhpur, while Anusuiya Goswami was elected to the position in Kota",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/rajasthan/bjp-wins-mayor-elections-at-three-municipal-corporations-in-rajasthan/article71509004.ece",
+      "importance": 3,
+      "date_added": "2026-09-26"
+    },
+    {
+      "title": "Overweight and weak: On the UN, the 81st session of the UN General Assembly",
+      "summary": "The United Nations is unwieldy, and needs to move away from superpower hegemony",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/overweight-and-weak-on-the-un-the-81st-session-of-the-un-general-assembly/article71508880.ece",
+      "importance": 3,
+      "date_added": "2026-09-26"
     }
   ]
 }
