@@ -1,204 +1,6 @@
 {
   "items": [
     {
-      "title": "20th Asian Games Begins in Nagoya; Manu Bhaker and Pawan Sehrawat Lead Indian Contingent",
-      "summary": "The 20th Asian Games officially opened in Nagoya, Japan, declared open by Japan's Emperor. Manu Bhaker and Pawan Sehrawat led the Indian contingent during the opening ceremony.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/asian-games-2026-live-updates-opening-ceremony-september-19-2026/article71483852.ece",
-      "importance": 5,
-      "date_added": "2026-09-20"
-    },
-    {
-      "title": "Pawan Sehrawat Named India's Flag-Bearer for 2026 Asian Games",
-      "summary": "Pawan Sehrawat has been selected as India's male flag-bearer for the Asian Games 2026.",
-      "category": "sports",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/pawan-sehrawat-named-indias-male-flag-bearer-for-asian-games-2026/",
-      "importance": 5,
-      "date_added": "2026-09-20"
-    },
-    {
-      "title": "Kannada Actor Anant Nag Honoured with Dadasaheb Phalke Award",
-      "summary": "Versatile Kannada actor Anant Nag has been honoured with the prestigious Dadasaheb Phalke Award.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/not-in-a-mould-anant-nag/article71485785.ece",
-      "importance": 5,
-      "date_added": "2026-09-20"
-    },
-    {
-      "title": "Deepika Scores Eight Goals as India Defeats Uzbekistan 19-0 in Asian Games 2026 Hockey",
-      "summary": "Indian hockey player Deepika scored eight goals to power India to a dominant 19-0 win against Uzbekistan at the Asian Games 2026.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/asian-games-2026-deepikas-eight-goal-blitz-powers-india-to-19-0-hockey-win-over-uzbekistan/article71487156.ece",
-      "importance": 4,
-      "date_added": "2026-09-20"
-    },
-    {
-      "title": "India Wins Silver Medal in Women's 10m Air Rifle Team Event at Asian Games",
-      "summary": "The Indian trio of Elavenil Valarivan, Sonam Maskar, and Vidarsa Vinod secured the silver medal in the women's 10m air rifle team event with 1898.0 points. China won the event with a world-record score of 1904.2 points.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/india-open-shooting-campaign-with-silver-in-womens-10m-air-rifle-team-event/article71487112.ece",
-      "importance": 4,
-      "date_added": "2026-09-20"
-    },
-    {
-      "title": "PM Modi Distributes 51,000 Appointment Letters at 20th Rozgar Mela",
-      "summary": "Prime Minister Narendra Modi distributed 51,000 appointment letters during the 20th Rozgar Mela.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/pm-modi-distributes-51000-appointment-letters-at-20th-rozgar-mela/",
-      "importance": 4,
-      "date_added": "2026-09-20"
-    },
-    {
-      "title": "1965 War Hero Alfred Tyrone Cooke Passes Away",
-      "summary": "Alfred Tyrone Cooke, a hero of the 1965 war and recipient of the Vir Chakra, has passed away.",
-      "category": "awards",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/1965-war-hero-and-vir-chakra-awardee-alfred-tyrone-cooke-dies/",
-      "importance": 4,
-      "date_added": "2026-09-20"
-    },
-    {
-      "title": "U.S. Introduces Sanctions Act Affecting India's Russian Oil Imports and Tariffs",
-      "summary": "The United States introduced the Lindsey O. Graham Sanctioning Russia and Iran Act, 2026, which outlines conditions affecting tariffs and India's imports of Russian oil. The law details economic implications for India alongside provisions concerning potential tariff waivers.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/how-will-the-uss-sanctioning-act-affect-india-explained/article71485870.ece",
-      "importance": 4,
-      "date_added": "2026-09-20"
-    },
-    {
-      "title": "India Fulfilled All Paris Agreement Pledges, Says PM Modi",
-      "summary": "Prime Minister Narendra Modi announced that India has met all its Paris Agreement commitments and emphasised that the nation's per capita carbon emissions are lower than the global average.",
-      "category": "environment",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/pm-modi-inaugurates-ngts-climate-conference-highlights-climate-inequality/article71483805.ece",
-      "importance": 4,
-      "date_added": "2026-09-20"
-    },
-    {
-      "title": "2026 Asian Games Opens in Japan with 'One Asia, One Heart' Motto",
-      "summary": "The 2026 Asian Games commenced in host country Japan under the motto 'One Asia, one heart'. Emperor Naruhito formally declared the continental sports event open.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/asian-games-2026-one-asia-one-heart-as-continental-extravaganza-begins/article71484684.ece",
-      "importance": 4,
-      "date_added": "2026-09-20"
-    },
-    {
-      "title": "UN Appoints Luke Lindberg as Head of World Food Programme",
-      "summary": "The United Nations has appointed Luke Lindberg to head the World Food Programme.",
-      "category": "international",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/un-appoints-luke-lindberg-to-head-world-food-programme/",
-      "importance": 4,
-      "date_added": "2026-09-20"
-    },
-    {
-      "title": "Hansraj Singh Verma Appointed India's Ambassador to Cuba",
-      "summary": "Hansraj Singh Verma has been appointed as India's next Ambassador to Cuba.",
-      "category": "international",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/hansraj-singh-verma-appointed-indias-next-ambassador-to-cuba/",
-      "importance": 4,
-      "date_added": "2026-09-20"
-    },
-    {
-      "title": "PM Modi Inaugurates Conference on Environment and Climate Dynamics",
-      "summary": "Prime Minister Narendra Modi inaugurated the International Conference on 'The Future of Environment and Climate Dynamics'.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/pm-modi-inaugurates-international-conference-on-the-future-of-environment-and-climate-dynamics/",
-      "importance": 4,
-      "date_added": "2026-09-20"
-    },
-    {
-      "title": "Yugan Sakthivel Muthukumaar Wins Men's Trap Gold",
-      "summary": "Yugan Sakthivel Muthukumaar secured the gold medal in the Men's Trap event.",
-      "category": "sports",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/yugan-sakthivel-muthukumaar-wins-mens-trap-gold/",
-      "importance": 4,
-      "date_added": "2026-09-20"
-    },
-    {
-      "title": "Karnataka Approves Marine Biotechnology Policy",
-      "summary": "The state government of Karnataka has approved its Marine Biotechnology Policy.",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/karnataka-approves-marine-biotechnology-policy/",
-      "importance": 4,
-      "date_added": "2026-09-20"
-    },
-    {
-      "title": "India men’s cricket team dealing with clothing issue ahead of departure for Asian Games",
-      "summary": "There has been plenty of back and forth between BCCI and the Indian Olympic Association's kit supplier, JSW Inspire, regarding the players' jerseys",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/cricket/india-mens-cricket-team-dealing-with-clothing-issue-ahead-of-departure-for-asian-games/article71483867.ece",
-      "importance": 3,
-      "date_added": "2026-09-20"
-    },
-    {
-      "title": "We don't want Games host Japan losing money, says Asian Olympic official",
-      "summary": "Japan's hosting of the Asian Games with huts and a cruise ship is an example for other nations, says official",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/we-dont-want-games-host-japan-losing-money-says-asian-olympic-official/article71483993.ece",
-      "importance": 3,
-      "date_added": "2026-09-20"
-    },
-    {
-      "title": "Davis Cup: Nagal falters as Korea end India’s historic Final 8 hopes with 3-1 win",
-      "summary": "After Dhakshineswar Suresh and N. Sriram Balaji had revived India's hopes with a fighting doubles victory to cut the deficit to 1-2, Sumit Nagal needed to produce his best in the must-win rubber but instead endured a forgettable outing in the difficult heat, losing 1-6 2-6 to Korea number one Soon Woo Kwon",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/tennis/davis-cup-nagal-falters-as-korea-end-indias-historic-final-8-hopes-with-3-1-win/article71483943.ece",
-      "importance": 3,
-      "date_added": "2026-09-20"
-    },
-    {
-      "title": "Indians living in Japan on stand-by to house Asian Games athletes",
-      "summary": "Reports said the Indian embassy in Japan had helped reach out to around 2,000 families in Nagoya, some of whom are prepared to help",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/indians-living-in-japan-on-stand-by-to-house-asian-games-athletes/article71484089.ece",
-      "importance": 3,
-      "date_added": "2026-09-20"
-    },
-    {
-      "title": "‘Focus on giving your best, not complaining,’ Manu Bhaker tells fellow athletes",
-      "summary": "Athletes and officials from several countries, including India, have expressed dismay at the organisational mismanagement, cramped lodging and long travel time from hotels to training venues",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/focus-on-giving-your-best-not-complaining-manu-bhaker-tells-fellow-athletes/article71483945.ece",
-      "importance": 3,
-      "date_added": "2026-09-20"
-    },
-    {
-      "title": "Premier League: Brentford thrash Chelsea 3-0 in London derby",
-      "summary": "Brentford’s ‌win pushed the Bees, who are unbeaten so far in ​the league, up to third in the table ahead of the remaining weekend fixtures. Chelsea sit in ⁠seventh place",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/football/brentford-hammer-london-neighbours-chelsea-3-0/article71483598.ece",
-      "importance": 3,
-      "date_added": "2026-09-20"
-    },
-    {
-      "title": "ग्रामीण परिवर्तन के जमीनी शिल्पकार",
-      "summary": "ग्रामीण परिवर्तन के जमीनी शिल्पकार",
-      "category": "national",
-      "source": "pib",
-      "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2312620",
-      "importance": 3,
-      "date_added": "2026-09-20"
-    },
-    {
       "title": "Suchika Tariyal Secures India's First Asian Games MMA Medal",
       "summary": "Suchika Tariyal won India’s first-ever medal in Mixed Martial Arts (MMA) at the Asian Games.",
       "category": "sports",
@@ -1664,6 +1466,204 @@
       "url": "https://www.thehindu.com/opinion/editorial/overweight-and-weak-on-the-un-the-81st-session-of-the-un-general-assembly/article71508880.ece",
       "importance": 3,
       "date_added": "2026-09-26"
+    },
+    {
+      "title": "India Women’s Kabaddi Team Wins Asian Games Gold",
+      "summary": "The Indian women's kabaddi team won the gold medal at the Asian Games.",
+      "category": "sports",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/india-womens-kabaddi-team-wins-asian-games-gold/",
+      "importance": 5,
+      "date_added": "2026-09-27"
+    },
+    {
+      "title": "India and GCC Launch Free Trade Agreement Negotiations",
+      "summary": "India and the Gulf Cooperation Council (GCC) have officially initiated negotiations for a Free Trade Agreement.",
+      "category": "economy",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/india-and-gcc-launch-free-trade-agreement-negotiations/",
+      "importance": 5,
+      "date_added": "2026-09-27"
+    },
+    {
+      "title": "India Ranks 31st in WEF Travel & Tourism Development Index 2026",
+      "summary": "India has been ranked 31st in the World Economic Forum's Travel & Tourism Development Index 2026.",
+      "category": "reports",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/india-ranks-31st-in-wef-travel-tourism-development-index-2026/",
+      "importance": 5,
+      "date_added": "2026-09-27"
+    },
+    {
+      "title": "India Signs UN Convention Against Cybercrime",
+      "summary": "India has signed the United Nations Convention Against Cybercrime to enhance international cyber framework cooperation.",
+      "category": "international",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/india-signs-un-convention-against-cybercrime/",
+      "importance": 5,
+      "date_added": "2026-09-27"
+    },
+    {
+      "title": "Arogya Manthan 2026 Marks Milestones of AB PM-JAY and ABDM",
+      "summary": "Arogya Manthan 2026 was held marking eight years of Ayushman Bharat PM-JAY and five years of the Ayushman Bharat Digital Mission.",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/arogya-manthan-2026-marks-eight-years-of-ab-pm-jay-and-five-years-of-abdm/",
+      "importance": 5,
+      "date_added": "2026-09-27"
+    },
+    {
+      "title": "Legal Framework for Appointment and Removal of Chief Election Commissioner",
+      "summary": "The Supreme Court's landmark Anoop Baranwal judgment prescribed an appointment panel and procedure for the Chief Election Commissioner and Election Commissioners. It also addresses constitutional protections provided to the CEC against removal from office.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/what-does-the-law-say-about-cecs-removal-explained/article71512663.ece",
+      "importance": 5,
+      "date_added": "2026-09-27"
+    },
+    {
+      "title": "Indian Kabaddi Teams Win Double Gold at Asian Games",
+      "summary": "The Indian men's and women's kabaddi teams both secured gold medals at the Asian Games by defeating Iran in their respective finals. The men's team won 40-34 to retain their title, following a 37-34 victory by the women's team.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/asian-games-2026-kabaddi-title-gold-medal-indian-men-women-team-india-vs-iran-match/article71512501.ece",
+      "importance": 5,
+      "date_added": "2026-09-27"
+    },
+    {
+      "title": "Bangladesh and U.S. Sign MoU on Strategic Civil Nuclear Cooperation",
+      "summary": "Bangladesh and the United States signed a Memorandum of Understanding in New York on strategic civil nuclear cooperation. The agreement aims to help Bangladesh diversify long-term energy sources and expand its Rooppur nuclear power plant project.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/bangladesh-us-sign-mou-on-strategic-civil-nuclear-cooperation/article71512317.ece",
+      "importance": 4,
+      "date_added": "2026-09-27"
+    },
+    {
+      "title": "Vedanta Proposes ₹1 Lakh Crore Odisha Investment, Seeks Niyamgiri Mining Revival",
+      "summary": "Vedanta has proposed a ₹1 lakh crore investment in Odisha while seeking the revival of its bauxite mining project in Niyamgiri. The project was previously halted in 2013 following Gram Sabha resolutions by the Dongria Kondh, a Particularly Vulnerable Tribal Group (PVTG).",
+      "category": "economy",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/vedanta-seeks-niyamgiri-mining-revival-pitches-1-lakh-crore-odisha-investment/article71512881.ece",
+      "importance": 4,
+      "date_added": "2026-09-27"
+    },
+    {
+      "title": "India Wins Record-Extending Fourth Asian Games Gold in Women's Kabaddi",
+      "summary": "India's women's kabaddi team defeated Iran at the Asian Games 2026 to secure a record-extending fourth gold medal. The team has won gold in every edition of the Asian Games except the 2018 Jakarta edition.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/asian-games-2026-indias-women-roar-to-kabaddi-gold/article71511803.ece",
+      "importance": 4,
+      "date_added": "2026-09-27"
+    },
+    {
+      "title": "Baranica Elangovan Wins Historic Asian Games Pole Vault Medal",
+      "summary": "Baranica Elangovan has secured a historic medal in the pole vault event at the Asian Games.",
+      "category": "sports",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/baranica-elangovan-wins-historic-asian-games-pole-vault-medal/",
+      "importance": 4,
+      "date_added": "2026-09-27"
+    },
+    {
+      "title": "AFSPA Extended in Parts of Manipur, Nagaland, and Arunachal Pradesh",
+      "summary": "The Armed Forces (Special Powers) Act (AFSPA) has been extended in specific areas across Manipur, Nagaland, and Arunachal Pradesh.",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/afspa-extended-in-parts-of-manipur-nagaland-and-arunachal-pradesh/",
+      "importance": 4,
+      "date_added": "2026-09-27"
+    },
+    {
+      "title": "TDB Grants ₹200 Crore Support to Agnikul Cosmos",
+      "summary": "The Technology Development Board (TDB) has extended ₹200 crore in Research, Development, and Innovation (RDI) support to Agnikul Cosmos.",
+      "category": "science",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/tdb-provides-%e2%82%b9200-crore-rdi-support-to-agnikul-cosmos/",
+      "importance": 4,
+      "date_added": "2026-09-27"
+    },
+    {
+      "title": "Centre Designates Paradip as Mega Port",
+      "summary": "The Central Government has officially designated Paradip Port as a Mega Port.",
+      "category": "economy",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/centre-designates-paradip-as-mega-port/",
+      "importance": 4,
+      "date_added": "2026-09-27"
+    },
+    {
+      "title": "Mandeep K. Bhandari Appointed CBSE Chairman",
+      "summary": "Mandeep K. Bhandari has been officially appointed as the new Chairman of the Central Board of Secondary Education.",
+      "category": "awards",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/mandeep-k-bhandari-appointed-cbse-chairman/",
+      "importance": 4,
+      "date_added": "2026-09-27"
+    },
+    {
+      "title": "Karnataka Rejects Draft Notification on Western Ghats Ecologically Sensitive Area",
+      "summary": "The Karnataka Legislature has repeatedly rejected draft notifications proposing to declare portions of the Western Ghats as an Ecologically Sensitive Area (ESA). The ESA proposals are based on recommendations made by the Kasturirangan Committee.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/what-is-karnatakas-objection-to-the-esa-explained/article71512650.ece",
+      "importance": 4,
+      "date_added": "2026-09-27"
+    },
+    {
+      "title": "Tamil Nadu Exempts Public Law and Order Department from RTI Act",
+      "summary": "The Tamil Nadu government issued an order exempting its Public (Law and Order) Department from the ambit of the Right to Information (RTI) Act. The exemption covers information on NSA detentions, deaths in police custody, communal clashes, and student or farmer agitations.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-exempts-public-law-and-order-department-from-rti-act/article71515196.ece",
+      "importance": 4,
+      "date_added": "2026-09-27"
+    },
+    {
+      "title": "First Victim Rights Centre Launched in Bihar",
+      "summary": "The first Victim Rights Centre (VRC) was launched in Bihar to assist vulnerable citizens in navigating the legal system. Speaking at the launch event, CJI Surya Kant stated that justice must extend beyond courtroom walls to reach unheard citizens.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/justice-must-find-its-way-to-the-citizen-cji-surya-kant/article71513548.ece",
+      "importance": 4,
+      "date_added": "2026-09-27"
+    },
+    {
+      "title": "EAM S. Jaishankar Addresses UNGA on Terrorism and Indus Waters Treaty",
+      "summary": "External Affairs Minister S. Jaishankar addressed world leaders at the United Nations General Assembly (UNGA), highlighting terrorism as a persistent global threat to peace. He also responded to remarks regarding the Indus Waters Treaty.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/arguments-by-serial-practitioner-of-terrorism-will-not-stand-eam-jaishankar-slams-pakistan-at-unga/article71514019.ece",
+      "importance": 4,
+      "date_added": "2026-09-27"
+    },
+    {
+      "title": "Russia Supports India and Brazil for Permanent UNSC Seat",
+      "summary": "Russian Foreign Minister Sergey Lavrov declared Russia's support for India and Brazil obtaining permanent seats on the United Nations Security Council. He emphasised the need to expand representation for Asia, Africa, and Latin America while safeguarding the interests of the African continent.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/russia-backs-indias-candidature-for-unsc-permanent-seat/article71515381.ece",
+      "importance": 4,
+      "date_added": "2026-09-27"
+    },
+    {
+      "title": "U.S. to Establish Military Bases in Greenland for Arctic Expansion",
+      "summary": "The United States will establish two new military bases in Greenland to expand its presence in the Arctic region. The decision seeks to counter Russian and Chinese influence in the area.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/us-greenland-deal-the-arctic-race/article71513856.ece",
+      "importance": 4,
+      "date_added": "2026-09-27"
+    },
+    {
+      "title": "U.S. and China Agree to $30 Billion Tariff Cut and Super Intelligence Dialogue",
+      "summary": "The United States and China agreed to a $30 billion tariff cut and established the U.S.-China Super Intelligence (SI) Dialogue. The bilateral dialogue aims to exchange views on the risks and benefits of AI using the term Super Intelligence.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/us-china-to-set-up-communication-channel-for-ai-incidents/article71511753.ece",
+      "importance": 4,
+      "date_added": "2026-09-27"
     }
   ]
 }
