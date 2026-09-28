@@ -1,123 +1,6 @@
 {
   "items": [
     {
-      "title": "Suchika Tariyal Secures India's First Asian Games MMA Medal",
-      "summary": "Suchika Tariyal won India’s first-ever medal in Mixed Martial Arts (MMA) at the Asian Games.",
-      "category": "sports",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/suchika-tariyal-wins-indias-first-asian-games-mma-medal/",
-      "importance": 5,
-      "date_added": "2026-09-21"
-    },
-    {
-      "title": "India and Sri Lanka Conduct SLINEX-26 Maritime Exercise",
-      "summary": "India and Sri Lanka are jointly conducting the SLINEX-26 bilateral maritime exercise.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/india-and-sri-lanka-conduct-slinex-26-maritime-exercise/",
-      "importance": 5,
-      "date_added": "2026-09-21"
-    },
-    {
-      "title": "Smriti Mandhana Becomes Leading Run-Scorer in Women's T20I Cricket",
-      "summary": "Indian cricketer Smriti Mandhana surpassed New Zealand's Suzie Bates to become the leading run-scorer in women's T20I cricket during the Asian Games 2026. The 30-year-old left-hander achieved the record during a match against Bangladesh.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/cricket/asian-games-2026-smriti-mandhana-surpasses-suzie-bates-to-become-womens-t20i-crickets-leading-run-scorer/article71487234.ece",
-      "importance": 5,
-      "date_added": "2026-09-21"
-    },
-    {
-      "title": "INS Trishul Conducts PASSEX with Egyptian Navy",
-      "summary": "Indian Naval Ship INS Trishul participated in a Maritime Passage Exercise (PASSEX) with the Egyptian Navy.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/ins-trishul-conducts-passex-with-egyptian-navy/",
-      "importance": 4,
-      "date_added": "2026-09-21"
-    },
-    {
-      "title": "India-EU FTA Negotiations Focus on Copyright Act and WIPO Treaty",
-      "summary": "Draft copyright provisions under the India-EU Free Trade Agreement may require modifications to India's Copyright Act affecting exceptions for students, archivists, and internet service providers. Negotiators seek to restore the WIPO Copyright Treaty to the National Treatment clause to preserve India's digital copyright flexibilities.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/the-copyright-stakes-in-the-eu-fta/article71487735.ece",
-      "importance": 4,
-      "date_added": "2026-09-21"
-    },
-    {
-      "title": "United States Announces Sanctions on International Criminal Court Officials",
-      "summary": "U.S. Secretary of State Marco Rubio announced sanctions targeting officials of the International Criminal Court (ICC). The sanctions were issued over the court's attempts to assert authority over U.S. nationals and citizens of non-member states.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/us-sanctions-on-international-criminal-court-officials-explained/article71367867.ece",
-      "importance": 4,
-      "date_added": "2026-09-21"
-    },
-    {
-      "title": "BRICS Condemns EU Carbon Tax and Calls for Climate Funding",
-      "summary": "BRICS has condemned the European Union's carbon tax while demanding a significant increase in international climate funding. The group emphasised the need for funds to help developing countries adapt to climate change.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/brics-condemns-eu-carbon-tax/article71361332.ece",
-      "importance": 4,
-      "date_added": "2026-09-21"
-    },
-    {
-      "title": "India's Exports to Core BRICS Markets Surge 34% in April-August",
-      "summary": "India's exports to core BRICS nations surged by 34% during April-August, with China leading the growth. The share of core BRICS countries in India's total exports increased to 9.2% from 8.1% during the first five months of the fiscal year.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/indias-exports-to-core-brics-markets-surge-34-in-april-august-china-leads/article71487434.ece",
-      "importance": 4,
-      "date_added": "2026-09-21"
-    },
-    {
-      "title": "Suchika Wins India's First-Ever Medal in MMA at 2026 Asian Games",
-      "summary": "Suchika secured India's first-ever medal in Mixed Martial Arts (MMA) at the 2026 Asian Games. Additionally, India's men's 10m rifle team won a silver medal at the event.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-21-2026/article71488918.ece",
-      "importance": 4,
-      "date_added": "2026-09-21"
-    },
-    {
-      "title": "Vidarsa Vinod Becomes First Woman Shooter from Keralam to Win Asian Games Medal",
-      "summary": "Vidarsa Vinod became the first woman shooter from Keralam to win a medal at the Asian Games. She achieved this during her debut Asian Games, where she is also competing in the women's 50m rifle 3 Positions event.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/vidarsa-vinod-becomes-first-woman-shooter-from-keralam-to-win-medal-at-asian-games/article71487472.ece",
-      "importance": 4,
-      "date_added": "2026-09-21"
-    },
-    {
-      "title": "Shafali Verma's Unbeaten Century Powers India to Asian Games 2026 Women's Cricket Final",
-      "summary": "Shafali Verma scored an unbeaten 100 off 49 balls to fire India to 195 for four in the Asian Games 2026 second semifinal. Her performance secured India's spot in the women's cricket final and ensured a medal.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/cricket/asian-games-2026-women-cricket-india-vs-bangladesh-updates-semifinal-shafali-verma/article71487390.ece",
-      "importance": 4,
-      "date_added": "2026-09-21"
-    },
-    {
-      "title": "Vice-President to Inaugurate 9th India International Water Week",
-      "summary": "The Vice-President of India is scheduled to inaugurate the 9th edition of India International Water Week.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/vice-president-to-inaugurate-9th-india-international-water-week/",
-      "importance": 4,
-      "date_added": "2026-09-21"
-    },
-    {
-      "title": "2026 Asian Games Hosted in Aichi-Nagoya, Japan",
-      "summary": "The 2026 edition of the Asian Games is being hosted in Aichi-Nagoya, Japan.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/asian-games-2026-medal-tally-live-india-full-winners-list-table-aichi-nagoya/article71484008.ece",
-      "importance": 4,
-      "date_added": "2026-09-21"
-    },
-    {
       "title": "First V4+India Foreign Ministers Meeting Held",
       "summary": "External Affairs Minister S. Jaishankar highlighted the first V4+India Foreign Ministers meeting as a historic occasion. The Visegrad Group (V4) comprises the Czech Republic, Hungary, Poland, and Slovakia, aiming to advance cooperation in military, economic, cultural, and energy affairs.",
       "category": "national",
@@ -1664,6 +1547,276 @@
       "url": "https://www.thehindu.com/news/international/us-china-to-set-up-communication-channel-for-ai-incidents/article71511753.ece",
       "importance": 4,
       "date_added": "2026-09-27"
+    },
+    {
+      "title": "Amit Shah Flags Off India's First LNG Train",
+      "summary": "Union Home Minister Amit Shah flagged off India's first LNG train and announced that Indian Railways plans to reduce its diesel usage to zero by 2030.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/amit-shah-flags-off-indias-first-lng-train-claims-modi-transformed-railways-congress-known-for-scams/article71516554.ece",
+      "importance": 5,
+      "date_added": "2026-09-28"
+    },
+    {
+      "title": "Virat Kohli Completes 15,000 Runs in ODI Cricket",
+      "summary": "Virat Kohli completed 15,000 runs in ODI cricket during the opening match between India and the West Indies. The landmark was achieved at the Greenfield International Stadium.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/cricket/virat-kohli-completes-15000-runs-in-odi-cricket/article71516740.ece",
+      "importance": 5,
+      "date_added": "2026-09-28"
+    },
+    {
+      "title": "Foreign Secretary Vikram Misri Raises Concerns Over U.S. Sanctions Law",
+      "summary": "Foreign Secretary Vikram Misri met with a U.S. delegation to express concerns regarding a new law that targets India for importing Russian crude oil.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/amid-concerns-over-russia-sanctions-law-foreign-secretary-meets-us-delegation/article71516990.ece",
+      "importance": 4,
+      "date_added": "2026-09-28"
+    },
+    {
+      "title": "Indian Medallists List Categorised for Aichi-Nagoya Asian Games 2026",
+      "summary": "The complete list of Indian medal winners at the Aichi-Nagoya Asian Games 2026 has been detailed by sport.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/asian-games-2026-india-medalists-full-list-of-winners-aichi-nagoya-japan/article71491065.ece",
+      "importance": 4,
+      "date_added": "2026-09-28"
+    },
+    {
+      "title": "Australia and Türkiye Face Pressure as COP31 Hosts",
+      "summary": "Australia and Türkiye will host the COP31 climate summit, facing likely pressure to include fossil fuel language in the conference agenda.",
+      "category": "science",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/cop31-hosts-australia-and-turkiye-face-the-fossil-fuel-question/article71515307.ece",
+      "importance": 4,
+      "date_added": "2026-09-28"
+    },
+    {
+      "title": "Indian Athletes Win Medals at 2026 Asian Games in Aichi-Nagoya",
+      "summary": "Indian athletes Anahat, Abhay, and Sarvesh won silver medals at the 2026 Asian Games in Aichi-Nagoya, Japan, while Parul Chaudhary set a new record.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/asian-games-2026-medal-tally-live-india-full-winners-list-table-aichi-nagoya/article71484008.ece",
+      "importance": 4,
+      "date_added": "2026-09-28"
+    },
+    {
+      "title": "Asian Games 2026: India Reaches Tally of 4 Gold, 14 Silver, and 17 Bronze Medals",
+      "summary": "India concluded the day at the Asian Games 2026 with a overall total of 4 gold, 14 silver, and 17 bronze medals. Sarvesh Kushare and Ancy Sojan secured silver medals in the men's high jump and women's long jump events, respectively.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-27-2026/article71513950.ece",
+      "importance": 4,
+      "date_added": "2026-09-28"
+    },
+    {
+      "title": "India Wins Silver and Bronze at Chess Olympiad",
+      "summary": "India claimed the silver medal in the Open section and secured the bronze medal in the women's section at the Chess Olympiad.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/india-wins-silver-in-open-section-women-claim-bronze/article71516363.ece",
+      "importance": 4,
+      "date_added": "2026-09-28"
+    },
+    {
+      "title": "Uttar Pradesh Targets ₹5 Lakh Crore in Annual Exports by 2030",
+      "summary": "Uttar Pradesh Targets ₹5 Lakh Crore in Annual Exports by 2030",
+      "category": "economy",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/uttar-pradesh-targets-%e2%82%b95-lakh-crore-in-annual-exports-by-2030/",
+      "importance": 3,
+      "date_added": "2026-09-28"
+    },
+    {
+      "title": "Tirupattur TVK MLA’s win by a single vote: Madras High Court rejects election petition filed against his victory",
+      "summary": "Justice G.K. Ilanthiraiyan allowed an application filed by the MLA R. Seenivasa Sethupathy to reject the election petition preferred by former DMK Minister K.R. Periakaruppan",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tirupattur-tvk-mlas-win-by-a-single-vote-madras-high-court-rejects-election-petition-filed-against-his-victory/article71518312.ece",
+      "importance": 3,
+      "date_added": "2026-09-28"
+    },
+    {
+      "title": "PM Modi pays tribute to ‘organisational genius’ Ashok Singhal on his birth centenary",
+      "summary": "In an OpEd, Prime Minister recalls his interactions with former VHP leader and highlights his organisational skill, ability to energise youth, and “pivotal” role in Ram Janmabhoomi movement",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/pm-modi-pays-tribute-to-organisational-genius-ashok-singhal-on-his-birth-centenary/article71515567.ece",
+      "importance": 3,
+      "date_added": "2026-09-28"
+    },
+    {
+      "title": "'Illegal detention' by Assam Police finally ended: CJP’s Ashutosh Ranka after release",
+      "summary": "They had gathered at a private residence for a meet-up, NCP (SP) spokesperson Anish Gawande says; 35 CJP members currently in police custody begin indefinite hunger strike against their detention",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/cjps-ashutosh-ranka-his-team-detained/article71515449.ece",
+      "importance": 3,
+      "date_added": "2026-09-28"
+    },
+    {
+      "title": "Convoy of former Tripura Chief Minister attacked, opposition blames BJP",
+      "summary": "Both CPI(M) and Congress described the incident as a “fallout of the BJP’s frustration” as the saffron party is fast losing its support base in the State, also linking the incident with recent controversies concerning the Election Commission of India",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/tripura/convoy-of-former-tripura-chief-minister-attacked-opposition-blames-bjp/article71516243.ece",
+      "importance": 3,
+      "date_added": "2026-09-28"
+    },
+    {
+      "title": "NMDC Commissions ₹5,427 Crore Iron Ore Processing Plant",
+      "summary": "NMDC Commissions ₹5,427 Crore Iron Ore Processing Plant",
+      "category": "economy",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/nmdc-commissions-%e2%82%b95427-crore-iron-ore-processing-plant/",
+      "importance": 3,
+      "date_added": "2026-09-28"
+    },
+    {
+      "title": "Uttar Pradesh Makes Use-by Date Mandatory for Loose Sweets",
+      "summary": "Uttar Pradesh Makes Use-by Date Mandatory for Loose Sweets",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/uttar-pradesh-makes-use-by-date-mandatory-for-loose-sweets/",
+      "importance": 3,
+      "date_added": "2026-09-28"
+    },
+    {
+      "title": "Cockroach Janta Party turns focus to SIR voter deletions, asks Telangana volunteers to help affected electors",
+      "summary": "CJP members in Telangana discuss grassroots outreach, citizens’ rights and the party’s organisational expansion",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/cockroach-janta-party-turns-focus-to-sir-voter-deletions-asks-telangana-volunteers-to-help-affected-electors/article71518519.ece",
+      "importance": 3,
+      "date_added": "2026-09-28"
+    },
+    {
+      "title": "Delhi court issues notice on women wrestlers’ appeal against Brij Bhushan’s acquittal",
+      "summary": "The appeal also challenges the acquittal of former WFI assistant secretary Vinod Tomar on the charge of criminal intimidation",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/delhi-court-issues-notice-on-women-wrestlers-appeal-against-brij-bhushans-acquittal/article71518428.ece",
+      "importance": 3,
+      "date_added": "2026-09-28"
+    },
+    {
+      "title": "Govt. to build ‘Karnataka Mantapa’ modeled after ‘Bharat Mandapam’: CM Shivakumar",
+      "summary": "Govt. to build ‘Karnataka Mantapa’ modeled after ‘Bharat Mandapam’: CM Shivakumar",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/govt-to-build-karnataka-mantapa-modeled-after-bharat-mandapam-cm-shivakumar/article71516720.ece",
+      "importance": 3,
+      "date_added": "2026-09-28"
+    },
+    {
+      "title": "Sahil Wakode’s death can’t be seen in isolation, IIT Bombay alumni write to Director",
+      "summary": "Four student deaths in one year, an increasingly ‘militarised campus’ during exam are some of the concerns raised by alumni of the institute",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/cities/mumbai/sahil-wakodes-death-cant-be-seen-in-isolation-iit-bombay-alumni-write-to-director/article71517078.ece",
+      "importance": 3,
+      "date_added": "2026-09-28"
+    },
+    {
+      "title": "T.N. government steps up support for enterprises headed by women",
+      "summary": "Under the ‘Vetri Magalir Thozhilmunaivor Membattu Thittam’, eligible women entrepreneurs can avail themselves of loans ranging from ₹10 lakh to ₹5 crore through the Tamil Nadu Industrial Investment Corporation",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-government-steps-up-support-for-enterprises-headed-by-women/article71516736.ece",
+      "importance": 3,
+      "date_added": "2026-09-28"
+    },
+    {
+      "title": "IDSFFK 2026: In It Was Here Before Our Time, Ramith Kunhimangalam pays homage to Maari Theyyam",
+      "summary": "The film, produced by actor-director Rajesh Madhavan, captures the essence and mysticism of Maari Theyyam",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/entertainment/movies/idsffk-2026-ramith-kunhimangalam-on-his-short-documentary-it-was-here-before-our-time/article71511912.ece",
+      "importance": 3,
+      "date_added": "2026-09-28"
+    },
+    {
+      "title": "Motorists seek installation of streetlights on VIT High Road",
+      "summary": "Officials of the State Highways Department said installation of new streetlights and its maintenance, including electricity charges should be borne by respective civic bodies such as the Corporation and panchayats",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/motorists-seek-installation-of-streetlights-on-vit-high-road/article71515900.ece",
+      "importance": 3,
+      "date_added": "2026-09-28"
+    },
+    {
+      "title": "Government Launches Digital Livestock Insurance Portal",
+      "summary": "Government Launches Digital Livestock Insurance Portal",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/government-launches-digital-livestock-insurance-portal/",
+      "importance": 3,
+      "date_added": "2026-09-28"
+    },
+    {
+      "title": "India’s First LNG-Powered Train Flagged Off",
+      "summary": "India’s First LNG-Powered Train Flagged Off",
+      "category": "science",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/indias-first-lng-powered-train-flagged-off/",
+      "importance": 3,
+      "date_added": "2026-09-28"
+    },
+    {
+      "title": "India’s First Port-Based E-Methanol Facility Announced",
+      "summary": "India’s First Port-Based E-Methanol Facility Announced",
+      "category": "science",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/indias-first-port-based-e-methanol-facility-announced/",
+      "importance": 3,
+      "date_added": "2026-09-28"
+    },
+    {
+      "title": "SpaceX Starship Set for 14th Test Flight",
+      "summary": "SpaceX Starship Set for 14th Test Flight",
+      "category": "science",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/spacex-starship-set-for-14th-test-flight/",
+      "importance": 3,
+      "date_added": "2026-09-28"
+    },
+    {
+      "title": "Lalit Kala Akademi Announces 20 Awards at National Exhibition",
+      "summary": "Lalit Kala Akademi Announces 20 Awards at National Exhibition",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/lalit-kala-akademi-announces-20-awards-at-national-exhibition/",
+      "importance": 3,
+      "date_added": "2026-09-28"
+    },
+    {
+      "title": "Keralam’s Samridhi@Kochi eatery row: LDF alleges ₹25-lakh dues; UDF counters with ₹2-crore liability",
+      "summary": "Both fronts trade charges over pending subsidy dues",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/keralams-samridhikochi-eatery-row-ldf-alleges-25-lakh-dues-udf-counters-with-2-crore-liability/article71518487.ece",
+      "importance": 3,
+      "date_added": "2026-09-28"
+    },
+    {
+      "title": "Supreme Court takes suo motu cognisance of recent sexual assault cases in Delhi-NCR, flags ‘lax patrolling’ by authorities",
+      "summary": "The top court underlined that public spaces cannot be allowed to become “zones of high risk” because of “lax patrolling and other preventable administrative deficiencies”",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/cities/Delhi/supreme-court-register-suo-motu-case-on-delhi-rape-case/article71518477.ece",
+      "importance": 3,
+      "date_added": "2026-09-28"
+    },
+    {
+      "title": "Work on storm-water drain near Virugambakkam canal to be completed in 2 weeks",
+      "summary": "GCC Commissioner G.S. Sameeran inspects development works under way at the canal, including the construction of retaining walls and removal of silt and waste, at an estimated cost of ₹30 crore",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/work-on-storm-water-drain-near-virugambakkam-canal-to-be-completed-in-2-weeks/article71515801.ece",
+      "importance": 3,
+      "date_added": "2026-09-28"
     }
   ]
 }
