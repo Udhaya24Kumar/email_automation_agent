@@ -1,276 +1,6 @@
 {
   "items": [
     {
-      "title": "First V4+India Foreign Ministers Meeting Held",
-      "summary": "External Affairs Minister S. Jaishankar highlighted the first V4+India Foreign Ministers meeting as a historic occasion. The Visegrad Group (V4) comprises the Czech Republic, Hungary, Poland, and Slovakia, aiming to advance cooperation in military, economic, cultural, and energy affairs.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/historic-occasion-jaishankar-describes-first-v4india-foreign-ministers-meeting/article71493950.ece",
-      "importance": 5,
-      "date_added": "2026-09-22"
-    },
-    {
-      "title": "Interim Trust Set Up to Run India-Built Cultural Centre in Jaffna",
-      "summary": "An interim governing body has been established as a Trust to operationalise the India-built Cultural Centre in Jaffna. The move aims to provide administrative and financial autonomy for the facility's sustained operations.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/interim-governing-body-set-up-to-run-india-built-cultural-centre-in-jaffna/article71491183.ece",
-      "importance": 4,
-      "date_added": "2026-09-22"
-    },
-    {
-      "title": "RGCB Researchers Develop Nanopore Sensors for Parkinson’s Disease",
-      "summary": "Researchers at the Rajiv Gandhi Centre for Biotechnology (RGCB) in Kerala have designed self-assembling dual-diameter nanopore sensors for the early detection of Parkinson's disease. The sensors are capable of detecting biomarkers associated with neurodegenerative diseases with high sensitivity.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/researchers-at-rgcb-in-keralam-develop-nanopore-sensors-for-early-detection-of-parkinsons-disease/article71491768.ece",
-      "importance": 4,
-      "date_added": "2026-09-22"
-    },
-    {
-      "title": "Expansion of Perunthalaivar Kamarajar Breakfast Scheme Launched",
-      "summary": "The Perunthalaivar Kamarajar Breakfast Scheme has been expanded to cover students in Classes VI to VIII across government and government-aided schools. The scheme expansion will benefit approximately 15.3 lakh students across 15,454 schools.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/cm-vijay-launches-expanded-perunthalaivar-kamarajar-breakfast-scheme/article71494103.ece",
-      "importance": 4,
-      "date_added": "2026-09-22"
-    },
-    {
-      "title": "Six New Species Documented in Periyar Tiger Reserve Survey",
-      "summary": "A four-day faunal survey conducted at the Periyar Tiger Reserve in Kerala recorded six species previously undocumented in the reserve. The discoveries include one bird, one butterfly, and four odonate species.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/survey-discovers-six-new-species-from-periyar-tiger-reserve-in-keralam/article71491878.ece",
-      "importance": 4,
-      "date_added": "2026-09-22"
-    },
-    {
-      "title": "Transmission and Pathogen Facts of Scrub Typhus",
-      "summary": "Scrub typhus is a bacterial infection caused by the bacterium Orientia tsutsugamushi. It is transmitted to humans through the bites of infected larval mites or chiggers and is not a mosquito-borne disease.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sci-tech/health/what-is-scrub-typhus-explained/article71490796.ece",
-      "importance": 4,
-      "date_added": "2026-09-22"
-    },
-    {
-      "title": "Supreme Court Rules Aadhaar Card Invalid as Proof to Determine Age",
-      "summary": "The Supreme Court stated that an Aadhaar card is not a valid document for determining a person's age. A bench of Justices Sanjay Karol and Ujjal Bhuyan ruled that age must be determined from the date of birth mentioned in the school leaving certificate.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/aadhaar-card-not-valid-document-to-determine-age-supreme-court/article68800811.ece",
-      "importance": 4,
-      "date_added": "2026-09-22"
-    },
-    {
-      "title": "New Checklist Records 3,261 Flowering Plant Species in Agasthyamalai Biosphere Reserve",
-      "summary": "A research team from the Jawaharlal Nehru Tropical Botanic Garden and Research Institute compiled a new checklist recording 3,261 flowering plant species in the Agasthyamalai Biosphere Reserve. The study reaffirms the global significance of the Western Ghats as a major biodiversity hotspot.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/new-checklist-by-keralam-research-team-records-3261-flowering-plant-species-in-agasthyamalai-biosphere-reserve/article71490560.ece",
-      "importance": 4,
-      "date_added": "2026-09-22"
-    },
-    {
-      "title": "Suchika Tariyal Wins India's Maiden Asian Games Medal in Mixed Martial Arts",
-      "summary": "Suchika Tariyal won a bronze medal in mixed martial arts at the 20th edition of the Asian Games 2026. This marked India's maiden medal in the discipline, which made its debut at the Games.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/asian-games-2026-suchika-tariyal-loses-controversial-mma-semifinal-on-weight-rule-after-draw-settles-for-bronze/article71490379.ece",
-      "importance": 4,
-      "date_added": "2026-09-22"
-    },
-    {
-      "title": "India-New Zealand FTA ratified, to come into effect on October 20",
-      "summary": "Deal aims to double bilateral trade as NZ removes all tariffs on all goods imported from India, while India will remove or reduce tariffs on 95% of current imports from NZ; India’s dairy, sensitive agri sectors protected, says Commerce Minister",
-      "category": "economy",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/business/Economy/india-new-zealand-fta-ratified-will-enter-into-force-from-october-20/article71490545.ece",
-      "importance": 3,
-      "date_added": "2026-09-22"
-    },
-    {
-      "title": "CSK names Zaheer Khan as head coach for IPL 2027",
-      "summary": "The former Indian pacer replaces Kiwi Stephen Fleming who guided the Men in Yellow from 2009 to 2026",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/cricket/csk-names-zaheer-khan-as-head-coach-for-ipl-2027/article71491679.ece",
-      "importance": 3,
-      "date_added": "2026-09-22"
-    },
-    {
-      "title": "NHAI Issues Guidelines for High-Speed National Highways",
-      "summary": "NHAI Issues Guidelines for High-Speed National Highways",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/nhai-issues-guidelines-for-high-speed-national-highways/",
-      "importance": 3,
-      "date_added": "2026-09-22"
-    },
-    {
-      "title": "IAF to Host Second Edition of Tarang Shakti",
-      "summary": "IAF to Host Second Edition of Tarang Shakti",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/iaf-to-host-second-edition-of-tarang-shakti/",
-      "importance": 3,
-      "date_added": "2026-09-22"
-    },
-    {
-      "title": "ONGC Discovers Natural Gas in Mahanadi Offshore Basin",
-      "summary": "ONGC Discovers Natural Gas in Mahanadi Offshore Basin",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/ongc-discovers-natural-gas-in-mahanadi-offshore-basin/",
-      "importance": 3,
-      "date_added": "2026-09-22"
-    },
-    {
-      "title": "From rallies to reels: political catchphrases turn dance anthems in Kolkata",
-      "summary": "Why are Kolkata club-goers dancing to Mamata Banerjee’s ‘Hamba Hamba’ and the BJP’s ‘Mach Chor’ ? From campaign songs and election slogans to viral reels and packed dancefloors, Bengal’s political techno remixes are blurring the lines between propaganda, memes and nightlife",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/entertainment/politics-to-parties-kolkatas-latest-viral-trend-has-people-dancing-to-political-slogans/article70996818.ece",
-      "importance": 3,
-      "date_added": "2026-09-22"
-    },
-    {
-      "title": "100% U.S. tariff threat: Can India’s new trade deals reduce its dependence on America?",
-      "summary": "As the Trump administration has repeatedly changed tariffs on Indian goods, New Delhi has been signing trade agreements at a rapid pace. But can these new markets meaningfully reduce India’s dependence on the U.S. as it’s faced with 100% tariffs?",
-      "category": "economy",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/infographics/2026-09-21/india-us-tariffs-fta-export-dependence/index.html",
-      "importance": 3,
-      "date_added": "2026-09-22"
-    },
-    {
-      "title": "Asian Games 2026 LIVE: India choose to bat against Sri Lanka in final; dominate Korea in kabaddi",
-      "summary": "Parth Mane returns to action with his first major senior medal fresh in his memory, while India face Japan in the women’s badminton quarterfinals",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-22-2026/article71492964.ece",
-      "importance": 3,
-      "date_added": "2026-09-22"
-    },
-    {
-      "title": "Infantino proposes consulting federations to reform FIFA",
-      "summary": "‘I will propose that the Council establish a direct, structured and time-limited consultation with confederations, Member Associations and relevant stakeholders on how FIFA’s decision-making can be further strengthened,’ Infantino wrote",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/football/infantino-proposes-consulting-federations-to-reform-fifa/article71493269.ece",
-      "importance": 3,
-      "date_added": "2026-09-22"
-    },
-    {
-      "title": "India Co-Sponsors Partners for Multilateralism Summit",
-      "summary": "India Co-Sponsors Partners for Multilateralism Summit",
-      "category": "international",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/india-co-sponsors-partners-for-multilateralism-summit/",
-      "importance": 3,
-      "date_added": "2026-09-22"
-    },
-    {
-      "title": "MoD Signs ₹586 Crore APU Contract for T-72, T-90 Tanks",
-      "summary": "MoD Signs ₹586 Crore APU Contract for T-72, T-90 Tanks",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/mod-signs-%e2%82%b9586-crore-apu-contract-for-t-72-t-90-tanks/",
-      "importance": 3,
-      "date_added": "2026-09-22"
-    },
-    {
-      "title": "Jayanti Prasad Gets Additional Charge as IBBI Chairperson",
-      "summary": "Jayanti Prasad Gets Additional Charge as IBBI Chairperson",
-      "category": "awards",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/jayanti-prasad-gets-additional-charge-as-ibbi-chairperson/",
-      "importance": 3,
-      "date_added": "2026-09-22"
-    },
-    {
-      "title": "Scientists Develop Plastic-to-Fuel Process",
-      "summary": "Scientists Develop Plastic-to-Fuel Process",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/scientists-develop-plastic-to-fuel-process/",
-      "importance": 3,
-      "date_added": "2026-09-22"
-    },
-    {
-      "title": "‘Partners for Multilateralism’: India to attend new non-superpower grouping’s inaugural session at UN",
-      "summary": "Leaders of the EU, Brazil, Canada and Kenya launched a forum with a joint call for UN reform, collective action amidst conflicts",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/partners-for-multilateralism-india-to-attend-new-non-superpower-groupings-inaugural-session-at-un/article71490513.ece",
-      "importance": 3,
-      "date_added": "2026-09-22"
-    },
-    {
-      "title": "Three militants arrested in Manipur",
-      "summary": "Security forces arrested members of two factions of a banned group in Imphal East district in joint operations on Monday",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/manipur/three-militants-arrested-in-manipur/article71494246.ece",
-      "importance": 3,
-      "date_added": "2026-09-22"
-    },
-    {
-      "title": "IMD forecasts heavy rain in north coastal Andhra; Vizianagaram, Srikakulam on alert",
-      "summary": "Steady showers from Srikakulam to Anakapalli since Monday evening bring relief after days of heat; the IMD expects heavy to very heavy rain on Tuesday and Wednesday and winds of 40 to 60 kmph along the coast",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/imd-forecasts-heavy-rain-in-north-coastal-andhra-vizianagaram-srikakulam-on-alert/article71494190.ece",
-      "importance": 3,
-      "date_added": "2026-09-22"
-    },
-    {
-      "title": "Kerala HC quashes order by Income Tax Appellate Authority dismissing actor Jayasurya’s appeal against tax assessment",
-      "summary": "Court says tax authority cannot dismiss an appeal merely because the assessee failed to appear for the proceedings",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/kerala-hc-quashes-order-by-income-tax-appellate-authority-dismissing-actor-jayasuryas-appeal-against-tax-assessment/article71491857.ece",
-      "importance": 3,
-      "date_added": "2026-09-22"
-    },
-    {
-      "title": "Man critically injured, police officer wounded in gunfire near Ontario synagogue on Yom Kippur",
-      "summary": "The shooting comes months after Prime Minister Mark Carney warned that Canada was failing its Jewish community amid a surge in antisemitism.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/gunfire-near-ontario-synagogue-on-yom-kippur/article71490401.ece",
-      "importance": 3,
-      "date_added": "2026-09-22"
-    },
-    {
-      "title": "Explosion injures 3 South Korean military officers in DMZ",
-      "summary": "Two were ​evacuated by helicopter. The ⁠third is expected to be transported ‌by road before being airlifted by helicopter",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/three-south-korean-soldiers-injured-in-blast-at-dmz-military/article71490167.ece",
-      "importance": 3,
-      "date_added": "2026-09-22"
-    },
-    {
-      "title": "Whole of govt. approach being followed to address concerns of critical mineral recycling industry: G. Kishan Reddy",
-      "summary": "Union Mines Minister G. Kishan Reddy emphasised that efforts are being made to address all issues concerning the critical mineral recycling industry",
-      "category": "economy",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/business/Industry/whole-of-govt-approach-being-followed-to-address-concerns-of-critical-mineral-recycling-industry-g-kishan-reddy/article71492766.ece",
-      "importance": 3,
-      "date_added": "2026-09-22"
-    },
-    {
-      "title": "India, Canada to hold next round of talks from October 5 for proposed trade pact: Goyal",
-      "summary": "The fourth round of negotiations concluded in New Delhi on September 18",
-      "category": "economy",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/business/Economy/india-canada-to-hold-next-round-of-talks-from-october-5-for-proposed-trade-pact-goyal/article71491213.ece",
-      "importance": 3,
-      "date_added": "2026-09-22"
-    },
-    {
       "title": "Indian Women's Cricket Team Clinches India's First Gold Medal at Asian Games 2026",
       "summary": "The Indian women's cricket team won India's first gold medal at the Asian Games 2026 by defeating Sri Lanka in the final. Smriti Mandhana and Shafali Verma laid the foundation with a 99-run opening partnership before the spin quartet secured the win.",
       "category": "sports",
@@ -1817,6 +1547,276 @@
       "url": "https://www.thehindu.com/news/national/tamil-nadu/work-on-storm-water-drain-near-virugambakkam-canal-to-be-completed-in-2-weeks/article71515801.ece",
       "importance": 3,
       "date_added": "2026-09-28"
+    },
+    {
+      "title": "Supreme Court agrees to list next week plea to suspend CEC Gyanesh Kumar from office",
+      "summary": "Appearing before CJI Surya Kant, senior advocates, representing petitioner Rakesh Kumar Singh, made an oral mentioning for early hearing of the plea which urged the court to direct that Gyanesh Kumar should not exercise the functions of Chief Election Commissioner, pending final hearing of this petition",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/supreme-court-agrees-to-list-next-week-plea-to-suspend-cec-gyanesh-kumar-from-office/article71522689.ece",
+      "importance": 3,
+      "date_added": "2026-09-29"
+    },
+    {
+      "title": "CEC row LIVE: Former Home Secretary urges Opposition to boycott elections until Gyanesh Kumar resigns",
+      "summary": "Congress Working Committee to meet today (September 29) to discuss the “internal differences” in the ECI",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/cec-election-commission-row-gyanesh-kumar-live-updates-september-29-2026/article71522496.ece",
+      "importance": 3,
+      "date_added": "2026-09-29"
+    },
+    {
+      "title": "PMO reviews Ambedkarite writings in university curricula after anonymous post calls them ‘poison’",
+      "summary": "Academic Kancha Ilaiah Shepherd questions the interference of the PMO in the syllabus of universities, which ought to be in the purview of the Department of Higher Education or University Grants Commission",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/pmo-reviews-ambedkarite-writings-in-university-curricula-after-anonymous-post-calls-them-poison/article71521420.ece",
+      "importance": 3,
+      "date_added": "2026-09-29"
+    },
+    {
+      "title": "Tamil Nadu CM Vijay declares open renovated Gandhi Memorial Museum in Madurai",
+      "summary": "The renovation work was carried out at a total cost of ₹10.25 crore by the Heritage Wing of the Public Works Department",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cm-vijay-declares-open-renovated-gandhi-memorial-museum-in-madurai/article71518869.ece",
+      "importance": 3,
+      "date_added": "2026-09-29"
+    },
+    {
+      "title": "Jharkhand BJP strongly condemn the damage to Syama Prasad Mookerjee’s statue in Ranchi",
+      "summary": "Police lodged the FIR under sections 324, 298, 196, 352, and 356 of the Bharatiya Nyaya Sanhita (BNS) and the Prevention of Insults to National Honour Act, 1971",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-bjp-strongly-condemn-thedamage-to-syama-prasad-mookerjees-statue-in-ranchi/article71519800.ece",
+      "importance": 3,
+      "date_added": "2026-09-29"
+    },
+    {
+      "title": "Ex-Home Secretary R.K. Singh accuses CEC Gyanesh Kumar of ‘illegalities’ in SIR",
+      "summary": "In an open letter, the retired IAS officer also urged Opposition parties to boycott elections until the CEC and the Election Commissioners resign",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/ex-home-secretary-rk-singh-accuses-cec-gyanesh-kumar-of-illegalities-in-sir-calls-for-opposition-unity/article71522341.ece",
+      "importance": 3,
+      "date_added": "2026-09-29"
+    },
+    {
+      "title": "Lokesh’s investment drive has taken Andhra’s FDI inflows to $609 million, says TDP spokesperson",
+      "summary": "Speed of Doing Business framework, backed by an escrow-based incentive distribution system, has enabled the government to clinch deals on a scale not witnessed before, says Neelayapalem Vijay Kumar",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/lokeshs-investment-drive-has-taken-andhras-fdi-inflows-to-609-million-says-tdp-spokesperson/article71520548.ece",
+      "importance": 3,
+      "date_added": "2026-09-29"
+    },
+    {
+      "title": "ED raids premises of ex-West Bengal minister, others in PMLA case",
+      "summary": "A total of 15 premises were covered during the raids conducted in connection with alleged financial irregularities in an organisation that ran Durga Puja preview shows, they said",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/west-bengal/ed-raids-premises-of-ex-west-bengal-minister-others-in-pmla-case/article71522466.ece",
+      "importance": 3,
+      "date_added": "2026-09-29"
+    },
+    {
+      "title": "Nabin tells West Bengal BJP ministers that party should not interfere in government functioning",
+      "summary": "The BJP president participated in a number of events in Kolkata, including the “Yuva Samvad Conclave”, where Chief Minister Suvendu Adhikari was also present",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/west-bengal/nabin-tells-west-bengal-bjp-ministers-that-party-should-not-interfere-in-government-functioning/article71521056.ece",
+      "importance": 3,
+      "date_added": "2026-09-29"
+    },
+    {
+      "title": "Iran supreme leader says U.S. will be forced out of West Asia: state TV",
+      "summary": "‘Today, having suffered painful blows at the hands of valiant fighters and the guardians of the Strait of Hormuz, they [the enemies] do not venture beyond the Arabian Sea,’ Mojtaba Khamenei said in the written statement attributed to him",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/iran-supreme-leader-says-us-will-be-forced-out-of-west-asia-state-tv/article71520917.ece",
+      "importance": 3,
+      "date_added": "2026-09-29"
+    },
+    {
+      "title": "If neither a tax nor fee, what is this ‘expropriation’, SC asks govt. on UPI merchant discount rate",
+      "summary": "Apex court refuses repeated pleas by petitioner to grant an interim stay, but issues notice to the Union of India, the Reserve Bank of India, and the National Payments Corporation of India",
+      "category": "economy",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/Economy/if-neither-tax-nor-fee-what-is-this-expropriation-supreme-court-asks-govt-on-upi-mdr-charges/article71518779.ece",
+      "importance": 3,
+      "date_added": "2026-09-29"
+    },
+    {
+      "title": "Amit Shah Unveils PRAHAAR Counter-Terrorism Policy",
+      "summary": "Amit Shah Unveils PRAHAAR Counter-Terrorism Policy",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/amit-shah-unveils-prahaar-counter-terrorism-policy/",
+      "importance": 3,
+      "date_added": "2026-09-29"
+    },
+    {
+      "title": "Tata Projects, MDS Aero Partner for Aero-Engine Testing",
+      "summary": "Tata Projects, MDS Aero Partner for Aero-Engine Testing",
+      "category": "science",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/tata-projects-mds-aero-partner-for-aero-engine-testing/",
+      "importance": 3,
+      "date_added": "2026-09-29"
+    },
+    {
+      "title": "India Sends Anti-TB Medicines to Sri Lanka",
+      "summary": "India Sends Anti-TB Medicines to Sri Lanka",
+      "category": "international",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/india-sends-anti-tb-medicines-to-sri-lanka/",
+      "importance": 3,
+      "date_added": "2026-09-29"
+    },
+    {
+      "title": "NASA Unveils Phased Plan for Starliner Return",
+      "summary": "NASA Unveils Phased Plan for Starliner Return",
+      "category": "science",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/nasa-unveils-phased-plan-for-starliner-return/",
+      "importance": 3,
+      "date_added": "2026-09-29"
+    },
+    {
+      "title": "TRAI Data Shows Jio and Airtel Added Subscribers",
+      "summary": "TRAI Data Shows Jio and Airtel Added Subscribers",
+      "category": "reports",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/trai-data-shows-jio-and-airtel-added-subscribers/",
+      "importance": 3,
+      "date_added": "2026-09-29"
+    },
+    {
+      "title": "Red Bull Challenges FSSAI Order on Energy Drink Label",
+      "summary": "Red Bull Challenges FSSAI Order on Energy Drink Label",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/red-bull-challenges-fssai-order-on-energy-drink-label/",
+      "importance": 3,
+      "date_added": "2026-09-29"
+    },
+    {
+      "title": "Keralam local body bypolls: UDF retains Ayyappankkavu in Kochi Corporation",
+      "summary": "Ajith Kumar A.K. registers maiden electoral victory, defeating P.K. Usman of CPI(M) by a margin of 549 votes",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/keralam-local-body-bypolls-udf-retains-ayyappankkavu-in-kochi-corporation/article71522772.ece",
+      "importance": 3,
+      "date_added": "2026-09-29"
+    },
+    {
+      "title": "V.D. Satheesan govt faces first major electoral test as counting on in 38 local body wards across 12 districts in Keralam",
+      "summary": "Results could have significant consequences for UDF, LDF Opposition and BJP-led NDA",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/keralam-by-election-local-body-wards-updates/article71522429.ece",
+      "importance": 3,
+      "date_added": "2026-09-29"
+    },
+    {
+      "title": "Karnataka SIR: Over 4,000 Form-7 seek deletion of names, largely Muslim voters, across Congress, BJP seats",
+      "summary": "In Babaleshwar alone, 1,373 Form-7 applications were received on September 22. Of these, 1,363 were filed by just 10 people, seeking deletions largely against Muslim voters outside their own polling stations",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/sir-over-4000-form-7-seek-deletion-of-names-largely-muslim-voters-across-congress-bjp-seats/article71521067.ece",
+      "importance": 3,
+      "date_added": "2026-09-29"
+    },
+    {
+      "title": "Cancer, kidney, AIDS drugs sold at up to 70 times procurement cost: Karnataka Health Minister",
+      "summary": "He sought a national study comparing the printed MRP, manufacturer/importer price, hospital’s net acquisition price, and the price ultimately billed to patients for selected high-value medicines, medical devices, and consumables",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/cities/bangalore/cancer-kidney-aids-drugs-sold-at-up-to-70-times-procurement-cost-karnataka-health-minister/article71516820.ece",
+      "importance": 3,
+      "date_added": "2026-09-29"
+    },
+    {
+      "title": "AAP donations plunge in 2025-26; company of MP who later joined BJP, Ashutosh Ranka among donors",
+      "summary": "The latest filing covers the first full financial year since the AAP lost power in Delhi in February 2025. The party continues to govern Punjab, where Trident is based. Its report contains 1,202 numbered entries",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/aap-donations-plunge-in-2025-26-cjp-ranka-donors/article71522566.ece",
+      "importance": 3,
+      "date_added": "2026-09-29"
+    },
+    {
+      "title": "Future polls must use pre-SIR voter list, say civil society groups, demanding a full rollback of the SIR",
+      "summary": "The also demanded the removal of the CEC, an independent probe into the ECI’s decisions, and a public social audit of the electoral roll; “if free and fair polls are under threat, then what remains of democracy?” asks senior lawyer Kapil Sibal",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/future-polls-must-use-pre-sir-voter-list-say-civil-society-groups-demanding-a-full-rollback-of-the-sir/article71520444.ece",
+      "importance": 3,
+      "date_added": "2026-09-29"
+    },
+    {
+      "title": "P&T apartment residents demand unconditional apology from Maxy over ‘volte-face’ remark",
+      "summary": "The P&amp;T Apartment Owners Association takes strong exception to former Kochi MLA’s remarks, prompting the CPI(M) district leadership to issue a statement",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/pt-apartment-residents-slam-maxys-remarks-demand-unconditional-apology/article71518475.ece",
+      "importance": 3,
+      "date_added": "2026-09-29"
+    },
+    {
+      "title": "Supreme Court asks Centre to consider exempting Class 6 students from CBSE three-language policy this year",
+      "summary": "According to CBSE's June 29 statement, the current batches studying in Classes 7, 8 and 9 would not be required to give the board examination in third language when they progress to Class 10",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/supreme-court-asks-centre-to-consider-exempting-class-6-students-from-cbse-three-language-policy-this-year/article71520259.ece",
+      "importance": 3,
+      "date_added": "2026-09-29"
+    },
+    {
+      "title": "UAE signals another $25 billion investment in India; eyes ports, energy and space sectors: Goyal",
+      "summary": "India and the UAE have set a target of doubling bilateral trade to $200 billion by 2032 after trade reached around $100 billion. The target was agreed by the two countries earlier this year.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/Economy/uae-signals-another-25-billion-investment-in-india-eyes-ports-energy-and-space-sectors-goyal/article71520349.ece",
+      "importance": 3,
+      "date_added": "2026-09-29"
+    },
+    {
+      "title": "SIR row: Congress holds protest across Maharashtra seeking Gyanesh Kumar’s removal",
+      "summary": "According to the Maharashtra Congress, demonstrations were held outside district collectorates across the State, including in Pune, Nagpur, Nashik, Kolhapur, Solapur, Thane, Amravati and Chhatrapati Sambhajinagar.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/sir-row-congress-holds-protest-across-maharashtra-seeking-gyanesh-kumars-removal/article71520317.ece",
+      "importance": 3,
+      "date_added": "2026-09-29"
+    },
+    {
+      "title": "Sahil Wakode’s parents stage hunger strike at Azad Maidan, demand professor’s arrest",
+      "summary": "The family also questioned IIT Bombay’s internal inquiry into Sahil’s death, alleging that none of the members of the institute-appointed committee has contacted them so far.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/sahil-wakodes-parents-stage-hunger-strike-at-azad-maidan-demand-professors-arrest/article71520922.ece",
+      "importance": 3,
+      "date_added": "2026-09-29"
+    },
+    {
+      "title": "Pope Leo XIV: AI doom fears are not ‘fake news’",
+      "summary": "The first U.S. pope, who has warned of the dangers of AI throughout ‌his 16-month papacy, also directly criticized technology CEOs who argued there should be ‌no guardrails on the technology.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/pope-leo-xiv-ai-doom-fears-are-not-fake-news/article71521431.ece",
+      "importance": 3,
+      "date_added": "2026-09-29"
+    },
+    {
+      "title": "SCO national coordinators’ meeting begins in Pakistan; India among participants",
+      "summary": "The delegation from India, a key member of the SCO, is being led by its National Coordinator Alok Dimri",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/sco-national-coordinators-meeting-pakistan/article71522336.ece",
+      "importance": 3,
+      "date_added": "2026-09-29"
     }
   ]
 }
