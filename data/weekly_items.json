@@ -1,276 +1,6 @@
 {
   "items": [
     {
-      "title": "OECD Upgrades India's Growth Forecast for 2026-27 to 7.1%",
-      "summary": "The OECD has upgraded India's growth expansion forecast for 2026-27 to 7.1%. This follows recent growth outlook revisions for India by rating agencies Moody’s, S&P Global, and Fitch Ratings.",
-      "category": "economy",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/business/Economy/oecd-becomes-latest-global-agency-to-upgrade-indias-growth-up-2026-27-expansion-to-71/article71499132.ece",
-      "importance": 5,
-      "date_added": "2026-09-24"
-    },
-    {
-      "title": "Jay Meena Wins India's First-Ever Soft Tennis Bronze Medal at Asian Games",
-      "summary": "Jay Meena secured India's first-ever soft tennis bronze medal at the Asian Games. Competing in his third Asian Games, the 26-year-old athlete achieved this historic milestone after playing against Kurosaka.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/jay-meena-wins-indias-first-ever-soft-tennis-bronze-medal-at-asian-games/article71498494.ece",
-      "importance": 5,
-      "date_added": "2026-09-24"
-    },
-    {
-      "title": "SEBI Recognises Blue Bonds as Sustainable Finance Instruments",
-      "summary": "SEBI has recognised blue bonds as part of sustainable finance instruments in India. The announcement highlights the potential of blue bonds to support the country's blue economy.",
-      "category": "economy",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/business/Economy/blue-bonds-indias-new-ocean-of-finance/article71502859.ece",
-      "importance": 4,
-      "date_added": "2026-09-24"
-    },
-    {
-      "title": "FIFA World Cup 2026 Features 48 Teams in Expanded Format",
-      "summary": "The FIFA World Cup 2026 features 48 participating teams, marking the largest number in the competition's history. The group stage consists of 12 groups of four teams playing 72 matches to decide the 32 teams advancing to the knockout stage.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/infographics/2026-07-06/fifa-world-cup-2026-knockout-bracket-schedule-qualified-and-eliminated-teams/index.html",
-      "importance": 4,
-      "date_added": "2026-09-24"
-    },
-    {
-      "title": "Deen Dayal Upadhyaya Grameen Kaushalya Yojana 2.0",
-      "summary": "The Press Information Bureau highlighted the Deen Dayal Upadhyaya Grameen Kaushalya Yojana 2.0 (DDU-GKY 2.0) government scheme.",
-      "category": "national",
-      "source": "pib",
-      "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2314250",
-      "importance": 4,
-      "date_added": "2026-09-24"
-    },
-    {
-      "title": "Paper Leak: NTA debars Latur coaching centre owner’s son from NEET-UG for two years",
-      "summary": "According to the CBI, Shivraj Motegaonkar allegedly paid ₹5 lakh to procure chemistry questions from P.V. Kulkarni, who was on the NTA panel that set the questions for the examination.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/maharashtra/paper-leak-nta-debars-latur-coaching-centre-owners-son-from-neet-ug-for-two-years/article71502661.ece",
-      "importance": 3,
-      "date_added": "2026-09-24"
-    },
-    {
-      "title": "Defence Ministry signs ₹811 crore SAT-SAAW contract",
-      "summary": "Defence Ministry signs ₹811 crore SAT-SAAW contract",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/defence-ministry-signs-%e2%82%b9811-crore-sat-saaw-contract/",
-      "importance": 3,
-      "date_added": "2026-09-24"
-    },
-    {
-      "title": "Former Chief Election Commissioner questions legality of SIR, demands reversal of decisions",
-      "summary": "Former Chief Election Commissioner S.Y. Quraishi shares his views on the Special Intensive Revision (SIR) exercise, questioning its necessity, legality and implementation. He argues that India’s electoral rolls have been effectively maintained for decades and raises concerns about the impact and outcomes of the exercise.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/videos/former-chief-election-commissioner-questions-legality-of-sir-demands-reversal-of-decisions/article71502825.ece",
-      "importance": 3,
-      "date_added": "2026-09-24"
-    },
-    {
-      "title": "HEADS to bridge India’s mental healthcare gap with AI",
-      "summary": "NIMHANS in collaboration with IIT Kharagpur, and Lokopriya Gopinath Bordoloi Regional Institute of Mental Health, Tezpur, to formally launch HEADS (Human-in-the-loop Evaluation of Assisted Depression Screening) on September 24",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/heads-to-bridge-indias-mental-healthcare-gap-with-ai/article71499835.ece",
-      "importance": 3,
-      "date_added": "2026-09-24"
-    },
-    {
-      "title": "MANUU faces sexual harassment row over ICC report",
-      "summary": "The university refused to share the copy of the ICC report with the complainant, and the latter’s letters to the Department of Higher Education and the Ministry of Women and Child Development reportedly have not yielded any action",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/telangana/manuu-in-the-thick-of-sexual-harassment-controversy-accused-of-suppressing-icc-report-and-not-implementing-recommendations/article71500998.ece",
-      "importance": 3,
-      "date_added": "2026-09-24"
-    },
-    {
-      "title": "WB Minister and BJP MLA public spat embarrasses party",
-      "summary": "State BJP president Samik Bhattacharya has tried to downplay the development and said while Sharadwat Mukherjee remains a Minister, Piyush Kanoria is an old and dedicated BJP worker",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-cm-asks-ministers-to-concentrate-on-work-rather-than-being-hyperactive-on-the-street/article71501025.ece",
-      "importance": 3,
-      "date_added": "2026-09-24"
-    },
-    {
-      "title": "Opposition calls for CEC Gyanesh Kumar’s removal after report on Election Commissioners’ dissent",
-      "summary": "Both ECs recorded formal objections regarding centralisation of poll roll database, “illegal” changes in Form 6, removal of voters in West Bengal, Goa; terming the CEC the “chief architect of vote chori”, Congress calls for SC-monitored probe",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/election-commission-dissent-sparks-opposition-call-for-cec-gyanesh-kumars-removal/article71498434.ece",
-      "importance": 3,
-      "date_added": "2026-09-24"
-    },
-    {
-      "title": "One Indian killed in attack on ship off Oman; Centre condemns attack",
-      "summary": "Union Minister Sarbananda Sonowal said that Suraj Yadav from Uttar Pradesh succumbed to head injuries after the attack on the vessel MV Cape Dao; Mr. Sonowal also said there were 20 Indian seafarers on board, and all 19 surviving crew members have been safely evacuated by the Royal Navy of Oman",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/indian-national-killed-mv-cape-dao-attack-indian-embassy-oman/article71501151.ece",
-      "importance": 3,
-      "date_added": "2026-09-24"
-    },
-    {
-      "title": "Arunachal Pradesh State Cabinet approves panel for survey of Siang mega dam",
-      "summary": "Many villagers have been opposing the bid to prepare the pre-feasibility report for the proposed Siang Upper Multipurpose Project, which will generate an estimated 11,000 MW of electricity",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/arunachal-pradesh/arunachal-pradesh-state-cabinet-approves-panel-for-survey-of-siang-mega-dam/article71499793.ece",
-      "importance": 3,
-      "date_added": "2026-09-24"
-    },
-    {
-      "title": "CM Fadnavis and DCM Shinde visit drought-prone regions in Maharashtra",
-      "summary": "The tour of CM and DCM comes after Devendra Fadnavis announced the formation of a subcommittee to handle the drought issue under the chairmanship of Revenue Minister Chandrashekhar Bawankule",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/maharashtra/cm-fadnavisand-dcm-shinde-visit-drought-prone-regions-in-maharashtra/article71500515.ece",
-      "importance": 3,
-      "date_added": "2026-09-24"
-    },
-    {
-      "title": "U.P. CM Yogi launches Bharat Taxi and Mukhyamantri Krishak Samriddhi Yojana",
-      "summary": "Now, upon registration, taxi drivers will become part of Bharat Taxi on zero commission and will receive social security of ₹5 lakh, said Yogi Adityanath",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/uttar-pradesh/bharat-taxi-to-operate-on-zero-commission-drivers-to-get-5-lakh-social-security-cm-yogi-adityanath/article71499180.ece",
-      "importance": 3,
-      "date_added": "2026-09-24"
-    },
-    {
-      "title": "Madhya Pradesh traders, retailers observe ‘No UPI Day’, seek rollback of MDR charges",
-      "summary": "In cities like Bhopal and Indore, QR code stickers and payment confirmation soundboxes on several shops were seen covered with a black cloth, with the traders requesting customers to pay in cash",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/madhya-pradesh/madhya-pradesh-traders-retailers-observe-no-upi-day-seek-rollback-of-mdr-charges/article71500720.ece",
-      "importance": 3,
-      "date_added": "2026-09-24"
-    },
-    {
-      "title": "Minister in CEC-EC selection panel fails ‘perception test’, says Justice Datta in split verdict",
-      "summary": "Justice Datta said the Minister “cannot be expected to defy the Prime Minister”; he said the Prime Minister and his Cabinet Minister shared a “collective responsibility” and inclusion of a Minister “fails to provide an independent countenance”",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/minister-in-cec-ec-selection-panel-fails-perception-test-says-justice-datta-in-split-verdict/article71499280.ece",
-      "importance": 3,
-      "date_added": "2026-09-24"
-    },
-    {
-      "title": "FSSAI Acts Against E-Commerce Food Claims",
-      "summary": "FSSAI Acts Against E-Commerce Food Claims",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/fssai-acts-against-e-commerce-food-claims/",
-      "importance": 3,
-      "date_added": "2026-09-24"
-    },
-    {
-      "title": "UK Sets Up First Military Space Squadron",
-      "summary": "UK Sets Up First Military Space Squadron",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/uk-sets-up-first-military-space-squadron/",
-      "importance": 3,
-      "date_added": "2026-09-24"
-    },
-    {
-      "title": "EC dissent row LIVE: Opposition seeks CEC Gyanesh Kumar’s removal; CJP's Dipke to address presser",
-      "summary": "The ECI responded on September 23, saying that all its actions have been in accordance with the laws and instructions of the Commission",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/ec-dissent-gyanesh-kumar-resignation-row-september-24-2026-live-updates/article71502728.ece",
-      "importance": 3,
-      "date_added": "2026-09-24"
-    },
-    {
-      "title": "Asian Games 2026 LIVE: Roshibina Devi bags second Asian Games silver in Wushu",
-      "summary": "It is third Asian Games medal for Roshibina, who won a silver at the 2023 Hangzhou Asian Games and a bronze at the 2018 Jakarta-Palembang Games",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/asian-games-2026-live-updates-on-september-24-2026/article71501314.ece",
-      "importance": 3,
-      "date_added": "2026-09-24"
-    },
-    {
-      "title": "Rahul Gandhi speaks to deceased IIT Bombay student’s parents",
-      "summary": "Indian Youth Congress president Uday Bhanu Chib and its Maharashtra unit chief Shivraj More were with Sahil’s parents when the call took place.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/cities/mumbai/rahul-gandhi-speaks-to-deceased-iit-bombay-students-parents/article71502794.ece",
-      "importance": 3,
-      "date_added": "2026-09-24"
-    },
-    {
-      "title": "Karnataka BJP gets new in-charge leader",
-      "summary": "He replaces Dr. Radhamohan Das Agarwal who was in-charge of the BJP’s Karnataka unit so far",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-bjp-gets-new-in-charge-leader/article71500938.ece",
-      "importance": 3,
-      "date_added": "2026-09-24"
-    },
-    {
-      "title": "Mamata calls for Chief Election Commissioner’s arrest, seeks fresh West Bengal polls",
-      "summary": "Former Chief Minister says there will be a nationwide protest and that INDIA bloc leaders will meet soon, asserting that all Opposition parties are together in this ‘fight’",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/west-bengal/mamata-banerjee-on-election-commission-friction-bengal-assembly-sir/article71499617.ece",
-      "importance": 3,
-      "date_added": "2026-09-24"
-    },
-    {
-      "title": "Ensure proper disposal of hazardous waste: Dinesh Reddy",
-      "summary": "As the APEMCL website has GPS-enabled system to monitor the management and shifting of hazardous waste, he appealed to the industries to promptly upload such details on the website",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/ensure-proper-disposal-of-hazardous-waste-dinesh-reddy/article71502694.ece",
-      "importance": 3,
-      "date_added": "2026-09-24"
-    },
-    {
-      "title": "How mobile games have become a means of protest against power crisis in Keralam",
-      "summary": "Games made by members of Left-leaning youth organisations criticise the UDF government and Keralam Chief Minister V.D. Satheesan humorously",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/how-mobile-games-have-become-a-means-of-protest-against-power-crisis-in-keralam/article71499638.ece",
-      "importance": 3,
-      "date_added": "2026-09-24"
-    },
-    {
-      "title": "BIS conducts search and seizure at Mysuru jewellery shop",
-      "summary": "The team seized around 430 grams of gold ornaments that did not bear the mandatory Hallmark Unique Identification (HUID) markings",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/bis-conducts-search-and-seizure-at-mysuru-jewellery-shop/article71500028.ece",
-      "importance": 3,
-      "date_added": "2026-09-24"
-    },
-    {
-      "title": "JLM urges Karnataka government to retain management of Anubhava Mantapa",
-      "summary": "This comes two days after the JLM general body resolved to seek day-to-day management of the institution from the State government",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/jlm-urges-the-government-to-retain-management-of-anubhava-mantapa/article71499983.ece",
-      "importance": 3,
-      "date_added": "2026-09-24"
-    },
-    {
-      "title": "IIT Bombay forms panel to probe student’s death",
-      "summary": "The Mumbai Police have transferred the probe into Sahil Wakode’s death to the Crime Branch; Prof. Suryanarayana Doolla, who has been named in the case, has been sent on leave",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/maharashtra/iit-bombay-forms-panel-to-probe-students-death/article71500841.ece",
-      "importance": 3,
-      "date_added": "2026-09-24"
-    },
-    {
       "title": "Kamaljeet and Suruchi Win Gold in 10m Air Pistol Mixed Team at Asian Games 2026",
       "summary": "Shooters Kamaljeet and Suruchi won the gold medal for India in the 10m air pistol mixed team event at the 2026 Asian Games. The duo recorded a winning total score of 484.6 in the final.",
       "category": "sports",
@@ -1817,6 +1547,276 @@
       "url": "https://www.gktoday.in/edward-rukidi-kijanangoma-crowned-tooro-kingdom-king/",
       "importance": 3,
       "date_added": "2026-09-30"
+    },
+    {
+      "title": "Neeru and Kynan Win Trap Mixed Team Gold at 2026 Asian Games",
+      "summary": "The Indian duo of Neeru and Kynan won the gold medal in the trap mixed team event at the 2026 Asian Games with a score of 34. Qatar secured the silver medal with a score of 32.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/asian-games-2026-neeru-kynan-team-snares-trap-mixed-team-shooting-gold/article71527159.ece",
+      "importance": 4,
+      "date_added": "2026-10-01"
+    },
+    {
+      "title": "MeitY to Launch IndiaAI Centre of Excellence in Artificial Intelligence",
+      "summary": "The Ministry of Electronics and Information Technology (MeitY) will launch the IndiaAI Centre of Excellence in Artificial Intelligence. The initiative includes the announcement of CAIK's first cohort of 15 start-ups.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/meity-indiaai-centre-of-excellence-in-artificial-intelligence-to-be-launched-on-wednesday/article71524860.ece",
+      "importance": 4,
+      "date_added": "2026-10-01"
+    },
+    {
+      "title": "Andhra Athletes Win Medals in Archery, Cricket, and Badminton",
+      "summary": "At the Asian Games, Jyothi Surekha and Ganesh Mani Ratnam won gold in compound archery, while woman cricketer Sree Charani secured gold. Satwiksairaj and Srikanth were part of the men's badminton squad that won a bronze medal.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/asian-games-2026-andhra-athletes-win-three-golds-a-bronze/article71529712.ece",
+      "importance": 4,
+      "date_added": "2026-10-01"
+    },
+    {
+      "title": "Bihar Cabinet Approves Bihar Green Hydrogen Policy, 2026",
+      "summary": "The Bihar Cabinet has approved the Bihar Green Hydrogen Policy, 2026, aligned with the National Green Hydrogen Mission 2023. The policy aims to promote renewable energy, reduce carbon emissions, and lower natural gas import dependence.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/bihar/bihar-cabinet-gives-nod-to-bihar-green-hydrogen-policy-2026/article71529549.ece",
+      "importance": 4,
+      "date_added": "2026-10-01"
+    },
+    {
+      "title": "Indian Army Conducts 'Operation Drishti' in Kashmir Border Areas",
+      "summary": "J&K Lieutenant Governor Manoj Sinha highlighted the Indian Army's 'Operation Drishti' in Kashmir's border areas as a major milestone. He described the operation as an embodiment of service, compassion, courage, and resolve.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/armys-operation-drishti-in-kashmirs-border-areas-a-milestone-jk-l-g-manoj-sinha/article71530064.ece",
+      "importance": 4,
+      "date_added": "2026-10-01"
+    },
+    {
+      "title": "India Secures Compound Archery Gold at 2026 Asian Games",
+      "summary": "India completed a hat-trick in compound archery by winning its third consecutive gold medal at the 2026 Asian Games held in Aichi-Nagoya, Japan.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/asian-games-2026-medal-tally-live-india-full-winners-list-table-aichi-nagoya/article71484008.ece",
+      "importance": 4,
+      "date_added": "2026-10-01"
+    },
+    {
+      "title": "Shubman Gill Breaks Record for Fastest ODI Double Century",
+      "summary": "Indian skipper Shubman Gill broke the record for the fastest One Day International (ODI) double century, surpassing teammate Ishan Kishan. Kishan had previously achieved the mark off 126 balls against Bangladesh in 2022.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/cricket/gill-breaks-kishans-record-for-fastest-odi-double-hundred/article71530015.ece",
+      "importance": 4,
+      "date_added": "2026-10-01"
+    },
+    {
+      "title": "Southwest Monsoon Ends with 12% Deficit",
+      "summary": "The southwest monsoon concluded with a 12% rainfall deficit, marking the lowest monsoon rainfall since 2015. East and northeast India experienced their driest monsoon season since 1901.",
+      "category": "environment",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/southwest-monsoon-ends-with-12-deficit/article71529423.ece",
+      "importance": 4,
+      "date_added": "2026-10-01"
+    },
+    {
+      "title": "‘Very perturbed’, draft electoral roll cannot be basis for deleting names without hearing: Bombay HC at Goa",
+      "summary": "The Goa Bench of the HC also questioned the Election Commission of India (ECI) on the provisions empowering it to delete names without a hearing, saying it was “very perturbed by this”",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/goa/bomaby-hc-rules-draft-electoral-roll-cannot-delete-names-without-hearing/article71531689.ece",
+      "importance": 3,
+      "date_added": "2026-10-01"
+    },
+    {
+      "title": "Madras High Court refuses to reject election petition filed against Esakki Subaya’s Ambasamudram win",
+      "summary": "Justice P.B. Balaji dismisses an application filed by the resigned MLA, who had shifted allegiance from the AIADMK to the TVK, to reject the election petition filed by a voter",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-refuses-to-reject-election-petition-filed-against-esakki-subayas-ambasamudram-win/article71531436.ece",
+      "importance": 3,
+      "date_added": "2026-10-01"
+    },
+    {
+      "title": "Productive discussion with USTR Greer on early conclusion of trade deal: Goyal",
+      "summary": "The meeting came on a day when Prime Minister Narendra Modi and US President Donald Trump held a telephone conversation to review progress in bilateral cooperation",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/Economy/productive-discussion-with-ustr-greer-on-early-conclusion-of-trade-deal-goyal/article71531414.ece",
+      "importance": 3,
+      "date_added": "2026-10-01"
+    },
+    {
+      "title": "Mamata backs Rahul as PM, Kharge seeks Opposition unity",
+      "summary": "Mamata says she has “no problem” with Rahul Gandhi as a Prime Ministerial candidate, but Kharge cautions that the INDIA bloc should first fight against threats to democracy; Rahul calls the alliance “defenders of the Indian Constitution”",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/mamata-backs-rahul-as-pm-kharge-seeks-opposition-unity/article71529842.ece",
+      "importance": 3,
+      "date_added": "2026-10-01"
+    },
+    {
+      "title": "INDIA bloc to launch nationwide campaign against CEC, SIR from October 2",
+      "summary": "Opposition parties to move Supreme Court, hold district-level marches and seek President’s intervention over electoral roll revision and Election Commission functioning",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/india-bloc-to-launch-nationwide-campaign-against-cec-sir-from-october-2/article71529616.ece",
+      "importance": 3,
+      "date_added": "2026-10-01"
+    },
+    {
+      "title": "Youth Congress-SFI clashes: Police register non-bailable case; SFI calls State-wide protests in Keralam",
+      "summary": "Youth Congress and SFI activists have blamed each other for triggering the violence by throwing stones and bottles",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/youth-congress-sfi-clashes-police-register-non-bailable-case-sfi-calls-state-wide-protests-in-keralam/article71531435.ece",
+      "importance": 3,
+      "date_added": "2026-10-01"
+    },
+    {
+      "title": "Madras High Court rejects election petition filed against the victory of DMK former Minister S. Regupathy from Thirumayam",
+      "summary": "Justice G.K. Ilanthiraiyan rejects the election petition filed by TVK candidate C. Chinthamani who had lost by a margin of 1,492 votes",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-rejects-election-petition-filed-against-the-victory-of-dmk-former-minister-s-regupathy-from-thirumayam/article71529617.ece",
+      "importance": 3,
+      "date_added": "2026-10-01"
+    },
+    {
+      "title": "Greater Bengaluru Development Minister Krishna Byre Gowda orders KRDCL to fix SH-35 within three months, provide immediate relief to commuters",
+      "summary": "The Minister inspected the stretch following recurring complaints, including an incident earlier this month in which schoolchildren were stuck in traffic for more than two hours.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/cities/bangalore/greater-bengaluru-development-minister-krishna-byre-gowda-orders-krdcl-to-fix-sh-35-within-three-months-provide-immediate-relief-to-commuters/article71528937.ece",
+      "importance": 3,
+      "date_added": "2026-10-01"
+    },
+    {
+      "title": "Hegseth announces new drone command, cuts to 20% of generals in 'State of the Force' speech",
+      "summary": "The Pentagon will also launch an effort to study the future of warfare that will be led in part by SpaceX CEO Elon Musk and former Republican House Speaker Newt Gingrich, Pete Hegseth said",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/hegseth-announces-new-drone-command-cuts-to-20-of-generals-in-state-of-the-force-speech/article71531255.ece",
+      "importance": 3,
+      "date_added": "2026-10-01"
+    },
+    {
+      "title": "Pakistan Deputy PM reaffirms its commitment to open, inclusive and constructive SCO Chairmanship",
+      "summary": "Mr. Dar underlined the theme of Pakistan's Chairmanship, 'Turning Vision into Action: Connectivity, Innovation, and Shared Prosperity'",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/pakistan-deputy-pm-reaffirms-its-commitment-to-open-inclusive-and-constructive-sco-chairmanship/article71529642.ece",
+      "importance": 3,
+      "date_added": "2026-10-01"
+    },
+    {
+      "title": "Army Conducts Exercise Jai Se Vijay on NH-911",
+      "summary": "Army Conducts Exercise Jai Se Vijay on NH-911",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/army-conducts-exercise-jai-se-vijay-on-nh-911/",
+      "importance": 3,
+      "date_added": "2026-10-01"
+    },
+    {
+      "title": "NCM 2.0 Guidelines Launched for Coastal Resilience",
+      "summary": "NCM 2.0 Guidelines Launched for Coastal Resilience",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/ncm-2-0-guidelines-launched-for-coastal-resilience/",
+      "importance": 3,
+      "date_added": "2026-10-01"
+    },
+    {
+      "title": "US Launches FORTRESS America Defence Security Initiative",
+      "summary": "US Launches FORTRESS America Defence Security Initiative",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/us-launches-fortress-america-defence-security-initiative/",
+      "importance": 3,
+      "date_added": "2026-10-01"
+    },
+    {
+      "title": "Madras High Court takes up suo motu PIL for removal of caste appellations from names of streets, roads, and localities in Tamil Nadu",
+      "summary": "Chief Justice Sushrut Arvind Dharmadhikari and Justice G. Arul Murugan call for a status report on the appellations that had been removed so far and those that are yet to be removed",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-takes-up-suo-motu-pil-for-removal-of-caste-appellations-from-names-of-streets-roads-and-localities-in-tamil-nadu/article71531578.ece",
+      "importance": 3,
+      "date_added": "2026-10-01"
+    },
+    {
+      "title": "Centre approves ₹93.94 crore project to redevelop Maharaja Ajj Sarovar in Punjab’s Kharar",
+      "summary": "The project approval follows several rounds of consultations between the Punjab government and the Centre",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/punjab/union-tourism-ministry-approves-9394-crore-for-redeveloping-maharaja-ajj-sarovar-in-kharar/article71528960.ece",
+      "importance": 3,
+      "date_added": "2026-10-01"
+    },
+    {
+      "title": "BEML unveils 60-tonne Electric Dump Truck for mining operations",
+      "summary": "The BH60-EV builds on BEML’s growing electric vehicle portfolio and follows the launch of its 35-ton Electric Dump Truck on April 10",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/beml-mysuru-unveils-60-tonne-electric-dump-truck-for-mining-operations/article71529632.ece",
+      "importance": 3,
+      "date_added": "2026-10-01"
+    },
+    {
+      "title": "Conundrum over demography panel’s questionnaire seeking extensive data | Explained",
+      "summary": "The HLCDC, headed by retired Supreme Court judge Prakash Prabhakar Naolekar, was constituted by the Ministry of Home Affairs on May 26 to study demographic changes arising from illegal immigration and other ‘abnormal’ reasons and recommend measures to address them; the committee’s terms of reference also require it to recommend an appropriate institutional mechanism for ‘population stabilisation’",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/conundrum-over-panels-questionnaire-seeking-extensive-data-on-demographic-changes-explained/article71523595.ece",
+      "importance": 3,
+      "date_added": "2026-10-01"
+    },
+    {
+      "title": "CM Vijay positions TVK as organic successor to AIADMK, justifies Dharapuram candidate’s party switchover",
+      "summary": "Vijay addresses bypoll campaign meeting in Dharapuram; extols the leadership acumen of late Chief Ministers Jayalalithaa and M.G. Ramachandran in handling arch-rival DMK",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/cm-vijay-positions-tvk-as-organic-successor-to-aiadmk-justifies-dharapuram-candidates-party-switchover/article71529345.ece",
+      "importance": 3,
+      "date_added": "2026-10-01"
+    },
+    {
+      "title": "SIR: Filled Form-7 targeting Muslim voters surface in Belagavi; BLOs allege they were pressured to sign",
+      "summary": "BLOs allege they were pressured to sign, and say that two men, claiming to be from the Belagavi City Corporation, brought a bulk of Form-7 applications seeking deletion of only Muslim names.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/cities/bangalore/sir-filled-form-7-targeting-muslim-voters-surface-in-belagavi-blos-allege-they-were-pressured-to-sign/article71529328.ece",
+      "importance": 3,
+      "date_added": "2026-10-01"
+    },
+    {
+      "title": "President Murmu, PM Modi praise Indian pilot Smit Machchhar for saving Israel-bound flight from crash",
+      "summary": "Captain Smit Machchhar saved the lives of 174 people when the co-pilot attempted to crash a Dubai flight",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/president-murmu-pm-modi-praise-indian-pilot-smit-machchhar-for-saving-flydubai-flight-from-crash/article71531524.ece",
+      "importance": 3,
+      "date_added": "2026-10-01"
+    },
+    {
+      "title": "Two detained after Shiv Sena (UBT) leader Pradeep Purnekar shot dead in Thane",
+      "summary": "According to police, Purnekar was at his office when two assailants entered and opened fire on him before also attacking him with a sharp weapon",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/local-sena-ubt-leader-dies-in-thane-after-firing-by-unidentified-assailants/article71525600.ece",
+      "importance": 3,
+      "date_added": "2026-10-01"
+    },
+    {
+      "title": "Soon after SIR, Odisha’s Chief Electoral Officer applies for voluntary retirement",
+      "summary": "Odisha’s Chief Electoral Officer R. S. Gopalan was quoted as saying that his application for VRS was on the grounds of personal reasons and has nothing to do with SIR process",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/odisha/soon-after-sir-odishas-chief-electoral-officer-applies-vrs/article71531376.ece",
+      "importance": 3,
+      "date_added": "2026-10-01"
     }
   ]
 }
