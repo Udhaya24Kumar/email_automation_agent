@@ -1,276 +1,6 @@
 {
   "items": [
     {
-      "title": "Kamaljeet and Suruchi Win Gold in 10m Air Pistol Mixed Team at Asian Games 2026",
-      "summary": "Shooters Kamaljeet and Suruchi won the gold medal for India in the 10m air pistol mixed team event at the 2026 Asian Games. The duo recorded a winning total score of 484.6 in the final.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/asian-games-2026-kamaljeet-suruchi-shoot-india-to-gold-in-10m-air-pistol-mixed-team-event/article71507089.ece",
-      "importance": 5,
-      "date_added": "2026-09-25"
-    },
-    {
-      "title": "New Begonia Species Discovered in Arunachal Pradesh",
-      "summary": "A new plant species named Begonia neelamorum has been described from the Keyi Panyor district of Arunachal Pradesh. Named after the Neelam clan of the Nyishi community, it is the 54th Begonia species recorded from northeastern India.",
-      "category": "environment",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/new-begonia-species-described-from-arunachal-pradesh/article71503853.ece",
-      "importance": 4,
-      "date_added": "2026-09-25"
-    },
-    {
-      "title": "Nepal Proposes Himalayan Climate Resilience Mechanism at UN General Assembly",
-      "summary": "Nepal has proposed establishing a Himalayan Climate Resilience Mechanism involving India and China during the 81st session of the UN General Assembly. The initiative aims to combat the impacts of climate change destabilising the fragile Himalayan ecology.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/nepal-pm-proposes-establishing-himalayan-climate-resilience-mechanism-with-india-china/article71507140.ece",
-      "importance": 4,
-      "date_added": "2026-09-25"
-    },
-    {
-      "title": "Ornithologist Asad Rahmani Authors New Book 'Where Have the Birds Gone?'",
-      "summary": "Conservationist and ornithologist Asad Rahmani has released a new book titled 'Where Have the Birds Gone?'. The book explores the vital role of birds in the wider environment.",
-      "category": "environment",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/books/asad-rahmani-interview/article71481626.ece",
-      "importance": 4,
-      "date_added": "2026-09-25"
-    },
-    {
-      "title": "India Wins Silver in 4x400m Mixed Relay and Bronze in 10,000m at Asian Games 2026",
-      "summary": "India's 4x400m mixed relay team consisting of Vishal, Poovamma, Manu, and Vithya won the silver medal at the 2026 Asian Games. Additionally, Seema secured a bronze medal in the 10,000m event during her debut appearance at the Games.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/athletics/asian-games-2026-persistence-and-drama-as-indias-mixed-relay-team-seema-win-medals/article71505161.ece",
-      "importance": 4,
-      "date_added": "2026-09-25"
-    },
-    {
-      "title": "New Delhi to Host BRICS Theatre Festival 2026",
-      "summary": "New Delhi is scheduled to host the BRICS Theatre Festival in 2026.",
-      "category": "international",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/brics-theatre-festival-2026-in-new-delhi/",
-      "importance": 4,
-      "date_added": "2026-09-25"
-    },
-    {
-      "title": "BJP spent more than half of its April-May election funds on Bengal polls",
-      "summary": "The BJP spent ₹286.99 crore in West Bengal alone, which is more than half of the total of ₹529.38 crore that the party spent on the recent Assembly polls in four states and one Union Territory. The Congress spent ₹248.55 crore for all these elections held in April-May",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/bjp-spent-more-in-bengal-than-congress-did-across-five-state-polls-ec-filings/article71503202.ece",
-      "importance": 3,
-      "date_added": "2026-09-25"
-    },
-    {
-      "title": "111 sitting MPs and MLAs changed their political parties after being elected: ADR",
-      "summary": "The Nationalist Democratic Progressive Party (NDPP), Trinamool and Congress together accounted for 64 (58%) of the 111 MPs/MLAs who changed parties; the Naga People’s Front (NPF) led the list of parties that received the maximum number of lawmakers, with 32 (29%), followed by the BJP with 29 (26%) and the Nationalist Citizens Party of India (NCPI) with 20 (18%)",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/111-sitting-mps-and-mlas-changed-their-political-parties-after-being-elected-adr/article71504234.ece",
-      "importance": 3,
-      "date_added": "2026-09-25"
-    },
-    {
-      "title": "Veeramani case: two IPS officers shunted out, placed on compulsory wait",
-      "summary": "A. Arun, ADGP, Tamil Nadu Police Academy, and N. Kannan, Commissioner of Police, Coimbatore, were at the helm of the Chennai Police Commissionerate when a complaint accusing Gem Granites owner R. Veeramani of indulging in predatory sexual behaviour targetting minor girls first surfaced",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/veeramanicase-two-ips-officers-shunted-out-placed-on-compulsory-wait/article71505550.ece",
-      "importance": 3,
-      "date_added": "2026-09-25"
-    },
-    {
-      "title": "Opposition to move fresh notice for CEC’s removal; INDIA bloc mulls joint action",
-      "summary": "New petition likely in both Houses of Parliament even as an earlier Rajya Sabha notice against Gyanesh Kumar remains pending; TMC urges swift and united Opposition response",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/opposition-to-move-fresh-notice-for-cecs-removal-india-bloc-mulls-joint-action/article71504708.ece",
-      "importance": 3,
-      "date_added": "2026-09-25"
-    },
-    {
-      "title": "Adani promises ₹1 lakh crore investment in West Bengal by 2035, looks to diversify in power generation and transmission",
-      "summary": "The Adani Group's proposes to invest in power distribution in Kolkata, which has so far remained the monopoly of R.P. Sanjiv Goenka Group, through its flagship company CESC",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/west-bengal/adani-group-to-invest-over-1-lakh-crore-in-bengal-by-2035-gautam-adani/article71503371.ece",
-      "importance": 3,
-      "date_added": "2026-09-25"
-    },
-    {
-      "title": "What is analogue paneer, and why is FSSAI cracking down on it? | Explained",
-      "summary": "Analogue paneer is not necessarily an illegally adulterated product merely because it is an analogue. FSSAI has recognised “Analogue in Dairy Context” as a category. The regulatory concern arises when such a product is represented to consumers as conventional paneer or another dairy product",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/what-is-analogue-paneer-and-why-is-fssai-cracking-down-on-it-explained/article71507103.ece",
-      "importance": 3,
-      "date_added": "2026-09-25"
-    },
-    {
-      "title": "CMRL-Exalogic payoff case raises legal, political challenges to govt., investigating agencies",
-      "summary": "Allegation that CM Satheesan, Home Minister Chennithala, Health Minister K. Muraleedharan, and other politicians too had received money from CMRL surfaced on Thursday as State government was all set to issue a notification on the formation of a special investigation team to probe the findings of ED",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/news-analysis-cmrl-exalogic-payoff-case-raises-legal-political-challenges-to-govt-investigating-agencies/article71503974.ece",
-      "importance": 3,
-      "date_added": "2026-09-25"
-    },
-    {
-      "title": "Soujanya case: Karnataka forms SIT headed by N. Shashikumar for fresh probe",
-      "summary": "The team includes Mangaluru City Police Commissioner C.H. Sudheer Kumar Reddy, State Intelligence SP Nisha James, CID SP Lokesh Jagalsar and Bengaluru Rural Additional SP Venkatesh Prasanna",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/soujanya-case-karnataka-forms-sit-headed-by-n-shashikumar-for-fresh-probe/article71505541.ece",
-      "importance": 3,
-      "date_added": "2026-09-25"
-    },
-    {
-      "title": "Sabarimala pilgrimage: TDB president meets Keralam Devaswom Minister, briefs him on preparations",
-      "summary": "Speaking to reporters after the meeting, K. Muraleedharan says government and TDB will work together to ensure that devotees do not face difficulties during upcoming pilgrimage season",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/sabarimala-pilgrimage-tdb-president-meets-keralam-devaswom-minister-briefs-him-on-preparations/article71507123.ece",
-      "importance": 3,
-      "date_added": "2026-09-25"
-    },
-    {
-      "title": "Drought relief: Karnataka announces one-time aid of ₹2,500 to about 50 lakh farmers, moratorium of 12 months for loan repayment",
-      "summary": "While Chief Minister D.K. Shivakumar announced that the State would share the burden if the Centre announces a loan waiver, the opposition BJP termed the State’s relief package ‘a pittance’",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/drought-relief-karnataka-announces-one-time-aid-of-2500-to-about-50-lakh-farmers-moratorium-of-12-months-for-loan-repayment/article71505232.ece",
-      "importance": 3,
-      "date_added": "2026-09-25"
-    },
-    {
-      "title": "Bihar CM faces criticism from RJD for 'revealing identity' of girl molested in Jamui",
-      "summary": "Bihar CM Choudhary shared on X a photograph of himself with the victim and her family members. The social media post was, however, quickly taken down.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/bihar/bihar-cm-faces-criticism-from-rjd-for-revealing-identity-of-girl-molested-in-jamui/article71506990.ece",
-      "importance": 3,
-      "date_added": "2026-09-25"
-    },
-    {
-      "title": "Actor Mushtaq Khan dies at 75",
-      "summary": "In a career spanning five decades, Mushtaq Khan acted in over 500 movies and garnered wide popularity through his supporting roles",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/entertainment/movies/actor-mushtaq-khan-dies-at-75/article71505206.ece",
-      "importance": 3,
-      "date_added": "2026-09-25"
-    },
-    {
-      "title": "NEET-PG 2026 results declared: Qualifying cut-off, scorecard, and more",
-      "summary": "The candidates, who appeared for NEET-PG 2026, can download their individual scorecards from the NBEMS website (natboard.edu.in) on or after October 10, 2026.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/education/neet-pg-2026-results-cut-off-scores-when-todownload-scorecard-nbems/article71503706.ece",
-      "importance": 3,
-      "date_added": "2026-09-25"
-    },
-    {
-      "title": "VVCE’s first batch to reunite after 25 years, to honour their teachers in Mysuru",
-      "summary": "A highlight of the reunion will be ‘Guru Vandana’, a felicitation programme organised by the first-batch alumni to honour the teachers who guided and inspired them during their formative years",
-      "category": "awards",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/vvces-first-batch-to-reunite-after-25-years-to-honour-their-teachers-in-mysuru/article71506961.ece",
-      "importance": 3,
-      "date_added": "2026-09-25"
-    },
-    {
-      "title": "Heavy rain lashes Odisha; over 8,000 people evacuated, ministers rush to affected districts | LIVE",
-      "summary": "IMD said squally weather would prevail along the coast, with winds gusting up to 70 kmph, and advised fishermen not to venture into the sea until September 25 morning.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/cyclone-arnab-heavy-rain-lashes-odisha-andhra-pradesh-red-alert-weather-live-updates-september-25-2026/article71506926.ece",
-      "importance": 3,
-      "date_added": "2026-09-25"
-    },
-    {
-      "title": "Asian Games 2026 highlights: Seema wins bronze in women's 10,000m final; 4x400m mixed relay team wins silver",
-      "summary": "Wushu player Roshibina Devi Naorem won a silver medal in the women’s 60kg sanda event",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-24-2026/article71501314.ece",
-      "importance": 3,
-      "date_added": "2026-09-25"
-    },
-    {
-      "title": "CRICKET | Sai Sudharsan sees the positives in his injury rehabilitation break",
-      "summary": "CRICKET | Sai Sudharsan sees the positives in his injury rehabilitation break",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/cricket/cricket-sai-sudharsan-sees-the-positives-in-his-injury-rehabilitation-break/article71505184.ece",
-      "importance": 3,
-      "date_added": "2026-09-25"
-    },
-    {
-      "title": "Asian Games | Naruka-Parinaaz duo clinches bronze; pistol shooters disappoint",
-      "summary": "Anantjeet Singh Naruka, having missed an individual medal by the narrowest of margins on Wednesday, teamed up with Parinaaz Dhaliwal to win bronze in mixed team skeet, the country’s first-ever in the event at the Asian Games",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/asian-games-naruka-parinaaz-duo-clinches-bronze-pistol-shooters-disappoint/article71504186.ece",
-      "importance": 3,
-      "date_added": "2026-09-25"
-    },
-    {
-      "title": "FOOTBALL | SLK gets ready for Season 3 with new innovations",
-      "summary": "The new points structure (3-2-1-0) introduced this season to eliminate draws, will make the league matches more competitive",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/football/football-slk-gets-ready-for-season-3-with-new-innovations/article71503863.ece",
-      "importance": 3,
-      "date_added": "2026-09-25"
-    },
-    {
-      "title": "Video shows professor grabbing student’s collar during college event; NSUI seeks apology",
-      "summary": "The incident allegedly took place during ‘Technofora 2026’, a three-day event organised by the students of the university’s Institute of Technology from September 18 to 20.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/gujarat/video-shows-professor-grabbing-students-collar-during-college-event-nsui-seeks-apology/article71507160.ece",
-      "importance": 3,
-      "date_added": "2026-09-25"
-    },
-    {
-      "title": "Garbage collection revamp in Bengaluru faces hurdle as only six of 21 successful bidders accept work orders",
-      "summary": "The new tenders had mandated GPS tracking and vehicles with increased capacity to collect waste",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/cities/bangalore/garbage-collection-revamp-hits-hurdle-as-only-six-bidders-accept-work-orders/article71505225.ece",
-      "importance": 3,
-      "date_added": "2026-09-25"
-    },
-    {
-      "title": "Drought damages 62,985 hectares of onion crop in Karnataka; prices remain high",
-      "summary": "While onions are being sold at ₹50-55 a kg in the wholesale market, retail prices range between ₹65 and ₹70 a kg",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/drought-damages-62985-hectares-of-onion-crop-in-karnataka-prices-remain-high/article71504313.ece",
-      "importance": 3,
-      "date_added": "2026-09-25"
-    },
-    {
-      "title": "Wedding food trends: How Gen Z is changing the traditional wedding plate",
-      "summary": "As guest lists shrink and spending per head rises, wedding menus are moving beyond the traditional feast. From regional specialities and global cuisines to fusion dishes, live counters and Instagram-worthy desserts, couples are turning food into an experience — while keeping the sacred muhurtham meal firmly rooted in tradition",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/food/features/wedding-food-trends-how-gen-z-is-changing-the-traditional-wedding-plate/article71480125.ece",
-      "importance": 3,
-      "date_added": "2026-09-25"
-    },
-    {
-      "title": "Immersion procession of Khairatabad Ganesh idol in Hyderabad gets delayed start",
-      "summary": "Immersion procession of Khairatabad Ganesh idol in Hyderabad gets delayed start",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/immersion-procession-of-khairatabad-ganesh-idol-in-hyderabad-gets-delayed-start/article71506890.ece",
-      "importance": 3,
-      "date_added": "2026-09-25"
-    },
-    {
       "title": "Indian Coast Guard Joins QUAD-at-Sea Ship Observer Mission",
       "summary": "The Indian Coast Guard has joined the QUAD-at-Sea Ship Observer Mission to enhance maritime security cooperation.",
       "category": "national",
@@ -1817,6 +1547,276 @@
       "url": "https://www.thehindu.com/news/national/odisha/soon-after-sir-odishas-chief-electoral-officer-applies-vrs/article71531376.ece",
       "importance": 3,
       "date_added": "2026-10-01"
+    },
+    {
+      "title": "Scientist G.P. Talwar Reaches 100 Years; Developed World's First Leprosy Vaccine",
+      "summary": "Scientist G.P. Talwar, a founding faculty member of AIIMS New Delhi, developed the world's first leprosy vaccine and a hormonal birth control vaccine. He also founded India's first immunology institution and continues his research activities.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sci-tech/health/gp-talwar-centenary-institution-builder-nii-leprosy-vaccine-birth-control/article71535826.ece",
+      "importance": 4,
+      "date_added": "2026-10-02"
+    },
+    {
+      "title": "Bombay HC Rules Circulating Videos on WhatsApp Falls Under SC/ST Act",
+      "summary": "The Bombay High Court ruled that circulating videos of a victim from an SC/ST community on WhatsApp constitutes an offence under the SC/ST Act. The decision was passed in a case where the accused circulated the victim's videos on the messaging platform after being refused favours.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/circulating-video-on-whatsapp-falls-under-scst-act-bombay-hc/article71533833.ece",
+      "importance": 4,
+      "date_added": "2026-10-02"
+    },
+    {
+      "title": "GST mop-up grows 14.7% to over ₹2.03 lakh crore in September 2026",
+      "summary": "Goods and Services Tax (GST) refunds, however, slowed to ₹27,001 crore in September, a decline of 3% year on year",
+      "category": "economy",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/Economy/gst-collections-september-2026/article71531826.ece",
+      "importance": 3,
+      "date_added": "2026-10-02"
+    },
+    {
+      "title": "NHAI Launches Tamil Nadu’s First Barrierless MLFF Tolling System",
+      "summary": "NHAI Launches Tamil Nadu’s First Barrierless MLFF Tolling System",
+      "category": "science",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/nhai-launches-tamil-nadus-first-barrierless-mlff-tolling-system/",
+      "importance": 3,
+      "date_added": "2026-10-02"
+    },
+    {
+      "title": "Delhi police detains activists, opposition leaders from Jantar Mantar during protest against CEC Gyanesh Kumar; Dipke warns of nationwide unrest | LIVE",
+      "summary": "AAP's Saurabh Bharadwaj, RJD's Manoj Jha detained from Jantar Mantar",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/cec-gyanesh-kumar-row-cjp-opposition-parties-to-organise-separate-protests-live-updates-october-2-2026/article71535655.ece",
+      "importance": 3,
+      "date_added": "2026-10-02"
+    },
+    {
+      "title": "ECI orders probe into Form-7 fraud charge after Karnataka CM Shivakumar’s protest",
+      "summary": "Chief Electoral Officer of Karnataka, V. Anbu Kumar, directed all Electoral Registration Officers (EROs) to take action against applicants who “knowingly” make false statements or declarations while filing claims or objections in Forms 6, 6A, 7 and 8",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/eci-orders-probe-into-form-7-fraud-charge-after-karnataka-cm-shivakumars-protest/article71534408.ece",
+      "importance": 3,
+      "date_added": "2026-10-02"
+    },
+    {
+      "title": "CJP to protest against CEC Gyanesh Kumar in Mumbai on October 2, Dipke challenges CM Fadnavis",
+      "summary": "Abhijeet Dipke said that since a large number of people were affected due to the deletions, many will hit the streets; “If Gyanesh Kumar doesn’t resign, they will seek Narendra Modi’s resignation,” he said, alleging that Mr. Kumar was winning elections for Mr. Modi.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/cities/mumbai/cjp-to-protest-against-cec-in-mumbai-on-october-2-dipke-challenges-cm-fadnavis/article71533827.ece",
+      "importance": 3,
+      "date_added": "2026-10-02"
+    },
+    {
+      "title": "BJP accuses Congress, Rahul Gandhi of double standards over alleged paper leak in Karnataka",
+      "summary": "BJP MP and spokesperson Sambit Patra raised the issue of the paper leak in the Veterinary Officers Recruitment Examination held in January.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/bjp-accuses-congress-rahul-gandhi-of-double-standards-over-alleged-paper-leak-in-karnataka/article71533356.ece",
+      "importance": 3,
+      "date_added": "2026-10-02"
+    },
+    {
+      "title": "Cracks widen within ruling UDF as Congress leaders speak out against Keralam government’s style of functioning",
+      "summary": "When UDF convener Adoor Prakash aired his displeasure over UDF chairman and Chief Minister V.D. Satheesan’s ‘unilateral’ style of functioning, his wasn’t an isolated expression of resentment, he was echoing the sentiments of several senior Congress leaders",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/news-analysis-cracks-widen-within-udf-as-congress-leaders-resent-the-way-keralam-govt-functions/article71533437.ece",
+      "importance": 3,
+      "date_added": "2026-10-02"
+    },
+    {
+      "title": "South Korea's Lee urges North Korea to restore dialogue, pledges military buildup",
+      "summary": "The comments came after Seoul’s ​military and the ‌UN Command said North Korea violated the Korean War armistice following a landmine blast last week that wounded three South Korean soldiers in the Demilitarized ‌Zone (DMZ).",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/south-koreas-lee-urges-north-korea-to-restore-dialogue-pledges-military-buildup/article71534238.ece",
+      "importance": 3,
+      "date_added": "2026-10-02"
+    },
+    {
+      "title": "UN urges U.S. reparations over Marshall Islands nuclear tests",
+      "summary": "It lives on in bodies and families. In lands poisoned and communities displaced. And it lives in the demands, across generations, for recognition and justice, says deputy UN rights chief Awa Dabo",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/un-urges-us-reparations-over-marshall-islands-nuclear-tests/article71534114.ece",
+      "importance": 3,
+      "date_added": "2026-10-02"
+    },
+    {
+      "title": "Manufacturing PMI rose to seven-month high of 55.1 in September",
+      "summary": "September’s performance marked a significant recovery as the HSBC India Manufacturing Purchasing Managers’ Index rose by 2.3 index points from its 52.8 reading in August 2026",
+      "category": "economy",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/Economy/indias-manufacturing-sector-growth-september-2026-strong-demand-pmi/article71531702.ece",
+      "importance": 3,
+      "date_added": "2026-10-02"
+    },
+    {
+      "title": "Frame SOP governing participation of elephants in temple events, religious functions, Madras HC directs Tamil Nadu government",
+      "summary": "Chief Justice Sushrut Arvind Dharmadhikari and Justice G. Arul Murugan order that the draft SOP must be placed before the court on October 30, 2026",
+      "category": "environment",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/frame-sop-governing-participation-of-elephants-in-temple-events-religious-functions-madras-hc-directs-tamil-nadu-government/article71532428.ece",
+      "importance": 3,
+      "date_added": "2026-10-02"
+    },
+    {
+      "title": "PFRDA Targets 2–3 Crore New NPS Subscribers",
+      "summary": "PFRDA Targets 2–3 Crore New NPS Subscribers",
+      "category": "economy",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/pfrda-targets-2-3-crore-new-nps-subscribers/",
+      "importance": 3,
+      "date_added": "2026-10-02"
+    },
+    {
+      "title": "Centre Approves ₹1,176 Crore Six-Lane Teesta Bridge at Sevoke",
+      "summary": "Centre Approves ₹1,176 Crore Six-Lane Teesta Bridge at Sevoke",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/centre-approves-%e2%82%b91176-crore-six-lane-teesta-bridge-at-sevoke/",
+      "importance": 3,
+      "date_added": "2026-10-02"
+    },
+    {
+      "title": "FAA Delays Boeing 737 MAX 10 Certification",
+      "summary": "FAA Delays Boeing 737 MAX 10 Certification",
+      "category": "science",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/faa-delays-boeing-737-max-10-certification/",
+      "importance": 3,
+      "date_added": "2026-10-02"
+    },
+    {
+      "title": "ICC Announces ODI World Cup 2027 Schedule",
+      "summary": "ICC Announces ODI World Cup 2027 Schedule",
+      "category": "sports",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/icc-announces-odi-world-cup-2027-schedule/",
+      "importance": 3,
+      "date_added": "2026-10-02"
+    },
+    {
+      "title": "International Coffee Day: ASR district eyes better returns for coffee growers",
+      "summary": "The Collector called for strengthening Farmer Producer Organisations through collective processing, grading, branding and marketing",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/international-coffee-day-asr-district-eyes-better-returns-for-coffee-growers/article71533177.ece",
+      "importance": 3,
+      "date_added": "2026-10-02"
+    },
+    {
+      "title": "Karnataka’s drive to green data centres",
+      "summary": "Karnataka’s new Sustainable Data Centre Policy 2026–2031 targets to attain a cumulative data centre capacity of 1 GW (1,000 MW) by 2031 and incentivises adoption of renewable energy and treated water",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/karnatakas-drive-to-green-data-centres/article71531272.ece",
+      "importance": 3,
+      "date_added": "2026-10-02"
+    },
+    {
+      "title": "Saudi Arabia says flydubai co-pilot who tried to crash Israel-bound jet transferred to UAE; Trump alleges copilot linked to Iran",
+      "summary": "Asked if the U.S. would retaliate against Tehran if it was behind the attack, Mr. Trump said, “Oh they'll be hit, very hard, don't worry.”",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/flydubai-copilot-iran-links-alleges-trump-netanyahu/article71534583.ece",
+      "importance": 3,
+      "date_added": "2026-10-02"
+    },
+    {
+      "title": "World undergoing profound structural changes: Japan Foreign Minister Motegi",
+      "summary": "Japanese Foreign Minister Toshimitsu Motegi warned about the worldwide impact of generative AI and said under these circumstances, responding to disinformation and misinformation have become an “urgent challenge” for the international community",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/world-undergoing-profound-structural-changes-japan-foreign-minister-motegi/article71533256.ece",
+      "importance": 3,
+      "date_added": "2026-10-02"
+    },
+    {
+      "title": "Commerce Minister Piyush Goyal meets U.S. Trade Representative Greer, discusses trade deal",
+      "summary": "While Mr. Goyal did not mention discussing the proposed 100% tariffs the U.S. is looking to levy on India, Commerce Secretary Rajesh Agrawal had earlier said “all trade issues” would be discussed during the Minister’s visit to the U.S.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/Economy/productive-discussion-with-ustr-greer-on-early-conclusion-of-trade-deal-goyal/article71531414.ece",
+      "importance": 3,
+      "date_added": "2026-10-02"
+    },
+    {
+      "title": "Flydubai pilot attack: UAE probes possible 'terror' link",
+      "summary": "The UAE Foreign Ministry affirmed that their judicial authorities have jurisdiction to investigate the incident as the aircraft is registered in the UAE and bears is flags",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/uae-investigates-possible-terrorist-link-in-flydubai-incident/article71532445.ece",
+      "importance": 3,
+      "date_added": "2026-10-02"
+    },
+    {
+      "title": "USTR Greer says he does not think “something is imminent” on trade deal with India",
+      "summary": "Speaking to the media following G20 trade deliberations in the U.S. and also after a meeting with Commerce Minister Piyush Goyal, Mr. Greer said the two sides had identified the sticking points of the deal and were working to address them",
+      "category": "economy",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/Economy/ustr-greer-says-he-does-not-think-something-is-imminent-on-trade-deal-with-india/article71535944.ece",
+      "importance": 3,
+      "date_added": "2026-10-02"
+    },
+    {
+      "title": "SRMIST signs MoU with South Korea’s Jeonbuk National University",
+      "summary": "Partnership to facilitate student and faculty exchanges, joint research, publications and short-term academic programmes",
+      "category": "economy",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/srmist-signs-mou-with-south-koreas-jeonbuk-national-university/article71524404.ece",
+      "importance": 3,
+      "date_added": "2026-10-02"
+    },
+    {
+      "title": "Coal India production up 9.2% in September",
+      "summary": "Coal India informed that coal production is expected to pick up further with monsoons over.",
+      "category": "economy",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/Economy/coal-india-production-up-92-in-september/article71534280.ece",
+      "importance": 3,
+      "date_added": "2026-10-02"
+    },
+    {
+      "title": "GST revenue rises to ₹2.03 lakh crore in September but share of domestic sources falls to all-time low",
+      "summary": "An analysis of historical GST data shows that an increasing share of GST revenues have been coming from the tax paid on imports rather than GST collected on domestic transactions",
+      "category": "economy",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/Economy/gst-revenue-rises-to-203-lakh-crore-in-september-but-share-of-domestic-sources-falls-to-all-time-low/article71532235.ece",
+      "importance": 3,
+      "date_added": "2026-10-02"
+    },
+    {
+      "title": "India's manufacturing sector activity growth falls to 5-year low in July amid challenging market condition: PMI",
+      "summary": "The HSBC India Manufacturing Purchasing Managers’ Index (PMI) is a gauge of overall conditions derived from measures of new orders, output, employment, supplier delivery times and stocks of purchases.",
+      "category": "economy",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/Economy/indias-manufacturing-sector-activity-growth-falls-to-5-year-low-in-july-amid-challenging-market-condition-pmi/article71302500.ece",
+      "importance": 3,
+      "date_added": "2026-10-02"
+    },
+    {
+      "title": "Asian Games 2026: Lovlina celebrates birthday with maiden gold in women’s boxing",
+      "summary": "With this win, Lovlina became only the second Indian woman after the legendary MC Mary Kom to claim an Asian Games boxing gold",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/asian-games-2026-lovlina-celebrates-birthday-with-maiden-gold-in-womens-boxing/article71536015.ece",
+      "importance": 3,
+      "date_added": "2026-10-02"
+    },
+    {
+      "title": "Irani Cup 2026 | Srinagar cricket ground rewrites history to outpace memories of 1983 India-West India fiasco",
+      "summary": "With the J&amp;K Cricket Association (JKCA) limiting the crowd strength to a manageable 5000 in the stadium, those who sit in the stands are monitored to ensure the history is not repeated.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/irani-cup-2026-srinagar-cricket-ground-rewrites-history-to-outpace-memories-of-1983-india-west-india-fiasco/article71534400.ece",
+      "importance": 3,
+      "date_added": "2026-10-02"
     }
   ]
 }
