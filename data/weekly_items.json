@@ -1,204 +1,6 @@
 {
   "items": [
     {
-      "title": "India Women’s Kabaddi Team Wins Asian Games Gold",
-      "summary": "The Indian women's kabaddi team won the gold medal at the Asian Games.",
-      "category": "sports",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/india-womens-kabaddi-team-wins-asian-games-gold/",
-      "importance": 5,
-      "date_added": "2026-09-27"
-    },
-    {
-      "title": "India and GCC Launch Free Trade Agreement Negotiations",
-      "summary": "India and the Gulf Cooperation Council (GCC) have officially initiated negotiations for a Free Trade Agreement.",
-      "category": "economy",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/india-and-gcc-launch-free-trade-agreement-negotiations/",
-      "importance": 5,
-      "date_added": "2026-09-27"
-    },
-    {
-      "title": "India Ranks 31st in WEF Travel & Tourism Development Index 2026",
-      "summary": "India has been ranked 31st in the World Economic Forum's Travel & Tourism Development Index 2026.",
-      "category": "reports",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/india-ranks-31st-in-wef-travel-tourism-development-index-2026/",
-      "importance": 5,
-      "date_added": "2026-09-27"
-    },
-    {
-      "title": "India Signs UN Convention Against Cybercrime",
-      "summary": "India has signed the United Nations Convention Against Cybercrime to enhance international cyber framework cooperation.",
-      "category": "international",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/india-signs-un-convention-against-cybercrime/",
-      "importance": 5,
-      "date_added": "2026-09-27"
-    },
-    {
-      "title": "Arogya Manthan 2026 Marks Milestones of AB PM-JAY and ABDM",
-      "summary": "Arogya Manthan 2026 was held marking eight years of Ayushman Bharat PM-JAY and five years of the Ayushman Bharat Digital Mission.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/arogya-manthan-2026-marks-eight-years-of-ab-pm-jay-and-five-years-of-abdm/",
-      "importance": 5,
-      "date_added": "2026-09-27"
-    },
-    {
-      "title": "Legal Framework for Appointment and Removal of Chief Election Commissioner",
-      "summary": "The Supreme Court's landmark Anoop Baranwal judgment prescribed an appointment panel and procedure for the Chief Election Commissioner and Election Commissioners. It also addresses constitutional protections provided to the CEC against removal from office.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/what-does-the-law-say-about-cecs-removal-explained/article71512663.ece",
-      "importance": 5,
-      "date_added": "2026-09-27"
-    },
-    {
-      "title": "Indian Kabaddi Teams Win Double Gold at Asian Games",
-      "summary": "The Indian men's and women's kabaddi teams both secured gold medals at the Asian Games by defeating Iran in their respective finals. The men's team won 40-34 to retain their title, following a 37-34 victory by the women's team.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/asian-games-2026-kabaddi-title-gold-medal-indian-men-women-team-india-vs-iran-match/article71512501.ece",
-      "importance": 5,
-      "date_added": "2026-09-27"
-    },
-    {
-      "title": "Bangladesh and U.S. Sign MoU on Strategic Civil Nuclear Cooperation",
-      "summary": "Bangladesh and the United States signed a Memorandum of Understanding in New York on strategic civil nuclear cooperation. The agreement aims to help Bangladesh diversify long-term energy sources and expand its Rooppur nuclear power plant project.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/bangladesh-us-sign-mou-on-strategic-civil-nuclear-cooperation/article71512317.ece",
-      "importance": 4,
-      "date_added": "2026-09-27"
-    },
-    {
-      "title": "Vedanta Proposes ₹1 Lakh Crore Odisha Investment, Seeks Niyamgiri Mining Revival",
-      "summary": "Vedanta has proposed a ₹1 lakh crore investment in Odisha while seeking the revival of its bauxite mining project in Niyamgiri. The project was previously halted in 2013 following Gram Sabha resolutions by the Dongria Kondh, a Particularly Vulnerable Tribal Group (PVTG).",
-      "category": "economy",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/business/vedanta-seeks-niyamgiri-mining-revival-pitches-1-lakh-crore-odisha-investment/article71512881.ece",
-      "importance": 4,
-      "date_added": "2026-09-27"
-    },
-    {
-      "title": "India Wins Record-Extending Fourth Asian Games Gold in Women's Kabaddi",
-      "summary": "India's women's kabaddi team defeated Iran at the Asian Games 2026 to secure a record-extending fourth gold medal. The team has won gold in every edition of the Asian Games except the 2018 Jakarta edition.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/asian-games-2026-indias-women-roar-to-kabaddi-gold/article71511803.ece",
-      "importance": 4,
-      "date_added": "2026-09-27"
-    },
-    {
-      "title": "Baranica Elangovan Wins Historic Asian Games Pole Vault Medal",
-      "summary": "Baranica Elangovan has secured a historic medal in the pole vault event at the Asian Games.",
-      "category": "sports",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/baranica-elangovan-wins-historic-asian-games-pole-vault-medal/",
-      "importance": 4,
-      "date_added": "2026-09-27"
-    },
-    {
-      "title": "AFSPA Extended in Parts of Manipur, Nagaland, and Arunachal Pradesh",
-      "summary": "The Armed Forces (Special Powers) Act (AFSPA) has been extended in specific areas across Manipur, Nagaland, and Arunachal Pradesh.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/afspa-extended-in-parts-of-manipur-nagaland-and-arunachal-pradesh/",
-      "importance": 4,
-      "date_added": "2026-09-27"
-    },
-    {
-      "title": "TDB Grants ₹200 Crore Support to Agnikul Cosmos",
-      "summary": "The Technology Development Board (TDB) has extended ₹200 crore in Research, Development, and Innovation (RDI) support to Agnikul Cosmos.",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/tdb-provides-%e2%82%b9200-crore-rdi-support-to-agnikul-cosmos/",
-      "importance": 4,
-      "date_added": "2026-09-27"
-    },
-    {
-      "title": "Centre Designates Paradip as Mega Port",
-      "summary": "The Central Government has officially designated Paradip Port as a Mega Port.",
-      "category": "economy",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/centre-designates-paradip-as-mega-port/",
-      "importance": 4,
-      "date_added": "2026-09-27"
-    },
-    {
-      "title": "Mandeep K. Bhandari Appointed CBSE Chairman",
-      "summary": "Mandeep K. Bhandari has been officially appointed as the new Chairman of the Central Board of Secondary Education.",
-      "category": "awards",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/mandeep-k-bhandari-appointed-cbse-chairman/",
-      "importance": 4,
-      "date_added": "2026-09-27"
-    },
-    {
-      "title": "Karnataka Rejects Draft Notification on Western Ghats Ecologically Sensitive Area",
-      "summary": "The Karnataka Legislature has repeatedly rejected draft notifications proposing to declare portions of the Western Ghats as an Ecologically Sensitive Area (ESA). The ESA proposals are based on recommendations made by the Kasturirangan Committee.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/what-is-karnatakas-objection-to-the-esa-explained/article71512650.ece",
-      "importance": 4,
-      "date_added": "2026-09-27"
-    },
-    {
-      "title": "Tamil Nadu Exempts Public Law and Order Department from RTI Act",
-      "summary": "The Tamil Nadu government issued an order exempting its Public (Law and Order) Department from the ambit of the Right to Information (RTI) Act. The exemption covers information on NSA detentions, deaths in police custody, communal clashes, and student or farmer agitations.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-exempts-public-law-and-order-department-from-rti-act/article71515196.ece",
-      "importance": 4,
-      "date_added": "2026-09-27"
-    },
-    {
-      "title": "First Victim Rights Centre Launched in Bihar",
-      "summary": "The first Victim Rights Centre (VRC) was launched in Bihar to assist vulnerable citizens in navigating the legal system. Speaking at the launch event, CJI Surya Kant stated that justice must extend beyond courtroom walls to reach unheard citizens.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/justice-must-find-its-way-to-the-citizen-cji-surya-kant/article71513548.ece",
-      "importance": 4,
-      "date_added": "2026-09-27"
-    },
-    {
-      "title": "EAM S. Jaishankar Addresses UNGA on Terrorism and Indus Waters Treaty",
-      "summary": "External Affairs Minister S. Jaishankar addressed world leaders at the United Nations General Assembly (UNGA), highlighting terrorism as a persistent global threat to peace. He also responded to remarks regarding the Indus Waters Treaty.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/arguments-by-serial-practitioner-of-terrorism-will-not-stand-eam-jaishankar-slams-pakistan-at-unga/article71514019.ece",
-      "importance": 4,
-      "date_added": "2026-09-27"
-    },
-    {
-      "title": "Russia Supports India and Brazil for Permanent UNSC Seat",
-      "summary": "Russian Foreign Minister Sergey Lavrov declared Russia's support for India and Brazil obtaining permanent seats on the United Nations Security Council. He emphasised the need to expand representation for Asia, Africa, and Latin America while safeguarding the interests of the African continent.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/russia-backs-indias-candidature-for-unsc-permanent-seat/article71515381.ece",
-      "importance": 4,
-      "date_added": "2026-09-27"
-    },
-    {
-      "title": "U.S. to Establish Military Bases in Greenland for Arctic Expansion",
-      "summary": "The United States will establish two new military bases in Greenland to expand its presence in the Arctic region. The decision seeks to counter Russian and Chinese influence in the area.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/us-greenland-deal-the-arctic-race/article71513856.ece",
-      "importance": 4,
-      "date_added": "2026-09-27"
-    },
-    {
-      "title": "U.S. and China Agree to $30 Billion Tariff Cut and Super Intelligence Dialogue",
-      "summary": "The United States and China agreed to a $30 billion tariff cut and established the U.S.-China Super Intelligence (SI) Dialogue. The bilateral dialogue aims to exchange views on the risks and benefits of AI using the term Super Intelligence.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/us-china-to-set-up-communication-channel-for-ai-incidents/article71511753.ece",
-      "importance": 4,
-      "date_added": "2026-09-27"
-    },
-    {
       "title": "Amit Shah Flags Off India's First LNG Train",
       "summary": "Union Home Minister Amit Shah flagged off India's first LNG train and announced that Indian Railways plans to reduce its diesel usage to zero by 2030.",
       "category": "national",
@@ -1682,6 +1484,168 @@
       "url": "https://www.thehindu.com/sport/asian-games-2026-india-medalists-full-list-of-winners-aichi-nagoya-japan/article71491065.ece",
       "importance": 4,
       "date_added": "2026-10-03"
+    },
+    {
+      "title": "Sujeet Kalkal Wins Asian Games Gold in 65kg Wrestling",
+      "summary": "Sujeet Kalkal won the gold medal in the 65kg wrestling category at the Asian Games.",
+      "category": "sports",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/sujeet-kalkal-wins-asian-games-gold-in-65kg-wrestling/",
+      "importance": 5,
+      "date_added": "2026-10-04"
+    },
+    {
+      "title": "India Secures Fourth Position with 85 Medals at Asian Games 2026",
+      "summary": "India finished fourth in the medal tally at the Asian Games 2026 in Nagoya with a total of 85 medals. The campaign featured title defenses in cricket and hockey, alongside gold medal wins by archer Kumkum Mohod and golfer Pranavi Urs.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/india-finishes-fourth-with-85-medals-at-asian-games-late-gold-rush-seals-campaign/article71542871.ece",
+      "importance": 5,
+      "date_added": "2026-10-04"
+    },
+    {
+      "title": "Indian Hockey Team Qualifies for LA Olympics; Men's Cricket Team Wins Asian Games Gold",
+      "summary": "The Indian men's hockey team defended its gold medal at the Asian Games 2026 to secure qualification for the LA Olympics. In cricket, the Indian men's team defeated Pakistan by 19 runs to win the gold medal.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-october-3-2026/article71539094.ece",
+      "importance": 5,
+      "date_added": "2026-10-04"
+    },
+    {
+      "title": "Aman Sehrawat Wins Gold in Wrestling at Asian Games 2026",
+      "summary": "Indian wrestler Aman Sehrawat won the gold medal at the Asian Games 2026. The 23-year-old athlete previously won a bronze medal at the Hangzhou Asian Games.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/asian-games-2026-wrestler-aman-sehrawat-adds-gold-to-collection/article71540264.ece",
+      "importance": 4,
+      "date_added": "2026-10-04"
+    },
+    {
+      "title": "Antim Panghal Wins Silver in 53kg Freestyle Wrestling at Asian Games",
+      "summary": "Prime Minister Narendra Modi congratulated Antim Panghal for winning the silver medal in the women's 53 kg freestyle wrestling event at the Asian Games.",
+      "category": "national",
+      "source": "pib",
+      "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2318832",
+      "importance": 4,
+      "date_added": "2026-10-04"
+    },
+    {
+      "title": "G7 Agrees to Release 100 Million Barrels of Oil",
+      "summary": "The G7 member nations have agreed to release 100 million barrels of oil.",
+      "category": "international",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/g7-agrees-to-release-100-million-barrels-of-oil/",
+      "importance": 4,
+      "date_added": "2026-10-04"
+    },
+    {
+      "title": "Delays in Tejas Combat Jet Programme Impacting IAF, Says Air Chief Marshal A.P. Singh",
+      "summary": "Air Chief Marshal A.P. Singh stated that delays in the Tejas combat jet programme are hurting the Indian Air Force. He added that India is aiming to finalise the Multi-Role Fighter Aircraft (MRFA) deal within the current financial year.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/delays-in-tejas-combat-jet-programme-hurting-iaf-air-chief-marshal-ap-singh/article71541421.ece",
+      "importance": 4,
+      "date_added": "2026-10-04"
+    },
+    {
+      "title": "Centre Considers New Hydropower Projects Including Sawalkot in Jammu & Kashmir",
+      "summary": "Union Power Secretary Pankaj Agarwal announced that the Centre is considering new hydropower projects, including the Sawalkot dam project in Jammu and Kashmir. The project is significant amid prior objections and consultation requests raised by Pakistan regarding its construction.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/centre-considering-new-hydropower-projects-including-in-jks-sawalkot-unionpower-secretary-pankaj-agarwal/article71541564.ece",
+      "importance": 4,
+      "date_added": "2026-10-04"
+    },
+    {
+      "title": "Russia to Accept Around 70,000 Indian Skilled Workers This Year",
+      "summary": "The government informed a parliamentary panel that Russia has agreed to accept around 70,000 Indian skilled workers this year. Mr. Jaishankar chaired the meeting on India-Russia relations, where members were also briefed on India's diplomatic stance on the Ukraine conflict.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/russia-has-agreed-to-take-around-70000-indian-skilled-workers-this-year-govt-tells-parliamentary-panel/article71541832.ece",
+      "importance": 4,
+      "date_added": "2026-10-04"
+    },
+    {
+      "title": "Education Ministry to Set Up Centres of Excellence in Five Classical Languages",
+      "summary": "The Education Ministry announced the establishment of Centres of Excellence in five classical languages. These centres will support advanced research, preservation, and digitisation of linguistic and literary heritage.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/five-new-centres-of-excellence-for-classical-languages-assamese-bengali-pali-marathi-prakrit/article71540000.ece",
+      "importance": 4,
+      "date_added": "2026-10-04"
+    },
+    {
+      "title": "Tiger Reintroduction Programme Launched in Buxa",
+      "summary": "A tigress was released in Buxa as part of a conservation initiative aimed at establishing a self-sustaining and breeding tiger population. A Press Information Bureau (PIB) statement confirmed that the objective is to create viable long-term conditions for tiger survival.",
+      "category": "environment",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/reintroduction-of-tigers-in-buxa-what-it-means-for-conservation-explained/article71540010.ece",
+      "importance": 4,
+      "date_added": "2026-10-04"
+    },
+    {
+      "title": "Vithya Ramraj Breaks P.T. Usha's 42-Year-Old 400m Hurdles Record",
+      "summary": "Indian athlete Vithya Ramraj broke P.T. Usha's 42-year-old record to win a bronze medal in the 400m hurdles. She also anchored India to a gold medal in the women's 4×400m relay and a silver medal in the mixed 4×400m relay.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/data/vithya-ramrajs-record-run-how-far-has-india-come-in-the-400m-hurdles/article71541845.ece",
+      "importance": 4,
+      "date_added": "2026-10-04"
+    },
+    {
+      "title": "Indian Men's Hockey Team Retains Asian Games Title for First Time Ever",
+      "summary": "Vice-captain Hardik Singh expressed pride as the Indian men's hockey team retained its Asian Games title for the first time ever.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/hockey/one-of-our-most-important-achievements-hardik-singh-after-india-retains-hockey-gold/article71541090.ece",
+      "importance": 4,
+      "date_added": "2026-10-04"
+    },
+    {
+      "title": "India Completes Hockey Gold Double and Secures Fourth Place at Asian Games 2026",
+      "summary": "India defeated Malaysia to complete a hockey gold double at the 2026 Asian Games. The victory secured India's 21st gold medal and propelled the country to fourth place on the overall medal table.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/hockey/india-wins-gold-medal-in-hockey-at-asian-games-qualifies-for-olympics/article71540578.ece",
+      "importance": 4,
+      "date_added": "2026-10-04"
+    },
+    {
+      "title": "India Defeats Pakistan to Win Men's Cricket Gold at Asian Games 2026",
+      "summary": "India won the gold medal in men's cricket at the Asian Games 2026 by defeating Pakistan. World No. 1 T20I batter Abhishek scored 61 runs off 28 balls, while vice-captain Tilak added an unbeaten 51 runs off 22 balls.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/india-versus-pakistan-asian-games-gold-medal-game-match-report-october-3-2026/article71539868.ece",
+      "importance": 4,
+      "date_added": "2026-10-04"
+    },
+    {
+      "title": "Astronomers Detect Radio Signals from Beta Pictoris b",
+      "summary": "Astronomers have detected radio signals coming from the exoplanet Beta Pictoris b.",
+      "category": "science",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/astronomers-detect-radio-signals-from-beta-pictoris-b/",
+      "importance": 4,
+      "date_added": "2026-10-04"
+    },
+    {
+      "title": "Ten Captive-Bred Great Indian Bustards to be Released in Jaisalmer",
+      "summary": "Ten captive-bred Great Indian Bustards are scheduled to be released in Jaisalmer as part of species conservation efforts.",
+      "category": "environment",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/ten-captive-bred-great-indian-bustards-to-be-released-in-jaisalmer/",
+      "importance": 4,
+      "date_added": "2026-10-04"
+    },
+    {
+      "title": "Vice-President Addresses 5th Kautilya Economic Conclave",
+      "summary": "The Vice-President delivered an address at the 5th Kautilya Economic Conclave.",
+      "category": "international",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/vice-president-delivers-address-at-5th-kautilya-economic-conclave/",
+      "importance": 4,
+      "date_added": "2026-10-04"
     }
   ]
 }
