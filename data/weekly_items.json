@@ -1,141 +1,6 @@
 {
   "items": [
     {
-      "title": "Vande Bharat Express Crosses Chenab and Anji Bridges at 100 kmph",
-      "summary": "The Vande Bharat Express set a record by crossing the world's highest Chenab Bridge and India's first cable-stayed Anji Bridge at 100 kmph following an increased speed limit on the Katra-Banihal section.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/vande-bharat-crosses-chenab-anji-bridges-at-100-kmph-as-katra-banihal-train-speed-limit-raised/article71539493.ece",
-      "importance": 5,
-      "date_added": "2026-10-03"
-    },
-    {
-      "title": "Rules Framed for Appointments by National Tribunals Commission",
-      "summary": "The Union Law Ministry has framed rules enabling the newly-created National Tribunals Commission to appoint chairpersons and members across 16 tribunals and appellate bodies.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/rules-framed-to-standardise-appointment-of-heads-members-of-various-tribunals/article71538109.ece",
-      "importance": 5,
-      "date_added": "2026-10-03"
-    },
-    {
-      "title": "India Women's Team Wins Asian Games 2026 Gold, Ending 44-Year Wait",
-      "summary": "The Indian women's team ended a 44-year wait by winning the gold medal at the Asian Games 2026, while also qualifying for the 2028 LA Olympics. A reverse shot by Lalremsiami provided the lead against the title holder, which was defended under the leadership of Savita.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/india-womens-hockey-team-wins-asian-games-gold-after-44-years-qualifies-for-2028-olympics/article71537065.ece",
-      "importance": 5,
-      "date_added": "2026-10-03"
-    },
-    {
-      "title": "Sujeet Kalkal Wins Men's 65 kg Wrestling Gold at Asian Games 2026",
-      "summary": "Indian wrestler Sujeet Kalkal won the gold medal in the men's 65 kg category at the Asian Games 2026. He defeated Japan's Olympic champion Kotaro Kiyooka in the semifinal and Tajikistan's Abdulmazhid Kudiev in the final.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/asian-games-2026-sujeet-kalkal-wins-first-wrestling-gold-beats-olympic-champion/article71536609.ece",
-      "importance": 5,
-      "date_added": "2026-10-03"
-    },
-    {
-      "title": "PNGRB Sets Targets for National PNG Drive 3.0 to Expand Piped Gas Reach",
-      "summary": "The Petroleum and Natural Gas Regulatory Board aims to add 50 lakh new piped gas connections and convert 40 lakh unbilled connections into active users under the National PNG Drive 3.0. The initiative also seeks to register 50 lakh additional users by the end of fiscal year 2027.",
-      "category": "economy",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/business/Economy/what-are-the-objectives-of-the-national-png-drive-30-explained/article71536448.ece",
-      "importance": 4,
-      "date_added": "2026-10-03"
-    },
-    {
-      "title": "Indian Payloads LEAP-2 and TAPAS-1 Launched via SpaceX Transporter-18 Mission",
-      "summary": "SpaceX's Falcon 9 rocket launched multiple Indian payloads as part of its Transporter-18 mission. The payloads included Dhruva Space's LEAP-2 hosting In-Orbit Demonstration missions and Satleo Labs' TAPAS-1.",
-      "category": "science",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sci-tech/multiple-indian-payloads-launched-by-space-xs-falcon-9/article71535904.ece",
-      "importance": 4,
-      "date_added": "2026-10-03"
-    },
-    {
-      "title": "Sreeshankar Wins Silver Medal in Long Jump at Asian Games",
-      "summary": "Indian athlete Sreeshankar secured the silver medal in the long jump event at the Asian Games in Japan.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/asian-games-silver-medallist-sreeshankar-targets-gold-in-2028/article71537821.ece",
-      "importance": 4,
-      "date_added": "2026-10-03"
-    },
-    {
-      "title": "India Standardises Names of 28 Geographic Places in Ladakh",
-      "summary": "India has standardised official names for 28 geographic locations in Ladakh, encompassing peaks, mountains, glaciers, passes, and water bodies.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/ladakh/india-standardises-names-of-28-places-in-ladakh/article71538275.ece",
-      "importance": 4,
-      "date_added": "2026-10-03"
-    },
-    {
-      "title": "Indian Women's Recurve Archery Team Claims Historic Gold",
-      "summary": "The Indian women's recurve archery team won a historic gold medal, while the men's and mixed combinations secured silver medals. India reached a total of seven medals in archery, comprising four gold, two silver, and one bronze.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/indian-womens-recurve-archery-team-wins-historic-gold-mens-mixed-combos-claim-silver/article71536319.ece",
-      "importance": 4,
-      "date_added": "2026-10-03"
-    },
-    {
-      "title": "CSIR-CCMB Develops India-Specific Tool for Sickle Cell Disease Severity",
-      "summary": "CSIR-CCMB has developed an India-specific tool to predict the severity of Sickle Cell Anaemia. The tool aims to overcome the limitations of international scoring systems that fail to reflect the clinical profile of Indian patients accurately.",
-      "category": "science",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/csir-ccmb-develops-india-specific-tool-to-predict-sickle-cell-severity/article71536615.ece",
-      "importance": 4,
-      "date_added": "2026-10-03"
-    },
-    {
-      "title": "Indian Women’s Golf Team Secures Historic Asian Games Silver",
-      "summary": "The Indian Women’s Golf Team achieved a landmark victory by winning a historic silver medal at the Asian Games.",
-      "category": "sports",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/indian-womens-golf-team-wins-historic-asian-games-silver/",
-      "importance": 4,
-      "date_added": "2026-10-03"
-    },
-    {
-      "title": "Kumkum Mohod Wins India’s First Individual Recurve Gold",
-      "summary": "Kumkum Mohod secured India’s first-ever individual recurve gold medal, setting a major milestone in sports.",
-      "category": "sports",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/kumkum-mohod-wins-indias-first-individual-recurve-gold/",
-      "importance": 4,
-      "date_added": "2026-10-03"
-    },
-    {
-      "title": "NABKISAN Lists India’s First WASH Social Bond",
-      "summary": "NABKISAN has officially listed India’s first WASH (Water, Sanitation, and Hygiene) Social Bond.",
-      "category": "economy",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/nabkisan-lists-indias-first-wash-social-bond/",
-      "importance": 4,
-      "date_added": "2026-10-03"
-    },
-    {
-      "title": "Jawahar Dweep Becomes India’s First Plastic-Free Oil Terminal",
-      "summary": "Jawahar Dweep has achieved a key environmental milestone by becoming India's first plastic-free oil terminal.",
-      "category": "environment",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/jawahar-dweep-becomes-indias-first-plastic-free-oil-terminal/",
-      "importance": 4,
-      "date_added": "2026-10-03"
-    },
-    {
-      "title": "Asian Games 2026: India's Medallists List",
-      "summary": "The list of Indian medallists at the 2026 Asian Games held in Aichi-Nagoya has been categorised by sport.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/asian-games-2026-india-medalists-full-list-of-winners-aichi-nagoya-japan/article71491065.ece",
-      "importance": 4,
-      "date_added": "2026-10-03"
-    },
-    {
       "title": "Sujeet Kalkal Wins Asian Games Gold in 65kg Wrestling",
       "summary": "Sujeet Kalkal won the gold medal in the 65kg wrestling category at the Asian Games.",
       "category": "sports",
@@ -1592,6 +1457,123 @@
       "url": "https://www.thehindu.com/news/international/death-toll-russian-strike-in-eastern-ukraine/article71559309.ece",
       "importance": 3,
       "date_added": "2026-10-09"
+    },
+    {
+      "title": "RBI Raises Daily CRR Maintenance Requirement to 99%",
+      "summary": "The Reserve Bank of India (RBI) has increased the daily Cash Reserve Ratio (CRR) maintenance requirement to 99%.",
+      "category": "economy",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/rbi-raises-daily-crr-maintenance-requirement-to-99/",
+      "importance": 5,
+      "date_added": "2026-10-10"
+    },
+    {
+      "title": "Indian Navy to Commission INS Mangrol on October 12",
+      "summary": "The Indian Navy is set to commission INS Mangrol on October 12.",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/indian-navy-to-commission-ins-mangrol-on-october-12/",
+      "importance": 5,
+      "date_added": "2026-10-10"
+    },
+    {
+      "title": "Navanethem 'Navi' Pillay Named Winner of 2026 Nobel Peace Prize",
+      "summary": "Justice Navanethem 'Navi' Pillay has been awarded the 2026 Nobel Peace Prize. She has served as a judge on international tribunals, including the International Criminal Court and the International Criminal Tribunal for Rwanda.",
+      "category": "awards",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/navanethem-navi-pillay-facts-about-2026-nobel-peace-prize-winner/article71564112.ece",
+      "importance": 5,
+      "date_added": "2026-10-10"
+    },
+    {
+      "title": "Navi Pillay Awarded 2026 Nobel Peace Prize",
+      "summary": "South African jurist of Tamil descent Navi Pillay has won the 2026 Nobel Peace Prize. She has previously served as a judge on the High Court in South Africa, the International Criminal Tribunal for Rwanda, and the International Criminal Court.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/navanethem-navi-pillay-wins-nobel-peace-prize-2026/article71563375.ece",
+      "importance": 5,
+      "date_added": "2026-10-10"
+    },
+    {
+      "title": "External Affairs Minister S. Jaishankar Completes Three-Nation African Tour",
+      "summary": "External Affairs Minister S. Jaishankar arrived in Ethiopia on the final leg of his three-nation tour of African nations, which also included Côte d’Ivoire and Ghana. The tour focused on strengthening the India-Africa partnership, self-reliance, and shared aspirations.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/jaishankar-highlights-shared-aspirations-self-reliance-in-india-africa-partnership/article71565822.ece",
+      "importance": 4,
+      "date_added": "2026-10-10"
+    },
+    {
+      "title": "High Court Strikes Down Madhya Pradesh's 27% OBC Reservation Law",
+      "summary": "The High Court declared Madhya Pradesh’s 27% OBC quota law unconstitutional following petitions challenging the state's Amendment Act of August 2019. The ruling addresses long-standing petitions regarding reservation limits in the state.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/madhya-pradesh/hc-strikes-down-madhya-pradeshs-27-obc-quota-law-calls-it-unconstitutional/article71565305.ece",
+      "importance": 4,
+      "date_added": "2026-10-10"
+    },
+    {
+      "title": "NASA's SpaceX Crew-12 Mission Returns After 237 Days",
+      "summary": "NASA's SpaceX Crew-12 has successfully returned following a 237-day mission.",
+      "category": "science",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/nasas-spacex-crew-12-returns-after-237-day-mission/",
+      "importance": 4,
+      "date_added": "2026-10-10"
+    },
+    {
+      "title": "Centre Approves German Funding Proposal for Telangana Urban Initiative",
+      "summary": "The Central Government has approved a German funding proposal for an urban initiative in Telangana.",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/centre-approves-german-funding-proposal-for-telangana-urban-initiative/",
+      "importance": 4,
+      "date_added": "2026-10-10"
+    },
+    {
+      "title": "Pieter Coetze Sets World Record in Men's 50m Backstroke",
+      "summary": "Pieter Coetze has set a new world record in the Men's 50m Backstroke swimming event.",
+      "category": "sports",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/pieter-coetze-sets-mens-50m-backstroke-world-record/",
+      "importance": 4,
+      "date_added": "2026-10-10"
+    },
+    {
+      "title": "IIT Ropar Awards First Defence Technology MTech Degrees to Army Officers",
+      "summary": "IIT Ropar has conferred its first MTech degrees in Defence Technology upon Indian Army officers.",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/iit-ropar-awards-first-defence-technology-mtech-degrees-to-army-officers/",
+      "importance": 4,
+      "date_added": "2026-10-10"
+    },
+    {
+      "title": "Ten Candidates Elected Unopposed to Rajya Sabha from Uttar Pradesh",
+      "summary": "Eight BJP candidates and two SP candidates were elected unopposed to the Rajya Sabha from Uttar Pradesh.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/eight-bjp-and-two-sp-candidates-from-up-elected-unopposed-to-rajya-sabha/article71564306.ece",
+      "importance": 4,
+      "date_added": "2026-10-10"
+    },
+    {
+      "title": "UNCTAD Report: India's Greenfield Investment Share Doubles China's (2020-25)",
+      "summary": "According to a report by the UN Conference on Trade and Development (UNCTAD), India's share of global greenfield investments during 2020-25 was more than double that of China. The report highlighted that greenfield investments are increasingly occurring in strategic sectors and noted that India remains the fastest-growing major economy.",
+      "category": "economy",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/Economy/indias-share-of-global-greenfield-investments-more-than-double-chinas-in-2020-25/article71564075.ece",
+      "importance": 4,
+      "date_added": "2026-10-10"
+    },
+    {
+      "title": "Bharat Spice Map Launched to Align Production with Demand",
+      "summary": "The Bharat Spice Map has been introduced to match spice production with industry demand.",
+      "category": "economy",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/bharat-spice-map-to-match-spice-production-with-industry-demand/",
+      "importance": 4,
+      "date_added": "2026-10-10"
     }
   ]
 }
