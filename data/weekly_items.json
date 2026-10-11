@@ -1,168 +1,6 @@
 {
   "items": [
     {
-      "title": "Sujeet Kalkal Wins Asian Games Gold in 65kg Wrestling",
-      "summary": "Sujeet Kalkal won the gold medal in the 65kg wrestling category at the Asian Games.",
-      "category": "sports",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/sujeet-kalkal-wins-asian-games-gold-in-65kg-wrestling/",
-      "importance": 5,
-      "date_added": "2026-10-04"
-    },
-    {
-      "title": "India Secures Fourth Position with 85 Medals at Asian Games 2026",
-      "summary": "India finished fourth in the medal tally at the Asian Games 2026 in Nagoya with a total of 85 medals. The campaign featured title defenses in cricket and hockey, alongside gold medal wins by archer Kumkum Mohod and golfer Pranavi Urs.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/india-finishes-fourth-with-85-medals-at-asian-games-late-gold-rush-seals-campaign/article71542871.ece",
-      "importance": 5,
-      "date_added": "2026-10-04"
-    },
-    {
-      "title": "Indian Hockey Team Qualifies for LA Olympics; Men's Cricket Team Wins Asian Games Gold",
-      "summary": "The Indian men's hockey team defended its gold medal at the Asian Games 2026 to secure qualification for the LA Olympics. In cricket, the Indian men's team defeated Pakistan by 19 runs to win the gold medal.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-october-3-2026/article71539094.ece",
-      "importance": 5,
-      "date_added": "2026-10-04"
-    },
-    {
-      "title": "Aman Sehrawat Wins Gold in Wrestling at Asian Games 2026",
-      "summary": "Indian wrestler Aman Sehrawat won the gold medal at the Asian Games 2026. The 23-year-old athlete previously won a bronze medal at the Hangzhou Asian Games.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/asian-games-2026-wrestler-aman-sehrawat-adds-gold-to-collection/article71540264.ece",
-      "importance": 4,
-      "date_added": "2026-10-04"
-    },
-    {
-      "title": "Antim Panghal Wins Silver in 53kg Freestyle Wrestling at Asian Games",
-      "summary": "Prime Minister Narendra Modi congratulated Antim Panghal for winning the silver medal in the women's 53 kg freestyle wrestling event at the Asian Games.",
-      "category": "national",
-      "source": "pib",
-      "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2318832",
-      "importance": 4,
-      "date_added": "2026-10-04"
-    },
-    {
-      "title": "G7 Agrees to Release 100 Million Barrels of Oil",
-      "summary": "The G7 member nations have agreed to release 100 million barrels of oil.",
-      "category": "international",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/g7-agrees-to-release-100-million-barrels-of-oil/",
-      "importance": 4,
-      "date_added": "2026-10-04"
-    },
-    {
-      "title": "Delays in Tejas Combat Jet Programme Impacting IAF, Says Air Chief Marshal A.P. Singh",
-      "summary": "Air Chief Marshal A.P. Singh stated that delays in the Tejas combat jet programme are hurting the Indian Air Force. He added that India is aiming to finalise the Multi-Role Fighter Aircraft (MRFA) deal within the current financial year.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/delays-in-tejas-combat-jet-programme-hurting-iaf-air-chief-marshal-ap-singh/article71541421.ece",
-      "importance": 4,
-      "date_added": "2026-10-04"
-    },
-    {
-      "title": "Centre Considers New Hydropower Projects Including Sawalkot in Jammu & Kashmir",
-      "summary": "Union Power Secretary Pankaj Agarwal announced that the Centre is considering new hydropower projects, including the Sawalkot dam project in Jammu and Kashmir. The project is significant amid prior objections and consultation requests raised by Pakistan regarding its construction.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/centre-considering-new-hydropower-projects-including-in-jks-sawalkot-unionpower-secretary-pankaj-agarwal/article71541564.ece",
-      "importance": 4,
-      "date_added": "2026-10-04"
-    },
-    {
-      "title": "Russia to Accept Around 70,000 Indian Skilled Workers This Year",
-      "summary": "The government informed a parliamentary panel that Russia has agreed to accept around 70,000 Indian skilled workers this year. Mr. Jaishankar chaired the meeting on India-Russia relations, where members were also briefed on India's diplomatic stance on the Ukraine conflict.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/russia-has-agreed-to-take-around-70000-indian-skilled-workers-this-year-govt-tells-parliamentary-panel/article71541832.ece",
-      "importance": 4,
-      "date_added": "2026-10-04"
-    },
-    {
-      "title": "Education Ministry to Set Up Centres of Excellence in Five Classical Languages",
-      "summary": "The Education Ministry announced the establishment of Centres of Excellence in five classical languages. These centres will support advanced research, preservation, and digitisation of linguistic and literary heritage.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/five-new-centres-of-excellence-for-classical-languages-assamese-bengali-pali-marathi-prakrit/article71540000.ece",
-      "importance": 4,
-      "date_added": "2026-10-04"
-    },
-    {
-      "title": "Tiger Reintroduction Programme Launched in Buxa",
-      "summary": "A tigress was released in Buxa as part of a conservation initiative aimed at establishing a self-sustaining and breeding tiger population. A Press Information Bureau (PIB) statement confirmed that the objective is to create viable long-term conditions for tiger survival.",
-      "category": "environment",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/reintroduction-of-tigers-in-buxa-what-it-means-for-conservation-explained/article71540010.ece",
-      "importance": 4,
-      "date_added": "2026-10-04"
-    },
-    {
-      "title": "Vithya Ramraj Breaks P.T. Usha's 42-Year-Old 400m Hurdles Record",
-      "summary": "Indian athlete Vithya Ramraj broke P.T. Usha's 42-year-old record to win a bronze medal in the 400m hurdles. She also anchored India to a gold medal in the women's 4×400m relay and a silver medal in the mixed 4×400m relay.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/data/vithya-ramrajs-record-run-how-far-has-india-come-in-the-400m-hurdles/article71541845.ece",
-      "importance": 4,
-      "date_added": "2026-10-04"
-    },
-    {
-      "title": "Indian Men's Hockey Team Retains Asian Games Title for First Time Ever",
-      "summary": "Vice-captain Hardik Singh expressed pride as the Indian men's hockey team retained its Asian Games title for the first time ever.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/hockey/one-of-our-most-important-achievements-hardik-singh-after-india-retains-hockey-gold/article71541090.ece",
-      "importance": 4,
-      "date_added": "2026-10-04"
-    },
-    {
-      "title": "India Completes Hockey Gold Double and Secures Fourth Place at Asian Games 2026",
-      "summary": "India defeated Malaysia to complete a hockey gold double at the 2026 Asian Games. The victory secured India's 21st gold medal and propelled the country to fourth place on the overall medal table.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/hockey/india-wins-gold-medal-in-hockey-at-asian-games-qualifies-for-olympics/article71540578.ece",
-      "importance": 4,
-      "date_added": "2026-10-04"
-    },
-    {
-      "title": "India Defeats Pakistan to Win Men's Cricket Gold at Asian Games 2026",
-      "summary": "India won the gold medal in men's cricket at the Asian Games 2026 by defeating Pakistan. World No. 1 T20I batter Abhishek scored 61 runs off 28 balls, while vice-captain Tilak added an unbeaten 51 runs off 22 balls.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/india-versus-pakistan-asian-games-gold-medal-game-match-report-october-3-2026/article71539868.ece",
-      "importance": 4,
-      "date_added": "2026-10-04"
-    },
-    {
-      "title": "Astronomers Detect Radio Signals from Beta Pictoris b",
-      "summary": "Astronomers have detected radio signals coming from the exoplanet Beta Pictoris b.",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/astronomers-detect-radio-signals-from-beta-pictoris-b/",
-      "importance": 4,
-      "date_added": "2026-10-04"
-    },
-    {
-      "title": "Ten Captive-Bred Great Indian Bustards to be Released in Jaisalmer",
-      "summary": "Ten captive-bred Great Indian Bustards are scheduled to be released in Jaisalmer as part of species conservation efforts.",
-      "category": "environment",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/ten-captive-bred-great-indian-bustards-to-be-released-in-jaisalmer/",
-      "importance": 4,
-      "date_added": "2026-10-04"
-    },
-    {
-      "title": "Vice-President Addresses 5th Kautilya Economic Conclave",
-      "summary": "The Vice-President delivered an address at the 5th Kautilya Economic Conclave.",
-      "category": "international",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/vice-president-delivers-address-at-5th-kautilya-economic-conclave/",
-      "importance": 4,
-      "date_added": "2026-10-04"
-    },
-    {
       "title": "IIT-Gandhinagar Demonstrates India's First Free-Space Quantum-Key Distribution Link",
       "summary": "Scientists at IIT-Gandhinagar have successfully demonstrated India’s first free-space quantum-key distribution (QKD) link over a distance of 5.56 km through the air.",
       "category": "science",
@@ -1574,6 +1412,87 @@
       "url": "https://www.gktoday.in/bharat-spice-map-to-match-spice-production-with-industry-demand/",
       "importance": 4,
       "date_added": "2026-10-10"
+    },
+    {
+      "title": "South African Jurist Navi Pillay Recognized with Nobel Peace Prize",
+      "summary": "South African jurist Navi Pillay has been recognized with the Nobel Peace Prize for 2026 for her lifelong commitment to justice for the oppressed and powerless.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/navi-pillay-the-jurist-and-a-redemption/article71569258.ece",
+      "importance": 5,
+      "date_added": "2026-10-11"
+    },
+    {
+      "title": "Andhra Pradesh Accepts Commission Recommendations on Local Body BC Reservation",
+      "summary": "The Andhra Pradesh government has accepted the Dedicated Commission report headed by Rajeev Ranjan Mishra regarding local body reservation for Backward Classes (BCs). The report complies with the Supreme Court's triple test mandate and constitutional provisions.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-govt-accepts-dedicated-commissions-recommendations-on-bc-reservation/article71568829.ece",
+      "importance": 4,
+      "date_added": "2026-10-11"
+    },
+    {
+      "title": "Nobel Prize in Chemistry Highlights Discoveries in Chirality and Molecular Handedness",
+      "summary": "The Chemistry Nobel Prize focused on chirality and molecular handedness, highlighting discoveries by Henri Kagan and Kenso Soai and their importance in drug development.",
+      "category": "awards",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/what-was-the-chemistry-nobel-prize-given-for-explained/article71570533.ece",
+      "importance": 4,
+      "date_added": "2026-10-11"
+    },
+    {
+      "title": "Mridangam Maestro Guruvayur Dorai Passes Away at 91",
+      "summary": "Mridangam maestro Guruvayur Dorai has passed away at the age of 91.",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/mridangam-maestro-guruvayur-dorai-dies-at-91/",
+      "importance": 4,
+      "date_added": "2026-10-11"
+    },
+    {
+      "title": "Haryana Cabinet Approves Agniveer Policy Amendments for Group-C Employment",
+      "summary": "The Haryana cabinet chaired by CM Nayab Singh Saini has approved amendments to the state's Agniveer policy to ensure gainful employment. Under these approved amendments, Ex-Agniveers will be exempted from all examinations prescribed for direct recruitment to Group-C posts.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/haryana/haryana-cabinet-gives-nod-to-amendments-to-agniveer-policy-for-gainful-employment/article71568250.ece",
+      "importance": 4,
+      "date_added": "2026-10-11"
+    },
+    {
+      "title": "Cybersecurity Summit C0c0n-2026 Concludes in Kochi",
+      "summary": "The cybersecurity summit C0c0n-2026 concluded in Kochi, Keralam. The conference highlighted effective policing strategies to protect vulnerable groups from target cybercriminals.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/effective-policing-must-as-cybercriminals-target-vulnerable-groups-minister/article71568658.ece",
+      "importance": 4,
+      "date_added": "2026-10-11"
+    },
+    {
+      "title": "Noted Mridangam Artiste Guruvayur Dorai Passes Away",
+      "summary": "Renowned Indian classical music instrumentalist Guruvayur Dorai, a noted mridangam artiste, has passed away.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/noted-mridangam-artiste-guruvayur-dorai-passes-away/article71569144.ece",
+      "importance": 4,
+      "date_added": "2026-10-11"
+    },
+    {
+      "title": "PM Modi to Launch Chennai Metro Rail Phase 2",
+      "summary": "Prime Minister Narendra Modi will launch Chennai Metro Rail Phase 2, which will initially operate 15 trains between Poonamallee and Vadapalani with a 10-minute frequency during peak hours.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/pm-modi-to-launch-chennai-metro-rail-phase-2-to-share-ride-with-tamil-nadu-cm-vijay/article71568212.ece",
+      "importance": 4,
+      "date_added": "2026-10-11"
+    },
+    {
+      "title": "Harmanpreet Kaur Steps Down as Captain of Indian Women's Cricket Team",
+      "summary": "Indian cricketer Harmanpreet Kaur has stepped down as the captain of the national women's cricket team, though she will continue to play for the team as a player.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/cricket/harmanpreet-kaur-the-game-changer/article71569285.ece",
+      "importance": 4,
+      "date_added": "2026-10-11"
     }
   ]
 }
