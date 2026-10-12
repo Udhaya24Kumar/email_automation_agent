@@ -1,276 +1,6 @@
 {
   "items": [
     {
-      "title": "IIT-Gandhinagar Demonstrates India's First Free-Space Quantum-Key Distribution Link",
-      "summary": "Scientists at IIT-Gandhinagar have successfully demonstrated India’s first free-space quantum-key distribution (QKD) link over a distance of 5.56 km through the air.",
-      "category": "science",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sci-tech/science/iit-gandhinagar-scientists-demo-quantum-link-through-55-km-of-air/article71544660.ece",
-      "importance": 5,
-      "date_added": "2026-10-05"
-    },
-    {
-      "title": "India Wins 85 Medals at 2026 Asian Games in Aichi-Nagoya",
-      "summary": "India won 85 medals at the 2026 Asian Games held in Aichi-Nagoya, Japan, competing across 36 sporting disciplines. The Indian contingent consisted of 503 athletes, comprising 269 men and 234 women, participating from September 19 to October 4.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/infographics/2026-10-05/asian-games-2026-india-medal-winners-full-list/index.html",
-      "importance": 5,
-      "date_added": "2026-10-05"
-    },
-    {
-      "title": "Finance Minister Nirmala Sitharaman Speaks at Munich Leaders Meeting",
-      "summary": "Union Finance Minister Nirmala Sitharaman addressed the Munich Leaders Meeting and discussed trade agreements, describing the proposed Indo-U.S. trade deal as hard and rigorously negotiated.",
-      "category": "economy",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/business/Economy/fm-sitharaman-hails-india-eu-trade-deal-at-munich-leaders-meeting/article71545912.ece",
-      "importance": 4,
-      "date_added": "2026-10-05"
-    },
-    {
-      "title": "Asian Games Flag Handed Over to Qatar Prime Minister",
-      "summary": "The Olympic Council of Asia torch and flag were formally handed over to Qatar Prime Minister Sheikh Mohammed bin Abdulrahman Al-Thani at the close of the Asian Games. The flag was subsequently passed to high jump champion Mutaz Essa Barshim as part of the official ceremony.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/asian-games-close-in-japan-after-records-rancour-and-rain/article71543397.ece",
-      "importance": 4,
-      "date_added": "2026-10-05"
-    },
-    {
-      "title": "CEC's ability to 'execute G2's illegal orders' makes him a liability for country: Congress",
-      "summary": "Jairam Ramesh's attack on the CEC came a day after Supreme Court judge Justice Ujjal Bhuyan remarked that any process that \"disenfranchises\" millions of Indian citizens is \"intrinsically arbitrary\" and a \"negation\" of the constitutional order",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/cecs-ability-to-execute-g2s-illegal-orders-makes-him-a-liability-for-country-congress/article71545831.ece",
-      "importance": 3,
-      "date_added": "2026-10-05"
-    },
-    {
-      "title": "Gyanesh Kumar undermined Election Commission’s independence: Sachin Pilot",
-      "summary": "Congress leader Sachin Pilot alleged the SIR is being used to selectively delete voters, as he also criticised the Rajasthan government’s drought response and the AAP government in Punjab",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/gyanesh-kumar-undermined-election-commissions-independence-sachin-pilot/article71543417.ece",
-      "importance": 3,
-      "date_added": "2026-10-05"
-    },
-    {
-      "title": "Clip of Naidu calming crowd at Sitharaman’s speech in Andhra’s Madanapalle sets off Congress-NDA row",
-      "summary": "Jairam Ramesh reposts a video of the October 2 event saying the public’s anger forced the Chief Minister to silence the crowd; Naidu, Sitharaman, Lokesh and the BJP say it was party workers’ enthusiasm",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/clip-of-naidu-calming-crowd-at-sitharamans-speech-in-andhras-madanapalle-sets-off-congress-nda-row/article71544334.ece",
-      "importance": 3,
-      "date_added": "2026-10-05"
-    },
-    {
-      "title": "BJP steps up demand for Thiruvananthapuram Corporation CPI(M) councillor’s resignation over bribery allegations",
-      "summary": "A purported video of CPI(M) councillor demanding ₹10 lakh from Sanju, a native of Thirumala, to resolve issues concerning a plot he purchased in the ward, had begun circulating two days ago",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/bjp-steps-up-demand-for-thiruvananthapuram-corporation-cpim-councillors-resignation-over-bribery-allegations/article71543138.ece",
-      "importance": 3,
-      "date_added": "2026-10-05"
-    },
-    {
-      "title": "500 detained in Delhi on Day 3 of protests seeking CEC’s exit; Thackerays lead Mumbai march",
-      "summary": "Delhi Police stop protesters as they try to march towards heavily barricaded Jantar Mantar; in Mumbai, Uddhav Thackeray describes CEC as BJP’s 'weapon', Raj Thackeray calls for use of ballot papers instead of EVMs",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/500-detained-in-delhi-on-day-3-of-protests-seeking-cecs-exit-thackerays-lead-mumbai-march/article71544629.ece",
-      "importance": 3,
-      "date_added": "2026-10-05"
-    },
-    {
-      "title": "While KPSC flounders, KEA finishes recruitment process for 7,905 posts in four months in Karnataka",
-      "summary": "Candidates, who have been waiting for government jobs for years, are expected to join the Karnataka Police within the next three months",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/while-kpsc-flounders-kea-finishes-recruitment-process-for-7905-posts-in-four-months-in-karnataka/article71519426.ece",
-      "importance": 3,
-      "date_added": "2026-10-05"
-    },
-    {
-      "title": "Koder House fire may have originated in adjacent building, says Electrical Inspectorate",
-      "summary": "CCTV footage and mobile phone videos show flames spreading from the terrace of the adjacent building to Koder House. Officials suspect a short circuit in an AC unit may have sparked the blaze, but a detailed scientific examination is needed to establish the exact cause.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/koder-house-fire-may-have-originated-in-adjacent-building-finds-electrical-inspectorate/article71543124.ece",
-      "importance": 3,
-      "date_added": "2026-10-05"
-    },
-    {
-      "title": "Campaigning for byelection ends in Madurantakam and Dharapuram",
-      "summary": "Polling will take place on October 6. The byelection will be a five-cornered contest, with the TVK-led Secular Social Justice Victory Alliance, the DMK-led Secular Progressive Alliance, the AIADMK-led NDA, the Left parties, and the NTK in the fray",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/campaigning-for-byelection-ends-in-madurantakam-and-dharapuram/article71543705.ece",
-      "importance": 3,
-      "date_added": "2026-10-05"
-    },
-    {
-      "title": "India’s Railways Use AI-Based Plan Bee",
-      "summary": "India’s Railways Use AI-Based Plan Bee",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/indias-railways-use-ai-based-plan-bee/",
-      "importance": 3,
-      "date_added": "2026-10-05"
-    },
-    {
-      "title": "US Announces Super Intelligence Force Task Force",
-      "summary": "US Announces Super Intelligence Force Task Force",
-      "category": "international",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/us-announces-super-intelligence-force-task-force/",
-      "importance": 3,
-      "date_added": "2026-10-05"
-    },
-    {
-      "title": "S. Jaishankar Says US Is Becoming a Lonelier Power",
-      "summary": "S. Jaishankar Says US Is Becoming a Lonelier Power",
-      "category": "international",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/s-jaishankar-says-us-is-becoming-a-lonelier-power/",
-      "importance": 3,
-      "date_added": "2026-10-05"
-    },
-    {
-      "title": "Uttar Pradesh Renames Bhadohi as Sant Ravidas Nagar",
-      "summary": "Uttar Pradesh Renames Bhadohi as Sant Ravidas Nagar",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/uttar-pradesh-renames-bhadohi-as-sant-ravidas-nagar/",
-      "importance": 3,
-      "date_added": "2026-10-05"
-    },
-    {
-      "title": "Protest against CEC Gyanesh Kumar LIVE: Journalist alleging molestation by ACP detained with 17 others",
-      "summary": "CJP claims that the detainees were assaulted by the police, and two of those detained were allegedly brutally beaten.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/cec-gyanesh-kumar-protest-live-updates-supreme-court-hearing-suspension-cjp-congress-delhi-mumbai-india/article71545740.ece",
-      "importance": 3,
-      "date_added": "2026-10-05"
-    },
-    {
-      "title": "Delhi High Court dismisses pleas for SIT probe into 2020 riots, 2019 Jamia violence",
-      "summary": "\"The batch is divided into two parts, one is the northeast Delhi riots, and another is for Jamia Millia riots,\" the bench said while pronouncing the verdict",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/delhi-high-court-dismisses-pleas-for-sit-probe-into-2020-riots-2019-jamia-violence/article71545981.ece",
-      "importance": 3,
-      "date_added": "2026-10-05"
-    },
-    {
-      "title": "West Bengal bypolls: Nandigram and Rejinagar key candidates, past trends and more",
-      "summary": "West Bengal’s October 6 bypolls in Nandigram and Rejinagar will see BJP take on Congress in Nandigram and TMC in Rejinagar in an intense poll contest",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-by-elections-nandigram-rejinagar-assembly-constituencies-bjp-tmc-congress-suvendu-adhikari-mamata-banerjee/article71532213.ece",
-      "importance": 3,
-      "date_added": "2026-10-05"
-    },
-    {
-      "title": "Kerala High Court orders CBI probe into soldier’s disappearance 14 years ago",
-      "summary": "Subash Chandra Bose, a native of Vengoor in Ernakulam who was serving with the Tripura State Rifles, went missing in April 2012 while travelling by train to rejoin duty after leave",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/kerala-hc-directs-cbi-to-investigate-14-year-old-case-of-a-missing-paramilitary-force-soldier/article71543550.ece",
-      "importance": 3,
-      "date_added": "2026-10-05"
-    },
-    {
-      "title": "CUK Vande Mataram seminar draws student organisations’ ire",
-      "summary": "SFI, NSUI and MSF seek clarity from university administration on the programme’s nature, objectives and institutional basis",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/cuk-vande-mataram-seminar-draws-student-organisations-ire/article71543215.ece",
-      "importance": 3,
-      "date_added": "2026-10-05"
-    },
-    {
-      "title": "Doha Receives 2030 Asian Games Baton",
-      "summary": "Doha Receives 2030 Asian Games Baton",
-      "category": "sports",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/doha-receives-2030-asian-games-baton/",
-      "importance": 3,
-      "date_added": "2026-10-05"
-    },
-    {
-      "title": "Forest Department intensifies efforts to track animal involved in killing daily-wage worker in Hasanur",
-      "summary": "The partially consumed body of V. Periyasamy was found along a stream near the forest fringes under the Hasanur Range of the Sathyamangalam Tiger Reserve on Sunday",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/cities/Coimbatore/forest-department-intensifies-efforts-to-track-animal-involved-in-killing-daily-wage-worker-in-hasanur/article71545869.ece",
-      "importance": 3,
-      "date_added": "2026-10-05"
-    },
-    {
-      "title": "Justified measure or a case of Big Brother?",
-      "summary": "City Pulse is a weekly report on Chennai's civic issues by the City Bureau. This week's inputs are from Ajai Sreevatsan, Petlee Peter, Meera Srinivasan and M. Lavanya.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/cities/chennai/justified-measure-or-a-case-of-big-brother/article61766428.ece",
-      "importance": 3,
-      "date_added": "2026-10-05"
-    },
-    {
-      "title": "GEC III: Bridging geographic and temporal mismatch",
-      "summary": "GEC-III is an answer to the yawning gap between the installed renewable capacity and the actual electricity generation",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/business/Industry/gec-iii-bridging-geographic-and-temporal-mismatch/article71546014.ece",
-      "importance": 3,
-      "date_added": "2026-10-05"
-    },
-    {
-      "title": "Supreme Court to list plea to allow peaceful protests  to Jantar Mantar",
-      "summary": "The petition sought judicial directions from the apex court to the police to allow peaceful protests.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/supreme-court-to-list-plea-to-allow-peaceful-protests-to-jantar-mantar/article71546095.ece",
-      "importance": 3,
-      "date_added": "2026-10-05"
-    },
-    {
-      "title": "Supreme Court seeks response from Centre on proposed relocation of 135-year-old Central Secretariat Library",
-      "summary": "A Bench of Justices Sanjay Kumar and Sanjeev Sachdeva directed Additional Solicitor General Aishwarya Bhati, appearing for the Union government, to file a detailed affidavit within three weeks setting out the arrangements made for the library.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/cities/Delhi/supreme-court-seeks-response-from-centre-on-proposed-relocation-of-135-year-old-central-secretariat-library/article71546006.ece",
-      "importance": 3,
-      "date_added": "2026-10-05"
-    },
-    {
-      "title": "Karnataka SIR: BJP agent sought Form-7 deletions, verification against 7,561 names in Ballari; FIR registered",
-      "summary": "The FIR, the sixth in Karnataka regarding misuse of Form-7, was registered at the Brucepet police station on October 1, after a complaint by a Congress BLA Goutham S.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/cities/bangalore/sir-bjp-bla-sought-form-7-deletions-verification-against-7561-names-in-ballari-fir-registered/article71543572.ece",
-      "importance": 3,
-      "date_added": "2026-10-05"
-    },
-    {
-      "title": "Keralam government gets legal opinion to proceed against Chief Election Commissioner Gyanesh Kumar in abetment to suicide case",
-      "summary": "T. Asaf Ali, Director General of Prosecution, gives legal advice that there is no legal bar in proceeding against Gyanesh Kumar. The case pertains to the reported suicide of Malaysian Lee See Been, a former chief project officer of Kerala State Transport Project for reconstruction of M.C. Road",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/keralam-government-gets-legal-opinion-to-proceed-against-chief-election-commissioner-gyanesh-kumar-in-abetment-to-suicide-case/article71544342.ece",
-      "importance": 3,
-      "date_added": "2026-10-05"
-    },
-    {
-      "title": "Thiruvananthapuram Corporation: R. Sreelekha’s resignation bid puts BJP in a spot",
-      "summary": "Thiruvananthapuram Corporation: R. Sreelekha’s resignation bid puts BJP in a spot",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/thiruvananthapuram-corporation-r-sreelekhas-resignation-bid-puts-bjp-in-a-spot/article71541399.ece",
-      "importance": 3,
-      "date_added": "2026-10-05"
-    },
-    {
       "title": "Defence Minister Launches First Indigenous Fleet Support Ship 'Surya' in Visakhapatnam",
       "summary": "Defence Minister Rajnath Singh launched the Indian Navy's first indigenous fleet support ship, 'Surya', built with 82% Indian content at Hindustan Shipyard in Visakhapatnam. The 43,500-tonne vessel is capable of refueling and resupplying multiple warships simultaneously at sea.",
       "category": "national",
@@ -1493,6 +1223,276 @@
       "url": "https://www.thehindu.com/sport/cricket/harmanpreet-kaur-the-game-changer/article71569285.ece",
       "importance": 4,
       "date_added": "2026-10-11"
+    },
+    {
+      "title": "INS Mangrol Inducted into Indian Navy as Anti-Submarine Warfare Craft",
+      "summary": "INS Mangrol, an anti-submarine warfare shallow water craft, has been inducted into the Indian Navy. Built with over 80% indigenous content, the vessel reflects India's warship construction capabilities and integration of native weapons and sensors.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/ins-mangrol-anti-submarine-warfare-shallow-water-craft-inducted-into-navy/article71573861.ece",
+      "importance": 5,
+      "date_added": "2026-10-12"
+    },
+    {
+      "title": "Prakash Rajpurohit Appointed as Deputy Election Commissioner in ECI",
+      "summary": "Prakash Rajpurohit has been appointed as the new Deputy Election Commissioner in the Election Commission of India. He succeeds Sanjay Kumar following his premature repatriation.",
+      "category": "awards",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/eci-appoints-new-deputy-election-commissioner-amid-hierarchy-concerns/article71570989.ece",
+      "importance": 4,
+      "date_added": "2026-10-12"
+    },
+    {
+      "title": "El Nino Sets Temperature Record in Key Pacific Zone",
+      "summary": "According to an EU monitor, the current El Nino phenomenon has set a new temperature record in a key Pacific zone. Global forecasters warn that this episode could potentially become the strongest ever observed.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/el-nino-sets-temperature-record-in-key-pacific-zone-eu-monitor/article71573644.ece",
+      "importance": 4,
+      "date_added": "2026-10-12"
+    },
+    {
+      "title": "TDB-DST Signs ₹86 Crore Agreement with Peptris for AI-Based Drug Discovery",
+      "summary": "The Technology Development Board (TDB) under the Department of Science and Technology (DST) signed an agreement for an ₹86 crore RDI collaboration with Peptris. The agreement aims to accelerate AI-based drug discovery and development operations.",
+      "category": "science",
+      "source": "pib",
+      "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2322096",
+      "importance": 4,
+      "date_added": "2026-10-12"
+    },
+    {
+      "title": "IITM Pune Hosts APARC Early Career Workshop",
+      "summary": "IITM Pune Hosts APARC Early Career Workshop",
+      "category": "science",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/iitm-pune-hosts-aparc-early-career-workshop/",
+      "importance": 3,
+      "date_added": "2026-10-12"
+    },
+    {
+      "title": "INS Sahyadri Reaches Russia for INDRA-2026 Naval Exercise",
+      "summary": "INS Sahyadri Reaches Russia for INDRA-2026 Naval Exercise",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/ins-sahyadri-reaches-russia-for-indra-2026-naval-exercise/",
+      "importance": 3,
+      "date_added": "2026-10-12"
+    },
+    {
+      "title": "PM Modi Launches Tamil Nadu Projects Worth Over ₹13,000 Crore",
+      "summary": "PM Modi Launches Tamil Nadu Projects Worth Over ₹13,000 Crore",
+      "category": "economy",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/pm-modi-launches-tamil-nadu-projects-worth-over-%e2%82%b913000-crore/",
+      "importance": 3,
+      "date_added": "2026-10-12"
+    },
+    {
+      "title": "Anti-CEC row LIVE: Rahul Gandhi says Modi protecting Gyanesh Kumar; questions government over stopping people from reaching protest site",
+      "summary": "Congress chief Kharge asks INDIA bloc MPs to assemble at Constitution Club at 1 p.m.; sources say CJI Surya Kant declined a request by Rahul Gandhi for a meeting as the issues were already sub judice",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/anti-cec-protests-against-gyanesh-kumar-cjp-october-12-2026-live-updates/article71573601.ece",
+      "importance": 3,
+      "date_added": "2026-10-12"
+    },
+    {
+      "title": "CMRL pay-off case: Keralam VACB registers two FIRs, Pinarayi Vijayan, Veena, Mohamed Riyas among accused",
+      "summary": "The transactions had initially come under scrutiny after investigations by the Income Tax Department and subsequent action by the Enforcement Directorate",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/cmrl-pay-off-case-keralamvacb-registers-two-firs-pinarayi-vijayan-veena-mohamed-riyas-among-accused/article71573840.ece",
+      "importance": 3,
+      "date_added": "2026-10-12"
+    },
+    {
+      "title": "Kutch Copper Plans 115 MW Renewable Energy Integration",
+      "summary": "Kutch Copper Plans 115 MW Renewable Energy Integration",
+      "category": "environment",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/kutch-copper-plans-115-mw-renewable-energy-integration/",
+      "importance": 3,
+      "date_added": "2026-10-12"
+    },
+    {
+      "title": "Madhya Pradesh Begins Wild Buffalo Reintroduction After a Century",
+      "summary": "Madhya Pradesh Begins Wild Buffalo Reintroduction After a Century",
+      "category": "environment",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/madhya-pradesh-begins-wild-buffalo-reintroduction-after-a-century/",
+      "importance": 3,
+      "date_added": "2026-10-12"
+    },
+    {
+      "title": "UNICEF India Names Smriti Mandhana Celebrity Advocate",
+      "summary": "UNICEF India Names Smriti Mandhana Celebrity Advocate",
+      "category": "international",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/unicef-india-names-smriti-mandhana-celebrity-advocate/",
+      "importance": 3,
+      "date_added": "2026-10-12"
+    },
+    {
+      "title": "INS Trishul Arrives in UK for Exercise KONKAN-26",
+      "summary": "INS Trishul Arrives in UK for Exercise KONKAN-26",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/ins-trishul-arrives-in-uk-for-exercise-konkan-26/",
+      "importance": 3,
+      "date_added": "2026-10-12"
+    },
+    {
+      "title": "Maaya Rajeshwaran Revathi Wins ITF W35 Singles Title",
+      "summary": "Maaya Rajeshwaran Revathi Wins ITF W35 Singles Title",
+      "category": "sports",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/maaya-rajeshwaran-revathi-wins-itf-w35-singles-title/",
+      "importance": 3,
+      "date_added": "2026-10-12"
+    },
+    {
+      "title": "Despite Collector’s ultimatum, Kochi Chander Kunj apartments takeover remains uncertain",
+      "summary": "While apartment owners from various parts of the State, along with the Revenue Divisional Officer and the tahsildar, assembled at the clubhouse of the apartment complex, AWHO representatives failed to turn up",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/despite-collectors-ultimatum-kochi-chander-kunj-apartments-takeover-remains-uncertain/article71573885.ece",
+      "importance": 3,
+      "date_added": "2026-10-12"
+    },
+    {
+      "title": "Delhi Metro seat dispute turns fatal, former IAS officer and son arrested after man’s death",
+      "summary": "The 48-year-old victim was travelling with his mother when an argument over a seat reserved for senior citizens allegedly escalated into a physical altercation; he collapsed at Supreme Court Metro station and was declared dead at hospital",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/cities/Delhi/man-dies-after-alleged-assault-over-seat-inside-delhi-metro-ex-ias-officer-son-arrested/article71573844.ece",
+      "importance": 3,
+      "date_added": "2026-10-12"
+    },
+    {
+      "title": "Democratic and political protests must take place but Supreme Court must not be dragged into it: CJI",
+      "summary": "“There should not be any inconvenience caused to litigants, lawyers, court staff. I have also requested...” Chief Justice Kant said in open court",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/democratic-and-political-protests-must-take-place-but-supreme-court-must-not-be-dragged-into-it-cji/article71573950.ece",
+      "importance": 3,
+      "date_added": "2026-10-12"
+    },
+    {
+      "title": "Villages evacuated as flash flood from Budhi Gandaki River hits northern Nepal",
+      "summary": "Residents in north central Nepal have evacuated after flash flooding on the Budhi Gandaki river",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/villages-evacuated-as-flash-flood-from-budhi-gandaki-river-hits-northern-nepal/article71570887.ece",
+      "importance": 3,
+      "date_added": "2026-10-12"
+    },
+    {
+      "title": "Poland's police warn of a possible plot to attack Prime Minister Donald Tusk",
+      "summary": "Security services, police, and representatives of the Interior Ministry were scheduled to hold an emergency meeting at 11 am (0900 GMT) on October 11 to discuss the situation, Karolina Galecka, says Interior Ministry spokesperson",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/polands-police-warn-of-a-possible-plot-to-attack-prime-minister-donald-tusk/article71571270.ece",
+      "importance": 3,
+      "date_added": "2026-10-12"
+    },
+    {
+      "title": "Roundglass Sustain’s short film A Spring Against All Odds to be showcased at international film festival",
+      "summary": "The film, one of 48 films selected for Film SouthAsia (FSA), an international documentary film festival to be held in Kathmandu from November 27–29, 2026, is based on a script by Radhika Raj and has been directed by Samreen Farooqui",
+      "category": "environment",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/entertainment/movies/roundglass-sustains-short-film-a-spring-against-all-odds-to-be-showcased-at-international-film-festival/article71562550.ece",
+      "importance": 3,
+      "date_added": "2026-10-12"
+    },
+    {
+      "title": "Udhayveer Sidhu Wins Cairo 10m Air Pistol Gold",
+      "summary": "Udhayveer Sidhu Wins Cairo 10m Air Pistol Gold",
+      "category": "sports",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/udhayveer-sidhu-wins-cairo-10m-air-pistol-gold/",
+      "importance": 3,
+      "date_added": "2026-10-12"
+    },
+    {
+      "title": "World Bank Considers $100 Billion Crisis Financing",
+      "summary": "World Bank Considers $100 Billion Crisis Financing",
+      "category": "economy",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/world-bank-considers-100-billion-crisis-financing/",
+      "importance": 3,
+      "date_added": "2026-10-12"
+    },
+    {
+      "title": "Aditya Mehta Wins Gold at Commonwealth Cue Sports Championships",
+      "summary": "Aditya Mehta Wins Gold at Commonwealth Cue Sports Championships",
+      "category": "sports",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/aditya-mehta-wins-gold-at-commonwealth-cue-sports-championships/",
+      "importance": 3,
+      "date_added": "2026-10-12"
+    },
+    {
+      "title": "M.R. Raghava Varier Named 2026 M.G.S. Narayanan Memorial Awardee",
+      "summary": "M.R. Raghava Varier Named 2026 M.G.S. Narayanan Memorial Awardee",
+      "category": "awards",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/m-r-raghava-varier-named-2026-m-g-s-narayanan-memorial-awardee/",
+      "importance": 3,
+      "date_added": "2026-10-12"
+    },
+    {
+      "title": "India Targets 604 Million Tonnes of Steel Capacity by 2047",
+      "summary": "India Targets 604 Million Tonnes of Steel Capacity by 2047",
+      "category": "economy",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/india-targets-604-million-tonnes-of-steel-capacity-by-2047/",
+      "importance": 3,
+      "date_added": "2026-10-12"
+    },
+    {
+      "title": "Ankita Dhyani Sets Meet Record at Open National Athletics Championships",
+      "summary": "Ankita Dhyani Sets Meet Record at Open National Athletics Championships",
+      "category": "sports",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/ankita-dhyani-sets-meet-record-at-open-national-athletics-championships/",
+      "importance": 3,
+      "date_added": "2026-10-12"
+    },
+    {
+      "title": "Samsung Affiliates Plan $9.15 Billion Semiconductor Investment",
+      "summary": "Samsung Affiliates Plan $9.15 Billion Semiconductor Investment",
+      "category": "science",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/samsung-affiliates-plan-9-15-billion-semiconductor-investment/",
+      "importance": 3,
+      "date_added": "2026-10-12"
+    },
+    {
+      "title": "Dissanayake highlights ‘good relations’ with India, points to New Delhi’s Katchatheevu stance",
+      "summary": "Sri Lankan President says India has acknowledged before its Supreme Court that Katchatheevu belongs to Sri Lanka. Last week, Attorney General R. Venkataramani told the court that India did not intend reopening the Katchatheevu agreements of 1974 and 1976 with Sri Lanka",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/dissanayake-highlights-good-relations-with-india-points-to-new-delhis-katchatheevu-stance/article71572026.ece",
+      "importance": 3,
+      "date_added": "2026-10-12"
+    },
+    {
+      "title": "Pakistan President declares emergency in Khyber Pakhtunkhwa, provincial government ceases to exist",
+      "summary": "An emergency allows Pakistan's federal government to assume key executive and legislative powers in a province during a security crisis or breakdown of constitutional governance",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/pakistan-president-declares-emergency-in-khyber-pakhtunkhwa-provincial-government-ceases-to-exist/article71571044.ece",
+      "importance": 3,
+      "date_added": "2026-10-12"
+    },
+    {
+      "title": "TRISHNA satellite is in advanced stage of realisation, says ISRO official",
+      "summary": "TRISHNA is the third satellite that India and France are developing after Megha-Tropiques and SARAL (Satellite with ARGOS and ALTIKA) satellites.",
+      "category": "science",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/trishna-satellite-is-in-advanced-stage-of-realisation-says-isro-official/article71571635.ece",
+      "importance": 3,
+      "date_added": "2026-10-12"
     }
   ]
 }
