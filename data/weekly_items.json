@@ -1,276 +1,6 @@
 {
   "items": [
     {
-      "title": "Defence Minister Launches First Indigenous Fleet Support Ship 'Surya' in Visakhapatnam",
-      "summary": "Defence Minister Rajnath Singh launched the Indian Navy's first indigenous fleet support ship, 'Surya', built with 82% Indian content at Hindustan Shipyard in Visakhapatnam. The 43,500-tonne vessel is capable of refueling and resupplying multiple warships simultaneously at sea.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/rajnath-singh-launches-navys-first-indigenous-fleet-support-ship-surya-at-visakhapatnam-shipyard/article71549953.ece",
-      "importance": 5,
-      "date_added": "2026-10-06"
-    },
-    {
-      "title": "Golden Jubilee Edition of 'India Carpet Expo' Inaugurated in Uttar Pradesh",
-      "summary": "The Chief Minister of Uttar Pradesh inaugurated the golden jubilee edition of the 'India Carpet Expo'. The event highlighted Bhadohi's major contribution through carpet exports in making Uttar Pradesh the fifth-largest exporting state.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/uttar-pradesh/ups-fifth-largest-exporting-state-bhadohis-carpets-make-a-major-contribution-chief-minister/article71549933.ece",
-      "importance": 4,
-      "date_added": "2026-10-06"
-    },
-    {
-      "title": "As many as 30% of Praja Seva applications resolved, says Belagavi DC",
-      "summary": "According to the DC, most of the grievances were about the Forest Department, Public Works Department, Revenue Department, and matters related to the allocation of cremation grounds and school building construction",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/as-many-as-30-of-praja-seva-applications-resolved-says-belagavi-dc/article71546849.ece",
-      "importance": 3,
-      "date_added": "2026-10-06"
-    },
-    {
-      "title": "GHMC town planning official caught taking ₹4 lakh bribe, ₹2.5 lakh unaccounted cash seized",
-      "summary": "Tulasiram Sunitha allegedly demanded ₹8 lakh to ignore speaking orders issued by the GHMC Deputy Commissioner, allow the complainant to continue with the building construction and refrain from causing further harassment",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/ghmc-town-planning-official-caught-taking-4-lakh-bribe-25-lakh-unaccounted-cash-seized/article71548594.ece",
-      "importance": 3,
-      "date_added": "2026-10-06"
-    },
-    {
-      "title": "Union Cabinet to take up ₹10,000 crore SME Growth Fund, centralised infra authority",
-      "summary": "According to a note sent out by the Cabinet Secretariat, the SME Growth Fund will be “for direct equity investments in Small and Medium Enterprises (SMEs) to create future champions”",
-      "category": "economy",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/business/Economy/union-cabinet-to-take-up-10000-crore-sme-growth-fund-centralised-infra-authority/article71550009.ece",
-      "importance": 3,
-      "date_added": "2026-10-06"
-    },
-    {
-      "title": "Adani Power, DGPC Sign 770 MW Bhutan Hydropower Pact",
-      "summary": "Adani Power, DGPC Sign 770 MW Bhutan Hydropower Pact",
-      "category": "economy",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/adani-power-dgpc-sign-770-mw-bhutan-hydropower-pact/",
-      "importance": 3,
-      "date_added": "2026-10-06"
-    },
-    {
-      "title": "Byelections 2026 LIVE updates: AJUP chief Humayun Kabir arrested; Bengal Congress alleges EVM issues, voter intimidation in Nandigram",
-      "summary": "In violation of the ECI rules, polling agents of TVK display the party’s symbol with portraits of party president and Chief Minister Vijay near a booth at Dharapuram town in Tamil Nadu",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/byelection-bypoll-voting-nandigram-rejinagar-madurantakam-dharapuram-thattanchavady-nagaon-live-updates-october-6-2026/article71549585.ece",
-      "importance": 3,
-      "date_added": "2026-10-06"
-    },
-    {
-      "title": "CEC row LIVE updates: Several INDIA bloc MPs detained by police during march to ECI",
-      "summary": "The march, demanding CEC Gyanesh Kumar's resignation, began amid heavy security deployment and barricading in and around Parliament and the Election Commission headquarters",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/cec-row-protest-against-gyanesh-kumar-india-bloc-march-election-commission-sir-issue-live-updates-october-6-2026/article71549790.ece",
-      "importance": 3,
-      "date_added": "2026-10-06"
-    },
-    {
-      "title": "UDF govt in Keralam implementing RSS-BJP agenda, says Pinarayi Vijayan",
-      "summary": "Opening CPI(M)’s two-day extended district committee meeting in Kozhikode, Pinarayi claims that the reported move to weaken the State Planning Board is the latest example",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/udf-govt-in-keralam-implementing-rss-bjp-agenda-says-pinarayi-vijayan/article71550245.ece",
-      "importance": 3,
-      "date_added": "2026-10-06"
-    },
-    {
-      "title": "ECI fact-checks claims on Form 6 following SC observation",
-      "summary": "Post-CJI comment, Congress leader Rahul Gandhi targets CEC saying, “It is now established beyond doubt that Gyanesh Kumar changed Form 6 illegally and unilaterally”",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/eci-fact-checks-claims-on-form-6-following-sc-observation/article71548392.ece",
-      "importance": 3,
-      "date_added": "2026-10-06"
-    },
-    {
-      "title": "Mayawati reappoints Akash Anand as national convener in BSP",
-      "summary": "On September 10, Ms. Mayawati had announced the ouster of her nephew Mr. Anand, setting him “completely free” from BSP",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/uttar-pradesh/mayawati-reappoints-akash-anand-as-national-convener-in-bsp/article71548306.ece",
-      "importance": 3,
-      "date_added": "2026-10-06"
-    },
-    {
-      "title": "Supreme Court quashes Bombay HC order directing Maharashtra FDA to pay ₹5 lakh compensation",
-      "summary": "The case dates back to June 12, when FDA food safety officers in Pune inspected the establishment following a complaint of food poisonining",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/supreme-court-quashes-bombay-hc-order-directing-maharashtra-fda-to-pay-5-lakh-compensation/article71548545.ece",
-      "importance": 3,
-      "date_added": "2026-10-06"
-    },
-    {
-      "title": "Anguish among party workers as former Trinamool leaders being nominated to Upper House: BJP veteran Tathagata Roy",
-      "summary": "A day after the BJP announced candidature of former Trinamool Congress MP Rukmini Mallick alias Koel Mallick to Rajya Sabha, the actor turned politician on Monday formally joined the saffron party. Ms. Mallick filed her nomination papers for the Upper House in the West Bengal Legislative Assembly in presence of Chief Minister Suvendu Adhikari and State BJP president.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/cities/kolkata/anguish-among-party-workers-as-former-trinamool-leaders-being-nominated-to-upper-house-bjp-veteran-tathagata-roy/article71548228.ece",
-      "importance": 3,
-      "date_added": "2026-10-06"
-    },
-    {
-      "title": "CEC Gyanesh Kumar has lost public trust and must be removed, say former bureaucrats, activists",
-      "summary": "Former Home Secretary, Delhi L-T among delegation which sought to serve CEC with a “public impeachment notice”; heavy police barricading prevented the group from reaching the ECI office",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/cec-gyanesh-kumar-has-lost-public-trust-and-must-be-removed-say-former-bureaucrats-activists/article71548097.ece",
-      "importance": 3,
-      "date_added": "2026-10-06"
-    },
-    {
-      "title": "Gyanesh Kumar changed Form 6 ‘illegally’ during SIR, says Rahul Gandhi",
-      "summary": "The Opposition party also alleged that the CEC “betrayed” the Constitution in letter and spirit at the behest of Prime Minister Narendra Modi and Union Home Minister Amit Shah",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/rahul-gandhi-congress-form-6-election-commission-of-india-cec-gyanesh-kumar/article71547253.ece",
-      "importance": 3,
-      "date_added": "2026-10-06"
-    },
-    {
-      "title": "IMF clears the way for Sri Lanka to draw $345 million",
-      "summary": "The IMF warned that higher energy prices, the El Niño climate phenomenon and the West Asia conflict could threaten Sri Lanka’s economic recovery",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/imf-clears-the-way-for-sri-lanka-to-draw-345-million/article71546248.ece",
-      "importance": 3,
-      "date_added": "2026-10-06"
-    },
-    {
-      "title": "SEBI Launches Project Jagrook Investor Awareness Campaign",
-      "summary": "SEBI Launches Project Jagrook Investor Awareness Campaign",
-      "category": "economy",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/sebi-launches-project-jagrook-investor-awareness-campaign/",
-      "importance": 3,
-      "date_added": "2026-10-06"
-    },
-    {
-      "title": "India-UAE Mountain Guardian 2026 Exercise Begins in Uttarakhand",
-      "summary": "India-UAE Mountain Guardian 2026 Exercise Begins in Uttarakhand",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/india-uae-mountain-guardian-2026-exercise-begins-in-uttarakhand/",
-      "importance": 3,
-      "date_added": "2026-10-06"
-    },
-    {
-      "title": "Odisha Launches First MICE Incentive Portal",
-      "summary": "Odisha Launches First MICE Incentive Portal",
-      "category": "economy",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/odisha-launches-first-mice-incentive-portal/",
-      "importance": 3,
-      "date_added": "2026-10-06"
-    },
-    {
-      "title": "AM Intelligence Orders 20,000 More Nvidia GPUs",
-      "summary": "AM Intelligence Orders 20,000 More Nvidia GPUs",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/am-intelligence-orders-20000-more-nvidia-gpus/",
-      "importance": 3,
-      "date_added": "2026-10-06"
-    },
-    {
-      "title": "Maharashtra Orders 10% Water Cut",
-      "summary": "Maharashtra Orders 10% Water Cut",
-      "category": "environment",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/maharashtra-orders-10-water-cut/",
-      "importance": 3,
-      "date_added": "2026-10-06"
-    },
-    {
-      "title": "Serum Institute’s Cervavac Gets WHO Prequalification",
-      "summary": "Serum Institute’s Cervavac Gets WHO Prequalification",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/serum-institutes-cervavac-gets-who-prequalification/",
-      "importance": 3,
-      "date_added": "2026-10-06"
-    },
-    {
-      "title": "Maharashtra SIR: CEO gets 6.24 lakh forms for new voters, corrections after draft rolls publication",
-      "summary": "Pune recorded the highest number of forms at 56,605, as the claims and objections period for the Special Intensive Revision has been extended to October 12",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-sir-ceo-gets-624-lakh-forms-for-new-voters-corrections-after-draft-rolls-publication/article71550096.ece",
-      "importance": 3,
-      "date_added": "2026-10-06"
-    },
-    {
-      "title": "Video clip of Dharapuram TVK candidate saying she ‘spent ₹31 crore’ on poll submitted to ECI",
-      "summary": "In the video, it is unclear whether P. Sathyabama was referring to the 2026 Assembly election or the subsequent bypoll",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/video-clip-of-dharapuram-tvk-candidate-saying-she-spent-31-crore-on-poll-submitted-to-eci/article71550276.ece",
-      "importance": 3,
-      "date_added": "2026-10-06"
-    },
-    {
-      "title": "Supreme Court agrees to hear urgently Punjab’s plea against CBI probe linked to CM Mann’s office",
-      "summary": "The allegations raised by the ED against public servants and private individuals linked to the AAP government include corruption in transfers and postings, policy manipulation, cash for tenders, and other serious irregularities",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/supreme-court-agrees-to-hear-urgently-punjabs-plea-against-cbi-probe-linked-to-cm-manns-office/article71550220.ece",
-      "importance": 3,
-      "date_added": "2026-10-06"
-    },
-    {
-      "title": "ASI undertakes Dwarapala restoration at Thousand Pillar Temple in Telangana’s Hanumakonda",
-      "summary": "Compatible stone matching the original in colour, texture, grain and physical characteristics is selected wherever replacement or mending is required",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/telangana/asi-undertakes-dwarapala-restoration-at-thousand-pillar-temple-in-telanganas-hanumakonda/article71549912.ece",
-      "importance": 3,
-      "date_added": "2026-10-06"
-    },
-    {
-      "title": "Bengal bypoll: AJUP chief Humayun Kabir arrested in Rejinagar after verbal altercation with police",
-      "summary": "The police reached the AUJP office in Rejinagar and told him that he cannot be present in the office in view of polling day",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/west-bengal/bengal-bypoll-ajup-chief-humayun-kabir-detained-in-rejinagar/article71550043.ece",
-      "importance": 3,
-      "date_added": "2026-10-06"
-    },
-    {
-      "title": "Odisha to create additional storage for rice to accommodate paddy glut",
-      "summary": "The Odisha government proposes to develop 10 lakh metric tonnes of additional storage capacity under the Odisha State Private Entrepreneur Scheme (OSPEG) framework",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/odisha/odisha-to-create-additional-storage-for-rice-to-accommodate-paddy-glut/article71546336.ece",
-      "importance": 3,
-      "date_added": "2026-10-06"
-    },
-    {
-      "title": "Kerala CM’s statement on angioplasty becomes a talking point among doctors",
-      "summary": "In a recent function, V.D. Satheesan had mentioned about avoiding unnecessary angioplasty. While many doctors object to the 'generalised statement,' a few agree with the CM that unnecessary procedures have become the norm. However, all agree that a person coming into the emergency with a suspected heart attack should in no way distrust the doctor. The Interventional Cardiology Council of Kerala says that public’s apprehension over “unnecessary” medical procedures should not delay life-saving treatment during an emergency",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/kerala-cms-statement-on-angioplasty-elicit-contrasting-responses-from-doctors/article71547569.ece",
-      "importance": 3,
-      "date_added": "2026-10-06"
-    },
-    {
-      "title": "Fire breaks out on reality show set at Goregaon Film City; no injuries reported",
-      "summary": "The Mumbai Fire Brigade, local police, BMC Ward Control and a 108 Ambulance team were mobilised, and the blaze was brought under control",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/cities/mumbai/fire-breaks-out-in-mumbais-film-city/article71547363.ece",
-      "importance": 3,
-      "date_added": "2026-10-06"
-    },
-    {
       "title": "People need relief during festive season, but they are burdened: Harish Rao on Telangana electricity charges hike",
       "summary": "Opposing the reported move to dilute 26% of TG-Transco, BRS leader alleges Congress Government plans to privatise TG-Transco, TG-Genco, Singareni and Discoms",
       "category": "national",
@@ -1493,6 +1223,276 @@
       "url": "https://www.thehindu.com/sci-tech/science/trishna-satellite-is-in-advanced-stage-of-realisation-says-isro-official/article71571635.ece",
       "importance": 3,
       "date_added": "2026-10-12"
+    },
+    {
+      "title": "INS Tarkash Joins IBSAMAR IX 2026 Naval Exercise",
+      "summary": "INS Tarkash Joins IBSAMAR IX 2026 Naval Exercise",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/ins-tarkash-joins-ibsamar-ix-2026-naval-exercise/",
+      "importance": 3,
+      "date_added": "2026-10-13"
+    },
+    {
+      "title": "Improve civic infrastructure along Vizianagaram routes to Bhogapuram and Visakhapatnam: CREDAI",
+      "summary": "CREDAI Andhra Pradesh vice-president K.S.C. Bose asks the State government to prioritise civic infrastructure amid development along the two routes",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/improve-civic-infrastructure-along-vizianagaram-routes-to-bhogapuram-and-visakhapatnam-credai/article71578132.ece",
+      "importance": 3,
+      "date_added": "2026-10-13"
+    },
+    {
+      "title": "Tamil Nadu CM Vijay pays homage to Tyagi Sankaralinganar on his death anniversary",
+      "summary": "In a post on X, CM Vijay said Sankaralinganar sacrificed his life after observing a 76-day hunger strike through peaceful means, with the renaming of the State as Tamil Nadu as his principal demand",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cm-vijay-pays-homage-to-tyagi-sankaralinganar-on-his-death-anniversary/article71577903.ece",
+      "importance": 3,
+      "date_added": "2026-10-13"
+    },
+    {
+      "title": "Karnataka Home Minister says police directed not to disrupt peaceful protests",
+      "summary": "This comes a day after Bengaluru police detained over a 100 persons for trying to march to the office of Chief Electoral Officer (CEO), Karnataka to protest against the Special Intensive Revision (SIR) of electoral rolls",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-home-minister-says-police-directed-not-to-disrupt-peaceful-demonstration/article71578224.ece",
+      "importance": 3,
+      "date_added": "2026-10-13"
+    },
+    {
+      "title": "Anti-CEC protests LIVE: Supreme Court defers hearing on pleas related to Delhi protests, curbs on metro and trains to October 15",
+      "summary": "Delhi Police has sought an extension of the deployment of 273 companies of the Central Armed Police Forces (CAPF) in Delhi till October 20",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/anti-cec-delhi-protest-against-gyanesh-kumar-cec-october-13-2026-live-updates/article71577767.ece",
+      "importance": 3,
+      "date_added": "2026-10-13"
+    },
+    {
+      "title": "After The Hindu report, Collector orders GMR to repair roads damaged in Bhogapuram airport construction",
+      "summary": "Vizianagaram Collector S. Ramsundar Reddy also asks NHAI to connect the airport to the highway’s service roads; NHAI says the changes will be made in a couple of weeks",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/after-the-hindu-report-collector-orders-gmr-to-repair-roads-damaged-in-bhogapuram-airport-construction/article71578019.ece",
+      "importance": 3,
+      "date_added": "2026-10-13"
+    },
+    {
+      "title": "MDR on UPI: Keralam hotels association says will stop accepting UPI payments above ₹2,000 from October 15",
+      "summary": "Announcement following introduction of 0.4% UPI merchant discount rate, which the association says will impose additional financial burden on small establishments",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/mdr-on-upi-keralam-hotels-association-says-will-stop-accepting-upi-payments-above-2000-from-october-15/article71578221.ece",
+      "importance": 3,
+      "date_added": "2026-10-13"
+    },
+    {
+      "title": "Tamil Nadu CM Vijay to meet Naidu today: Krishna water for Chennai on agenda",
+      "summary": "Under the 1983 Telugu Ganga agreement 15 TMC is to be delivered annually at the Tamil Nadu border; low storage in Srisailam, Somasila and Kandaleru makes a partial release the likely compromise, sources say",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/tamil-nadu-cm-vijay-to-meet-naidu-today-krishna-water-for-chennai-on-agenda/article71578014.ece",
+      "importance": 3,
+      "date_added": "2026-10-13"
+    },
+    {
+      "title": "Investigation reveals collection of ‘party fund’ during Anbil Mahesh Poyyamozhi’s tenure as School Education Minister, CCB tells Madras High Court",
+      "summary": "It makes the submission in a counter affidavit filed before Justice V. Lakshminarayanan in response to the former Minister’s plea to quash the FIR against him",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/investigation-reveals-collection-of-party-fund-during-anbil-mahesh-poyyamozhis-tenure-as-school-education-minister-ccb-tells-madras-high-court/article71576382.ece",
+      "importance": 3,
+      "date_added": "2026-10-13"
+    },
+    {
+      "title": "The baby who became the face of KSRTC’s Airavat Club Class buses",
+      "summary": "Nearly two decades after a simple advertising photograph was taken, a sleeping baby in a stroller continues to travel across Karnataka and other neighboring States on KSRTC’s luxury buses. Bengaluru-based commercial photographer Senthil Kumar Muruganandhan recalls how the memorable image came to life",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/the-baby-who-became-the-face-of-ksrtcs-airavat-club-class-buses/article71576267.ece",
+      "importance": 3,
+      "date_added": "2026-10-13"
+    },
+    {
+      "title": "Drone sinks Ukrainian-owned ship off Bulgaria’s Black Sea coast, Bulgarian Prime Minister says",
+      "summary": "PM Rumen Radev says the “Chelsea 3” was hit by three drones and sank in the second such incident in a week, with all crew members rescued",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/drone-sinks-ukrainian-owned-ship-off-bulgarias-black-sea-coast-bulgarian-prime-minister-says/article71578213.ece",
+      "importance": 3,
+      "date_added": "2026-10-13"
+    },
+    {
+      "title": "Shubman Gill Wins Record Fifth ICC Player of the Month Award",
+      "summary": "Shubman Gill Wins Record Fifth ICC Player of the Month Award",
+      "category": "sports",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/shubman-gill-wins-record-fifth-icc-player-of-the-month-award/",
+      "importance": 3,
+      "date_added": "2026-10-13"
+    },
+    {
+      "title": "British Firms Announce £1 Billion in India-UK JETCO Deals",
+      "summary": "British Firms Announce £1 Billion in India-UK JETCO Deals",
+      "category": "economy",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/british-firms-announce-1-billion-in-india-uk-jetco-deals/",
+      "importance": 3,
+      "date_added": "2026-10-13"
+    },
+    {
+      "title": "Tyeb Mehta’s Rickshaw Puller Sets Auction Record at ₹69.1 Crore",
+      "summary": "Tyeb Mehta’s Rickshaw Puller Sets Auction Record at ₹69.1 Crore",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/tyeb-mehtas-rickshaw-puller-sets-auction-record-at-%e2%82%b969-1-crore/",
+      "importance": 3,
+      "date_added": "2026-10-13"
+    },
+    {
+      "title": "Alexander Zverev Clinches ATP Year-End No. 1",
+      "summary": "Alexander Zverev Clinches ATP Year-End No. 1",
+      "category": "sports",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/alexander-zverev-clinches-atp-year-end-no-1/",
+      "importance": 3,
+      "date_added": "2026-10-13"
+    },
+    {
+      "title": "Lakshadweep Attains 100% Literacy Status",
+      "summary": "Lakshadweep Attains 100% Literacy Status",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/lakshadweep-attains-100-literacy-status/",
+      "importance": 3,
+      "date_added": "2026-10-13"
+    },
+    {
+      "title": "GE Aerospace Plans to Nearly Double India Sourcing by 2030",
+      "summary": "GE Aerospace Plans to Nearly Double India Sourcing by 2030",
+      "category": "economy",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/ge-aerospace-plans-to-nearly-double-india-sourcing-by-2030/",
+      "importance": 3,
+      "date_added": "2026-10-13"
+    },
+    {
+      "title": "Google Plans $15-Billion Visakhapatnam AI Data Centre",
+      "summary": "Google Plans $15-Billion Visakhapatnam AI Data Centre",
+      "category": "science",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/google-plans-15-billion-visakhapatnam-ai-data-centre/",
+      "importance": 3,
+      "date_added": "2026-10-13"
+    },
+    {
+      "title": "Tamil Nadu Minister Sengottaiyan claims 15 more functionaries may quit AIADMK",
+      "summary": "“It is a good thing that Edappadi K. Palaniswami expelled me from the AIADMK. Had I not left the party, I would still be sitting in the Opposition benches. Look where I am now,” he said",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-minister-sengottaiyan-claims-15-more-functionaries-may-quit-aiadmk/article71577952.ece",
+      "importance": 3,
+      "date_added": "2026-10-13"
+    },
+    {
+      "title": "Keralam Assembly: Opposition, ruling front spar over health sector crisis",
+      "summary": "LDF stages walkout, alleges medicine shortages, arbitrary staff retrenchments and transfers, and cases of medical negligence; Health Minister K. Muraleedharan maintains that situation 'under control’",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/keralam-assembly-opposition-ruling-front-spar-over-health-sector-crisis/article71578260.ece",
+      "importance": 3,
+      "date_added": "2026-10-13"
+    },
+    {
+      "title": "Around 100 YSRCP leaders and workers join TDP in Visakhapatnam ahead of local body polls",
+      "summary": "Ganta Srinivasa Rao welcomes leaders and workers from GVMC Ward 6 into the TDP",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/around-100-ysrcp-leaders-and-workers-join-tdp-in-visakhapatnam-ahead-of-local-body-polls/article71578107.ece",
+      "importance": 3,
+      "date_added": "2026-10-13"
+    },
+    {
+      "title": "Delhi Police de-notifies Jantar Mantar as protest site; activists slam decision",
+      "summary": "Ramlila Ground, Burari Ground and CBD Ground named as alternative venues; police yet to issue SOPs for protests; activists say Jantar Mantar’s proximity to Parliament is crucial to making their voices heard",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/cities/Delhi/jantar-mantar-no-longer-legal-protest-site-three-alternative-sites-designated-by-delhi-police/article71574232.ece",
+      "importance": 3,
+      "date_added": "2026-10-13"
+    },
+    {
+      "title": "Jantar Mantar: From astronomical observatory to landmark protest site",
+      "summary": "The Delhi Jantar Mantar, originally known as Yantra Mantra, was built by Maharaja Sawai Jai Singh II of Jaipur as an astronomical observatory at the behest of Mughal emperor Muhammad Shah",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/jantar-mantar-from-astronomical-observatory-to-landmark-protest-site-in-delhi/article71575176.ece",
+      "importance": 3,
+      "date_added": "2026-10-13"
+    },
+    {
+      "title": "Doval speaks to Iran NSA, discusses ‘latest developments’ after ships attacked in Hormuz",
+      "summary": "Two Indians are still missing following the attack on two ships on Sunday; the IRGC Navy has issued warnings against merchant vessels switching off the automatic identification system to evade detection",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/doval-speaks-to-iran-nsa-discusses-latest-developments-after-ships-attacked-in-hormuz/article71576822.ece",
+      "importance": 3,
+      "date_added": "2026-10-13"
+    },
+    {
+      "title": "Bangladesh PM assures minorities of equal rights, security",
+      "summary": "Prime Minister Tarique Rahman tells Hindu community leaders that ensuring every citizen’s rights, irrespective of religion, is his responsibility, ahead of heightened security for Durga Puja",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/bangladesh-pm-assures-minorities-of-equal-rights-security/article71578216.ece",
+      "importance": 3,
+      "date_added": "2026-10-13"
+    },
+    {
+      "title": "Madras High Court upholds Tamil Nadu Assembly Speaker’s decision to accept resignations of six AIADMK MLAs",
+      "summary": "Chief Justice Sushrut Arvind Dharmadhikari and Justice G. Arul Murugan, however, direct him to conclude the disqualification proceedings pending against four out of the six MLAs within two months",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-upholds-tamil-nadu-assembly-speakers-decision-to-accept-resignations-of-six-aiadmk-mlas/article71577841.ece",
+      "importance": 3,
+      "date_added": "2026-10-13"
+    },
+    {
+      "title": "IAS officer booked for assault on police at bar and restaurant in Bengaluru",
+      "summary": "The IAS officer and three others have been booked for allegedly assaulting a police inspector and other police personnel, abusing them, and obstructing them from discharging their duty while inspecting a pub in Bengaluru",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/cities/bangalore/drunk-andhra-pradesh-cadre-ias-officer-vikas-marmat-booked-for-assault-obstructing-police-at-bengaluru-pub-kuppam-area-development-authority/article71578020.ece",
+      "importance": 3,
+      "date_added": "2026-10-13"
+    },
+    {
+      "title": "India grows ‘with the world, not at anyone's cost’, cites strong economic fundamentals, says PM Modi",
+      "summary": "The Prime Minister cited the country's 7.8% economic growth in the April-June quarter, foreign-exchange reserves exceeding $700 billion and reforms spanning taxation, insolvency and labour laws as evidence of its resilience",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/Economy/pm-modi-bloomberg-economic-forum-october-13-2026/article71578206.ece",
+      "importance": 3,
+      "date_added": "2026-10-13"
+    },
+    {
+      "title": "Supreme Court stays defamation case proceedings against Rahul Gandhi over 2019 remarks against PM",
+      "summary": "A Bench of Justices Vikram Nath and Aparesh Kumar Singh issued notices to the Maharashtra government and the complainant, M H. Shrishrimal, seeking their responses in four weeks",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/supreme-court-defamation-case-proceedings-rahul-gandhi-pm-modi/article71578167.ece",
+      "importance": 3,
+      "date_added": "2026-10-13"
+    },
+    {
+      "title": "60% notice cases verified in Delhi; disposal gains pace amid reduced scrutiny, norms",
+      "summary": "The sudden spike in the rate of notice disposal follows the introduction of new options on the ECINET portal and fresh oral directions from Gyanesh Kumar’s office to expedite the process and prevent wrongful deletions",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/cities/Delhi/60-notice-cases-verified-in-delhi-disposal-gain-pace-amid-reduced-scrutiny-norms/article71576662.ece",
+      "importance": 3,
+      "date_added": "2026-10-13"
     }
   ]
 }
