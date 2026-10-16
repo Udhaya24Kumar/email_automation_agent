@@ -1,222 +1,6 @@
 {
   "items": [
     {
-      "title": "Central Armed Police Forces Act Comes into Force",
-      "summary": "The Central Armed Police Forces Act has officially come into force, providing a statutory and administrative framework for internal security personnel in India.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/central-armed-police-forces-act-comes-into-force/",
-      "importance": 5,
-      "date_added": "2026-10-09"
-    },
-    {
-      "title": "Israel to Confer Civilian Heroism Award on Pilot Capt. Smit Machchhar",
-      "summary": "Israel will confer a civilian heroism award on pilot Capt. Smit Machchhar for helping save the lives of 172 passengers and crew members aboard flydubai Flight 1073 from Dubai to Tel Aviv.",
-      "category": "awards",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/israel-to-honour-pilot-capt-smit-machchhar-with-civilian-heroism-award-over-flydubai-incident/article71562788.ece",
-      "importance": 4,
-      "date_added": "2026-10-09"
-    },
-    {
-      "title": "U.S. Department of Labour Suspends Major IT Firms from PERM Green Card Programme",
-      "summary": "The U.S. Department of Labour has suspended major IT firms, including Cognizant, Infosys, Tata, Wipro, HCL, Microsoft, and Adobe, from the PERM Green Card programme.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/ussuspends-microsoft-adobe-and-major-it-firms-from-perm-green-card-programme/article71560826.ece",
-      "importance": 4,
-      "date_added": "2026-10-09"
-    },
-    {
-      "title": "Supreme Court Orders Establishment of National Road Crash Data System",
-      "summary": "The Supreme Court of India has ordered the implementation of a National Road Crash Data System to centralize and track road accident data across the nation.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/supreme-court-orders-national-road-crash-data-system/",
-      "importance": 4,
-      "date_added": "2026-10-09"
-    },
-    {
-      "title": "GST Council unveils reforms to ease refund, registration and reduce litigation",
-      "summary": "Finance Minister Nirmala Sitharaman says 99% of GST rate and process issues had been addressed but the “door is not closed to further reforms”; all the changes are expected to come into effect from April 1, 2027",
-      "category": "economy",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/business/Economy/gst-council-scraps-arrest-powers-of-gst-officers-ups-prosecution-threshold-to-5-crore/article71559868.ece",
-      "importance": 3,
-      "date_added": "2026-10-09"
-    },
-    {
-      "title": "What is the impact of 25 basis points repo rate hike on borrowers? | Explained",
-      "summary": "In the rate cut cycle the MPC had cut the rate by 125 basis points in phases from 6.5% to 5.25% before increasing it on Wednesday (October 7, 2026)",
-      "category": "economy",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/business/Economy/what-is-the-impact-of-25-basis-points-repo-rate-hike-on-borrowers-explained/article71558757.ece",
-      "importance": 3,
-      "date_added": "2026-10-09"
-    },
-    {
-      "title": "Venezuela’s Maduro charged in U.S. with ordering torture of opponents, Americans",
-      "summary": "Separately, U.S. District Judge Alvin Hellerstein, who is overseeing the case, ⁠denied a request by Ms. Flores to be released from jail due to health concerns ahead of a trial scheduled for next year",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/venezuelas-maduro-charged-in-us-with-ordering-torture-of-opponents-americans/article71561348.ece",
-      "importance": 3,
-      "date_added": "2026-10-09"
-    },
-    {
-      "title": "Japan is facing the most severe and complex security environment after Second World War, says Fumio Kishida",
-      "summary": "Japan is strengthening its defence capabilities while maintaining the U.S. alliance as its cornerstone and expanding cooperation with like-minded partners in the Indo-Pacific, says Former Japanese Prime Minister",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/japan-is-facing-the-most-severe-and-complex-security-environment-after-second-world-war-says-fumio-kishida/article71560905.ece",
-      "importance": 3,
-      "date_added": "2026-10-09"
-    },
-    {
-      "title": "Kurdish PKK group says Turkish state not doing enough to pursue peace process",
-      "summary": "“We have withdrawn all our armed forces, both within and outside of Turkiye, that could be considered near the border,” the PKK said, adding that the move was taken to prevent the government “making any excuses or justifying its inadequate approach to the process”",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/kurdish-pkk-group-says-turkish-state-not-doing-enough-to-pursue-peace-process/article71561271.ece",
-      "importance": 3,
-      "date_added": "2026-10-09"
-    },
-    {
-      "title": "Israel drastically reduces British diplomatic presence in Jerusalem",
-      "summary": "The move comes after Israel ordered the closure of the consulate in September as retaliation after London-led Western sanctions over violence by Israeli settlers against Palestinians in the occupied West Bank",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/israel-drastically-reduces-british-diplomatic-presence-in-jerusalem/article71561112.ece",
-      "importance": 3,
-      "date_added": "2026-10-09"
-    },
-    {
-      "title": "Gold, silver imports by banks, nominated agencies to attract 3% IGST",
-      "summary": "This is done to ensure parity of taxes imposed on gold and other precious metal imports through other routes, including bullion",
-      "category": "economy",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/business/Economy/gold-silver-imports-by-banks-nominated-agencies-to-attract-3-igst/article71561342.ece",
-      "importance": 3,
-      "date_added": "2026-10-09"
-    },
-    {
-      "title": "Adequate response: on the RBI and inflation",
-      "summary": "The RBI policy review will need Central assistance to effectively fight inflation",
-      "category": "economy",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/opinion/editorial/adequate-response-on-the-rbi-and-inflation/article71560012.ece",
-      "importance": 3,
-      "date_added": "2026-10-09"
-    },
-    {
-      "title": "Chance and happenstance: On the Nobel Prize in Chemistry",
-      "summary": "Bias is more than human sociology; life makes choices with definite preferences",
-      "category": "awards",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/opinion/editorial/chance-and-happenstance-on-the-nobel-prize-in-chemistry/article71559993.ece",
-      "importance": 3,
-      "date_added": "2026-10-09"
-    },
-    {
-      "title": "ISRO employees seek meeting with Chairperson to discuss queries on privatisation",
-      "summary": "The JAC acknowledged the responses received from the Chairperson during a video-conference interaction with employees, but stated that fundamental doubts and concerns raised by employees were not clarified",
-      "category": "science",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sci-tech/isro-employees-seek-meeting-with-chairperson-to-discussqueries-on-privatisation/article71559271.ece",
-      "importance": 3,
-      "date_added": "2026-10-09"
-    },
-    {
-      "title": "On the ‘Super’ El Niño effect | Green Humour by Rohan Chakravarty",
-      "summary": "On the ‘Super’ El Niño effect | Green Humour by Rohan Chakravarty",
-      "category": "environment",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/on-the-super-el-nino-effect-green-humour-by-rohan-chakravarty/article71546325.ece",
-      "importance": 3,
-      "date_added": "2026-10-09"
-    },
-    {
-      "title": "Interview | Ornithologist Asad Rahmani on his new book ‘Where Have the Birds Gone?’",
-      "summary": "The conservationist and ornithologist, who has a new book out, on why birds are vital to the wider environment",
-      "category": "environment",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/books/asad-rahmani-interview/article71481626.ece",
-      "importance": 3,
-      "date_added": "2026-10-09"
-    },
-    {
-      "title": "Selectors must have thought Bhuvneshwar would be useful in New Zealand: Kotak on the bowler’s recall",
-      "summary": "“Bhuvneshwar has been doing really well in the IPL for the last two seasons, so the selectors must have thought that he would be useful in New Zealand,” Kotak elaborated",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/cricket/selectors-must-have-thought-bhuvneshwar-would-be-useful-in-new-zealand-kotak-on-the-bowlers-recall/article71560258.ece",
-      "importance": 3,
-      "date_added": "2026-10-09"
-    },
-    {
-      "title": "India’s Para Asian Games contingent gets warm send-off, Mandaviya launches new jersey",
-      "summary": "Para-badminton star Pramod Bhagat was named the flag bearer of the Indian contingent for the Games",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/indias-para-asian-games-contingent-gets-warm-send-off-mandaviya-launches-new-jersey/article71561604.ece",
-      "importance": 3,
-      "date_added": "2026-10-09"
-    },
-    {
-      "title": "Houthis claim new attack against airport in Saudi capital Riyadh as witness reports evacuation",
-      "summary": "Saudi Arabia’s civil defence agency said a kindergarten and medical complex in Riyadh were damaged by shrapnel from an intercepted missile, hours after explosions rattled Riyadh",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/saudi-arabia-riyadh-airport-attack-yemen-houthis-october-8-2026/article71560070.ece",
-      "importance": 3,
-      "date_added": "2026-10-09"
-    },
-    {
-      "title": "Pneumonic plague outbreak in Russia? What we know so far",
-      "summary": "An employee at a plague research institute in Siberia, Darya Shipilova, employed at a plague research institute in Siberia fell ill and died in undisclosed circumstances. Unconfirmed reports in Russia blamed the woman’s death on pneumonic plague",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/russia-pneumonic-plague-epidemic-siberia-lab-worker-death/article71558805.ece",
-      "importance": 3,
-      "date_added": "2026-10-09"
-    },
-    {
-      "title": "Food waste, a major contributor to climate change",
-      "summary": "The Hindu’s weekly Science for All newsletter explains all things Science, without the jargon.",
-      "category": "science",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sci-tech/science/science-for-all-newsletter-food-waste-a-major-contributor-to-climate-change/article71546619.ece",
-      "importance": 3,
-      "date_added": "2026-10-09"
-    },
-    {
-      "title": "The last human expedition to the moon… so far",
-      "summary": "On December 11, 1972, Apollo 17 achieved lunar landing. The sixth mission in the Apollo program to explore the lunar surface, Apollo 17, for now, is the last human expedition to the moon. A.S.Ganesh takes a look at the success of the Apollo 17 mission…",
-      "category": "science",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/children/the-last-human-expedition-to-the-moon...-so-far/article66214095.ece",
-      "importance": 3,
-      "date_added": "2026-10-09"
-    },
-    {
-      "title": "‘Fighting for our future’: France high school students vow no let-up",
-      "summary": "Students have blocked entrances to hundreds of high schools across the country, with squads of riot police deployed to control the situation — occasionally resulting in violent clashes",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/fighting-for-our-future-france-high-school-students-vow-no-let-up/article71561293.ece",
-      "importance": 3,
-      "date_added": "2026-10-09"
-    },
-    {
-      "title": "Death toll from Russian bus strike in eastern Ukraine jumps to 30: authorities",
-      "summary": "The governor's office said public transport had been suspended",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/death-toll-russian-strike-in-eastern-ukraine/article71559309.ece",
-      "importance": 3,
-      "date_added": "2026-10-09"
-    },
-    {
       "title": "RBI Raises Daily CRR Maintenance Requirement to 99%",
       "summary": "The Reserve Bank of India (RBI) has increased the daily Cash Reserve Ratio (CRR) maintenance requirement to 99%.",
       "category": "economy",
@@ -1493,6 +1277,276 @@
       "url": "https://www.thehindu.com/sport/football/psg-downs-man-city-4-2-in-pulsating-champions-league-clash/article71585661.ece",
       "importance": 3,
       "date_added": "2026-10-15"
+    },
+    {
+      "title": "Robert E. Hall and Michael Woodford Win 2026 Nobel Prize in Economics",
+      "summary": "Robert E. Hall and Michael Woodford were awarded the 2026 Nobel Prize in Economics. Their work established theoretical and empirical foundations showing how individual human behavior forms the core of macroeconomics.",
+      "category": "awards",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/Economy/2026-economics-nobel-prize-putting-the-humanity-in-macroeconomics/article71586737.ece",
+      "importance": 5,
+      "date_added": "2026-10-16"
+    },
+    {
+      "title": "Sudha Yadav Sworn in as Karnataka Governor",
+      "summary": "Former MP and Kargil war widow Sudha Yadav has taken oath as the Governor of Karnataka, succeeding Thaawarchand Gehlot. She is the second woman to hold the gubernatorial position in the state.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/sudha-yadav-sworn-in-as-karnataka-governor/article71591224.ece",
+      "importance": 4,
+      "date_added": "2026-10-16"
+    },
+    {
+      "title": "UN Pre-COP Climate Summit Begins in Fiji Ahead of COP31 in Turkey",
+      "summary": "The United Nations 'pre-COP' climate summit has commenced in Fiji, with discussions taking place in Nadi and Tuvalu. These talks serve as a precursor to the upcoming COP31 global climate summit scheduled to be held in Turkey.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/pacific-pre-cop31-in-fiji-ahead-of-cop31-in-turkey/article71545658.ece",
+      "importance": 4,
+      "date_added": "2026-10-16"
+    },
+    {
+      "title": "India Discusses Grain and Maritime Safety Agreements with Russia and Ukraine",
+      "summary": "External Affairs Minister S. Jaishankar stated at a German think-tank event in Delhi that India is in discussions with Moscow and Kyiv regarding agreements on grains and maritime safety. He also presented a strong defence of India-Russia bilateral relations.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/india-is-going-beyond-advocacy-on-the-russia-ukraine-conflict-jaishankar/article71543379.ece",
+      "importance": 4,
+      "date_added": "2026-10-16"
+    },
+    {
+      "title": "Reflect Orbital Books Two Skyroot Vikram Rocket Launches",
+      "summary": "Reflect Orbital has booked two satellite launches aboard private space firm Skyroot Aerospace's Vikram rocket.",
+      "category": "science",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/reflect-orbital-books-two-skyroot-vikram-rocket-launches/",
+      "importance": 4,
+      "date_added": "2026-10-16"
+    },
+    {
+      "title": "India's Exports Increase 23% in September as Trade Deficit Narrows",
+      "summary": "India's exports grew by 23% in September, bringing the trade deficit down to $30.21 billion. Higher crude oil prices amid the West Asia crisis helped the nation secure better realisations from petroleum product exports.",
+      "category": "economy",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/Economy/indias-exports-jump-23-in-september-trade-deficit-narrows-to-3021-billion/article71588471.ece",
+      "importance": 4,
+      "date_added": "2026-10-16"
+    },
+    {
+      "title": "India-U.S. Trade Agreement Reaches Final Stage",
+      "summary": "Union Commerce Minister Piyush Goyal announced that the India-U.S. trade deal has been finalised and is undergoing legal drafting. Full implementation will follow clarity regarding India's competitive advantage.",
+      "category": "economy",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/Economy/india-us-trade-pact-to-be-operationalised-once-india-gets-competitive-advantage-goyal/article71587473.ece",
+      "importance": 4,
+      "date_added": "2026-10-16"
+    },
+    {
+      "title": "India's Net Direct Tax Collection Increases 13% to ₹13.38 Lakh Crore",
+      "summary": "India's net direct tax collection grew 13.21% year-on-year to reach ₹13.38 lakh crore up to October 14. The rise was supported by strong corporate tax growth and higher Securities Transaction Tax (STT) refunds.",
+      "category": "economy",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/Economy/net-direct-tax-collection-grows-13-to-1338-lakh-crore-till-october-14/article71587570.ece",
+      "importance": 4,
+      "date_added": "2026-10-16"
+    },
+    {
+      "title": "Southwest Monsoon Withdraws From India With Below-Normal Rainfall",
+      "summary": "The India Meteorological Department (IMD) confirmed the complete withdrawal of the southwest monsoon from the entire country. The season recorded 759.4 mm of rainfall, which is 12.6% below the normal benchmark of 868.6 mm.",
+      "category": "environment",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/southwest-monsoon-withdraws-from-entire-country-imd/article71587953.ece",
+      "importance": 4,
+      "date_added": "2026-10-16"
+    },
+    {
+      "title": "Andhra Pradesh ready for local body polls, awaiting SC verdict on BC quota: Narayana",
+      "summary": "Delay may cost ₹12,000 crore in 16th Finance Commission funds, says Minister",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-ready-for-local-body-polls-awaiting-sc-verdict-on-bc-quota-narayana/article71543952.ece",
+      "importance": 3,
+      "date_added": "2026-10-16"
+    },
+    {
+      "title": "Gyanesh Kumar undermined Election Commission’s independence: Sachin Pilot",
+      "summary": "Congress leader Sachin Pilot alleged the SIR is being used to selectively delete voters, as he also criticised the Rajasthan government’s drought response and the AAP government in Punjab",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/gyanesh-kumar-undermined-election-commissions-independence-sachin-pilot/article71543417.ece",
+      "importance": 3,
+      "date_added": "2026-10-16"
+    },
+    {
+      "title": "BJP steps up demand for Thiruvananthapuram Corporation CPI(M) councillor’s resignation over bribery allegations",
+      "summary": "A purported video of CPI(M) councillor demanding ₹10 lakh from Sanju, a native of Thirumala, to resolve issues concerning a plot he purchased in the ward, had begun circulating two days ago",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/bjp-steps-up-demand-for-thiruvananthapuram-corporation-cpim-councillors-resignation-over-bribery-allegations/article71543138.ece",
+      "importance": 3,
+      "date_added": "2026-10-16"
+    },
+    {
+      "title": "CJP Tiranga rally: Movement around Connaught place likely to be affected, says Delhi Traffic police",
+      "summary": "New Delhi Municipal Council (NDMC) on Thursday (October 15, 2026) announced that Central Park in Connaught Place would remain closed to the public on October 16 and 17 for “administrative reasons”",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/cities/Delhi/cjp-tiranga-rally-movement-around-connaught-place-likely-to-be-affected-says-delhi-traffic-police/article71590971.ece",
+      "importance": 3,
+      "date_added": "2026-10-16"
+    },
+    {
+      "title": "NZ vs IND: Bhuvneshwar will have a big impact, says Tim Southee",
+      "summary": "The former Kiwi pacer feels the experienced India swing bowler will fire on all cylinders in his comeback series, predicts New Zealand to edge the visiting side in the Test assignment",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/cricket/tim-southee-backs-bhuvneshwar-kumar-to-shine-on-new-zealand-tour/article71589757.ece",
+      "importance": 3,
+      "date_added": "2026-10-16"
+    },
+    {
+      "title": "Delhi High Court dismisses pleas for SIT probe into 2020 riots, 2019 Jamia violence",
+      "summary": "\"The batch is divided into two parts, one is the northeast Delhi riots, and another is for Jamia Millia riots,\" the bench said while pronouncing the verdict",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/delhi-high-court-dismisses-pleas-for-sit-probe-into-2020-riots-2019-jamia-violence/article71545981.ece",
+      "importance": 3,
+      "date_added": "2026-10-16"
+    },
+    {
+      "title": "Abandon Pattinapakkam Assembly-cum-Secretariat complex project, insists PIL plea before Madras High Court",
+      "summary": "Chief Justice Sushrut Arvind Dharmadhikari and Justice G. Arul Murugan would be hearing the case on October 5, 2026",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/abandon-pattinapakkam-assembly-cum-secretariat-complex-project-insists-a-pil-plea-before-madras-high-court/article71542928.ece",
+      "importance": 3,
+      "date_added": "2026-10-16"
+    },
+    {
+      "title": "Periyar Arivulagam is Dravidian model government’s brainchild, says Stalin",
+      "summary": "Stalin also listed several library and other knowledge-centre projects undertaken by the DMK government, including the Anna Centenary Library in Chennai, the Kalaignar Centenary Library in Madurai, Mudhalvar Padaippagams and the renovation of the Connemara Public Library in Egmore",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/periyar-arivulagam-is-dravidian-model-governments-brainchild-says-stalin/article71591021.ece",
+      "importance": 3,
+      "date_added": "2026-10-16"
+    },
+    {
+      "title": "Address attacks on Hindu temples in the U.S., MEA says",
+      "summary": "The U.S. Commission on International Religious Freedom is ‘presenting a distorted and selective picture of India’, the Ministry of External Affairs says",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/address-attacks-on-hindu-temples-in-the-us-mea-says/article70751311.ece",
+      "importance": 3,
+      "date_added": "2026-10-16"
+    },
+    {
+      "title": "Nine lakh houses for Andhra: Naidu, Chouhan lay foundation for first three lakh under PMAY-G",
+      "summary": "Andhra Pradesh aims for full housing coverage by 2029; a pilot of 177 houses with 3D-printed walls begins at Burripalem",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/nine-lakh-houses-for-andhra-naidu-chouhan-lay-foundation-for-first-three-lakh-under-pmay-g/article71543590.ece",
+      "importance": 3,
+      "date_added": "2026-10-16"
+    },
+    {
+      "title": "South Coast Railway completes 100 days; ₹54,479 crore of projects under way",
+      "summary": "The new zone has secured sanctions for the Visakhapatnam yard remodelling and the Guntakal-Ballari quadrupling, fitted Kavach on about 100 locomotives and opened three Amrit Bharat stations",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/south-coast-railway-completes-100-days-54479-crore-of-projects-under-way/article71543484.ece",
+      "importance": 3,
+      "date_added": "2026-10-16"
+    },
+    {
+      "title": "Actor Imran Khan to move HC against notice asking him to leave country for taking part in protest",
+      "summary": "In the draft petition, the actor has termed the \"leave India\" directive \"drastic\" and argued that no provision under the current law or statutory rules prohibits an OCI cardholder from participating in a peaceful protest",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/cities/mumbai/actor-imran-khan-to-move-hc-against-notice-asking-him-to-leave-country-for-taking-part-in-protest/article71590939.ece",
+      "importance": 3,
+      "date_added": "2026-10-16"
+    },
+    {
+      "title": "Nolo becomes Category 3 Hurricane in remote Pacific Ocean",
+      "summary": "The storm’s maximum sustained winds rapidly intensified to 115 mph (185 kph), the Miami-based National Hurricane Center reported, meaning it was a Category 3 hurricane",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/nolo-becomes-category-3-hurricane-in-remote-pacific-ocean/article71542838.ece",
+      "importance": 3,
+      "date_added": "2026-10-16"
+    },
+    {
+      "title": "Frustrated with Trump, voters overwhelmingly want change in Washington, an AP-NORC poll finds",
+      "summary": "A new AP-NORC poll finds that a strong majority of voters believe President Donald Trump is falling short at home and abroad, and they want major change in the upcoming midterm elections",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/frustrated-with-trump-voters-overwhelmingly-want-change-in-washington-an-ap-norc-poll-finds/article71589722.ece",
+      "importance": 3,
+      "date_added": "2026-10-16"
+    },
+    {
+      "title": "Ethiopia's Tigray rebels abandon regional capital as government advances",
+      "summary": "Fighting erupted on September 23 in northern Ethiopia as the rebel Tigray People's Liberation Front (TPLF) launched attacks into neighbouring states, raising fears of a return to the devastating 2020-2022 civil war.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/ethiopias-tigray-rebels-abandon-regional-capital-as-government-advances/article71541559.ece",
+      "importance": 3,
+      "date_added": "2026-10-16"
+    },
+    {
+      "title": "New China-North Korea bridge opens after more than a decade of delay",
+      "summary": "The New Yalu River Bridge initially was expected to enter use in 2014, when China had apparently completed construction on its side. But North Korea had not done corresponding work on its side at the time",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/new-china-north-korea-bridge-opens-after-more-than-a-decade-of-delay/article71589742.ece",
+      "importance": 3,
+      "date_added": "2026-10-16"
+    },
+    {
+      "title": "Ukraine resumes attacks on Russian oil refineries as U.S. relations teeter",
+      "summary": "Ukraine President Zekenskyy said “we are losing a strong partner” in the United States. He said that “it's painful when President Trump chooses one side, not our side. But we are OK that he's in the middle”",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/ukraine-resumes-attacks-on-russian-oil-refineries-as-us-relations-teeter/article71589573.ece",
+      "importance": 3,
+      "date_added": "2026-10-16"
+    },
+    {
+      "title": "Globalisation cannot be reversed, but it must be navigated with greater resilience: Jaishankar",
+      "summary": "Speaking at the forum in Abu Dhabi, EAM Jaishankar said that competition had intensified, new chokepoints have emerged, and the willingness to leverage advantages has grown",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/globalisation-cannot-be-reversed-but-it-must-be-navigated-with-greater-resilience-jaishankar/article71588213.ece",
+      "importance": 3,
+      "date_added": "2026-10-16"
+    },
+    {
+      "title": "DP World India Championship: Norgaard takes lead on a rain-hit opening day",
+      "summary": "The Dane shoots six-under-par 66; McKibbin, Detry and Chacarra tied for second spot; McIlroy in tied 13th place; Om Prakash best among the Indians",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/dp-world-india-championship-norgaard-gains-lead-on-a-rain-hit-opening-day/article71589016.ece",
+      "importance": 3,
+      "date_added": "2026-10-16"
+    },
+    {
+      "title": "DP World India Championship: McIlroy-Reed mend fences after rift",
+      "summary": "Earlier this year, Reed quit LIV Golf, which perhaps helped clear the way for the two golf giants to find common ground",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/dp-world-india-championship-mcilroy-reed-mend-fences-after-rift/article71589195.ece",
+      "importance": 3,
+      "date_added": "2026-10-16"
+    },
+    {
+      "title": "Umar hopes to prove a point against Vidarbha",
+      "summary": "The Jammu and Kashmir was ‘rested’ for the Ranji Trophy opener against Madhya Pradesh",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/cricket/umar-hopes-to-prove-a-point-against-vidarbha/article71588328.ece",
+      "importance": 3,
+      "date_added": "2026-10-16"
     }
   ]
 }
