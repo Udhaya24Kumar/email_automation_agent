@@ -1,123 +1,6 @@
 {
   "items": [
     {
-      "title": "RBI Raises Daily CRR Maintenance Requirement to 99%",
-      "summary": "The Reserve Bank of India (RBI) has increased the daily Cash Reserve Ratio (CRR) maintenance requirement to 99%.",
-      "category": "economy",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/rbi-raises-daily-crr-maintenance-requirement-to-99/",
-      "importance": 5,
-      "date_added": "2026-10-10"
-    },
-    {
-      "title": "Indian Navy to Commission INS Mangrol on October 12",
-      "summary": "The Indian Navy is set to commission INS Mangrol on October 12.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/indian-navy-to-commission-ins-mangrol-on-october-12/",
-      "importance": 5,
-      "date_added": "2026-10-10"
-    },
-    {
-      "title": "Navanethem 'Navi' Pillay Named Winner of 2026 Nobel Peace Prize",
-      "summary": "Justice Navanethem 'Navi' Pillay has been awarded the 2026 Nobel Peace Prize. She has served as a judge on international tribunals, including the International Criminal Court and the International Criminal Tribunal for Rwanda.",
-      "category": "awards",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/navanethem-navi-pillay-facts-about-2026-nobel-peace-prize-winner/article71564112.ece",
-      "importance": 5,
-      "date_added": "2026-10-10"
-    },
-    {
-      "title": "Navi Pillay Awarded 2026 Nobel Peace Prize",
-      "summary": "South African jurist of Tamil descent Navi Pillay has won the 2026 Nobel Peace Prize. She has previously served as a judge on the High Court in South Africa, the International Criminal Tribunal for Rwanda, and the International Criminal Court.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/navanethem-navi-pillay-wins-nobel-peace-prize-2026/article71563375.ece",
-      "importance": 5,
-      "date_added": "2026-10-10"
-    },
-    {
-      "title": "External Affairs Minister S. Jaishankar Completes Three-Nation African Tour",
-      "summary": "External Affairs Minister S. Jaishankar arrived in Ethiopia on the final leg of his three-nation tour of African nations, which also included Côte d’Ivoire and Ghana. The tour focused on strengthening the India-Africa partnership, self-reliance, and shared aspirations.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/jaishankar-highlights-shared-aspirations-self-reliance-in-india-africa-partnership/article71565822.ece",
-      "importance": 4,
-      "date_added": "2026-10-10"
-    },
-    {
-      "title": "High Court Strikes Down Madhya Pradesh's 27% OBC Reservation Law",
-      "summary": "The High Court declared Madhya Pradesh’s 27% OBC quota law unconstitutional following petitions challenging the state's Amendment Act of August 2019. The ruling addresses long-standing petitions regarding reservation limits in the state.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/madhya-pradesh/hc-strikes-down-madhya-pradeshs-27-obc-quota-law-calls-it-unconstitutional/article71565305.ece",
-      "importance": 4,
-      "date_added": "2026-10-10"
-    },
-    {
-      "title": "NASA's SpaceX Crew-12 Mission Returns After 237 Days",
-      "summary": "NASA's SpaceX Crew-12 has successfully returned following a 237-day mission.",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/nasas-spacex-crew-12-returns-after-237-day-mission/",
-      "importance": 4,
-      "date_added": "2026-10-10"
-    },
-    {
-      "title": "Centre Approves German Funding Proposal for Telangana Urban Initiative",
-      "summary": "The Central Government has approved a German funding proposal for an urban initiative in Telangana.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/centre-approves-german-funding-proposal-for-telangana-urban-initiative/",
-      "importance": 4,
-      "date_added": "2026-10-10"
-    },
-    {
-      "title": "Pieter Coetze Sets World Record in Men's 50m Backstroke",
-      "summary": "Pieter Coetze has set a new world record in the Men's 50m Backstroke swimming event.",
-      "category": "sports",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/pieter-coetze-sets-mens-50m-backstroke-world-record/",
-      "importance": 4,
-      "date_added": "2026-10-10"
-    },
-    {
-      "title": "IIT Ropar Awards First Defence Technology MTech Degrees to Army Officers",
-      "summary": "IIT Ropar has conferred its first MTech degrees in Defence Technology upon Indian Army officers.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/iit-ropar-awards-first-defence-technology-mtech-degrees-to-army-officers/",
-      "importance": 4,
-      "date_added": "2026-10-10"
-    },
-    {
-      "title": "Ten Candidates Elected Unopposed to Rajya Sabha from Uttar Pradesh",
-      "summary": "Eight BJP candidates and two SP candidates were elected unopposed to the Rajya Sabha from Uttar Pradesh.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/uttar-pradesh/eight-bjp-and-two-sp-candidates-from-up-elected-unopposed-to-rajya-sabha/article71564306.ece",
-      "importance": 4,
-      "date_added": "2026-10-10"
-    },
-    {
-      "title": "UNCTAD Report: India's Greenfield Investment Share Doubles China's (2020-25)",
-      "summary": "According to a report by the UN Conference on Trade and Development (UNCTAD), India's share of global greenfield investments during 2020-25 was more than double that of China. The report highlighted that greenfield investments are increasingly occurring in strategic sectors and noted that India remains the fastest-growing major economy.",
-      "category": "economy",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/business/Economy/indias-share-of-global-greenfield-investments-more-than-double-chinas-in-2020-25/article71564075.ece",
-      "importance": 4,
-      "date_added": "2026-10-10"
-    },
-    {
-      "title": "Bharat Spice Map Launched to Align Production with Demand",
-      "summary": "The Bharat Spice Map has been introduced to match spice production with industry demand.",
-      "category": "economy",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/bharat-spice-map-to-match-spice-production-with-industry-demand/",
-      "importance": 4,
-      "date_added": "2026-10-10"
-    },
-    {
       "title": "South African Jurist Navi Pillay Recognized with Nobel Peace Prize",
       "summary": "South African jurist Navi Pillay has been recognized with the Nobel Peace Prize for 2026 for her lifelong commitment to justice for the oppressed and powerless.",
       "category": "international",
@@ -1547,6 +1430,276 @@
       "url": "https://www.thehindu.com/sport/cricket/umar-hopes-to-prove-a-point-against-vidarbha/article71588328.ece",
       "importance": 3,
       "date_added": "2026-10-16"
+    },
+    {
+      "title": "World Bank Raises India's FY27 GDP Growth Projection to 7.1%",
+      "summary": "The World Bank has increased India's GDP growth projection for FY27 to 7.1%, driven by better-than-expected export performance.",
+      "category": "economy",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/Economy/world-bank-ups-indias-gdp-growth-projection-to-71-for-fy27/article71552011.ece",
+      "importance": 5,
+      "date_added": "2026-10-17"
+    },
+    {
+      "title": "India Ranks 84th in Henley Passport Index 2026",
+      "summary": "India has secured the 84th position in the Henley Passport Index 2026.",
+      "category": "international",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/india-ranks-84th-in-henley-passport-index-2026/",
+      "importance": 5,
+      "date_added": "2026-10-17"
+    },
+    {
+      "title": "Defence Ministry Signs ₹4,106 Crore Contracts for GSAT-7C and Varunastra",
+      "summary": "The Defence Ministry has signed contracts valued at ₹4,106 crore for the procurement of GSAT-7C and Varunastra.",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/defence-ministry-signs-%e2%82%b94106-crore-contracts-for-gsat-7c-and-varunastra/",
+      "importance": 5,
+      "date_added": "2026-10-17"
+    },
+    {
+      "title": "India Adds Sukhna Wetland and Sauj Jheel to Ramsar List",
+      "summary": "India has designated Sukhna Wetland and Sauj Jheel as new sites under the Ramsar List.",
+      "category": "environment",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/india-adds-sukhna-wetland-and-sauj-jheel-to-ramsar-list/",
+      "importance": 5,
+      "date_added": "2026-10-17"
+    },
+    {
+      "title": "Supreme Court Rejects A.P. Government Plea to Restore 34% Quota for Backward Classes in Local Bodies",
+      "summary": "The Supreme Court rejected the Andhra Pradesh government's plea to restore a 34% reservation for Backward Classes in local bodies. The court ruled that data from a unified family survey were insufficient to justify the quota without a specific empirical assessment of backwardness and representation.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/supreme-court-rejects-ap-government-plea-to-restore-34-quota-for-backward-classes-in-local-bodies/article71563329.ece",
+      "importance": 4,
+      "date_added": "2026-10-17"
+    },
+    {
+      "title": "North Korea Tests AI-Enabled Torpedo System and Underwater Missiles",
+      "summary": "North Korea announced the testing of a new torpedo system featuring AI capabilities, alongside its first underwater-launched missile tests in nearly three years.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/north-korea-claims-to-have-tested-a-new-ai-enabled-zam-20-torpedo-system/article71595423.ece",
+      "importance": 4,
+      "date_added": "2026-10-17"
+    },
+    {
+      "title": "Deforestation in Brazil's Amazon Jungle Drops to All-Time Low Since 1988",
+      "summary": "Deforestation in the Brazilian Amazon dropped to an all-time low since historical record-keeping began in 1988, with 3,335 square kilometres of jungle destroyed in the 12 months through July.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/brazils-amazon-deforestation-hits-a-record-low/article71595215.ece",
+      "importance": 4,
+      "date_added": "2026-10-17"
+    },
+    {
+      "title": "India Drafts BS-VII Emission Norms for Phased Rollout from April 2029",
+      "summary": "Draft BS-VII standards propose on-road emission testing along with new checks on brake and tyre pollution. The rules feature a phased rollout beginning with cars from April 2029.",
+      "category": "economy",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/what-changes-under-indias-proposed-bs-vii-vehicle-emission-rules-explained/article71591595.ece",
+      "importance": 4,
+      "date_added": "2026-10-17"
+    },
+    {
+      "title": "Aditya-L1 and Proba-3 Satellites Jointly Observe Solar Corona",
+      "summary": "Bengaluru scientists decoded solar eruptions using joint observations of the solar corona from the Aditya-L1 and Proba-3 satellites. The study utilized spectroscopic data from Aditya-L1's VELC coronagraph and imaging data from Proba-3's ASPIICS coronagraph.",
+      "category": "science",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sci-tech/bengaluru-scientists-decode-solar-eruptions-using-aditya-l1-and-proba-3-satellites/article71591287.ece",
+      "importance": 4,
+      "date_added": "2026-10-17"
+    },
+    {
+      "title": "Pramod Bhagat Named Flag Bearer for India's Para Asian Games Contingent",
+      "summary": "Para-badminton star Pramod Bhagat has been named the flag bearer for the Indian contingent at the Para Asian Games. During the official send-off event, Mandaviya launched the new jersey for the contingent.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/indias-para-asian-games-contingent-gets-warm-send-off-mandaviya-launches-new-jersey/article71561604.ece",
+      "importance": 4,
+      "date_added": "2026-10-17"
+    },
+    {
+      "title": "Kumkum Mohod and Pranavi Urs Script History at Asian Games 2026",
+      "summary": "Archer Kumkum Mohod and golfer Pranavi Urs featured among India's historic performers at the Asian Games 2026, where India won a total of 21 gold medals.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/asian-games-2026-a-look-at-india-85-medal-campaign/article71550429.ece",
+      "importance": 4,
+      "date_added": "2026-10-17"
+    },
+    {
+      "title": "Lionel Messi Retires from International Football",
+      "summary": "Argentina's 39-year-old football star Lionel Messi has retired from international football following a friendly victory over Benin.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/football/messi-retires-from-international-football-as-argentina-defeat-benin-in-friendly-match/article71554139.ece",
+      "importance": 4,
+      "date_added": "2026-10-17"
+    },
+    {
+      "title": "RBI Grants NOC for PFC-REC Merger",
+      "summary": "The Reserve Bank of India has granted a No Objection Certificate for the merger between PFC and REC.",
+      "category": "economy",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/rbi-grants-noc-for-pfc-rec-merger/",
+      "importance": 4,
+      "date_added": "2026-10-17"
+    },
+    {
+      "title": "Ladakh Adds Sankoo as Its Eighth District",
+      "summary": "Ladakh has expanded its administrative divisions by adding Sankoo as its eighth district.",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/ladakh-adds-sankoo-as-its-eighth-district/",
+      "importance": 4,
+      "date_added": "2026-10-17"
+    },
+    {
+      "title": "Aditya-L1 and Proba-3 Study Solar Eruptions",
+      "summary": "The Aditya-L1 and Proba-3 space missions are collaborating to study solar eruptions.",
+      "category": "science",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/aditya-l1-and-proba-3-study-solar-eruptions/",
+      "importance": 4,
+      "date_added": "2026-10-17"
+    },
+    {
+      "title": "Pakistan Ranks Lowest in Global Hunger Index 2026",
+      "summary": "Pakistan has placed at the lowest position in the Global Hunger Index 2026 rankings.",
+      "category": "reports",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/pakistan-ranks-lowest-in-global-hunger-index-2026/",
+      "importance": 4,
+      "date_added": "2026-10-17"
+    },
+    {
+      "title": "ADB and Japan Finance Green Ammonia Plant in Kakinada",
+      "summary": "Asian Development Bank and Japan are providing financing for a green ammonia plant located in Kakinada.",
+      "category": "environment",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/adb-and-japan-finance-green-ammonia-plant-in-kakinada/",
+      "importance": 4,
+      "date_added": "2026-10-17"
+    },
+    {
+      "title": "Hyderabad to Host 85th Indian Road Congress",
+      "summary": "Hyderabad has been selected to host the 85th Indian Road Congress starting from November 19.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/hyderabad-to-host-85th-indian-road-congress-from-november-19/article71564841.ece",
+      "importance": 4,
+      "date_added": "2026-10-17"
+    },
+    {
+      "title": "Reema Nanavaty Receives Hillary Rodham Clinton Award",
+      "summary": "Reema Nanavaty has been honored with the Hillary Rodham Clinton Award.",
+      "category": "awards",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/reema-nanavaty-receives-hillary-rodham-clinton-award/",
+      "importance": 4,
+      "date_added": "2026-10-17"
+    },
+    {
+      "title": "TDP will earmark 34% seats to BCs in local body elections, says Naidu",
+      "summary": "Blaming the YSRCP for creating hurdles in the implementation of reservation, the Chief Minister asserts that the TDP will stand by the BCs",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/tdp-will-earmark-34-seats-to-bcs-in-local-body-elections-says-naidu/article71564751.ece",
+      "importance": 3,
+      "date_added": "2026-10-17"
+    },
+    {
+      "title": "Anti-CEC protest LIVE | Abhijeet Dipke to be produced before SEM Court after Delhi Police action under BNSS",
+      "summary": "AISA president Neha Bora released on Oct. 17; Stalin, Mamata Banerjee, and Arvind Kejriwal condemn the CJP founder's detention",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/anti-cec-sir-protest-live-updates-oct-17-2026-cjp-tiranga-march-abhijeet-dipke-detained-delhi-police-neha-bora/article71595221.ece",
+      "importance": 3,
+      "date_added": "2026-10-17"
+    },
+    {
+      "title": "Kerala High Court directs CBI to conduct  further probe into death of violinist Balabhaskar",
+      "summary": "High Court slams the ‘casual and lackadaisical manner’ of earlier CBI probe into the 2018 accident that also claimed the life of the violinist’s 18-month-old daughter",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-directs-cbi-to-conduct-further-probe-into-death-of-violinist-balabhaskar/article71565065.ece",
+      "importance": 3,
+      "date_added": "2026-10-17"
+    },
+    {
+      "title": "Congress cites The Hindu article to allege SIR is leading to deletion of genuine voters",
+      "summary": "Jairam Ramesh also alleges that 85,854 pre-filled copies of Form 7, used to raise objections to voter entries, were generated through the ERONet software after the deadline for claims and objections had expired",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/congress-cites-the-hindu-article-to-allege-sir-is-leading-to-deletion-of-genuine-voters/article71564934.ece",
+      "importance": 3,
+      "date_added": "2026-10-17"
+    },
+    {
+      "title": "No complaints in Keralam about deliberate denial of voting right, says Chief Minister V.D. Satheesan",
+      "summary": "He says the present allegations against the ECI concerns removal of cores of names, adding Keralam has not seen complaints filed in this regard unlike States such as Maharashtra, West Bengal or Haryana",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/no-complaints-in-keralam-about-deliberate-denial-of-voting-right-says-chief-minister-vd-satheesan/article71565440.ece",
+      "importance": 3,
+      "date_added": "2026-10-17"
+    },
+    {
+      "title": "KSRTC to operate over 3,000 special buses for Dasara",
+      "summary": "The special services will operate in addition to its existing Karnataka Sarige, Rajahamsa, Sleeper, Airavat, Airavat Club Class, Ambari Dream Class, Pallakki Sleeper and Ashwamedha services.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/ksrtc-to-operate-over-3000-special-buses-for-dasara/article71564160.ece",
+      "importance": 3,
+      "date_added": "2026-10-17"
+    },
+    {
+      "title": "Jalahalli Cross underpass project gets fresh push with GBA Chief Commissioner’s inspection",
+      "summary": "Jalahalli Cross underpass project gets fresh push with GBA Chief Commissioner’s inspection",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/cities/bangalore/jalahalli-cross-underpass-project-gets-fresh-push-with-gba-chief-commissioners-inspection/article71564674.ece",
+      "importance": 3,
+      "date_added": "2026-10-17"
+    },
+    {
+      "title": "Live-streamed proceedings not meant for commercial gain, reiterates Supreme Court",
+      "summary": "Chief Justice of India Surya Kant clarified that the explicit bar did not amount to a gag or restriction on viewing live-streamed proceedings or court reportage",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/live-streamed-proceedings-not-meant-for-commercial-gain-reiterates-supreme-court/article71564502.ece",
+      "importance": 3,
+      "date_added": "2026-10-17"
+    },
+    {
+      "title": "Keralam child rights commission files case over plight of students in leaky P&T Apartment Complex in Mundamveli",
+      "summary": "Panel issues notices seeking reports from Greater Cochin Development Authority, Kochi Corporation, Local Self-Government Department, Life Mission and District Collector",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/keralam-child-rights-commission-files-case-over-plight-of-students-in-leaky-pt-apartment-complex-in-mundamveli/article71595372.ece",
+      "importance": 3,
+      "date_added": "2026-10-17"
+    },
+    {
+      "title": "Warangal sewerage project gets major boost as Centre clears ₹5,000 crore German funding proposal",
+      "summary": "Warangal sewerage project gets major boost as Centre clears ₹5,000 crore German funding proposal",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/warangal-sewerage-project-gets-major-boost-as-centre-clears-5000-crore-german-funding-proposal/article71563580.ece",
+      "importance": 3,
+      "date_added": "2026-10-17"
+    },
+    {
+      "title": "Proposed shift of Prajwal Revanna to Hindalga prison temporarily put on hold",
+      "summary": "Proposed shift of Prajwal Revanna to Hindalga prison temporarily put on hold",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/cities/bangalore/proposed-shift-of-prajwal-revanna-to-hindalga-prison-temporarily-put-on-hold/article71565262.ece",
+      "importance": 3,
+      "date_added": "2026-10-17"
     }
   ]
 }
