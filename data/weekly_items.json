@@ -1,87 +1,6 @@
 {
   "items": [
     {
-      "title": "South African Jurist Navi Pillay Recognized with Nobel Peace Prize",
-      "summary": "South African jurist Navi Pillay has been recognized with the Nobel Peace Prize for 2026 for her lifelong commitment to justice for the oppressed and powerless.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/navi-pillay-the-jurist-and-a-redemption/article71569258.ece",
-      "importance": 5,
-      "date_added": "2026-10-11"
-    },
-    {
-      "title": "Andhra Pradesh Accepts Commission Recommendations on Local Body BC Reservation",
-      "summary": "The Andhra Pradesh government has accepted the Dedicated Commission report headed by Rajeev Ranjan Mishra regarding local body reservation for Backward Classes (BCs). The report complies with the Supreme Court's triple test mandate and constitutional provisions.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-govt-accepts-dedicated-commissions-recommendations-on-bc-reservation/article71568829.ece",
-      "importance": 4,
-      "date_added": "2026-10-11"
-    },
-    {
-      "title": "Nobel Prize in Chemistry Highlights Discoveries in Chirality and Molecular Handedness",
-      "summary": "The Chemistry Nobel Prize focused on chirality and molecular handedness, highlighting discoveries by Henri Kagan and Kenso Soai and their importance in drug development.",
-      "category": "awards",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sci-tech/science/what-was-the-chemistry-nobel-prize-given-for-explained/article71570533.ece",
-      "importance": 4,
-      "date_added": "2026-10-11"
-    },
-    {
-      "title": "Mridangam Maestro Guruvayur Dorai Passes Away at 91",
-      "summary": "Mridangam maestro Guruvayur Dorai has passed away at the age of 91.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/mridangam-maestro-guruvayur-dorai-dies-at-91/",
-      "importance": 4,
-      "date_added": "2026-10-11"
-    },
-    {
-      "title": "Haryana Cabinet Approves Agniveer Policy Amendments for Group-C Employment",
-      "summary": "The Haryana cabinet chaired by CM Nayab Singh Saini has approved amendments to the state's Agniveer policy to ensure gainful employment. Under these approved amendments, Ex-Agniveers will be exempted from all examinations prescribed for direct recruitment to Group-C posts.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/haryana/haryana-cabinet-gives-nod-to-amendments-to-agniveer-policy-for-gainful-employment/article71568250.ece",
-      "importance": 4,
-      "date_added": "2026-10-11"
-    },
-    {
-      "title": "Cybersecurity Summit C0c0n-2026 Concludes in Kochi",
-      "summary": "The cybersecurity summit C0c0n-2026 concluded in Kochi, Keralam. The conference highlighted effective policing strategies to protect vulnerable groups from target cybercriminals.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/effective-policing-must-as-cybercriminals-target-vulnerable-groups-minister/article71568658.ece",
-      "importance": 4,
-      "date_added": "2026-10-11"
-    },
-    {
-      "title": "Noted Mridangam Artiste Guruvayur Dorai Passes Away",
-      "summary": "Renowned Indian classical music instrumentalist Guruvayur Dorai, a noted mridangam artiste, has passed away.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/noted-mridangam-artiste-guruvayur-dorai-passes-away/article71569144.ece",
-      "importance": 4,
-      "date_added": "2026-10-11"
-    },
-    {
-      "title": "PM Modi to Launch Chennai Metro Rail Phase 2",
-      "summary": "Prime Minister Narendra Modi will launch Chennai Metro Rail Phase 2, which will initially operate 15 trains between Poonamallee and Vadapalani with a 10-minute frequency during peak hours.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/pm-modi-to-launch-chennai-metro-rail-phase-2-to-share-ride-with-tamil-nadu-cm-vijay/article71568212.ece",
-      "importance": 4,
-      "date_added": "2026-10-11"
-    },
-    {
-      "title": "Harmanpreet Kaur Steps Down as Captain of Indian Women's Cricket Team",
-      "summary": "Indian cricketer Harmanpreet Kaur has stepped down as the captain of the national women's cricket team, though she will continue to play for the team as a player.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/cricket/harmanpreet-kaur-the-game-changer/article71569285.ece",
-      "importance": 4,
-      "date_added": "2026-10-11"
-    },
-    {
       "title": "INS Mangrol Inducted into Indian Navy as Anti-Submarine Warfare Craft",
       "summary": "INS Mangrol, an anti-submarine warfare shallow water craft, has been inducted into the Indian Navy. Built with over 80% indigenous content, the vessel reflects India's warship construction capabilities and integration of native weapons and sensors.",
       "category": "national",
@@ -1700,6 +1619,276 @@
       "url": "https://www.thehindu.com/news/cities/bangalore/proposed-shift-of-prajwal-revanna-to-hindalga-prison-temporarily-put-on-hold/article71565262.ece",
       "importance": 3,
       "date_added": "2026-10-17"
+    },
+    {
+      "title": "Robert E. Hall and Michael Woodford Awarded 2026 Economics Nobel Prize",
+      "summary": "Robert E. Hall and Michael Woodford won the 2026 Economics Nobel Prize for their contributions to macroeconomics. Their research demonstrated how individual choices, household expectations, and business behaviour influence the broader economy and government policies.",
+      "category": "economy",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/Economy/robert-e-hall-and-michael-woodford-putting-people-in-economics/article71597633.ece",
+      "importance": 5,
+      "date_added": "2026-10-18"
+    },
+    {
+      "title": "Shubman Gill and Shafali Verma Win ICC Player of the Month Awards",
+      "summary": "Indian cricketers Shubman Gill and Shafali Verma have been honoured with the ICC 'Player of the Month' awards for their respective categories. This is the fifth time overall and third time for India that players from the same national cricket board have swept both monthly awards.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/cricket/shubman-gill-and-shafali-verma-honoured-with-icc-player-of-the-month/article71578352.ece",
+      "importance": 5,
+      "date_added": "2026-10-18"
+    },
+    {
+      "title": "ISRO Completes Gaganyaan Module Separation Tests",
+      "summary": "ISRO has successfully carried out module separation tests for its flagship Gaganyaan mission.",
+      "category": "science",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/isro-completes-gaganyaan-module-separation-tests/",
+      "importance": 5,
+      "date_added": "2026-10-18"
+    },
+    {
+      "title": "Pakistan to Chair World Bank and IMF Boards in 2027",
+      "summary": "Pakistan is set to chair the leadership boards of both the World Bank and the International Monetary Fund (IMF) in 2027.",
+      "category": "international",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/pakistan-to-chair-world-bank-and-imf-boards-in-2027/",
+      "importance": 4,
+      "date_added": "2026-10-18"
+    },
+    {
+      "title": "EAM S. Jaishankar to Hold Bilateral Meetings with US and UAE Foreign Leaders in Mumbai",
+      "summary": "External Affairs Minister S. Jaishankar will hold separate diplomatic meetings in Mumbai with US official Marco Rubio and UAE Foreign Minister Sheikh Abdullah. The Ministry of External Affairs stated that hosting visiting leaders in cities outside the national capital is standard practice.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/jaishankar-rubio-to-hold-meeting-in-mumbai-on-oct-20-mea/article71592380.ece",
+      "importance": 4,
+      "date_added": "2026-10-18"
+    },
+    {
+      "title": "AGRICON 2026 Highlights Innovations in Agricultural Entrepreneurship and Technology",
+      "summary": "The AGRICON 2026 conference was held under the theme 'Where Agriculture Meets Enterprise, Innovation and Technology'. It focused on transforming agriculture into a sustainable and technology-driven enterprise through mechanisation, innovation, and investment.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/agricon-2026-highlights-new-opportunities-in-agricultural-entrepreneurship-and-technology/article71593174.ece",
+      "importance": 4,
+      "date_added": "2026-10-18"
+    },
+    {
+      "title": "Ethereal Exploration Guild Unveils Rocket Testing Facility Near Sriharikota",
+      "summary": "Bengaluru space-tech firm Ethereal Exploration Guild has unveiled a 150-acre rocket testing facility near Sriharikota. The facility will support the development of the firm's fully reusable medium-lift launch vehicle.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/Industry/bengaluru-space-tech-firm-the-guild-unveils-150-acre-rocket-testing-facility-near-sriharikota/article71593162.ece",
+      "importance": 4,
+      "date_added": "2026-10-18"
+    },
+    {
+      "title": "India Flags $100 Billion Trade Deficit Concerns with China",
+      "summary": "Finance Minister Nirmala Sitharaman raised concerns after India's trade deficit with China crossed $100 billion in the first nine months, citing trade imbalance and persistent market access restrictions. China expressed readiness to address mutual concerns.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/china-says-ready-to-address-each-others-concerns-after-fm-sitharaman-flags-trade-barriers/article71593446.ece",
+      "importance": 4,
+      "date_added": "2026-10-18"
+    },
+    {
+      "title": "IMF Releases World Economic Outlook Report and Upgrades 2026 Forecast",
+      "summary": "The International Monetary Fund upgraded its 2026 global growth forecast in its World Economic Outlook report. The report retained the 2027 global economic growth projection at 3.4%.",
+      "category": "economy",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/Economy/imf-slightly-raises-forecast-for-2026-global-growth-to-31-citing-resilience-to-shocks/article71577836.ece",
+      "importance": 4,
+      "date_added": "2026-10-18"
+    },
+    {
+      "title": "India's Retail Inflation Rises to 23-Month High of 5.5% in September 2026",
+      "summary": "India's Consumer Price Index (CPI) retail inflation increased to a 23-month high of 5.5% in September 2026, up from 4.8% in August 2026. The uptick was driven primarily by rising costs of food, fuel, and precious metals.",
+      "category": "economy",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/Economy/retail-inflation-rises-in-september-on-costlier-food-items/article71574789.ece",
+      "importance": 4,
+      "date_added": "2026-10-18"
+    },
+    {
+      "title": "UNCTAD Report Highlights India's Greenfield Investment Share Surpassing China",
+      "summary": "According to a report by the UN Conference on Trade and Development, India's share of global greenfield investments between 2020 and 2025 was more than double that of China. The report also confirmed India as the fastest-growing major economy.",
+      "category": "economy",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/Economy/indias-share-of-global-greenfield-investments-more-than-double-chinas-in-2020-25/article71564075.ece",
+      "importance": 4,
+      "date_added": "2026-10-18"
+    },
+    {
+      "title": "FEI Suspends Equestrian Federation of India Over Governance Crisis",
+      "summary": "The International Equestrian Federation (FEI) announced the suspension of the Equestrian Federation of India (EFI) effective December 1, barring Indian riders and officials from international events. The suspension follows a prolonged governance crisis triggered by the Delhi High Court's dissolution of EFI's executive committee and the absence of fresh elections.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/fei-suspends-efi-from-december-1-indian-riders-officials-to-be-barred-from-international-events/article71591344.ece",
+      "importance": 4,
+      "date_added": "2026-10-18"
+    },
+    {
+      "title": "Amruta Secures Silver as Indian Women Conclude U23 Worlds with Two Medals",
+      "summary": "Indian wrestler Amruta won a silver medal at the U23 Worlds after losing the final to Zablotska by a decisive pin. Her performance brought the Indian women's team total tally to two medals at the tournament.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/amruta-wins-silver-as-indian-women-end-u23-worlds-with-two-medals/article71597853.ece",
+      "importance": 4,
+      "date_added": "2026-10-18"
+    },
+    {
+      "title": "FSSAI Proposes Infant Nutrition Regulation Amendment",
+      "summary": "FSSAI has proposed amendments to regulations concerning infant nutrition.",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/fssai-proposes-infant-nutrition-regulation-amendment/",
+      "importance": 4,
+      "date_added": "2026-10-18"
+    },
+    {
+      "title": "Sangeet Natak Akademi Selects 2024 Yuva Puraskar Artists",
+      "summary": "The Sangeet Natak Akademi has announced the selected artists for the 2024 Yuva Puraskar.",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/sangeet-natak-akademi-selects-2024-yuva-puraskar-artists/",
+      "importance": 4,
+      "date_added": "2026-10-18"
+    },
+    {
+      "title": "Bhavina Patel Makes Winning Start at Asian Para Games",
+      "summary": "Bhavina Patel secured a winning start in her opening performance at the Asian Para Games.",
+      "category": "sports",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/bhavina-patel-makes-winning-start-at-asian-para-games/",
+      "importance": 4,
+      "date_added": "2026-10-18"
+    },
+    {
+      "title": "SCL Das Appointed to Lead Financial Services Institutions Bureau",
+      "summary": "SCL Das has been selected to head the Financial Services Institutions Bureau.",
+      "category": "awards",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/scl-das-to-lead-financial-services-institutions-bureau/",
+      "importance": 4,
+      "date_added": "2026-10-18"
+    },
+    {
+      "title": "India Appoints Sudhakar Dalela as Ambassador to Nepal",
+      "summary": "India has named Sudhakar Dalela to serve as its Ambassador to Nepal.",
+      "category": "international",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/india-names-sudhakar-dalela-as-ambassador-to-nepal/",
+      "importance": 4,
+      "date_added": "2026-10-18"
+    },
+    {
+      "title": "Indian Scientists Identify Martian Analogue Sites",
+      "summary": "Indian scientists have successfully identified Martian analogue sites for scientific exploration and research.",
+      "category": "science",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/indian-scientists-identify-martian-analogue-sites/",
+      "importance": 4,
+      "date_added": "2026-10-18"
+    },
+    {
+      "title": "I want to be the strike bowler and go-to batter: Shedge",
+      "summary": "A possible maiden ODI call-up for the New Zealand tour is now a talking point, but his immediate focus is Mumbai’s Ranji Trophy fixture against Himachal Pradesh",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/cricket/i-want-to-be-the-strike-bowler-and-go-to-batter-shedge/article71592921.ece",
+      "importance": 3,
+      "date_added": "2026-10-18"
+    },
+    {
+      "title": "Roundglass Sustain’s short film A Spring Against All Odds to be showcased at international film festival",
+      "summary": "The film, one of 48 films selected for Film SouthAsia (FSA), an international documentary film festival to be held in Kathmandu from November 27–29, 2026, is based on a script by Radhika Raj and has been directed by Samreen Farooqui",
+      "category": "environment",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/entertainment/movies/roundglass-sustains-short-film-a-spring-against-all-odds-to-be-showcased-at-international-film-festival/article71562550.ece",
+      "importance": 3,
+      "date_added": "2026-10-18"
+    },
+    {
+      "title": "Forest ‘violations’ in Keralam’s Chalakudy division come under scrutiny",
+      "summary": "Greens claim up to 20,000 trees may be cut for installing solar fence in the area. Supreme Court-constituted Central Empowered Committee earlier directed Keralam Forest department and VACB to jointly submit their response",
+      "category": "environment",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/forest-violations-in-keralams-chalakudy-division-come-under-scrutiny/article71574607.ece",
+      "importance": 3,
+      "date_added": "2026-10-18"
+    },
+    {
+      "title": "Restrictions on firecrackers: Supreme Court urges balance between religious sentiments and public health",
+      "summary": "Justice Joymalya Bagchi questions religious basis for bursting firecrackers; CJI cautions against restrictions which cannot be enforced on the ground, says people should be educated to reject harmful cracker varieties",
+      "category": "environment",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/cities/Delhi/restrictions-on-firecrackers-supreme-court-urges-balance-between-religious-sentiments-and-public-health/article71576501.ece",
+      "importance": 3,
+      "date_added": "2026-10-18"
+    },
+    {
+      "title": "Assam, Meghalaya villagers join hands to oppose States’ joint hydropower project",
+      "summary": "Residents of villages along the Kulsi River gather under the banner of Assam-Meghalaya Joint Protection Committee, saying the dam would affect 46 villages",
+      "category": "environment",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/assam/assam-meghalaya-villagers-join-hands-to-oppose-states-joint-hydropower-project/article71568221.ece",
+      "importance": 3,
+      "date_added": "2026-10-18"
+    },
+    {
+      "title": "Lionel Messi scores twice, adds assist to propel Inter Miami to 3-1 victory over Atlanta United",
+      "summary": "Messi tied Los Angeles FC's Son Heung-min for the league lead with his 15th assist, becoming the first player in league history with at least 15 helpers in three consecutive seasons",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/football/lionel-messi-scores-twice-adds-assist-to-propel-inter-miami-to-3-1-victory-over-atlanta-united/article71599015.ece",
+      "importance": 3,
+      "date_added": "2026-10-18"
+    },
+    {
+      "title": "Health Quiz: On arthritis",
+      "summary": "Everybody has heard of arthritis: a senior citizen in the family may be suffering, or perhaps someone at work. The term is common enough, but with World Arthritis Day coming up on October 13, how much do you know about it? Take this quiz to find out!",
+      "category": "science",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/health-quiz-on-arthritis/article71582241.ece",
+      "importance": 3,
+      "date_added": "2026-10-18"
+    },
+    {
+      "title": "World’s top climate body deadlocked over inclusivity concerns",
+      "summary": "Countries including India, Kenya, Saudi Arabia, Russia, and China are pressing for more time to prepare the IPCC’s next reports to ensure scientists from less-resourced countries can make meaningful contributions",
+      "category": "science",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/ipcc-deadlocked-inclusivity-concerns-reports-publishing-more-time/article71574460.ece",
+      "importance": 3,
+      "date_added": "2026-10-18"
+    },
+    {
+      "title": "What was the Chemistry Nobel Prize given for? | Explained",
+      "summary": "What are chirality and molecular ‘handedness’, and why does life favour one form over the other? Why does the handedness of a molecule matter when developing drugs? What did Henri Kagan and Kenso Soai discover? Can it explain the origins of life?",
+      "category": "awards",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/what-was-the-chemistry-nobel-prize-given-for-explained/article71570533.ece",
+      "importance": 3,
+      "date_added": "2026-10-18"
+    },
+    {
+      "title": "Warming Himalayas demand a rethink on development",
+      "summary": "The ‘cement’ is melting — retreating glaciers and thawing permafrost are heightening disaster risks in the Indian Himalayan Region",
+      "category": "environment",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/opinion/op-ed/warming-himalayas-demand-a-rethink-on-development/article71576109.ece",
+      "importance": 3,
+      "date_added": "2026-10-18"
+    },
+    {
+      "title": "On the ‘Super’ El Niño effect | Green Humour by Rohan Chakravarty",
+      "summary": "On the ‘Super’ El Niño effect | Green Humour by Rohan Chakravarty",
+      "category": "environment",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/on-the-super-el-nino-effect-green-humour-by-rohan-chakravarty/article71546325.ece",
+      "importance": 3,
+      "date_added": "2026-10-18"
     }
   ]
 }
