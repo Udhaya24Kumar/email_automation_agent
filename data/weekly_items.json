@@ -1,276 +1,6 @@
 {
   "items": [
     {
-      "title": "INS Mangrol Inducted into Indian Navy as Anti-Submarine Warfare Craft",
-      "summary": "INS Mangrol, an anti-submarine warfare shallow water craft, has been inducted into the Indian Navy. Built with over 80% indigenous content, the vessel reflects India's warship construction capabilities and integration of native weapons and sensors.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/ins-mangrol-anti-submarine-warfare-shallow-water-craft-inducted-into-navy/article71573861.ece",
-      "importance": 5,
-      "date_added": "2026-10-12"
-    },
-    {
-      "title": "Prakash Rajpurohit Appointed as Deputy Election Commissioner in ECI",
-      "summary": "Prakash Rajpurohit has been appointed as the new Deputy Election Commissioner in the Election Commission of India. He succeeds Sanjay Kumar following his premature repatriation.",
-      "category": "awards",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/eci-appoints-new-deputy-election-commissioner-amid-hierarchy-concerns/article71570989.ece",
-      "importance": 4,
-      "date_added": "2026-10-12"
-    },
-    {
-      "title": "El Nino Sets Temperature Record in Key Pacific Zone",
-      "summary": "According to an EU monitor, the current El Nino phenomenon has set a new temperature record in a key Pacific zone. Global forecasters warn that this episode could potentially become the strongest ever observed.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/el-nino-sets-temperature-record-in-key-pacific-zone-eu-monitor/article71573644.ece",
-      "importance": 4,
-      "date_added": "2026-10-12"
-    },
-    {
-      "title": "TDB-DST Signs ₹86 Crore Agreement with Peptris for AI-Based Drug Discovery",
-      "summary": "The Technology Development Board (TDB) under the Department of Science and Technology (DST) signed an agreement for an ₹86 crore RDI collaboration with Peptris. The agreement aims to accelerate AI-based drug discovery and development operations.",
-      "category": "science",
-      "source": "pib",
-      "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2322096",
-      "importance": 4,
-      "date_added": "2026-10-12"
-    },
-    {
-      "title": "IITM Pune Hosts APARC Early Career Workshop",
-      "summary": "IITM Pune Hosts APARC Early Career Workshop",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/iitm-pune-hosts-aparc-early-career-workshop/",
-      "importance": 3,
-      "date_added": "2026-10-12"
-    },
-    {
-      "title": "INS Sahyadri Reaches Russia for INDRA-2026 Naval Exercise",
-      "summary": "INS Sahyadri Reaches Russia for INDRA-2026 Naval Exercise",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/ins-sahyadri-reaches-russia-for-indra-2026-naval-exercise/",
-      "importance": 3,
-      "date_added": "2026-10-12"
-    },
-    {
-      "title": "PM Modi Launches Tamil Nadu Projects Worth Over ₹13,000 Crore",
-      "summary": "PM Modi Launches Tamil Nadu Projects Worth Over ₹13,000 Crore",
-      "category": "economy",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/pm-modi-launches-tamil-nadu-projects-worth-over-%e2%82%b913000-crore/",
-      "importance": 3,
-      "date_added": "2026-10-12"
-    },
-    {
-      "title": "Anti-CEC row LIVE: Rahul Gandhi says Modi protecting Gyanesh Kumar; questions government over stopping people from reaching protest site",
-      "summary": "Congress chief Kharge asks INDIA bloc MPs to assemble at Constitution Club at 1 p.m.; sources say CJI Surya Kant declined a request by Rahul Gandhi for a meeting as the issues were already sub judice",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/anti-cec-protests-against-gyanesh-kumar-cjp-october-12-2026-live-updates/article71573601.ece",
-      "importance": 3,
-      "date_added": "2026-10-12"
-    },
-    {
-      "title": "CMRL pay-off case: Keralam VACB registers two FIRs, Pinarayi Vijayan, Veena, Mohamed Riyas among accused",
-      "summary": "The transactions had initially come under scrutiny after investigations by the Income Tax Department and subsequent action by the Enforcement Directorate",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/cmrl-pay-off-case-keralamvacb-registers-two-firs-pinarayi-vijayan-veena-mohamed-riyas-among-accused/article71573840.ece",
-      "importance": 3,
-      "date_added": "2026-10-12"
-    },
-    {
-      "title": "Kutch Copper Plans 115 MW Renewable Energy Integration",
-      "summary": "Kutch Copper Plans 115 MW Renewable Energy Integration",
-      "category": "environment",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/kutch-copper-plans-115-mw-renewable-energy-integration/",
-      "importance": 3,
-      "date_added": "2026-10-12"
-    },
-    {
-      "title": "Madhya Pradesh Begins Wild Buffalo Reintroduction After a Century",
-      "summary": "Madhya Pradesh Begins Wild Buffalo Reintroduction After a Century",
-      "category": "environment",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/madhya-pradesh-begins-wild-buffalo-reintroduction-after-a-century/",
-      "importance": 3,
-      "date_added": "2026-10-12"
-    },
-    {
-      "title": "UNICEF India Names Smriti Mandhana Celebrity Advocate",
-      "summary": "UNICEF India Names Smriti Mandhana Celebrity Advocate",
-      "category": "international",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/unicef-india-names-smriti-mandhana-celebrity-advocate/",
-      "importance": 3,
-      "date_added": "2026-10-12"
-    },
-    {
-      "title": "INS Trishul Arrives in UK for Exercise KONKAN-26",
-      "summary": "INS Trishul Arrives in UK for Exercise KONKAN-26",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/ins-trishul-arrives-in-uk-for-exercise-konkan-26/",
-      "importance": 3,
-      "date_added": "2026-10-12"
-    },
-    {
-      "title": "Maaya Rajeshwaran Revathi Wins ITF W35 Singles Title",
-      "summary": "Maaya Rajeshwaran Revathi Wins ITF W35 Singles Title",
-      "category": "sports",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/maaya-rajeshwaran-revathi-wins-itf-w35-singles-title/",
-      "importance": 3,
-      "date_added": "2026-10-12"
-    },
-    {
-      "title": "Despite Collector’s ultimatum, Kochi Chander Kunj apartments takeover remains uncertain",
-      "summary": "While apartment owners from various parts of the State, along with the Revenue Divisional Officer and the tahsildar, assembled at the clubhouse of the apartment complex, AWHO representatives failed to turn up",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/despite-collectors-ultimatum-kochi-chander-kunj-apartments-takeover-remains-uncertain/article71573885.ece",
-      "importance": 3,
-      "date_added": "2026-10-12"
-    },
-    {
-      "title": "Delhi Metro seat dispute turns fatal, former IAS officer and son arrested after man’s death",
-      "summary": "The 48-year-old victim was travelling with his mother when an argument over a seat reserved for senior citizens allegedly escalated into a physical altercation; he collapsed at Supreme Court Metro station and was declared dead at hospital",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/cities/Delhi/man-dies-after-alleged-assault-over-seat-inside-delhi-metro-ex-ias-officer-son-arrested/article71573844.ece",
-      "importance": 3,
-      "date_added": "2026-10-12"
-    },
-    {
-      "title": "Democratic and political protests must take place but Supreme Court must not be dragged into it: CJI",
-      "summary": "“There should not be any inconvenience caused to litigants, lawyers, court staff. I have also requested...” Chief Justice Kant said in open court",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/democratic-and-political-protests-must-take-place-but-supreme-court-must-not-be-dragged-into-it-cji/article71573950.ece",
-      "importance": 3,
-      "date_added": "2026-10-12"
-    },
-    {
-      "title": "Villages evacuated as flash flood from Budhi Gandaki River hits northern Nepal",
-      "summary": "Residents in north central Nepal have evacuated after flash flooding on the Budhi Gandaki river",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/villages-evacuated-as-flash-flood-from-budhi-gandaki-river-hits-northern-nepal/article71570887.ece",
-      "importance": 3,
-      "date_added": "2026-10-12"
-    },
-    {
-      "title": "Poland's police warn of a possible plot to attack Prime Minister Donald Tusk",
-      "summary": "Security services, police, and representatives of the Interior Ministry were scheduled to hold an emergency meeting at 11 am (0900 GMT) on October 11 to discuss the situation, Karolina Galecka, says Interior Ministry spokesperson",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/polands-police-warn-of-a-possible-plot-to-attack-prime-minister-donald-tusk/article71571270.ece",
-      "importance": 3,
-      "date_added": "2026-10-12"
-    },
-    {
-      "title": "Roundglass Sustain’s short film A Spring Against All Odds to be showcased at international film festival",
-      "summary": "The film, one of 48 films selected for Film SouthAsia (FSA), an international documentary film festival to be held in Kathmandu from November 27–29, 2026, is based on a script by Radhika Raj and has been directed by Samreen Farooqui",
-      "category": "environment",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/entertainment/movies/roundglass-sustains-short-film-a-spring-against-all-odds-to-be-showcased-at-international-film-festival/article71562550.ece",
-      "importance": 3,
-      "date_added": "2026-10-12"
-    },
-    {
-      "title": "Udhayveer Sidhu Wins Cairo 10m Air Pistol Gold",
-      "summary": "Udhayveer Sidhu Wins Cairo 10m Air Pistol Gold",
-      "category": "sports",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/udhayveer-sidhu-wins-cairo-10m-air-pistol-gold/",
-      "importance": 3,
-      "date_added": "2026-10-12"
-    },
-    {
-      "title": "World Bank Considers $100 Billion Crisis Financing",
-      "summary": "World Bank Considers $100 Billion Crisis Financing",
-      "category": "economy",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/world-bank-considers-100-billion-crisis-financing/",
-      "importance": 3,
-      "date_added": "2026-10-12"
-    },
-    {
-      "title": "Aditya Mehta Wins Gold at Commonwealth Cue Sports Championships",
-      "summary": "Aditya Mehta Wins Gold at Commonwealth Cue Sports Championships",
-      "category": "sports",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/aditya-mehta-wins-gold-at-commonwealth-cue-sports-championships/",
-      "importance": 3,
-      "date_added": "2026-10-12"
-    },
-    {
-      "title": "M.R. Raghava Varier Named 2026 M.G.S. Narayanan Memorial Awardee",
-      "summary": "M.R. Raghava Varier Named 2026 M.G.S. Narayanan Memorial Awardee",
-      "category": "awards",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/m-r-raghava-varier-named-2026-m-g-s-narayanan-memorial-awardee/",
-      "importance": 3,
-      "date_added": "2026-10-12"
-    },
-    {
-      "title": "India Targets 604 Million Tonnes of Steel Capacity by 2047",
-      "summary": "India Targets 604 Million Tonnes of Steel Capacity by 2047",
-      "category": "economy",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/india-targets-604-million-tonnes-of-steel-capacity-by-2047/",
-      "importance": 3,
-      "date_added": "2026-10-12"
-    },
-    {
-      "title": "Ankita Dhyani Sets Meet Record at Open National Athletics Championships",
-      "summary": "Ankita Dhyani Sets Meet Record at Open National Athletics Championships",
-      "category": "sports",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/ankita-dhyani-sets-meet-record-at-open-national-athletics-championships/",
-      "importance": 3,
-      "date_added": "2026-10-12"
-    },
-    {
-      "title": "Samsung Affiliates Plan $9.15 Billion Semiconductor Investment",
-      "summary": "Samsung Affiliates Plan $9.15 Billion Semiconductor Investment",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/samsung-affiliates-plan-9-15-billion-semiconductor-investment/",
-      "importance": 3,
-      "date_added": "2026-10-12"
-    },
-    {
-      "title": "Dissanayake highlights ‘good relations’ with India, points to New Delhi’s Katchatheevu stance",
-      "summary": "Sri Lankan President says India has acknowledged before its Supreme Court that Katchatheevu belongs to Sri Lanka. Last week, Attorney General R. Venkataramani told the court that India did not intend reopening the Katchatheevu agreements of 1974 and 1976 with Sri Lanka",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/dissanayake-highlights-good-relations-with-india-points-to-new-delhis-katchatheevu-stance/article71572026.ece",
-      "importance": 3,
-      "date_added": "2026-10-12"
-    },
-    {
-      "title": "Pakistan President declares emergency in Khyber Pakhtunkhwa, provincial government ceases to exist",
-      "summary": "An emergency allows Pakistan's federal government to assume key executive and legislative powers in a province during a security crisis or breakdown of constitutional governance",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/pakistan-president-declares-emergency-in-khyber-pakhtunkhwa-provincial-government-ceases-to-exist/article71571044.ece",
-      "importance": 3,
-      "date_added": "2026-10-12"
-    },
-    {
-      "title": "TRISHNA satellite is in advanced stage of realisation, says ISRO official",
-      "summary": "TRISHNA is the third satellite that India and France are developing after Megha-Tropiques and SARAL (Satellite with ARGOS and ALTIKA) satellites.",
-      "category": "science",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sci-tech/science/trishna-satellite-is-in-advanced-stage-of-realisation-says-isro-official/article71571635.ece",
-      "importance": 3,
-      "date_added": "2026-10-12"
-    },
-    {
       "title": "INS Tarkash Joins IBSAMAR IX 2026 Naval Exercise",
       "summary": "INS Tarkash Joins IBSAMAR IX 2026 Naval Exercise",
       "category": "national",
@@ -1889,6 +1619,276 @@
       "url": "https://www.thehindu.com/sci-tech/energy-and-environment/on-the-super-el-nino-effect-green-humour-by-rohan-chakravarty/article71546325.ece",
       "importance": 3,
       "date_added": "2026-10-18"
+    },
+    {
+      "title": "India to Attend SCO Heads of Government Meeting in Tajikistan",
+      "summary": "India will participate in the upcoming Shanghai Cooperation Organisation (SCO) Heads of Government meeting in Tajikistan.",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/india-to-participate-in-sco-heads-of-government-meeting-in-tajikistan/",
+      "importance": 5,
+      "date_added": "2026-10-19"
+    },
+    {
+      "title": "Japan to Launch MMX Mission to Sample Martian Moon Phobos",
+      "summary": "Japan is set to launch the MMX mission with the objective of collecting samples from Phobos.",
+      "category": "science",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/japan-to-launch-mmx-mission-to-sample-phobos/",
+      "importance": 5,
+      "date_added": "2026-10-19"
+    },
+    {
+      "title": "India Records Best-Ever Performance at 2023 Para Asian Games",
+      "summary": "India finished fifth overall at the 2023 Para Asian Games in Hangzhou, achieving its best-ever haul at the continental multi-sport event. The Indian contingent secured a total tally consisting of 29 gold, 31 silver, and 51 bronze medals.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/india-eyes-strong-para-asian-games-campaign-despite-reduced-contingent/article71595831.ece",
+      "importance": 4,
+      "date_added": "2026-10-19"
+    },
+    {
+      "title": "Simran Sharma and Pramod Bhagat Lead Indian Contingent at Para Asian Games",
+      "summary": "More than 100 Indian athletes participated in the opening ceremony of the Para Asian Games. Paralympic medallist sprinter Simran Sharma and shuttler Pramod Bhagat led the contingent as flag bearers carrying the national flag.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/indias-para-asian-games-contingent-showcases-5000-years-of-heritage/article71601142.ece",
+      "importance": 4,
+      "date_added": "2026-10-19"
+    },
+    {
+      "title": "Supreme Court Bars Mid-Term Fee Hikes in Professional Courses",
+      "summary": "The Supreme Court of India has ruled against mid-term fee hikes in professional courses except under extraordinary circumstances. The Court observed that fees for professional courses represent a substantial portion of a household's income and savings.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/supreme-court-bars-mid-term-fee-hikes-in-professional-courses-except-in-extraordinary-circumstances/article71600054.ece",
+      "importance": 4,
+      "date_added": "2026-10-19"
+    },
+    {
+      "title": "Japan to Launch Spacecraft for Martian Moon Sample Return Mission",
+      "summary": "Japan is preparing to launch a five-year space mission to collect samples from the Martian moon Phobos. The mission aims to uncover clues regarding the formation of Phobos and Deimos and the origins of life in the solar system.",
+      "category": "science",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/japan-to-launch-mmx-to-phobos-to-collect-moon-samples/article71599258.ece",
+      "importance": 4,
+      "date_added": "2026-10-19"
+    },
+    {
+      "title": "Manasi Joshi and Thulasimathi Secure Para-Badminton Medal",
+      "summary": "Indian athletes Manasi Joshi and Thulasimathi have secured a medal in para-badminton.",
+      "category": "sports",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/manasi-joshi-and-thulasimathi-secure-para-badminton-medal/",
+      "importance": 4,
+      "date_added": "2026-10-19"
+    },
+    {
+      "title": "NASA to Launch PUFFINS Mission to Study Interstellar Dust",
+      "summary": "NASA has announced its PUFFINS mission aimed at studying interstellar dust.",
+      "category": "science",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/nasas-puffins-mission-to-study-interstellar-dust/",
+      "importance": 4,
+      "date_added": "2026-10-19"
+    },
+    {
+      "title": "Scientists Awarded 2026 Europhysics Prize for Altermagnetism",
+      "summary": "Scientists have received the 2026 Europhysics Prize for their contributions to the study of altermagnetism.",
+      "category": "science",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/scientists-receive-2026-europhysics-prize-for-altermagnetism/",
+      "importance": 4,
+      "date_added": "2026-10-19"
+    },
+    {
+      "title": "Delhi Cabinet Approves ₹50-Crore Go-Delhi Foundation",
+      "summary": "The Delhi Cabinet has approved the establishment of the Go-Delhi Foundation with a budget of ₹50 crore.",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/delhi-cabinet-approves-%e2%82%b950-crore-go-delhi-foundation/",
+      "importance": 4,
+      "date_added": "2026-10-19"
+    },
+    {
+      "title": "Invasive Lantana Spreads Across 13 Million Hectares in India",
+      "summary": "The invasive plant species Lantana has expanded its coverage to over 13 million hectares across India.",
+      "category": "environment",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/invasive-lantana-spreads-across-more-than-13-million-hectares-in-india/",
+      "importance": 4,
+      "date_added": "2026-10-19"
+    },
+    {
+      "title": "SpaDeX Satellites Re-enter Earth's Atmosphere Seven Hours Apart",
+      "summary": "The SpaDeX satellites completed their atmospheric re-entry into Earth seven hours apart from each other.",
+      "category": "science",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/spadex-satellites-re-enter-earths-atmosphere-seven-hours-apart/",
+      "importance": 4,
+      "date_added": "2026-10-19"
+    },
+    {
+      "title": "Trade Margin Rationalisation Extended to 137 Anti-Cancer Drugs",
+      "summary": "Trade margin rationalisation measures have been applied to cover a total of 137 anti-cancer medications.",
+      "category": "economy",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/trade-margin-rationalisation-covers-137-anti-cancer-drugs/",
+      "importance": 4,
+      "date_added": "2026-10-19"
+    },
+    {
+      "title": "INS Sudarshini Visits Oman as Part of Lokayan-2026",
+      "summary": "Indian Naval Ship INS Sudarshini made a port call in Oman during the Lokayan-2026 deployment.",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/ins-sudarshini-visits-oman-during-lokayan-2026/",
+      "importance": 4,
+      "date_added": "2026-10-19"
+    },
+    {
+      "title": "An Se Young Creates Women’s Singles Title Record",
+      "summary": "Badminton player An Se Young has set a new record for the most titles won in women's singles.",
+      "category": "sports",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/an-se-young-sets-womens-singles-title-record/",
+      "importance": 4,
+      "date_added": "2026-10-19"
+    },
+    {
+      "title": "Israeli PM Netanyahu warns of potentially hostile future U.S. President, calls for alliances with India, Latin America",
+      "summary": "The remarks came hours before a strong endorsement he received from U.S. President Donald Trump, who publicly expressed his support for Mr. Netanyahu's re-election bid days before the country goes to the polls",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/israeli-pm-netanyahu-warns-of-potentially-hostile-future-us-president-calls-for-alliances-with-india-latin-america/article71601129.ece",
+      "importance": 3,
+      "date_added": "2026-10-19"
+    },
+    {
+      "title": "Vance defends ‘indentured servants’ remark on H-1B workers; admits ‘rhetoric’ has been ‘imperfect’",
+      "summary": "The string of sharp queriesat the CBS News Townhall, some from voters who said they had supported him and President Donald Trump, previewed the rocky path he may face trying to answer for the administration's record if he runs for President himself in 2028",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/vice-president-vance-faces-tough-questions-on-iran-war-immigration-and-more-in-cbs-town-hall/article71599161.ece",
+      "importance": 3,
+      "date_added": "2026-10-19"
+    },
+    {
+      "title": "Iran's new Defence Minister Akhlaghi threatens 'enormous damage' if U.S. attacks",
+      "summary": "The veteran defence official replaces Aziz Nasirzadeh, who was killed in a U.S.-Israeli attack on a leadership compound on February 28, alongside former Supreme leader Ayatollah Ali Khamenei and senior military commanders",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/irans-new-defence-minister-akhlaghi-threatens-enormous-damage-if-us-attacks/article71600872.ece",
+      "importance": 3,
+      "date_added": "2026-10-19"
+    },
+    {
+      "title": "Bomb threat forces airliner from Tel Aviv to divert to Bulgaria",
+      "summary": "The Bulgarian air force scrambled a MiG-29 fighter jet to escort the airliner as part of established procedures, says the Transport Ministry",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/bomb-threat-forces-airliner-from-tel-aviv-to-divert-to-bulgaria/article71601270.ece",
+      "importance": 3,
+      "date_added": "2026-10-19"
+    },
+    {
+      "title": "Trump endorses Netanyahu in Israeli election",
+      "summary": "“This is the ⁠kind of Partner that the United States of America is demanding of Israel, ​a Country ‌for which it has done so much,” the U.S. President wrote on Truth Social",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/trump-endorses-netanyahu-in-israeli-election/article71600598.ece",
+      "importance": 3,
+      "date_added": "2026-10-19"
+    },
+    {
+      "title": "Albania protests continue for sixth straight day demanding Prime Minister’s resignation",
+      "summary": "Hundreds of protesters gathered on Sunday in front of the Education Ministry chanting “Rama, resign” in a tense standoff with the police, who later used water cannons and tear gas to hold back the crowds",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/albania-protests-continue-for-sixth-straight-day-demanding-prime-ministers-resignation/article71599909.ece",
+      "importance": 3,
+      "date_added": "2026-10-19"
+    },
+    {
+      "title": "Iran's Parliament approves Mehrdad Akhlaqi as Minister of Defence",
+      "summary": "Mehrdad Akhlaqi Ketabchi replaces Majid Ebn al-Reza, who took over in an interim capacity after then Defence ‌Minister Aziz Nasirzadeh was killed by U.S.-Israeli strikes in February",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/irans-parliament-approves-mehrdad-akhlaqi-as-minister-of-defence/article71600323.ece",
+      "importance": 3,
+      "date_added": "2026-10-19"
+    },
+    {
+      "title": "Donald Trump says ‘France is burning’, country ‘shattered’ by immigration",
+      "summary": "France is reeling from widespread damage during protests the day before that left a historic town hall torched and led to 1,800 arrests, piling pressure on President Emmanuel Macron six months before elections to replace him",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/donald-trump-says-france-is-burning-country-shattered-by-immigration/article71600252.ece",
+      "importance": 3,
+      "date_added": "2026-10-19"
+    },
+    {
+      "title": "Alberta Premier says 39 people hospitalised, at least 19 critical after fire at Canada military base",
+      "summary": "Prime Minister Mark Carney earlier confirmed that four service members were killed in the fire",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/deadly-fire-at-canadian-forces-base-wainwright-leaves-several-dead-and-hospitalised/article71601268.ece",
+      "importance": 3,
+      "date_added": "2026-10-19"
+    },
+    {
+      "title": "St. Petersburg oil facilities ablaze as Ukraine launches more than 1,000 drones at Russia",
+      "summary": "A logistics centre belonging to Russian retailer Ozon and a data centre operated by Russian tech giant VK were also targeted, the companies confirmed",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/st-petersburg-oil-facilities-ablaze-as-ukraine-launches-more-than-1000-drones-at-russia/article71600876.ece",
+      "importance": 3,
+      "date_added": "2026-10-19"
+    },
+    {
+      "title": "Russian military satellite makes ‘close approach’ to U.S. radar satellite in orbit",
+      "summary": "Russia’s Cosmos-2612 satellite has changed its orbit repeatedly to approach ICEYE-X36, a commercial radar-imaging satellite registered in the U.S. and whose operator currently supplies data to Ukraine",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/russian-military-satellite-stalks-us-radar-satellite-in-orbit/article71599219.ece",
+      "importance": 3,
+      "date_added": "2026-10-19"
+    },
+    {
+      "title": "60-day pause on Russia sanctions to analyse global impact: Rubio",
+      "summary": "U.S. Secretary of State Marco Rubio has said the waiver from sanctions on Russia and tariffs on other countries, including India, was a 60-day pause to analyse the global impact of the measure.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/secretary-of-state-marco-rubio-comments-before-departing-to-uzbekistan-and-india/article71599016.ece",
+      "importance": 3,
+      "date_added": "2026-10-19"
+    },
+    {
+      "title": "Saudi coalition says two pilots killed in chopper crash near Yemen",
+      "summary": "The coalition blamed a \"technical malfunction\" for the incident, which inflicted its first military fatalities since the long-running war with the Houthis reignited in July",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/saudi-coalition-says-two-pilots-killed-in-chopper-crash-near-yemen/article71599858.ece",
+      "importance": 3,
+      "date_added": "2026-10-19"
+    },
+    {
+      "title": "Kimberly Guilfoyle | The flashy diplomat",
+      "summary": "The former U.S. Ambassador to Greece, a Trump loyalist, was dismissed after allegations that she favoured businesses in exchange for personal favours and gifts",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/kimberly-guilfoyle-the-flashy-diplomat/article71597652.ece",
+      "importance": 3,
+      "date_added": "2026-10-19"
+    },
+    {
+      "title": "France protests: Macron vows to hold accountable those who ‘sought to bring down the Republic’",
+      "summary": "Macron blamed “unrestrained violence” on “insurrectionist elements from radical far-left groups, joined by numerous criminals”",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/france-protests-macron-vows-to-hold-accountable-those-who-sought-to-bring-down-the-republic/article71601972.ece",
+      "importance": 3,
+      "date_added": "2026-10-19"
     }
   ]
 }
