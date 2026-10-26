@@ -1,276 +1,6 @@
 {
   "items": [
     {
-      "title": "India to Attend SCO Heads of Government Meeting in Tajikistan",
-      "summary": "India will participate in the upcoming Shanghai Cooperation Organisation (SCO) Heads of Government meeting in Tajikistan.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/india-to-participate-in-sco-heads-of-government-meeting-in-tajikistan/",
-      "importance": 5,
-      "date_added": "2026-10-19"
-    },
-    {
-      "title": "Japan to Launch MMX Mission to Sample Martian Moon Phobos",
-      "summary": "Japan is set to launch the MMX mission with the objective of collecting samples from Phobos.",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/japan-to-launch-mmx-mission-to-sample-phobos/",
-      "importance": 5,
-      "date_added": "2026-10-19"
-    },
-    {
-      "title": "India Records Best-Ever Performance at 2023 Para Asian Games",
-      "summary": "India finished fifth overall at the 2023 Para Asian Games in Hangzhou, achieving its best-ever haul at the continental multi-sport event. The Indian contingent secured a total tally consisting of 29 gold, 31 silver, and 51 bronze medals.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/india-eyes-strong-para-asian-games-campaign-despite-reduced-contingent/article71595831.ece",
-      "importance": 4,
-      "date_added": "2026-10-19"
-    },
-    {
-      "title": "Simran Sharma and Pramod Bhagat Lead Indian Contingent at Para Asian Games",
-      "summary": "More than 100 Indian athletes participated in the opening ceremony of the Para Asian Games. Paralympic medallist sprinter Simran Sharma and shuttler Pramod Bhagat led the contingent as flag bearers carrying the national flag.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/indias-para-asian-games-contingent-showcases-5000-years-of-heritage/article71601142.ece",
-      "importance": 4,
-      "date_added": "2026-10-19"
-    },
-    {
-      "title": "Supreme Court Bars Mid-Term Fee Hikes in Professional Courses",
-      "summary": "The Supreme Court of India has ruled against mid-term fee hikes in professional courses except under extraordinary circumstances. The Court observed that fees for professional courses represent a substantial portion of a household's income and savings.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/supreme-court-bars-mid-term-fee-hikes-in-professional-courses-except-in-extraordinary-circumstances/article71600054.ece",
-      "importance": 4,
-      "date_added": "2026-10-19"
-    },
-    {
-      "title": "Japan to Launch Spacecraft for Martian Moon Sample Return Mission",
-      "summary": "Japan is preparing to launch a five-year space mission to collect samples from the Martian moon Phobos. The mission aims to uncover clues regarding the formation of Phobos and Deimos and the origins of life in the solar system.",
-      "category": "science",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sci-tech/science/japan-to-launch-mmx-to-phobos-to-collect-moon-samples/article71599258.ece",
-      "importance": 4,
-      "date_added": "2026-10-19"
-    },
-    {
-      "title": "Manasi Joshi and Thulasimathi Secure Para-Badminton Medal",
-      "summary": "Indian athletes Manasi Joshi and Thulasimathi have secured a medal in para-badminton.",
-      "category": "sports",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/manasi-joshi-and-thulasimathi-secure-para-badminton-medal/",
-      "importance": 4,
-      "date_added": "2026-10-19"
-    },
-    {
-      "title": "NASA to Launch PUFFINS Mission to Study Interstellar Dust",
-      "summary": "NASA has announced its PUFFINS mission aimed at studying interstellar dust.",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/nasas-puffins-mission-to-study-interstellar-dust/",
-      "importance": 4,
-      "date_added": "2026-10-19"
-    },
-    {
-      "title": "Scientists Awarded 2026 Europhysics Prize for Altermagnetism",
-      "summary": "Scientists have received the 2026 Europhysics Prize for their contributions to the study of altermagnetism.",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/scientists-receive-2026-europhysics-prize-for-altermagnetism/",
-      "importance": 4,
-      "date_added": "2026-10-19"
-    },
-    {
-      "title": "Delhi Cabinet Approves ₹50-Crore Go-Delhi Foundation",
-      "summary": "The Delhi Cabinet has approved the establishment of the Go-Delhi Foundation with a budget of ₹50 crore.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/delhi-cabinet-approves-%e2%82%b950-crore-go-delhi-foundation/",
-      "importance": 4,
-      "date_added": "2026-10-19"
-    },
-    {
-      "title": "Invasive Lantana Spreads Across 13 Million Hectares in India",
-      "summary": "The invasive plant species Lantana has expanded its coverage to over 13 million hectares across India.",
-      "category": "environment",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/invasive-lantana-spreads-across-more-than-13-million-hectares-in-india/",
-      "importance": 4,
-      "date_added": "2026-10-19"
-    },
-    {
-      "title": "SpaDeX Satellites Re-enter Earth's Atmosphere Seven Hours Apart",
-      "summary": "The SpaDeX satellites completed their atmospheric re-entry into Earth seven hours apart from each other.",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/spadex-satellites-re-enter-earths-atmosphere-seven-hours-apart/",
-      "importance": 4,
-      "date_added": "2026-10-19"
-    },
-    {
-      "title": "Trade Margin Rationalisation Extended to 137 Anti-Cancer Drugs",
-      "summary": "Trade margin rationalisation measures have been applied to cover a total of 137 anti-cancer medications.",
-      "category": "economy",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/trade-margin-rationalisation-covers-137-anti-cancer-drugs/",
-      "importance": 4,
-      "date_added": "2026-10-19"
-    },
-    {
-      "title": "INS Sudarshini Visits Oman as Part of Lokayan-2026",
-      "summary": "Indian Naval Ship INS Sudarshini made a port call in Oman during the Lokayan-2026 deployment.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/ins-sudarshini-visits-oman-during-lokayan-2026/",
-      "importance": 4,
-      "date_added": "2026-10-19"
-    },
-    {
-      "title": "An Se Young Creates Women’s Singles Title Record",
-      "summary": "Badminton player An Se Young has set a new record for the most titles won in women's singles.",
-      "category": "sports",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/an-se-young-sets-womens-singles-title-record/",
-      "importance": 4,
-      "date_added": "2026-10-19"
-    },
-    {
-      "title": "Israeli PM Netanyahu warns of potentially hostile future U.S. President, calls for alliances with India, Latin America",
-      "summary": "The remarks came hours before a strong endorsement he received from U.S. President Donald Trump, who publicly expressed his support for Mr. Netanyahu's re-election bid days before the country goes to the polls",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/israeli-pm-netanyahu-warns-of-potentially-hostile-future-us-president-calls-for-alliances-with-india-latin-america/article71601129.ece",
-      "importance": 3,
-      "date_added": "2026-10-19"
-    },
-    {
-      "title": "Vance defends ‘indentured servants’ remark on H-1B workers; admits ‘rhetoric’ has been ‘imperfect’",
-      "summary": "The string of sharp queriesat the CBS News Townhall, some from voters who said they had supported him and President Donald Trump, previewed the rocky path he may face trying to answer for the administration's record if he runs for President himself in 2028",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/vice-president-vance-faces-tough-questions-on-iran-war-immigration-and-more-in-cbs-town-hall/article71599161.ece",
-      "importance": 3,
-      "date_added": "2026-10-19"
-    },
-    {
-      "title": "Iran's new Defence Minister Akhlaghi threatens 'enormous damage' if U.S. attacks",
-      "summary": "The veteran defence official replaces Aziz Nasirzadeh, who was killed in a U.S.-Israeli attack on a leadership compound on February 28, alongside former Supreme leader Ayatollah Ali Khamenei and senior military commanders",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/irans-new-defence-minister-akhlaghi-threatens-enormous-damage-if-us-attacks/article71600872.ece",
-      "importance": 3,
-      "date_added": "2026-10-19"
-    },
-    {
-      "title": "Bomb threat forces airliner from Tel Aviv to divert to Bulgaria",
-      "summary": "The Bulgarian air force scrambled a MiG-29 fighter jet to escort the airliner as part of established procedures, says the Transport Ministry",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/bomb-threat-forces-airliner-from-tel-aviv-to-divert-to-bulgaria/article71601270.ece",
-      "importance": 3,
-      "date_added": "2026-10-19"
-    },
-    {
-      "title": "Trump endorses Netanyahu in Israeli election",
-      "summary": "“This is the ⁠kind of Partner that the United States of America is demanding of Israel, ​a Country ‌for which it has done so much,” the U.S. President wrote on Truth Social",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/trump-endorses-netanyahu-in-israeli-election/article71600598.ece",
-      "importance": 3,
-      "date_added": "2026-10-19"
-    },
-    {
-      "title": "Albania protests continue for sixth straight day demanding Prime Minister’s resignation",
-      "summary": "Hundreds of protesters gathered on Sunday in front of the Education Ministry chanting “Rama, resign” in a tense standoff with the police, who later used water cannons and tear gas to hold back the crowds",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/albania-protests-continue-for-sixth-straight-day-demanding-prime-ministers-resignation/article71599909.ece",
-      "importance": 3,
-      "date_added": "2026-10-19"
-    },
-    {
-      "title": "Iran's Parliament approves Mehrdad Akhlaqi as Minister of Defence",
-      "summary": "Mehrdad Akhlaqi Ketabchi replaces Majid Ebn al-Reza, who took over in an interim capacity after then Defence ‌Minister Aziz Nasirzadeh was killed by U.S.-Israeli strikes in February",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/irans-parliament-approves-mehrdad-akhlaqi-as-minister-of-defence/article71600323.ece",
-      "importance": 3,
-      "date_added": "2026-10-19"
-    },
-    {
-      "title": "Donald Trump says ‘France is burning’, country ‘shattered’ by immigration",
-      "summary": "France is reeling from widespread damage during protests the day before that left a historic town hall torched and led to 1,800 arrests, piling pressure on President Emmanuel Macron six months before elections to replace him",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/donald-trump-says-france-is-burning-country-shattered-by-immigration/article71600252.ece",
-      "importance": 3,
-      "date_added": "2026-10-19"
-    },
-    {
-      "title": "Alberta Premier says 39 people hospitalised, at least 19 critical after fire at Canada military base",
-      "summary": "Prime Minister Mark Carney earlier confirmed that four service members were killed in the fire",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/deadly-fire-at-canadian-forces-base-wainwright-leaves-several-dead-and-hospitalised/article71601268.ece",
-      "importance": 3,
-      "date_added": "2026-10-19"
-    },
-    {
-      "title": "St. Petersburg oil facilities ablaze as Ukraine launches more than 1,000 drones at Russia",
-      "summary": "A logistics centre belonging to Russian retailer Ozon and a data centre operated by Russian tech giant VK were also targeted, the companies confirmed",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/st-petersburg-oil-facilities-ablaze-as-ukraine-launches-more-than-1000-drones-at-russia/article71600876.ece",
-      "importance": 3,
-      "date_added": "2026-10-19"
-    },
-    {
-      "title": "Russian military satellite makes ‘close approach’ to U.S. radar satellite in orbit",
-      "summary": "Russia’s Cosmos-2612 satellite has changed its orbit repeatedly to approach ICEYE-X36, a commercial radar-imaging satellite registered in the U.S. and whose operator currently supplies data to Ukraine",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sci-tech/science/russian-military-satellite-stalks-us-radar-satellite-in-orbit/article71599219.ece",
-      "importance": 3,
-      "date_added": "2026-10-19"
-    },
-    {
-      "title": "60-day pause on Russia sanctions to analyse global impact: Rubio",
-      "summary": "U.S. Secretary of State Marco Rubio has said the waiver from sanctions on Russia and tariffs on other countries, including India, was a 60-day pause to analyse the global impact of the measure.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/secretary-of-state-marco-rubio-comments-before-departing-to-uzbekistan-and-india/article71599016.ece",
-      "importance": 3,
-      "date_added": "2026-10-19"
-    },
-    {
-      "title": "Saudi coalition says two pilots killed in chopper crash near Yemen",
-      "summary": "The coalition blamed a \"technical malfunction\" for the incident, which inflicted its first military fatalities since the long-running war with the Houthis reignited in July",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/saudi-coalition-says-two-pilots-killed-in-chopper-crash-near-yemen/article71599858.ece",
-      "importance": 3,
-      "date_added": "2026-10-19"
-    },
-    {
-      "title": "Kimberly Guilfoyle | The flashy diplomat",
-      "summary": "The former U.S. Ambassador to Greece, a Trump loyalist, was dismissed after allegations that she favoured businesses in exchange for personal favours and gifts",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/kimberly-guilfoyle-the-flashy-diplomat/article71597652.ece",
-      "importance": 3,
-      "date_added": "2026-10-19"
-    },
-    {
-      "title": "France protests: Macron vows to hold accountable those who ‘sought to bring down the Republic’",
-      "summary": "Macron blamed “unrestrained violence” on “insurrectionist elements from radical far-left groups, joined by numerous criminals”",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/france-protests-macron-vows-to-hold-accountable-those-who-sought-to-bring-down-the-republic/article71601972.ece",
-      "importance": 3,
-      "date_added": "2026-10-19"
-    },
-    {
       "title": "Deepthi Jeevanji Wins Gold in Women's 400m T20 at Asian Para Games 2026",
       "summary": "Deepthi Jeevanji won the gold medal in the women's 400m T20 event at the Asian Para Games held in Nagoya. She set a new Para Asian Games record with a timing of 56.36 seconds.",
       "category": "sports",
@@ -1520,6 +1250,96 @@
       "url": "https://www.gktoday.in/icc-sets-cricket-qualification-framework-for-la28-olympics/",
       "importance": 4,
       "date_added": "2026-10-25"
+    },
+    {
+      "title": "Government Proposes Merchant Discount Rate on High-Value UPI Transactions",
+      "summary": "A government proposal seeks to introduce a Merchant Discount Rate (MDR) of 0.25–0.5% on Unified Payments Interface (UPI) transactions exceeding ₹2,000. The move alters a decade-long policy to balance digital payment incentives for banks and fintechs with financial inclusion goals.",
+      "category": "economy",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/Economy/upi-and-the-cost-of-policy-reversal/article71328209.ece",
+      "importance": 5,
+      "date_added": "2026-10-26"
+    },
+    {
+      "title": "Ahmedabad to Host 2029 Senior Weightlifting World Championships",
+      "summary": "Ahmedabad will host the senior Weightlifting World Championships in 2029, as announced by the International Weightlifting Federation (IWF). This will mark the first time the senior edition of the tournament is held in India.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/ahmedabad-to-host-senior-weightlifting-world-championships-in-2029-iwf/article71623301.ece",
+      "importance": 5,
+      "date_added": "2026-10-26"
+    },
+    {
+      "title": "Ladakh Becomes India’s First Fully Organic Union Territory",
+      "summary": "Ladakh has officially become India's first fully organic Union Territory.",
+      "category": "environment",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/ladakh-becomes-indias-first-fully-organic-union-territory/",
+      "importance": 5,
+      "date_added": "2026-10-26"
+    },
+    {
+      "title": "Lok Sabha Speaker Om Birla Meets Counterparts Ahead of BRICS Parliamentary Forum Meeting",
+      "summary": "Lok Sabha Speaker Om Birla met his counterparts from Cuba and Russia prior to the BRICS parliamentary forum meeting. The meeting reviewed bilateral parliamentary exchanges between India and Russia as both nations mark the 80th anniversary of their ties.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/ls-speaker-om-birla-meets-counterparts-from-cuba-russia-ahead-of-brics-parliamentary-forum-meeting/article71623634.ece",
+      "importance": 4,
+      "date_added": "2026-10-26"
+    },
+    {
+      "title": "Deep Depression Intensifies into Cyclonic Storm Arnab",
+      "summary": "According to the IMD bulletin, a deep depression has intensified into Cyclonic Storm 'Arnab' over the Bay of Bengal. It is expected to move west-northwestwards and intensify further into a severe cyclonic storm.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/odisha/deep-depression-intensifies-into-cyclonic-storm-arnab/article71625560.ece",
+      "importance": 4,
+      "date_added": "2026-10-26"
+    },
+    {
+      "title": "String Theory Pioneer Ashoke Sen Awarded Oskar Klein Medal",
+      "summary": "Theoretical physicist Ashoke Sen has been awarded the Oskar Klein Medal. The award is presented by Stockholm University along with the Nobel Committee for Physics of the Royal Swedish Academy of Sciences.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/award-winning-theoretical-physicist-ashoke-sen-has-focused-on-string-theory/article71623560.ece",
+      "importance": 4,
+      "date_added": "2026-10-26"
+    },
+    {
+      "title": "Supreme Court Clarifies Scope of Police Custody Under BNSS",
+      "summary": "The Supreme Court has held that Section 187(2) of the Bharatiya Nagarik Suraksha Sanhita (BNSS) enlarges the window during which police custody may be sought.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/supreme-court-clarifies-scope-of-police-custody-under-bnss/article71338174.ece",
+      "importance": 4,
+      "date_added": "2026-10-26"
+    },
+    {
+      "title": "Luiz Inácio Lula da Silva Wins Presidential Election in Brazil",
+      "summary": "Former two-time President Luiz Inácio Lula da Silva defeated incumbent Jair Bolsonaro in the presidential elections in Brazil. He has promised a new form of welfarism focused on ecological and infrastructure spending.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/luiz-inacio-lula-da-silva-the-democratic-leftist/article65960291.ece",
+      "importance": 4,
+      "date_added": "2026-10-26"
+    },
+    {
+      "title": "ISRO Plans Four Launch Pads by 2029 with New Spaceport Facility",
+      "summary": "The ISRO chief announced that the space agency aims to operate four launch pads by 2029. The upcoming spaceport facility at Kulasekarapattinam will feature launch pads, integration buildings, rail-track systems, and telemetry and tracking systems.",
+      "category": "science",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/isro-to-add-four-launch-pads-by-2029/article71622643.ece",
+      "importance": 4,
+      "date_added": "2026-10-26"
+    },
+    {
+      "title": "PV Sindhu Finishes Runner-Up at French Open",
+      "summary": "Indian badminton player PV Sindhu finished as the runner-up after losing to Olympic champion An Se Young in the final. The victory gave An Se Young her fourth French Open title and 11th crown of the season.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/fighting-sindhu-loses-to-nemesis-an-se-young-to-sign-off-with-runner-up-finish/article71623278.ece",
+      "importance": 4,
+      "date_added": "2026-10-26"
     }
   ]
 }
