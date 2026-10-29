@@ -1,123 +1,6 @@
 {
   "items": [
     {
-      "title": "33rd Edition of SIMBEX Naval Exercise Begins in Visakhapatnam",
-      "summary": "The 33rd edition of SIMBEX-2026, the Singapore–India Maritime Bilateral Exercise, commenced in Visakhapatnam and will be held in two phases until October 26.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/cities/Visakhapatnam/33rd-edition-of-simbex-2026-commences-in-visakhapatnam/article71608402.ece",
-      "importance": 5,
-      "date_added": "2026-10-22"
-    },
-    {
-      "title": "UNEP Outlines Emission Reduction Targets to Limit Warming to 1.5°C by 2100",
-      "summary": "A United Nations Environment Programme (UNEP) report states that drastic emission cuts can restore global warming to 1.5°C by the end of the century. The report details required emission reductions of 18% by 2030, 45% by 2035, and 69% by 2040 compared to 2025 levels.",
-      "category": "environment",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/drastic-emission-cuts-can-help-return-to-15c-warming-by-2100-unep/article71607543.ece",
-      "importance": 5,
-      "date_added": "2026-10-22"
-    },
-    {
-      "title": "Sheetal and Toman Win Compound Mixed Team Gold with World Record at Asian Para Games 2026",
-      "summary": "Top-seeded Indian archers Sheetal and Toman set a new world record during the qualification round and won the compound mixed team gold medal at the Asian Para Games 2026.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/asian-para-games-2026-sheetal-toman-clinch-compound-mixed-team-gold/article71610135.ece",
-      "importance": 5,
-      "date_added": "2026-10-22"
-    },
-    {
-      "title": "India Selected to Host 12th BRICS Parliamentary Forum",
-      "summary": "India is set to host the 12th BRICS Parliamentary Forum.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/india-to-host-12th-brics-parliamentary-forum/",
-      "importance": 5,
-      "date_added": "2026-10-22"
-    },
-    {
-      "title": "Dilip Gavit Wins Gold Medal at 2026 Asian Para Games",
-      "summary": "Dilip Gavit won the gold medal in the 100m T47 event at the 2026 Asian Para Games.",
-      "category": "sports",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/dilip-gavit-wins-100m-t47-gold-at-2026-asian-para-games/",
-      "importance": 4,
-      "date_added": "2026-10-22"
-    },
-    {
-      "title": "India and Poland to Finalise Defence Tech Agreement During Modi-Tusk Bilateral Talks",
-      "summary": "Polish Prime Minister Tusk will hold meetings in Delhi and Bengaluru with Prime Minister Modi to discuss trade, defence, and the Russia-Ukraine conflict. Both nations are finalising a confidentiality agreement concerning defence technology sensitivities.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/trade-defence-and-the-russia-ukraine-conflict-to-dominate-modi-tusk-talks-on-october-22/article71607872.ece",
-      "importance": 4,
-      "date_added": "2026-10-22"
-    },
-    {
-      "title": "Agrivoltaics Component to be Added to PM-KUSUM Phase 2",
-      "summary": "Union Minister for New and Renewable Energy Pralhad Joshi stated that implementing agrivoltaics on 10% of suitable land can meet power demand by 2050. The government is working to incorporate a dedicated component for agrivoltaics into the second phase of the PM-KUSUM scheme.",
-      "category": "economy",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/business/Industry/agrivoltaics-on-10-of-suitable-land-can-meet-2050-power-demand-pralhad-joshi/article71608458.ece",
-      "importance": 4,
-      "date_added": "2026-10-22"
-    },
-    {
-      "title": "Swati Chaudhary Wins India's First W1 Archery Medal at Asian Para Games 2026",
-      "summary": "Swati Chaudhary created history by winning a silver medal, securing India's first-ever W1 archery medal at the Asian Para Games.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/asian-para-games-2026-swati-chaudhary-creates-history-with-indias-first-w1-archery-medal-settles-for-silver/article71609909.ece",
-      "importance": 4,
-      "date_added": "2026-10-22"
-    },
-    {
-      "title": "Suvarna Raj Clinches Women's F54 Discus Gold at Asian Para Games 2026",
-      "summary": "Suvarna Raj from Greater Noida secured the gold medal in the women's F54 discus event at the Asian Para Games 2026 with four throws exceeding the 15-metre mark.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/athletics/asian-para-games-2026-suvarna-raj-clinches-womens-f54-discus-gold/article71609910.ece",
-      "importance": 4,
-      "date_added": "2026-10-22"
-    },
-    {
-      "title": "Simran Secures Second Gold Medal with Games Record at Asian Para Games",
-      "summary": "Indian athlete Simran won the gold medal in the women's 100m T12 event with a new Games record at the Asian Para Games. She had previously won the 200m gold medal with a Games record on October 20.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/asian-para-games-superb-simran-grabs-second-gold-with-record-in-100m-t12/article71607334.ece",
-      "importance": 4,
-      "date_added": "2026-10-22"
-    },
-    {
-      "title": "Dilip Gavit Wins Gold in Men's 100m T47 at Asian Para Games",
-      "summary": "Dilip Gavit clocked 10.69 seconds to win the gold medal in the men's 100m T47 event at the Asian Para Games. Morssinganakath secured the silver medal with a timing of 10.72 seconds, securing a gold-silver finish for India.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/asian-para-games-dilip-gavit-leads-indias-gold-silver-finish-in-mens-100m-t47-event/article71607315.ece",
-      "importance": 4,
-      "date_added": "2026-10-22"
-    },
-    {
-      "title": "President Murmu Confers National Exhibition of Art Awards",
-      "summary": "President Murmu presented the National Exhibition of Art Awards.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/president-murmu-presents-national-exhibition-of-art-awards/",
-      "importance": 4,
-      "date_added": "2026-10-22"
-    },
-    {
-      "title": "Sonia Gandhi Announces Memoir 'Belonging: A Journey of Love'",
-      "summary": "Sonia Gandhi introduced the first look of her upcoming book titled 'Belonging: A Journey of Love'.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/sonia-gandhi-joins-instagram-introduces-her-memoir/article71610194.ece",
-      "importance": 4,
-      "date_added": "2026-10-22"
-    },
-    {
       "title": "Sheetal Wins Double Gold in Archery at Asian Para Games 2026 as India Reaches 88 Medals",
       "summary": "Sheetal secured double gold in archery at the Asian Para Games 2026 as India raised its overall tally to 88 medals, including 21 gold, 26 silver, and 41 bronze. Para-athletics was the biggest contributor with 52 medals, including 18 gold.",
       "category": "sports",
@@ -1052,6 +935,132 @@
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-threat-naidu-orders-evacuations-puts-andhra-pradesh-on-high-alert/article71627074.ece",
       "importance": 4,
       "date_added": "2026-10-28"
+    },
+    {
+      "title": "Cabinet Approves Viksit Gram Swaraj Yojana",
+      "summary": "The Union Cabinet has approved the Viksit Gram Swaraj Yojana with a financial outlay of ₹7,395 crore.",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/cabinet-approves-viksit-gram-swaraj-yojana-with-%e2%82%b97395-crore/",
+      "importance": 5,
+      "date_added": "2026-10-29"
+    },
+    {
+      "title": "Cabinet Approves ₹10,000-Crore Shipping Container Manufacturing Programme",
+      "summary": "The Union Cabinet has approved a ₹10,000-crore manufacturing programme dedicated to shipping containers.",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/cabinet-approves-%e2%82%b910000-crore-shipping-container-manufacturing-programme/",
+      "importance": 5,
+      "date_added": "2026-10-29"
+    },
+    {
+      "title": "NPPA Revises Prices of 543 Anti-Cancer Medicine Brands",
+      "summary": "The National Pharmaceutical Pricing Authority (NPPA) has revised the prices of 543 anti-cancer medicine brands.",
+      "category": "economy",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/nppa-revises-prices-of-543-anti-cancer-medicine-brands/",
+      "importance": 4,
+      "date_added": "2026-10-29"
+    },
+    {
+      "title": "India Offers Anti-Terror Expertise to ASEAN and Dialogue Partners",
+      "summary": "Defence Minister Rajnath Singh offered to share India's anti-terror expertise with ASEAN and stated India will remain a trusted net security provider in the Indian Ocean region and Indo-Pacific.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/rajnath-singh-india-asean-defence-ministers-meeting-plus-conclave-philippines/article71639347.ece",
+      "importance": 4,
+      "date_added": "2026-10-29"
+    },
+    {
+      "title": "World Stroke Day Observed on October 29",
+      "summary": "World Stroke Day is observed on October 29 to highlight awareness and emergency care for stroke patients. In Karnataka, a hub-and-spoke model is being utilised to extend specialised stroke care and reduce emergency transfers to Bengaluru.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sci-tech/health/40-of-patients-at-nimhans-neurology-casualty-have-stroke-kmcri-in-hubbali-treats-120-cases-a-month/article71636352.ece",
+      "importance": 4,
+      "date_added": "2026-10-29"
+    },
+    {
+      "title": "India and Poland Aim to Raise Bilateral Trade to $10 Billion",
+      "summary": "India and Poland are seeking to increase their bilateral trade from $6 billion to $10 billion following the elevation of their ties to a strategic partnership. The move comes after Prime Minister Narendra Modi's visit to Poland in 2024 to strengthen bilateral relations.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/poland-pivots-towards-india-as-strategic-partnership-with-china-develops-cracks/article71636517.ece",
+      "importance": 4,
+      "date_added": "2026-10-29"
+    },
+    {
+      "title": "Union Cabinet Approves 3% Dearness Allowance Hike for Central Employees",
+      "summary": "The Union Cabinet has approved a 3% increase in Dearness Allowance (DA) and Dearness Relief (DR) effective from July 1, 2026. The decision will benefit 48.54 lakh central government employees and 68.71 lakh pensioners.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/cabinet-approves-3-hike-in-dearness-allowance-for-central-government-employees/article71635503.ece",
+      "importance": 4,
+      "date_added": "2026-10-29"
+    },
+    {
+      "title": "Luiz Inácio Lula da Silva Secures Fourth Term as President of Brazil",
+      "summary": "Luiz Inácio Lula da Silva has secured an unprecedented fourth term as President of Brazil at the age of 81.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/daily-quiz-on-luiz-inacio-lula-da-silva/article71634672.ece",
+      "importance": 4,
+      "date_added": "2026-10-29"
+    },
+    {
+      "title": "India and Mexico Sign Terms of Reference for Preferential Trade Agreement Negotiations",
+      "summary": "India and Mexico have signed the Terms of Reference to begin negotiations for a preferential trade agreement. The agreement was signed during the visit of Commerce Secretary Rajesh Agrawal to Mexico.",
+      "category": "economy",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/Economy/india-and-mexico-sign-terms-of-reference-for-preferential-trade-agreement-negotiations-to-begin/article71635915.ece",
+      "importance": 4,
+      "date_added": "2026-10-29"
+    },
+    {
+      "title": "Abhishek Sharma Becomes World No. 1 T20I Batter",
+      "summary": "Abhishek Sharma surpassed Ishan Kishan to become the world No. 1 batter in the T20I rankings. He achieved this after scoring his fourth T20I century, making 113 runs off 38 balls on October 27 to lead India to a six-wicket victory in the third T20I.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/cricket/abhishek-sharma-becomes-world-no-1-t20i-batter-overtaking-ishan-kishan/article71635279.ece",
+      "importance": 4,
+      "date_added": "2026-10-29"
+    },
+    {
+      "title": "ESIC Extends Deadline for New Amnesty Scheme 2025 to December 31, 2026",
+      "summary": "The Employees' State Insurance Corporation (ESIC) has extended the deadline for its New Amnesty Scheme 2025 to December 31, 2026. This extension gives employers and insured persons more time to settle pending cases.",
+      "category": "economy",
+      "source": "pib",
+      "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2329889",
+      "importance": 4,
+      "date_added": "2026-10-29"
+    },
+    {
+      "title": "Centre Increases DA and DR by 3%",
+      "summary": "The Central Government has raised Dearness Allowance (DA) and Dearness Relief (DR) by 3% effective from July 1.",
+      "category": "economy",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/centre-raises-da-and-dr-by-3-from-1-july/",
+      "importance": 4,
+      "date_added": "2026-10-29"
+    },
+    {
+      "title": "Kajal Dhochak and Neelam Sirohi Win World Wrestling Silver",
+      "summary": "Indian wrestlers Kajal Dhochak and Neelam Sirohi won silver medals at the World Wrestling event.",
+      "category": "sports",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/kajal-dhochak-and-neelam-sirohi-win-world-wrestling-silver/",
+      "importance": 4,
+      "date_added": "2026-10-29"
+    },
+    {
+      "title": "Textile PLI Scheme Reopens with ₹100 Crore Turnover Threshold",
+      "summary": "The Production Linked Incentive (PLI) scheme for the textile sector has been reopened with a turnover threshold of ₹100 crore.",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/textile-pli-scheme-reopens-with-%e2%82%b9100-crore-turnover-threshold/",
+      "importance": 4,
+      "date_added": "2026-10-29"
     }
   ]
 }
