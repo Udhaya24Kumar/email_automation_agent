@@ -1,195 +1,6 @@
 {
   "items": [
     {
-      "title": "PM Modi to Inaugurate RBI Data Centre in Odisha",
-      "summary": "Prime Minister Narendra Modi is scheduled to inaugurate an RBI Data Centre in Odisha.",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/pm-modi-to-inaugurate-rbi-data-centre-in-odisha/",
-      "importance": 5,
-      "date_added": "2026-10-25"
-    },
-    {
-      "title": "Ashoke Sen Becomes First Indian Physicist to Receive Oskar Klein Medal",
-      "summary": "Ashoke Sen has become the first Indian physicist to be awarded the Oskar Klein Medal. He is internationally recognised for his work on S-duality, black hole entropy, and string field theory.",
-      "category": "science",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/ashoke-sen-becomes-first-indian-physicist-to-receive-oskar-klein-medal/article71619342.ece",
-      "importance": 5,
-      "date_added": "2026-10-25"
-    },
-    {
-      "title": "Prime Minister Lauds India's Record 114 Medals at Asian Para Games 2026",
-      "summary": "Prime Minister Narendra Modi expressed happiness over India's best-ever performance at the Asian Para Games 2026, where the country won a record total of 114 medals.",
-      "category": "national",
-      "source": "pib",
-      "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2328135",
-      "importance": 5,
-      "date_added": "2026-10-25"
-    },
-    {
-      "title": "Pankaj Advani Wins 29th World Title",
-      "summary": "Indian player Pankaj Advani has secured his 29th world title.",
-      "category": "sports",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/pankaj-advani-wins-29th-world-title/",
-      "importance": 5,
-      "date_added": "2026-10-25"
-    },
-    {
-      "title": "Nihal Sarin and Koneru Humpy Win Gold at European Chess Club Cup",
-      "summary": "Nihal Sarin and Koneru Humpy have won gold medals at the European Chess Club Cup.",
-      "category": "sports",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/nihal-sarin-and-koneru-humpy-win-gold-at-european-chess-club-cup/",
-      "importance": 4,
-      "date_added": "2026-10-25"
-    },
-    {
-      "title": "India Targets 30 Million Tonnes of Fish Production in Five Years",
-      "summary": "India has set a target to produce 30 million tonnes of fish over a five-year period.",
-      "category": "economy",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/india-targets-30-million-tonnes-of-fish-production-in-five-years/",
-      "importance": 4,
-      "date_added": "2026-10-25"
-    },
-    {
-      "title": "Amur Falcons Complete 20,000-km Migration to Manipur",
-      "summary": "Amur falcons have completed their 20,000-km long annual migratory route to Manipur.",
-      "category": "environment",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/amur-falcons-complete-20000-km-migration-to-manipur/",
-      "importance": 4,
-      "date_added": "2026-10-25"
-    },
-    {
-      "title": "Mysuru Dasara Drone Show Achieves Guinness World Record",
-      "summary": "The drone show organised during the Mysuru Dasara festival set a new Guinness World Record.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/mysuru-dasara-drone-show-sets-guinness-world-record/",
-      "importance": 4,
-      "date_added": "2026-10-25"
-    },
-    {
-      "title": "Uttar Pradesh Ranks First in Mission Karmayogi Implementation",
-      "summary": "Uttar Pradesh has emerged as the top-performing state in the implementation of Mission Karmayogi.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/uttar-pradesh-tops-mission-karmayogi-implementation/",
-      "importance": 4,
-      "date_added": "2026-10-25"
-    },
-    {
-      "title": "Lionel Messi Wins 2026 Princess of Asturias Sports Award",
-      "summary": "Footballer Lionel Messi has been named the recipient of the 2026 Princess of Asturias Sports Award.",
-      "category": "awards",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/lionel-messi-receives-2026-princess-of-asturias-sports-award/",
-      "importance": 4,
-      "date_added": "2026-10-25"
-    },
-    {
-      "title": "Sumit Antil Retains Asian Para Games Javelin F64 Title",
-      "summary": "Para-athlete Sumit Antil successfully defended his javelin throw F64 title at the Asian Para Games.",
-      "category": "sports",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/sumit-antil-defends-asian-para-games-javelin-f64-title/",
-      "importance": 4,
-      "date_added": "2026-10-25"
-    },
-    {
-      "title": "Usha Mangeshkar Selected as Inaugural Recipient of Bhupen Hazarika Award",
-      "summary": "Assam has named singer Usha Mangeshkar as the first recipient of the Bhupen Hazarika Award.",
-      "category": "awards",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/assam-names-usha-mangeshkar-first-bhupen-hazarika-award-recipient/",
-      "importance": 4,
-      "date_added": "2026-10-25"
-    },
-    {
-      "title": "Bodhana Sivanandan Becomes Youngest Female International Master",
-      "summary": "Bodhana Sivanandan has achieved the milestone of becoming the youngest female International Master in chess history.",
-      "category": "sports",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/bodhana-sivanandan-becomes-youngest-female-international-master/",
-      "importance": 4,
-      "date_added": "2026-10-25"
-    },
-    {
-      "title": "India and Russia Target $100 Billion Bilateral Trade by 2030",
-      "summary": "Prime Minister Narendra Modi and Russian President Vladimir Putin directed officials to expand bilateral cooperation with a goal to reach $100 billion in trade by 2030. The discussion took place on the sidelines of the BRICS summit in New Delhi.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/pm-modi-vladimir-putin-direct-officials-to-expand-cooperation-target-100-bn-trade-by-2030-envoy/article71619349.ece",
-      "importance": 4,
-      "date_added": "2026-10-25"
-    },
-    {
-      "title": "C-DOT Establishes Sixth Centre of Excellence at IIT (BHU)",
-      "summary": "C-DOT has opened its sixth Centre of Excellence at IIT (BHU).",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/c-dot-opens-sixth-centre-of-excellence-at-iit-bhu/",
-      "importance": 4,
-      "date_added": "2026-10-25"
-    },
-    {
-      "title": "Centre Begins Nationwide Civil Defence Network Pilot",
-      "summary": "The Centre has initiated a nationwide pilot for the Civil Defence Network.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/centre-begins-nationwide-civil-defence-network-pilot/",
-      "importance": 4,
-      "date_added": "2026-10-25"
-    },
-    {
-      "title": "Government Proposes PLFS Methodology Changes from January 2027",
-      "summary": "The Government has proposed modifications to the PLFS methodology beginning in January 2027.",
-      "category": "reports",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/government-proposes-plfs-methodology-changes-from-january-2027/",
-      "importance": 4,
-      "date_added": "2026-10-25"
-    },
-    {
-      "title": "Maharashtra Launches Mission Murghas to Tackle Fodder Shortages",
-      "summary": "Maharashtra has launched Mission Murghas to address fodder shortages in the state.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/maharashtra-launches-mission-murghas-to-tackle-fodder-shortages/",
-      "importance": 4,
-      "date_added": "2026-10-25"
-    },
-    {
-      "title": "Tamil Nadu Adds Madras Hedgehog to Conservation Programme",
-      "summary": "Tamil Nadu has included the Madras Hedgehog in its state conservation programme.",
-      "category": "environment",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/tamil-nadu-adds-madras-hedgehog-to-conservation-programme/",
-      "importance": 4,
-      "date_added": "2026-10-25"
-    },
-    {
-      "title": "India to Build Secure Military AI Layer",
-      "summary": "India plans to construct a secure military Artificial Intelligence layer.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/india-to-build-secure-military-ai-layer/",
-      "importance": 4,
-      "date_added": "2026-10-25"
-    },
-    {
-      "title": "ICC Sets Cricket Qualification Framework for LA28 Olympics",
-      "summary": "The International Cricket Council (ICC) has announced the cricket qualification framework for the LA28 Olympics.",
-      "category": "sports",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/icc-sets-cricket-qualification-framework-for-la28-olympics/",
-      "importance": 4,
-      "date_added": "2026-10-25"
-    },
-    {
       "title": "Government Proposes Merchant Discount Rate on High-Value UPI Transactions",
       "summary": "A government proposal seeks to introduce a Merchant Discount Rate (MDR) of 0.25–0.5% on Unified Payments Interface (UPI) transactions exceeding ₹2,000. The move alters a decade-long policy to balance digital payment incentives for banks and fintechs with financial inclusion goals.",
       "category": "economy",
@@ -962,6 +773,276 @@
       "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330730",
       "importance": 4,
       "date_added": "2026-10-31"
+    },
+    {
+      "title": "IAF Chief Outlines 'VAYU' Vision for Operational Readiness",
+      "summary": "Air Chief Marshal Dixit detailed his core strategic focus for the Indian Air Force using the acronym VAYU, representing Vigilance and operational readiness, Aatmanirbharta, Yukti, and Unity of effort.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/newly-appointed-chief-of-air-staff-air-chief-marshal-ashutosh-dixit/article71652223.ece",
+      "importance": 5,
+      "date_added": "2026-11-01"
+    },
+    {
+      "title": "ISRO Successfully Launches NVS-03 Navigation Satellite",
+      "summary": "ISRO successfully launched the NVS-03 navigation satellite from the Satish Dhawan Space Centre in Sriharikota. The launch restores India's NavIC system to a standalone four-satellite operational status.",
+      "category": "science",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/isro-nvs-03-launch-navic-constellation-5-things-to-know-about-india-next-generation-satellite/article71648294.ece",
+      "importance": 5,
+      "date_added": "2026-11-01"
+    },
+    {
+      "title": "Manisha Bhanwala Becomes India’s First Woman World Wrestling Champion",
+      "summary": "Manisha Bhanwala scripted history in Kazakhstan by becoming India’s first woman world wrestling champion. Hailing from a village in Haryana, the 29-year-old reached the pinnacle of international wrestling.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/wrestler-manisha-bhanwala-profile-biography-asian-games-kazakhstan-world-championship-news/article71649354.ece",
+      "importance": 5,
+      "date_added": "2026-11-01"
+    },
+    {
+      "title": "India Hosts First BIMSTEC Maritime Security Exercise",
+      "summary": "India is hosting the first BIMSTEC Maritime Security Exercise.",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/india-hosts-first-bimstec-maritime-security-exercise/",
+      "importance": 5,
+      "date_added": "2026-11-01"
+    },
+    {
+      "title": "PM-KISAN Releases 24th Instalment",
+      "summary": "The 24th instalment of the PM-KISAN scheme has been released.",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/pm-kisan-releases-24th-instalment/",
+      "importance": 5,
+      "date_added": "2026-11-01"
+    },
+    {
+      "title": "President Droupadi Murmu Inaugurates Simhastha Kumbh Preparations in Nashik",
+      "summary": "President Droupadi Murmu inaugurated the preparations for the Simhastha Kumbh festival in Nashik, Maharashtra. The event was attended by Maharashtra Governor Jishnu Dev Varma and Chief Minister Devendra Fadnavis.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/president-murmu-inaugurates-simhastha-kumbh-preparations-in-nashik/article71650535.ece",
+      "importance": 4,
+      "date_added": "2026-11-01"
+    },
+    {
+      "title": "Tamil Nadu to Set Up 26 POCSO Act Courts and Four NDPS Courts",
+      "summary": "Tamil Nadu is establishing 26 POCSO Act courts and four NDPS courts, raising the total number of POCSO special courts to 52 across 47 police districts.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-to-set-up-26-pocso-act-courts-and-four-ndps-courts/article71652310.ece",
+      "importance": 4,
+      "date_added": "2026-11-01"
+    },
+    {
+      "title": "Six Indian States Celebrate Foundation Day on November 1",
+      "summary": "Prime Minister Narendra Modi extended greetings to six states celebrating their Foundation Day on November 1: Madhya Pradesh, Chhattisgarh, Haryana, Karnataka, Tamil Nadu, and Keralam.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/pm-modi-greets-people-of-six-states-on-foundation-day/article71652205.ece",
+      "importance": 4,
+      "date_added": "2026-11-01"
+    },
+    {
+      "title": "Deep Depression Over Bay of Bengal Projected to Become Severe Cyclonic Storm",
+      "summary": "A weather depression over the Bay of Bengal has intensified into a deep depression and is expected to become a severe cyclonic storm over the westcentral Bay of Bengal on November 2.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/bay-of-bengal-deep-depression-cyclonic-storm-andhra-pradesh-november-1-2026-updates/article71652131.ece",
+      "importance": 4,
+      "date_added": "2026-11-01"
+    },
+    {
+      "title": "PM Modi Cites World Bank Report Showing Fall in India's Extreme Poverty",
+      "summary": "Prime Minister Narendra Modi highlighted a World Bank report documenting a historic drop in India's extreme poverty rate.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/pm-modi-cities-world-bank-report-to-highlight-historic-fall-in-indias-extreme-poverty/article71652106.ece",
+      "importance": 4,
+      "date_added": "2026-11-01"
+    },
+    {
+      "title": "Former SC Judge Justice Sanjay Kishan Kaul Authors Memoir 'Without Fear or Favour'",
+      "summary": "Former Supreme Court judge Justice Sanjay Kishan Kaul has authored a memoir titled 'Without Fear or Favour'. The book discusses delays in clearing collegium recommendations and reforms regarding executive influence over the collegium system.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/books/justice-sanjay-kishan-kaul-on-his-memoir-without-fear-or-favour-and-the-executives-growing-influence-over-the-collegium-system/article71643731.ece",
+      "importance": 4,
+      "date_added": "2026-11-01"
+    },
+    {
+      "title": "UN Security Council Concludes UNSOM Political Mission in Somalia",
+      "summary": "The UN Security Council has ended its political mission in Somalia, known as UNSOM. Established in 2013, UNSOM was mandated to support Somali authorities in their transition to democracy and the rule of law.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/un-ends-its-somalia-political-mission-after-three-decades/article71650522.ece",
+      "importance": 4,
+      "date_added": "2026-11-01"
+    },
+    {
+      "title": "Quad Ministers Raise Concerns Over Economic Coercion at Atlanta Meeting",
+      "summary": "Ministers of the Quad alliance met in Atlanta, Georgia, and expressed grave concerns regarding economic coercion and arbitrary export restrictions.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/quad-ministers-express-grave-concerns-over-economic-coercion/article71650501.ece",
+      "importance": 4,
+      "date_added": "2026-11-01"
+    },
+    {
+      "title": "Nations Recommit to 2030 Goals at UN Nature Summit",
+      "summary": "At the United Nations nature summit, participating countries committed to getting 2030 environmental targets back on track. The goals include protecting 30% of Earth's land and oceans, addressing pollution and invasive species, and increasing conservation funding.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/nations-commit-to-get-nature-goals-back-on-track-at-un-nature-summit/article71648500.ece",
+      "importance": 4,
+      "date_added": "2026-11-01"
+    },
+    {
+      "title": "Maharashtra Passes Women Farmers' Empowerment Bill",
+      "summary": "Maharashtra has passed the Women Farmers' Empowerment Bill to give women independent recognition as farmers regardless of land ownership. The legislation seeks to eliminate structural bias in agriculture and facilitate access to government welfare schemes.",
+      "category": "economy",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/Economy/towards-recognising-women-farmers/article71497026.ece",
+      "importance": 4,
+      "date_added": "2026-11-01"
+    },
+    {
+      "title": "Pranos Fusion Advances Plans for India's First Privately Built Tokamak",
+      "summary": "Bengaluru-based startup Pranos Fusion is developing designs for India's first privately constructed tokamak, a fusion nuclear reactor. The company aims to finalize the design for the energy-producing reactor by 2027.",
+      "category": "science",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/indias-first-fusion-power-company-takes-key-steps/article71649266.ece",
+      "importance": 4,
+      "date_added": "2026-11-01"
+    },
+    {
+      "title": "Ministry of Coal to Host Star Rating Award Ceremony in Raipur",
+      "summary": "The Ministry of Coal will organize a Star Rating Award ceremony on November 2 in Raipur to honor outstanding achievements in the coal and lignite mining sector.",
+      "category": "national",
+      "source": "pib",
+      "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2331086",
+      "importance": 4,
+      "date_added": "2026-11-01"
+    },
+    {
+      "title": "INS Trishul Makes Port Call at Souda Bay in Greece",
+      "summary": "Indian Naval Ship Trishul made a port visit to Souda Bay in Greece as part of international naval engagement.",
+      "category": "national",
+      "source": "pib",
+      "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2331089",
+      "importance": 4,
+      "date_added": "2026-11-01"
+    },
+    {
+      "title": "PM Approves Northern Bullet Train Corridor",
+      "summary": "The Prime Minister has approved the Northern Bullet Train Corridor.",
+      "category": "economy",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/pm-approves-northern-bullet-train-corridor/",
+      "importance": 4,
+      "date_added": "2026-11-01"
+    },
+    {
+      "title": "Russia Test-Fires Bulava Submarine-Launched Ballistic Missile",
+      "summary": "Russia has test-fired the Bulava submarine-launched ballistic missile.",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/russia-test-fires-bulava-submarine-launched-ballistic-missile/",
+      "importance": 4,
+      "date_added": "2026-11-01"
+    },
+    {
+      "title": "Chola-Era Nataraja and Sivakami Bronze Idols Found in Nagapattinam",
+      "summary": "Chola-era bronze idols of Nataraja and Sivakami have been found in Nagapattinam.",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/chola-era-nataraja-and-sivakami-bronze-idols-found-in-nagapattinam/",
+      "importance": 4,
+      "date_added": "2026-11-01"
+    },
+    {
+      "title": "Digital Bharat Nidhi Signs Tamil Nadu BharatNet Agreement",
+      "summary": "Digital Bharat Nidhi has signed an agreement regarding Tamil Nadu BharatNet.",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/digital-bharat-nidhi-signs-tamil-nadu-bharatnet-agreement/",
+      "importance": 4,
+      "date_added": "2026-11-01"
+    },
+    {
+      "title": "India to Host ICAR–CGIAR Science and Partnership Week 2027",
+      "summary": "India will host the ICAR–CGIAR Science and Partnership Week in 2027.",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/india-to-host-icar-cgiar-science-and-partnership-week-2027/",
+      "importance": 4,
+      "date_added": "2026-11-01"
+    },
+    {
+      "title": "Rahul Dravid and Saina Nehwal Nominated to 2030 Commonwealth Games Board",
+      "summary": "Rahul Dravid and Saina Nehwal have been nominated to the 2030 Commonwealth Games Board.",
+      "category": "sports",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/rahul-dravid-and-saina-nehwal-nominated-to-2030-commonwealth-games-board/",
+      "importance": 4,
+      "date_added": "2026-11-01"
+    },
+    {
+      "title": "India-Brazil Partnership Expands in Defence, Aerospace and Space",
+      "summary": "The partnership between India and Brazil is expanding across defence, aerospace, and space sectors.",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/india-brazil-partnership-expands-in-defence-aerospace-and-space/",
+      "importance": 4,
+      "date_added": "2026-11-01"
+    },
+    {
+      "title": "Buddha’s Piprahwa Relics to Be Displayed in Arunachal Pradesh",
+      "summary": "Buddha’s Piprahwa relics are set to be displayed in Arunachal Pradesh.",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/buddhas-piprahwa-relics-to-be-displayed-in-arunachal-pradesh/",
+      "importance": 4,
+      "date_added": "2026-11-01"
+    },
+    {
+      "title": "Jatin Kumar Nayak Takes Charge as IREDA CMD",
+      "summary": "Jatin Kumar Nayak has taken charge as the Chairman and Managing Director (CMD) of IREDA.",
+      "category": "economy",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/jatin-kumar-nayak-takes-charge-as-ireda-cmd/",
+      "importance": 4,
+      "date_added": "2026-11-01"
+    },
+    {
+      "title": "Google’s Project Suncatcher Receives First AI Response from Space",
+      "summary": "Google’s Project Suncatcher has received its first artificial intelligence response from space.",
+      "category": "science",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/googles-project-suncatcher-receives-first-ai-response-from-space/",
+      "importance": 4,
+      "date_added": "2026-11-01"
+    },
+    {
+      "title": "Teghaza 001 Meteorite Reveals Ancient Water History of Mars",
+      "summary": "The discovery involving Teghaza 001 has provided new scientific insights into the ancient water history of Mars.",
+      "category": "science",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/teghaza-001-reveals-ancient-water-history-of-mars/",
+      "importance": 4,
+      "date_added": "2026-11-01"
+    },
+    {
+      "title": "Kendriya Grihmantri Dakshata Padak Awarded to 490 Personnel",
+      "summary": "A total of 490 personnel have been awarded the Kendriya Grihmantri Dakshata Padak for 2026.",
+      "category": "awards",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/kendriya-grihmantri-dakshata-padak-2026-goes-to-490-personnel/",
+      "importance": 4,
+      "date_added": "2026-11-01"
     }
   ]
 }
