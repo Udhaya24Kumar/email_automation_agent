@@ -1,150 +1,6 @@
 {
   "items": [
     {
-      "title": "Indian Navy Launches Next Generation Offshore Patrol Vessel Srishti",
-      "summary": "The Indian Navy has launched Srishti, a Next Generation Offshore Patrol Vessel.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/indian-navy-launches-next-generation-offshore-patrol-vessel-srishti/",
-      "importance": 5,
-      "date_added": "2026-10-28"
-    },
-    {
-      "title": "India Invites Pakistan Minister for SCO Civilisational Dialogue in Delhi",
-      "summary": "India has extended an invitation to a Pakistani minister for the inaugural Shanghai Cooperation Organisation (SCO) Civilisational Dialogue in Delhi. Prime Minister Narendra Modi will inaugurate the event, which features representatives from over 25 countries at Purana Quila.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/in-a-first-since-2023-delhi-invites-pakistan-minister-for-inaugural-sco-civilisational-dialogue-in-november/article71630539.ece",
-      "importance": 4,
-      "date_added": "2026-10-28"
-    },
-    {
-      "title": "Report Ranks India Among Top Countries for Heatwave Exposure in Vulnerable Groups",
-      "summary": "A global report places India among the top countries facing the highest heatwave exposure for infants and older adults. Globally, total heatwave exposure days declined from the 2024 record of 15.3 billion person-days for older adults and 2.3 billion person-days for infants.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/india-among-top-countries-with-highest-heatwave-exposure-for-infants-older-adults-report/article71634194.ece",
-      "importance": 4,
-      "date_added": "2026-10-28"
-    },
-    {
-      "title": "Current climate pledges will cut emissions by just 6% by 2035, far off track: UN report",
-      "summary": "The UNFCCC’s 2026 NDC Synthesis Report found that even full implementation, including conditional pledges, would cut emissions only 9% below 2019 levels by 2035",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/current-climate-pledges-will-cut-emissions-by-just-6-by-2035-far-off-track-un-report/article71630763.ece",
-      "importance": 4,
-      "date_added": "2026-10-28"
-    },
-    {
-      "title": "At SCO meet, Rajnath calls for dismantling the entire ecosystem of terrorism",
-      "summary": "There is no place for those who finance, support, or provide safe havens to terrorists, says Defence Minister; India supports adoption of action plan for trade and economic cooperation among SCO members",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/ecosystem-of-terrorism-must-be-firmly-and-collectively-dismantled-rajnath-singh-at-sco-meet/article71604143.ece",
-      "importance": 4,
-      "date_added": "2026-10-28"
-    },
-    {
-      "title": "Cyclone Arnab Begins Landfall Process Along Andhra Pradesh Coast",
-      "summary": "The India Meteorological Department (IMD) announced that the landfall process of Cyclone Arnab has commenced along the Andhra Pradesh coast. The storm's northern spiral band has moved inland, with the process expected to continue over three hours.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/cyclone-arnab-andhra-pradesh-odisha-rainfall-weather-imd-alert-live-updates-october-27-2026/article71629599.ece",
-      "importance": 4,
-      "date_added": "2026-10-28"
-    },
-    {
-      "title": "Very Severe Cyclonic Storm 'Arnab' Begins Landfall Near Narsapur",
-      "summary": "Very severe cyclonic storm 'Arnab' has begun its landfall process near Narsapur, bringing heavy rainfall to Vizag. The India Meteorological Department (IMD) noted that the landfall process may extend over a long period before a tentative point is finalized.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-landfall-updates/article71633266.ece",
-      "importance": 4,
-      "date_added": "2026-10-28"
-    },
-    {
-      "title": "BRICS Parliamentary Forum Issues Declaration on West Asian Hostilities",
-      "summary": "The BRICS parliamentary forum expressed deep concern regarding hostilities in West Asia through a joint declaration. The forum advocated for a two-state solution to the Israel-Palestine conflict while asserting the Palestinian people's right to self-determination and sovereignty.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/brics-parliamentary-forum-expresses-deep-concern-about-west-asian-hostilities/article71632561.ece",
-      "importance": 4,
-      "date_added": "2026-10-28"
-    },
-    {
-      "title": "EAM S. Jaishankar to Attend G20 Foreign Ministers' and Quad Meetings in the U.S.",
-      "summary": "External Affairs Minister S. Jaishankar is set to travel to the United States for the G20 Foreign Ministers' meeting and Quad discussions. The meetings will focus on preparations for the upcoming Quad Leaders' Summit and G20 Summit.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/jaishankar-to-travel-to-us-for-g20-foreign-ministers-meet-quad-this-week/article71632365.ece",
-      "importance": 4,
-      "date_added": "2026-10-28"
-    },
-    {
-      "title": "India poised to refine for world as global capacity declines: Union Minister Hardeep Puri",
-      "summary": "India's refining capacity is currently around 290 million tonnes per annum and is expected to expand further, he said",
-      "category": "economy",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/business/Economy/india-poised-to-refine-for-world-as-global-capacity-declines-union-minister-hardeep-puri/article71630663.ece",
-      "importance": 4,
-      "date_added": "2026-10-28"
-    },
-    {
-      "title": "DPIIT Launches Sixth National Startup Awards",
-      "summary": "The Department for Promotion of Industry and Internal Trade (DPIIT) has launched the sixth edition of the National Startup Awards.",
-      "category": "awards",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/dpiit-launches-sixth-national-startup-awards/",
-      "importance": 4,
-      "date_added": "2026-10-28"
-    },
-    {
-      "title": "Janjatiya Gaurav Diwas 2026 Observance Set for November 1 to 15",
-      "summary": "The observance of Janjatiya Gaurav Diwas 2026 has been scheduled from November 1 to 15.",
-      "category": "important_days",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/janjatiya-gaurav-diwas-2026-observance-from-november-1-to-15/",
-      "importance": 4,
-      "date_added": "2026-10-28"
-    },
-    {
-      "title": "India and Mexico Launch PTA Negotiations",
-      "summary": "India and Mexico have officially launched negotiations for a Preferential Trade Agreement (PTA).",
-      "category": "economy",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/india-and-mexico-launch-pta-negotiations/",
-      "importance": 4,
-      "date_added": "2026-10-28"
-    },
-    {
-      "title": "MoRTH Introduces FASTag Annual Local Pass",
-      "summary": "The Ministry of Road Transport and Highways (MoRTH) has introduced an annual local pass feature for FASTag.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/morth-introduces-fastag-annual-local-pass/",
-      "importance": 4,
-      "date_added": "2026-10-28"
-    },
-    {
-      "title": "Uttar Pradesh Approves PRAGATI AI and Robotics Park",
-      "summary": "The state government of Uttar Pradesh has approved the establishment of the PRAGATI AI and Robotics Park.",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/uttar-pradesh-approves-pragati-ai-and-robotics-park/",
-      "importance": 4,
-      "date_added": "2026-10-28"
-    },
-    {
-      "title": "Andhra Pradesh Put on High Alert Due to Cyclone Arnab Threat",
-      "summary": "Andhra Pradesh has been placed on high alert with evacuation orders issued in response to the threat posed by Cyclone Arnab.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-threat-naidu-orders-evacuations-puts-andhra-pradesh-on-high-alert/article71627074.ece",
-      "importance": 4,
-      "date_added": "2026-10-28"
-    },
-    {
       "title": "Cabinet Approves Viksit Gram Swaraj Yojana",
       "summary": "The Union Cabinet has approved the Viksit Gram Swaraj Yojana with a financial outlay of ₹7,395 crore.",
       "category": "national",
@@ -1349,6 +1205,159 @@
       "url": "https://www.thehindu.com/news/international/israels-intent-is-to-prevent-palestinians-from-existing-as-a-group-justice-muralidhar/article71657088.ece",
       "importance": 3,
       "date_added": "2026-11-03"
+    },
+    {
+      "title": "Supreme Court Questions Two-Child Norm Citing Decline in India's Total Fertility Rate",
+      "summary": "The Supreme Court noted that India's total fertility rate has fallen from 3 to 1.9, which is below the replacement rate of 2.1. In light of this decline, the Court questioned the validity of maintaining a two-child norm.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/supreme-court-judgment-questions-two-child-norm-with-falling-fertility-rate/article71664320.ece",
+      "importance": 5,
+      "date_added": "2026-11-04"
+    },
+    {
+      "title": "IndiaAI Mission Releases Indigenous AI Models EKA-1, Dhīr 2B, and Dhīr 5B",
+      "summary": "The IndiaAI Mission has released three indigenous foundation models, namely EKA-1, Dhīr 2B, and Dhīr 5B. This marks a significant milestone in advancing homegrown artificial intelligence technology in India.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sci-tech/technology/indiaai-mission-releases-indigenous-foundation-models-eka-1-dhir-2b-and-dhir-5b/article71663984.ece",
+      "importance": 5,
+      "date_added": "2026-11-04"
+    },
+    {
+      "title": "Rajkumari Lanchenbi Chanu Wins India's First Youth Olympic Wushu Medal",
+      "summary": "Rajkumari Lanchenbi Chanu has won India's first Youth Olympic medal in Wushu.",
+      "category": "sports",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/rajkumari-lanchenbi-chanu-wins-indias-first-youth-olympic-wushu-medal/",
+      "importance": 4,
+      "date_added": "2026-11-04"
+    },
+    {
+      "title": "NTPC Targets 149 GW Installed Capacity by 2032",
+      "summary": "NTPC has set a target to reach an installed capacity of 149 GW by the year 2032.",
+      "category": "economy",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/ntpc-targets-149-gw-installed-capacity-by-2032/",
+      "importance": 4,
+      "date_added": "2026-11-04"
+    },
+    {
+      "title": "Supreme Court Rules ECI in Error Over Form 6 Requirement for Excluded Voters",
+      "summary": "The Supreme Court clarified that the ECI erred in forcing pre-existing voters deleted from electoral rolls to reapply as new voters under Form 6 of the Registration of Electors Rules, 1960.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/eci-still-insisting-on-form-6-for-excluded-voters-in-delhi-sir-petitioners-make-urgent-mentioning-in-supreme-court/article71664356.ece",
+      "importance": 4,
+      "date_added": "2026-11-04"
+    },
+    {
+      "title": "Union Cabinet to Discuss Capex Support for Critical Mineral Processing and VGF for Renewable Energy Storage",
+      "summary": "The Union Cabinet is set to discuss capital expenditure support of approximately 30% for establishing critical mineral processing plants. The proposal also includes Viability Gap Funding (VGF) for grid-scale renewable energy storage systems.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/union-cabinet-discussion-capex-support-for-critical-mineral-processing-vgf-re-grid-scale-storage-system/article71664202.ece",
+      "importance": 4,
+      "date_added": "2026-11-04"
+    },
+    {
+      "title": "Strategic Context of IRNSS and NavIC Development",
+      "summary": "The concept of India's IRNSS (NavIC) system originated from a strategic necessity after the United States denied access to its Global Positioning Service (GPS) during the 1999 Kargil conflict.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/what-is-the-debate-on-navic-vs-gps-explained/article71663982.ece",
+      "importance": 4,
+      "date_added": "2026-11-04"
+    },
+    {
+      "title": "Hakeem Jeffries Set to Become First Black Speaker of U.S. House of Representatives",
+      "summary": "Hakeem Jeffries, representing a New York City congressional district, is positioned to become the first Black Speaker of the U.S. House of Representatives. He will preside over the House majority starting in the first week of January, taking over leadership from the Republicans.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/hakeem-jeffries-poised-to-become-first-black-speaker-of-us-house-of-representatives/article71664413.ece",
+      "importance": 4,
+      "date_added": "2026-11-04"
+    },
+    {
+      "title": "Bhutan Sets Guinness World Record by Raising 108 Stupas in 9 Hours",
+      "summary": "Bhutan set a Guinness World Record by raising 108 stupas in nine hours with the help of around 40,000 trained volunteers. The achievement aims to lay the spiritual foundation for the country's proposed Gelephu Mindfulness City.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/bhutan-sets-guinness-record-by-raising-108-stupas-in-9-hours/article71663973.ece",
+      "importance": 4,
+      "date_added": "2026-11-04"
+    },
+    {
+      "title": "ICJ to Rule on Gambia's Rohingya Genocide Case Against Myanmar",
+      "summary": "The International Court of Justice will issue its ruling on November 19 regarding The Gambia's case against Myanmar. The case accuses Myanmar of breaching the 1948 UN Genocide Convention during its repression of the Rohingya population.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/top-un-court-to-rule-november-19-on-rohingya-genocide-case/article71662800.ece",
+      "importance": 4,
+      "date_added": "2026-11-04"
+    },
+    {
+      "title": "Delhi Imposes GRAP Stage 2 Restrictions as AQI Reaches Very Poor Category",
+      "summary": "Delhi has implemented Stage 2 of the Graded Response Action Plan (GRAP) after the Air Quality Index (AQI) worsened to the 'very poor' category. The measures include imposing bans on older vehicles, increasing parking fees, and promoting the use of public transport.",
+      "category": "environment",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/cities/Delhi/grap-stage-2-restrictions-in-delhi-what-is-allowed-and-what-is-not-allowed-full-list/article71660783.ece",
+      "importance": 4,
+      "date_added": "2026-11-04"
+    },
+    {
+      "title": "NITI Aayog Launches India S&T Scoreboard",
+      "summary": "NITI Aayog has launched the India S&T Scoreboard initiative.",
+      "category": "science",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/niti-aayog-launches-india-st-scoreboard/",
+      "importance": 4,
+      "date_added": "2026-11-04"
+    },
+    {
+      "title": "IndiaAI Mission Unveils EKA-1 and Dhīr Foundation Models",
+      "summary": "The IndiaAI Mission has unveiled the EKA-1 and Dhīr foundation models.",
+      "category": "science",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/indiaai-mission-unveils-eka-1-and-dhir-foundation-models/",
+      "importance": 4,
+      "date_added": "2026-11-04"
+    },
+    {
+      "title": "NPPA Updates Reduced Prices for 1,085 Anti-Cancer Medicines",
+      "summary": "The National Pharmaceutical Pricing Authority (NPPA) has updated reduced prices for 1,085 anti-cancer medicines.",
+      "category": "economy",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/nppa-updates-reduced-prices-for-1085-anti-cancer-medicines/",
+      "importance": 4,
+      "date_added": "2026-11-04"
+    },
+    {
+      "title": "SEBI Partners with BHASHINI to Expand Regional-Language Services",
+      "summary": "SEBI has partnered with BHASHINI to expand its regional-language services.",
+      "category": "science",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/sebi-partners-with-bhashini-to-expand-regional-language-services/",
+      "importance": 4,
+      "date_added": "2026-11-04"
+    },
+    {
+      "title": "Panchayati Raj Ministry Proposes Linking Welfare Payments to Voter IDs",
+      "summary": "The Panchayati Raj Minister stated that welfare payments will be linked to voter IDs (EPIC numbers) along with biometrics. Welfare payments are currently linked to Aadhaar.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/welfare-payments-will-be-based-on-voter-ids-not-aadhaar-says-panchayati-raj-minister/article71662258.ece",
+      "importance": 4,
+      "date_added": "2026-11-04"
+    },
+    {
+      "title": "MEA Reaffirms Structured Mechanism for Ganga Water Treaty Ahead of Expiry",
+      "summary": "The Ministry of External Affairs affirmed that a structured mechanism remains in place for the Ganga Water Treaty between India and Bangladesh. The spokesperson also confirmed an invitation to the Bangladesh Prime Minister to visit New Delhi.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/weeks-before-expiry-of-ganga-water-treaty-mea-says-structured-mechanism-remains-in-place-for-pact/article71661782.ece",
+      "importance": 4,
+      "date_added": "2026-11-04"
     }
   ]
 }
