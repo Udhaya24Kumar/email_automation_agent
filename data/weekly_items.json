@@ -1,132 +1,6 @@
 {
   "items": [
     {
-      "title": "Cabinet Approves Viksit Gram Swaraj Yojana",
-      "summary": "The Union Cabinet has approved the Viksit Gram Swaraj Yojana with a financial outlay of ₹7,395 crore.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/cabinet-approves-viksit-gram-swaraj-yojana-with-%e2%82%b97395-crore/",
-      "importance": 5,
-      "date_added": "2026-10-29"
-    },
-    {
-      "title": "Cabinet Approves ₹10,000-Crore Shipping Container Manufacturing Programme",
-      "summary": "The Union Cabinet has approved a ₹10,000-crore manufacturing programme dedicated to shipping containers.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/cabinet-approves-%e2%82%b910000-crore-shipping-container-manufacturing-programme/",
-      "importance": 5,
-      "date_added": "2026-10-29"
-    },
-    {
-      "title": "NPPA Revises Prices of 543 Anti-Cancer Medicine Brands",
-      "summary": "The National Pharmaceutical Pricing Authority (NPPA) has revised the prices of 543 anti-cancer medicine brands.",
-      "category": "economy",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/nppa-revises-prices-of-543-anti-cancer-medicine-brands/",
-      "importance": 4,
-      "date_added": "2026-10-29"
-    },
-    {
-      "title": "India Offers Anti-Terror Expertise to ASEAN and Dialogue Partners",
-      "summary": "Defence Minister Rajnath Singh offered to share India's anti-terror expertise with ASEAN and stated India will remain a trusted net security provider in the Indian Ocean region and Indo-Pacific.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/rajnath-singh-india-asean-defence-ministers-meeting-plus-conclave-philippines/article71639347.ece",
-      "importance": 4,
-      "date_added": "2026-10-29"
-    },
-    {
-      "title": "World Stroke Day Observed on October 29",
-      "summary": "World Stroke Day is observed on October 29 to highlight awareness and emergency care for stroke patients. In Karnataka, a hub-and-spoke model is being utilised to extend specialised stroke care and reduce emergency transfers to Bengaluru.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sci-tech/health/40-of-patients-at-nimhans-neurology-casualty-have-stroke-kmcri-in-hubbali-treats-120-cases-a-month/article71636352.ece",
-      "importance": 4,
-      "date_added": "2026-10-29"
-    },
-    {
-      "title": "India and Poland Aim to Raise Bilateral Trade to $10 Billion",
-      "summary": "India and Poland are seeking to increase their bilateral trade from $6 billion to $10 billion following the elevation of their ties to a strategic partnership. The move comes after Prime Minister Narendra Modi's visit to Poland in 2024 to strengthen bilateral relations.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/poland-pivots-towards-india-as-strategic-partnership-with-china-develops-cracks/article71636517.ece",
-      "importance": 4,
-      "date_added": "2026-10-29"
-    },
-    {
-      "title": "Union Cabinet Approves 3% Dearness Allowance Hike for Central Employees",
-      "summary": "The Union Cabinet has approved a 3% increase in Dearness Allowance (DA) and Dearness Relief (DR) effective from July 1, 2026. The decision will benefit 48.54 lakh central government employees and 68.71 lakh pensioners.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/cabinet-approves-3-hike-in-dearness-allowance-for-central-government-employees/article71635503.ece",
-      "importance": 4,
-      "date_added": "2026-10-29"
-    },
-    {
-      "title": "Luiz Inácio Lula da Silva Secures Fourth Term as President of Brazil",
-      "summary": "Luiz Inácio Lula da Silva has secured an unprecedented fourth term as President of Brazil at the age of 81.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/daily-quiz-on-luiz-inacio-lula-da-silva/article71634672.ece",
-      "importance": 4,
-      "date_added": "2026-10-29"
-    },
-    {
-      "title": "India and Mexico Sign Terms of Reference for Preferential Trade Agreement Negotiations",
-      "summary": "India and Mexico have signed the Terms of Reference to begin negotiations for a preferential trade agreement. The agreement was signed during the visit of Commerce Secretary Rajesh Agrawal to Mexico.",
-      "category": "economy",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/business/Economy/india-and-mexico-sign-terms-of-reference-for-preferential-trade-agreement-negotiations-to-begin/article71635915.ece",
-      "importance": 4,
-      "date_added": "2026-10-29"
-    },
-    {
-      "title": "Abhishek Sharma Becomes World No. 1 T20I Batter",
-      "summary": "Abhishek Sharma surpassed Ishan Kishan to become the world No. 1 batter in the T20I rankings. He achieved this after scoring his fourth T20I century, making 113 runs off 38 balls on October 27 to lead India to a six-wicket victory in the third T20I.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/cricket/abhishek-sharma-becomes-world-no-1-t20i-batter-overtaking-ishan-kishan/article71635279.ece",
-      "importance": 4,
-      "date_added": "2026-10-29"
-    },
-    {
-      "title": "ESIC Extends Deadline for New Amnesty Scheme 2025 to December 31, 2026",
-      "summary": "The Employees' State Insurance Corporation (ESIC) has extended the deadline for its New Amnesty Scheme 2025 to December 31, 2026. This extension gives employers and insured persons more time to settle pending cases.",
-      "category": "economy",
-      "source": "pib",
-      "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2329889",
-      "importance": 4,
-      "date_added": "2026-10-29"
-    },
-    {
-      "title": "Centre Increases DA and DR by 3%",
-      "summary": "The Central Government has raised Dearness Allowance (DA) and Dearness Relief (DR) by 3% effective from July 1.",
-      "category": "economy",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/centre-raises-da-and-dr-by-3-from-1-july/",
-      "importance": 4,
-      "date_added": "2026-10-29"
-    },
-    {
-      "title": "Kajal Dhochak and Neelam Sirohi Win World Wrestling Silver",
-      "summary": "Indian wrestlers Kajal Dhochak and Neelam Sirohi won silver medals at the World Wrestling event.",
-      "category": "sports",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/kajal-dhochak-and-neelam-sirohi-win-world-wrestling-silver/",
-      "importance": 4,
-      "date_added": "2026-10-29"
-    },
-    {
-      "title": "Textile PLI Scheme Reopens with ₹100 Crore Turnover Threshold",
-      "summary": "The Production Linked Incentive (PLI) scheme for the textile sector has been reopened with a turnover threshold of ₹100 crore.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/textile-pli-scheme-reopens-with-%e2%82%b9100-crore-turnover-threshold/",
-      "importance": 4,
-      "date_added": "2026-10-29"
-    },
-    {
       "title": "Labour Ministry Constitutes National Social Security Boards for Workers",
       "summary": "The Ministry of Labour and Employment has set up National Social Security Boards to design, monitor, and recommend welfare schemes for traditional unorganised, gig, and platform workers.",
       "category": "national",
@@ -1358,6 +1232,249 @@
       "url": "https://www.thehindu.com/news/national/weeks-before-expiry-of-ganga-water-treaty-mea-says-structured-mechanism-remains-in-place-for-pact/article71661782.ece",
       "importance": 4,
       "date_added": "2026-11-04"
+    },
+    {
+      "title": "Tanvi Patri Becomes First Indian Badminton Player to Reach Youth Olympic Final",
+      "summary": "Fifteen-year-old Tanvi Patri from Odisha became the first Indian badminton player to qualify for the Youth Olympic badminton final. She achieved the feat after defeating Japan's second seed Yuzuno Watanabe in the semifinals.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/tanvi-patri-becomes-first-indian-badminton-player-to-reach-youth-olympic-badminton-final/article71668839.ece",
+      "importance": 5,
+      "date_added": "2026-11-05"
+    },
+    {
+      "title": "ISRO's NVS-03 Satellite Successfully Reaches Geosynchronous Orbit",
+      "summary": "ISRO announced that the NVS-03 satellite has reached Geosynchronous Orbit at an inclination of 29.98 degrees. The orbit placement was accomplished following four successful manoeuvres with a cumulative LAM engine burn of 6,164 seconds.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/nvs-03-reaches-geosynchronous-orbit-satellite-in-good-health/article71667218.ece",
+      "importance": 5,
+      "date_added": "2026-11-05"
+    },
+    {
+      "title": "Union Cabinet Approves VISTAR Scheme to Overhaul India's Statistical System",
+      "summary": "The Union Cabinet approved the VISTAR scheme aimed at modernising India's statistical infrastructure. The three-pronged initiative will integrate AI, improve data collection, and capture unorganised sector data to enhance GDP calculation accuracy.",
+      "category": "economy",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/Economy/union-cabinet-approves-new-vistar-scheme-to-overhaul-indias-statistical-system/article71665494.ece",
+      "importance": 5,
+      "date_added": "2026-11-05"
+    },
+    {
+      "title": "Union Cabinet Approves ₹14,500 Crore Viability Gap Funding Scheme for Energy Storage",
+      "summary": "The Union Cabinet approved a Viability Gap Funding (VGF) scheme worth ₹14,500 crore to advance large-scale energy storage capacity in India. It supports hydro pumped storage plants, battery energy storage systems, and alternative storage technologies.",
+      "category": "economy",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/Economy/union-cabinet-approves-14500-crore-vgf-scheme-to-develop-large-scale-energy-storage-in-india/article71665406.ece",
+      "importance": 5,
+      "date_added": "2026-11-05"
+    },
+    {
+      "title": "India Plans World’s Highest Railway Station at Tanglang La",
+      "summary": "India is planning to build the world's highest railway station at Tanglang La.",
+      "category": "economy",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/india-plans-worlds-highest-railway-station-at-tanglang-la/",
+      "importance": 5,
+      "date_added": "2026-11-05"
+    },
+    {
+      "title": "Cabinet Approves ₹2,814 Crore Critical Mineral Processing Scheme",
+      "summary": "The Union Cabinet has approved the Critical Mineral Processing Scheme with a budget of ₹2,814 crore.",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/cabinet-approves-%e2%82%b92814-crore-critical-mineral-processing-scheme/",
+      "importance": 5,
+      "date_added": "2026-11-05"
+    },
+    {
+      "title": "Cabinet Approves ₹14,500-Crore Energy Storage VGF Scheme",
+      "summary": "The Union Cabinet has approved the Energy Storage Viability Gap Funding (VGF) Scheme with an outlay of ₹14,500 crore.",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/cabinet-approves-%e2%82%b914500-crore-energy-storage-vgf-scheme/",
+      "importance": 5,
+      "date_added": "2026-11-05"
+    },
+    {
+      "title": "Over 43 Lakh Pucca Houses Completed in Bihar Under PMAY-G",
+      "summary": "More than 43 lakh pucca houses have been completed for poor families in Bihar under the Pradhan Mantri Awaas Yojana - Gramin (PMAY-G). A total of ₹56,743.40 crore has been spent under the scheme in the state, with 36.63 lakh houses constructed between FY 2016-17 and FY 2021-22.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/bihar/more-than-43-lakh-pucca-houses-completed-in-bihar-for-poor-families/article71666913.ece",
+      "importance": 4,
+      "date_added": "2026-11-05"
+    },
+    {
+      "title": "Amish Shah Becomes First Indian-American to Represent Arizona in U.S. Congress",
+      "summary": "Amish Shah has created history by becoming the first Indian-American to represent Arizona in the U.S. Congress after winning his seat. He has also become the sixth Indian-American member elected to the U.S. House of Representatives.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/amish-shah-claims-victory-in-arizona-sixth-indian-american-in-us-house/article71668702.ece",
+      "importance": 4,
+      "date_added": "2026-11-05"
+    },
+    {
+      "title": "Centre Earmarks ₹2,814 Crore for Domestic Lithium and Nickel Processing",
+      "summary": "Union Coal and Mines Minister G. Kishan Reddy announced an allocation of ₹2,814 crore to enhance domestic lithium and nickel processing. The initiative seeks to strengthen manufacturing capabilities and decrease dependence on foreign imports.",
+      "category": "economy",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/Economy/centre-earmarks-2814-crore-to-boost-lithium-nickel-processing/article71666803.ece",
+      "importance": 4,
+      "date_added": "2026-11-05"
+    },
+    {
+      "title": "Supreme Court Rules Adjudication Unnecessary in Sales Tax Case Due to GST Implementation",
+      "summary": "A seven-judge Supreme Court bench led by CJI Surya Kant held that the reference regarding states' power to levy additional sales tax under the Orissa Sales Tax Act no longer requires adjudication. The court noted that challenged provisions have been amended and GST now governs the matter.",
+      "category": "economy",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/supreme-court-upholds-states-power-to-levy-additional-sales-tax-says-case-has-become-academic/article71664975.ece",
+      "importance": 4,
+      "date_added": "2026-11-05"
+    },
+    {
+      "title": "Supreme Court Rules 24-Hour Production Before Magistrate Starts From Detention, Not Formal Arrest",
+      "summary": "The Supreme Court has ruled that the mandatory 24-hour period to produce an arrested individual before a magistrate begins from the time of actual detention rather than formal arrest. The Court stated that fundamental rights override restrictions even under special laws such as UAPA and PMLA.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/24-hour-to-produce-before-magistrate-starts-from-detention-not-formal-arrest-supreme-court/article71668833.ece",
+      "importance": 4,
+      "date_added": "2026-11-05"
+    },
+    {
+      "title": "Nirmala Lakshman's Book 'The Tamils : A Portrait of a Community' Wins Sharjah Award",
+      "summary": "Author Nirmala Lakshman's book 'The Tamils : A Portrait of a Community', published by Aleph Book Company, has won the Sharjah award.",
+      "category": "awards",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/cities/chennai/nirmala-lakshmans-book-the-tamils-a-portrait-of-a-community-wins-sharjah-award/article71667155.ece",
+      "importance": 4,
+      "date_added": "2026-11-05"
+    },
+    {
+      "title": "Union Cabinet Approves Changes to Agniveer Scheme for Absorption Pathway",
+      "summary": "The Union Cabinet has approved changes to the Agniveer scheme based on recommendations from the three services. The decision creates a pathway for the absorption of willing Agniveers subject to merit and prescribed selection criteria.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/what-are-the-changes-in-agniveer-scheme-and-what-prompted-government-to-implement-them-explained/article71668573.ece",
+      "importance": 4,
+      "date_added": "2026-11-05"
+    },
+    {
+      "title": "AERB Affirms Safety Standards for Private Sector Entry in Nuclear Energy",
+      "summary": "The Atomic Energy Regulatory Board (AERB) Chairperson stated that safety aspects will not be compromised despite the Union government's policy decision to allow private sector entry into nuclear energy. The statement comes in the context of the proposed SHANTI Act and policy shifts toward private participation.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/private-sector-participation-in-nuclear-energy-aerb-will-provide-enabling-environment-without-compromising-safety-says-chairperson/article71668479.ece",
+      "importance": 4,
+      "date_added": "2026-11-05"
+    },
+    {
+      "title": "Protests Continue Against ₹76,220-Crore Vadhavan Port Project in Palghar",
+      "summary": "Local villagers and opposition parties in Palghar continue to oppose the ₹76,220-crore Vadhavan port project over concerns regarding their land, marine resources, and future livelihoods.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/vadhavan-port-project-faces-continued-resistance-from-palghar-villagers/article71656558.ece",
+      "importance": 4,
+      "date_added": "2026-11-05"
+    },
+    {
+      "title": "Supreme Court Observes Two-Child Penalty Laws Outdated Amid Falling Fertility Rates",
+      "summary": "A Supreme Court Bench observed that statutory two-child penalties have become outdated because the fear of overpopulation has crumbled due to demographic changes. The Court noted that declining fertility rates over recent decades make such restrictive measures obsolete.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/rolling-effect-of-decelerating-population-growth-very-hard-to-reverse-supreme-court/article71666136.ece",
+      "importance": 4,
+      "date_added": "2026-11-05"
+    },
+    {
+      "title": "Satellite Study Shows 73% Reduction in Bhutan's Sintaphu Tsho Lake After GLOF",
+      "summary": "A geospatial satellite assessment revealed a 73% reduction in the size of Bhutan's Sintaphu Tsho lake following a Glacial Lake Outburst Flood (GLOF). The study also noted that a supraglacial lake adjoining Sintaphu Tsho continues to remain substantially larger than its 2016 extent.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/satellite-assessment-shows-73-reduction-in-bhutans-lake-after-glof/article71666542.ece",
+      "importance": 4,
+      "date_added": "2026-11-05"
+    },
+    {
+      "title": "Ukrainian President Confers State Honour 'Order of Princess Olga' on U.S. First Lady",
+      "summary": "Ukrainian President Volodymyr Zelenskyy awarded the Order of Princess Olga, 1st class, to U.S. First Lady Melania Trump. The state honour recognizes women who have made exceptional contributions in fields including science, education, culture, and charitable work.",
+      "category": "awards",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/ukraines-zelenskyy-awards-us-first-lady-melania-state-honour/article71667243.ece",
+      "importance": 4,
+      "date_added": "2026-11-05"
+    },
+    {
+      "title": "S. Jaishankar Emphasises Digital Public Infrastructure at Commonwealth Meeting",
+      "summary": "External Affairs Minister S. Jaishankar highlighted the importance of digital public infrastructure at the Commonwealth meeting held in Antigua and Barbuda. He also addressed India's ongoing negotiations and recent Free Trade Agreements.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/jaishankar-highlights-importance-of-digital-public-infrastructure-at-commonwealth-meet-in-antigua-and-barbuda/article71665005.ece",
+      "importance": 4,
+      "date_added": "2026-11-05"
+    },
+    {
+      "title": "Tamil Nadu Sanctions ₹1.3 Crore for Bengal Fox and Golden Jackal Conservation",
+      "summary": "The Tamil Nadu state government has sanctioned ₹1.3 crore for a comprehensive assessment of habitat use, threats, and distribution patterns of the Bengal fox and golden jackal. The initiative aims to build a long-term conservation roadmap for the species.",
+      "category": "environment",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-takes-baby-steps-towards-conservation-of-bengal-fox-golden-jackal/article71664159.ece",
+      "importance": 4,
+      "date_added": "2026-11-05"
+    },
+    {
+      "title": "4th Mining Ministers' Conference to be Held in Goa",
+      "summary": "The 4th Conference of Mining Ministers is scheduled to take place in Goa on November 5–6, 2026.",
+      "category": "national",
+      "source": "pib",
+      "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332847",
+      "importance": 4,
+      "date_added": "2026-11-05"
+    },
+    {
+      "title": "JNCASR Develops Silicon Chip for Terahertz 6G Communication",
+      "summary": "JNCASR has developed a silicon chip designed for Terahertz 6G communication.",
+      "category": "science",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/jncasr-develops-silicon-chip-for-terahertz-6g-communication/",
+      "importance": 4,
+      "date_added": "2026-11-05"
+    },
+    {
+      "title": "India and Guyana Extend $500 Million Line of Credit",
+      "summary": "India and Guyana have extended a Line of Credit worth $500 million.",
+      "category": "international",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/india-and-guyana-extend-500-million-line-of-credit/",
+      "importance": 4,
+      "date_added": "2026-11-05"
+    },
+    {
+      "title": "Tanvi Patri Becomes First Indian Woman to Reach Youth Olympics Semifinals",
+      "summary": "Tanvi Patri has become the first Indian woman to reach the semifinals at the Youth Olympics.",
+      "category": "sports",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/tanvi-patri-becomes-first-indian-woman-to-reach-youth-olympics-semifinals/",
+      "importance": 4,
+      "date_added": "2026-11-05"
+    },
+    {
+      "title": "Harmanpreet Singh Scores 250th International Goal",
+      "summary": "Harmanpreet Singh has achieved the milestone of scoring his 250th international goal.",
+      "category": "sports",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/harmanpreet-singh-scores-250th-international-goal/",
+      "importance": 4,
+      "date_added": "2026-11-05"
+    },
+    {
+      "title": "TRAI Launches Network Anubhav Platform",
+      "summary": "The Telecom Regulatory Authority of India (TRAI) has launched the Network Anubhav platform.",
+      "category": "science",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/trai-launches-network-anubhav-platform/",
+      "importance": 4,
+      "date_added": "2026-11-05"
     }
   ]
 }
