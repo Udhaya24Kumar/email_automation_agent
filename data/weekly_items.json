@@ -1,159 +1,6 @@
 {
   "items": [
     {
-      "title": "Labour Ministry Constitutes National Social Security Boards for Workers",
-      "summary": "The Ministry of Labour and Employment has set up National Social Security Boards to design, monitor, and recommend welfare schemes for traditional unorganised, gig, and platform workers.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/labour-ministry-sets-up-national-social-security-boards-for-unorganised-gig-and-platform-workers/article71643865.ece",
-      "importance": 5,
-      "date_added": "2026-10-30"
-    },
-    {
-      "title": "ISRO's NVS-03 Satellite Launch Aimed at Restoring NavIC Navigation System",
-      "summary": "ISRO's NVS-03 mission aims to restore the functioning of NavIC, India's regional satellite navigation system. The development of NavIC began after GPS access was restricted to India following the 1999 Kargil War.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sci-tech/science/why-is-isros-nvs-03-satellite-launch-crucial-explained/article71643798.ece",
-      "importance": 5,
-      "date_added": "2026-10-30"
-    },
-    {
-      "title": "ISRO Prepares for GSLV-F18 Launch Carrying NVS-03 Navigation Satellite",
-      "summary": "The Indian Space Research Organisation is preparing to launch the GSLV-F18 rocket carrying the NVS-03 navigation satellite from the Satish Dhawan Space Centre. The lift-off is scheduled from the second launch pad at the spaceport.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sci-tech/science/isros-crucial-gslv-f18-launch-carrying-navigation-satellite-nvs-03/article71643519.ece",
-      "importance": 5,
-      "date_added": "2026-10-30"
-    },
-    {
-      "title": "India Votes in Favour of UNGA Resolution Calling for End to US Embargo on Cuba",
-      "summary": "The 193-member General Assembly adopted a resolution on October 28 calling for an end to the United States embargo on Cuba. India voted in favour of the resolution, which was supported by 130 countries, while 17 voted against and 25 abstained.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/india-votes-in-favour-of-unga-resolution-calling-for-end-to-us-embargo-on-cuba/article71642069.ece",
-      "importance": 4,
-      "date_added": "2026-10-30"
-    },
-    {
-      "title": "Rashid Khan Becomes First Men's Cricketer to Take 200 T20I Wickets",
-      "summary": "Afghanistan bowler Rashid Khan became the first men's player in cricket history to reach 200 wickets in T20 Internationals. He achieved the milestone in his 120th T20I match with an average of 13.96.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/cricket/afghanistans-rashid-khan-becomes-first-mens-player-to-claim-200-t20i-wickets/article71643780.ece",
-      "importance": 4,
-      "date_added": "2026-10-30"
-    },
-    {
-      "title": "Manisha Bhanwala Reaches World Wrestling Championships Final",
-      "summary": "Indian wrestler Manisha Bhanwala reached the final of the World Wrestling Championships after pinning Canadian bronze medallist Laurence Beauregard. She became the third Indian woman wrestler in history to reach the final of the tournament.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/manisha-bhanwala-becomes-third-indian-woman-to-reach-world-wrestling-championships-final/article71640763.ece",
-      "importance": 4,
-      "date_added": "2026-10-30"
-    },
-    {
-      "title": "PM Inaugurates ₹325-Crore Bovine Breeding Centre in Gujarat",
-      "summary": "Prime Minister Narendra Modi inaugurated a ₹325-crore bovine breeding centre in Banaskantha and launched the Bharat Parv 2026 festival at Ekta Nagar in Gujarat.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/gujarat/prime-minister-narendra-modi-two-day-gujarat-visit-unveil-various-projects/article71643499.ece",
-      "importance": 4,
-      "date_added": "2026-10-30"
-    },
-    {
-      "title": "Very Severe Cyclonic Storm Arnab Strikes Odisha and Andhra Pradesh",
-      "summary": "Cyclone Arnab, a very severe cyclonic storm, triggered the evacuation of over 55,000 people across nine districts in Odisha and caused an estimated loss of ₹4,600 crore in Andhra Pradesh.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/cyclone-arnab-imd-alert-odisha-andhra-pradesh-telangana-odisha-today-rain-weather-news-live-updates-october-30-2026/article71643382.ece",
-      "importance": 4,
-      "date_added": "2026-10-30"
-    },
-    {
-      "title": "EAM Jaishankar Participates in G20 Foreign Ministers' Meet in United States",
-      "summary": "External Affairs Minister Jaishankar visited the United States to participate in the two-day G20 Foreign Ministers' meeting. The deliberations focus on key geopolitical issues.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/external-affairs-minister-jaishankar-g20-foreign-ministers-meet-in-atlanta/article71643686.ece",
-      "importance": 4,
-      "date_added": "2026-10-30"
-    },
-    {
-      "title": "India Outlines AI and Maritime Security as Key Priorities for UNSC 2028–29 Term",
-      "summary": "India announced artificial intelligence and maritime security as primary priorities for its UNSC candidature for 2028–29. Representative Parvathaneni highlighted the critical necessity of safeguarding freedom of navigation and commercial shipping chokepoints.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/india-says-ai-maritime-security-key-priorities-for-its-unsc-candidature-for202829/article71643547.ece",
-      "importance": 4,
-      "date_added": "2026-10-30"
-    },
-    {
-      "title": "Motor Vehicles Act, 1988 Provisions on Driving Age Restrictions",
-      "summary": "Section 4 of the Motor Vehicles Act, 1988 prohibits individuals under 18 years of age from driving motor vehicles in public places. However, it permits individuals who have attained 16 years of age to drive gearless motorcycles with an engine capacity not exceeding 50cc.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/what-does-the-law-say-about-offences-caused-by-underage-drivers-explained/article71641863.ece",
-      "importance": 4,
-      "date_added": "2026-10-30"
-    },
-    {
-      "title": "ECB President Christine Lagarde Announces Resignation Effective February 7",
-      "summary": "European Central Bank President Christine Lagarde has announced that she will resign from her position effective February 7.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/european-central-bank-president-christine-lagarde-will-resign-february-7-nine-months-early/article71640231.ece",
-      "importance": 4,
-      "date_added": "2026-10-30"
-    },
-    {
-      "title": "India and U.K. Target $120 Billion Bilateral Trade by 2030",
-      "summary": "India and the United Kingdom are aiming to double their bilateral trade to approximately $120 billion by the year 2030.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/uk-pm-andy-burnham-trip-to-india-could-take-place-soon-british-envoy/article71640057.ece",
-      "importance": 4,
-      "date_added": "2026-10-30"
-    },
-    {
-      "title": "Supreme Court Directs RBI to Frame Measures Against Digital Arrest Fraud",
-      "summary": "The Supreme Court has directed the Reserve Bank of India (RBI) to frame regulatory measures to combat digital arrest fraud.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/supreme-court-directs-rbi-to-frame-measures-on-digital-arrest-fraud/",
-      "importance": 4,
-      "date_added": "2026-10-30"
-    },
-    {
-      "title": "Bhutan Glacial Outburst Triggers Flood Alerts in Assam and West Bengal",
-      "summary": "A Glacial Lake Outburst Flood (GLOF) in Bhutan has led to flood alerts being issued across Assam and West Bengal.",
-      "category": "environment",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/bhutan-glof-triggers-flood-alerts-in-assam-and-west-bengal/",
-      "importance": 4,
-      "date_added": "2026-10-30"
-    },
-    {
-      "title": "NASA's Juno Spacecraft Detects Complex Plasma Waves at Jupiter",
-      "summary": "The Juno spacecraft has detected complex plasma waves at Jupiter's bow shock region.",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/juno-detects-complex-plasma-waves-at-jupiters-bow-shock/",
-      "importance": 4,
-      "date_added": "2026-10-30"
-    },
-    {
-      "title": "Anil Menon Completes Fourth Spacewalk at the ISS",
-      "summary": "Astronaut Anil Menon has successfully completed his fourth spacewalk at the International Space Station.",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/anil-menon-completes-fourth-spacewalk-at-the-iss/",
-      "importance": 4,
-      "date_added": "2026-10-30"
-    },
-    {
       "title": "Manisha Bhanwala Wins Gold at World Wrestling Championships",
       "summary": "Manisha Bhanwala secured the gold medal at the World Wrestling Championships. Her victory marks a notable sports achievement at the international level.",
       "category": "sports",
@@ -1475,6 +1322,204 @@
       "url": "https://www.gktoday.in/trai-launches-network-anubhav-platform/",
       "importance": 4,
       "date_added": "2026-11-05"
+    },
+    {
+      "title": "Supreme Court Settles Decades-Old Energy Dispute for Himachal Pradesh",
+      "summary": "The Supreme Court has resolved a decades-old energy dispute by directing Punjab and Haryana to supply 11,973 million units of electricity to Himachal Pradesh over a 20-year period.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/himachal-to-get-11973-mu-electricity-from-punjab-haryana-as-sc-settles-decades-old-energy-dispute/article71673278.ece",
+      "importance": 5,
+      "date_added": "2026-11-06"
+    },
+    {
+      "title": "India Calls for Accountability for Attacks on UN Peacekeepers",
+      "summary": "India demanded at the United Nations that perpetrators of attacks against UN Peacekeepers (Blue Helmets) must be held accountable. India highlighted its status as one of the largest troop contributors, having deployed over 3,00,000 troops across 50 missions.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/perpetrators-of-attacks-against-blue-helmets-must-be-held-accountable-india-at-un/article71673026.ece",
+      "importance": 5,
+      "date_added": "2026-11-06"
+    },
+    {
+      "title": "Mahabharata, Arthashastra, and Rajatarangini Added to UNESCO Regional Memory Register",
+      "summary": "Manuscripts of the Mahabharata, Arthashastra, and Rajatarangini have been inscribed on UNESCO's Memory of the World regional register. Union Culture Minister Gajendra Singh Shekhawat recognized the event as a landmark milestone for India's documentary heritage.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/society/history-and-culture/mahabharata-arthashastra-rajatarangini-manuscripts-added-to-unesco-memory-regional-register/article71673038.ece",
+      "importance": 5,
+      "date_added": "2026-11-06"
+    },
+    {
+      "title": "Bhagavad Gita and Natyashastra Manuscripts Inscribed on UNESCO Memory of the World Register",
+      "summary": "Manuscripts of the Bhagavad Gita and Natyashastra were officially inscribed on UNESCO's Memory of the World Register. A total of 74 new documentary heritage collections were added to the register as of April 17, 2025.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/manuscripts-of-bhagavad-gita-natyashastra-inscribed-on-unescos-memory-of-the-world-register/article69463876.ece",
+      "importance": 5,
+      "date_added": "2026-11-06"
+    },
+    {
+      "title": "India's 'Maratha Military Landscapes' Inscribed on UNESCO World Heritage List",
+      "summary": "The 'Maratha Military Landscapes' of India have been added to the UNESCO World Heritage List. The listing features 12 components, including 11 forts located in Maharashtra and Gingee Fort in Tamil Nadu.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/indias-maratha-military-landscapes-inscribed-on-unesco-world-heritage-list/article69802028.ece",
+      "importance": 5,
+      "date_added": "2026-11-06"
+    },
+    {
+      "title": "ISRO Confirms NVS-03 Navigation Satellite Healthy for NavIC Payload Testing",
+      "summary": "ISRO Chairman V. Narayanan announced that the NVS-03 navigation satellite is fully healthy, with in-orbit testing scheduled for its payload as part of the operationalization of NavIC, India's indigenous GPS alternative.",
+      "category": "science",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/cities/chennai/isros-latest-navigation-satellite-nvs-03-is-fully-healthy-says-chairman-v-narayanan/article71670095.ece",
+      "importance": 5,
+      "date_added": "2026-11-06"
+    },
+    {
+      "title": "India Announces $500 Million Line of Credit Extension for Guyana",
+      "summary": "India has announced the extension of a $500 million line of credit to Guyana following a meeting between External Affairs Minister S. Jaishankar and Guyanese President Mohamed Irfaan Ali on the sidelines of the Commonwealth Heads of Government Meeting.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/india-announces-extension-of-500-million-line-of-credit-for-guyana/article71668982.ece",
+      "importance": 4,
+      "date_added": "2026-11-06"
+    },
+    {
+      "title": "Cristiano Ronaldo Retires from Portuguese National Football Team",
+      "summary": "Cristiano Ronaldo has announced his retirement from the Portuguese national football team. He leaves international football having made 234 appearances and scored 146 goals for Portugal.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/football/cristiano-ronaldo-retires-from-portuguese-national-team/article71669565.ece",
+      "importance": 4,
+      "date_added": "2026-11-06"
+    },
+    {
+      "title": "Indian NGO REACH Awarded Kochon Prize 2026 for Fight Against TB",
+      "summary": "Indian NGO REACH has received the Kochon Prize 2026 for making significant contributions to the fight against tuberculosis. The award is presented by the Korean non-profit Kochon Foundation in partnership with the Stop TB Partnership.",
+      "category": "awards",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/indian-ngo-reach-receives-kochon-prize-2026/article71673359.ece",
+      "importance": 4,
+      "date_added": "2026-11-06"
+    },
+    {
+      "title": "India’s First Private Space Debris Recovery Facility Opens in Hyderabad",
+      "summary": "A Hyderabad startup has launched India’s first private space debris recovery facility to tackle risks from orbiting space junk. Out of roughly 28,000 satellites currently in orbit, around 10,000 are non-operational.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/hyderabad-startup-opens-indias-first-private-space-debris-recovery-facility/article71670668.ece",
+      "importance": 4,
+      "date_added": "2026-11-06"
+    },
+    {
+      "title": "Supreme Court Clarifies Non-Retrospective Application of OBC Creamy Layer Verdict",
+      "summary": "The Supreme Court clarified that its March 2026 judgment regarding the OBC creamy layer policy will not apply retrospectively. It noted that service allocation for the 2025 batch will remain in compliance with the March 2026 judgment.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/sc-clarifies-its-march-2026-verdict-on-obc-creamy-layer-policy-will-not-apply-retrospectively/article71673040.ece",
+      "importance": 4,
+      "date_added": "2026-11-06"
+    },
+    {
+      "title": "Paraguay President Santiago Peña Steps Down Amid Banking Crisis",
+      "summary": "Paraguay President Santiago Peña has stepped down from office following widespread protests outside Congress triggered by a severe banking crisis.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/santiago-pena-paraguay-president-steps-down-as-banking-crisis-sows-chaos/article71672650.ece",
+      "importance": 4,
+      "date_added": "2026-11-06"
+    },
+    {
+      "title": "Foreign Secretary Vikram Misri Visits Nepal Ahead of PM's Visit",
+      "summary": "Indian Foreign Secretary Vikram Misri visited Nepal to set the stage for the Nepali Prime Minister's upcoming visit to India. Nepali leaders expressed appreciation for India's swift humanitarian and technical assistance after the Bhotekoshi floods.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/foreign-secretary-misri-sets-stage-for-nepal-pms-upcoming-india-visit/article71671036.ece",
+      "importance": 4,
+      "date_added": "2026-11-06"
+    },
+    {
+      "title": "Mines Ministry Launches 9th Round of Critical Mineral Block Auctions",
+      "summary": "The Ministry of Mines has launched the ninth tranche of auctions offering 20 critical mineral blocks. Across all tranches to date, 100 unique critical and strategic mineral blocks have been offered, of which 64 have been successfully auctioned.",
+      "category": "economy",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/Economy/ninth-tranche-of-mineral-block-auctions-offers-20-blocks/article71671174.ece",
+      "importance": 4,
+      "date_added": "2026-11-06"
+    },
+    {
+      "title": "India Targets 3% CBG Blending into PNG and CNG by End of Current Fiscal",
+      "summary": "India achieved a 1.7% Compressed Bio-Gas (CBG) blending rate in H1, with official targets set at 3% by the end of the current fiscal year, 4% in 2027-28, and 5% in the subsequent year.",
+      "category": "economy",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/Economy/cbg-blending-at-17-in-h1-pipeline-connectivity-key-to-achieving-3-target/article71671079.ece",
+      "importance": 4,
+      "date_added": "2026-11-06"
+    },
+    {
+      "title": "Tanvi Patri Wins Silver Medal at Youth Olympics",
+      "summary": "15-year-old Indian athlete Tanvi Patri secured a silver medal at the Youth Olympics following an hour-and-22-minute summit clash where she saved six match points.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/tanvi-patri-signs-off-with-silver-at-youth-olympics/article71672818.ece",
+      "importance": 4,
+      "date_added": "2026-11-06"
+    },
+    {
+      "title": "India Retains Asian Champions Trophy Title",
+      "summary": "India successfully retained the Asian Champions Trophy title by defeating Japan in the final match. Malaysia finished in third place in the tournament.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/hockey/asian-champions-trophy-india-retains-crown-with-a-late-surge/article71671356.ece",
+      "importance": 4,
+      "date_added": "2026-11-06"
+    },
+    {
+      "title": "Bay of Bengal Countries Launch Fisheries Research Network",
+      "summary": "Countries in the Bay of Bengal region have launched a dedicated Fisheries Research Network.",
+      "category": "environment",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/bay-of-bengal-countries-launch-fisheries-research-network/",
+      "importance": 4,
+      "date_added": "2026-11-06"
+    },
+    {
+      "title": "Asteroid 2026 QQ8 Becomes Earth’s Temporary Mini-Moon",
+      "summary": "Asteroid 2026 QQ8 has temporarily entered Earth's gravitational influence to become a mini-moon.",
+      "category": "science",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/asteroid-2026-qq8-becomes-earths-temporary-mini-moon/",
+      "importance": 4,
+      "date_added": "2026-11-06"
+    },
+    {
+      "title": "New Six-Foot Flowering Plant Discovered in Assam and Meghalaya",
+      "summary": "A new six-foot tall flowering plant species has been discovered in the states of Assam and Meghalaya.",
+      "category": "environment",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/new-six-foot-flowering-plant-found-in-assam-meghalaya/",
+      "importance": 4,
+      "date_added": "2026-11-06"
+    },
+    {
+      "title": "Nirmala Lakshman’s Book Wins Sharjah Award",
+      "summary": "Author Nirmala Lakshman has won the Sharjah Award for her book.",
+      "category": "awards",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/nirmala-lakshmans-book-wins-sharjah-award/",
+      "importance": 4,
+      "date_added": "2026-11-06"
+    },
+    {
+      "title": "India and Canada Hold Inaugural Defence Dialogue",
+      "summary": "India and Canada have conducted their inaugural Defence Dialogue to strengthen bilateral military cooperation.",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/india-and-canada-hold-inaugural-defence-dialogue/",
+      "importance": 4,
+      "date_added": "2026-11-06"
     }
   ]
 }
