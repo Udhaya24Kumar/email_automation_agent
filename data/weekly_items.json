@@ -1,177 +1,6 @@
 {
   "items": [
     {
-      "title": "Manisha Bhanwala Wins Gold at World Wrestling Championships",
-      "summary": "Manisha Bhanwala secured the gold medal at the World Wrestling Championships. Her victory marks a notable sports achievement at the international level.",
-      "category": "sports",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/manisha-bhanwala-wins-world-wrestling-championships-gold/",
-      "importance": 5,
-      "date_added": "2026-10-31"
-    },
-    {
-      "title": "ISRO Launches GSLV-F18 Carrying NVS-03 Navigation Satellite",
-      "summary": "The Indian Space Research Organisation launched the GSLV-F18 mission equipped with the NVS-03 navigation satellite. The mission represents a major advancement in space technology and satellite navigation.",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/isro-launches-gslv-f18-with-nvs-03-navigation-satellite/",
-      "importance": 5,
-      "date_added": "2026-10-31"
-    },
-    {
-      "title": "Rafale Marine Completes First Landing on INS Vikrant",
-      "summary": "The Rafale Marine aircraft successfully executed its first-ever landing on the aircraft carrier INS Vikrant. The event marks a key operational milestone for defence capability.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/rafale-marine-makes-first-landing-on-ins-vikrant/",
-      "importance": 5,
-      "date_added": "2026-10-31"
-    },
-    {
-      "title": "Centre Forms High-Level Committee on Banking Reforms",
-      "summary": "The Central Government has constituted a high-level committee to address reforms in the banking sector. The panel is task-bound to examine key areas within banking operations and policy.",
-      "category": "economy",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/centre-forms-high-level-committee-on-banking-reforms/",
-      "importance": 5,
-      "date_added": "2026-10-31"
-    },
-    {
-      "title": "National Unity Day Observed on October 31",
-      "summary": "National Unity Day is celebrated annually on October 31 to mark the birth anniversary of Sardar Vallabhbhai Patel, recognizing his role in integrating princely states into India. Prime Minister Narendra Modi offered floral tributes at the Statue of Unity to commemorate the occasion.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/pm-modi-pays-floral-tributes-to-sardar-patel-at-the-statue-of-unity-on-national-unity-day/article71648293.ece",
-      "importance": 5,
-      "date_added": "2026-10-31"
-    },
-    {
-      "title": "GSLV Places Next-Generation Navigation Satellite NVS-03 into Orbit",
-      "summary": "The GSLV successfully placed the NVS-03 navigation satellite into orbit to restore the functioning of the NavIC constellation. The satellite has a mission life of 12 years and carries an indigenous atomic clock along with procured atomic clocks.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sci-tech/science/nvs-03-satellite-launch-successful-isro/article71646807.ece",
-      "importance": 5,
-      "date_added": "2026-10-31"
-    },
-    {
-      "title": "50th Anniversary of India's First Women's Test Cricket Match",
-      "summary": "October 31 marked 50 years since India's inaugural women's Test cricket match commenced on October 31, 1976 against the West Indies. The landmark match was played at the M. Chinnaswamy Stadium in Bengaluru.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/cricket/india-at-50-celebrating-a-milestone-for-womens-cricket/article71646352.ece",
-      "importance": 4,
-      "date_added": "2026-10-31"
-    },
-    {
-      "title": "Seoni's GI-Tagged Jumbo Custard Apple to Enter International Market",
-      "summary": "The GI-tagged Jumbo Custard Apple from Seoni is set to enter the international market for the first time. This marks a significant development for agricultural exports from the region.",
-      "category": "economy",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/gi-tagged-jumbo-custard-apple-from-seoni-to-enter-international-market-for-first-time/",
-      "importance": 4,
-      "date_added": "2026-10-31"
-    },
-    {
-      "title": "Government Extends Cotton Import Duty Exemption to December 2026",
-      "summary": "The government has extended the import duty exemption on cotton until December 2026. This move aims to support trade and domestic requirements.",
-      "category": "economy",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/government-extends-cotton-import-duty-exemption-to-december-2026/",
-      "importance": 4,
-      "date_added": "2026-10-31"
-    },
-    {
-      "title": "A. P. Singh Retires as Chief of the Air Staff",
-      "summary": "Air Chief Marshal A. P. Singh has retired from his role as the Chief of the Air Staff. His retirement marks a transition in the top leadership of the military.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/a-p-singh-retires-as-chief-of-the-air-staff/",
-      "importance": 4,
-      "date_added": "2026-10-31"
-    },
-    {
-      "title": "Government Notifies Social Security Board for Gig Workers",
-      "summary": "The government has notified the creation of a Social Security Board specifically for gig workers. The initiative aims to provide institutional social security support for workers in the gig sector.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/government-notifies-social-security-board-for-gig-workers/",
-      "importance": 4,
-      "date_added": "2026-10-31"
-    },
-    {
-      "title": "IRDAI Designates November 2026 as Grievance Resolution Month",
-      "summary": "The Insurance Regulatory and Development Authority of India (IRDAI) has designated November 2026 as Grievance Resolution Month. The regulatory step is aimed at enhancing complaint redressal mechanisms in the sector.",
-      "category": "economy",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/irdai-names-november-2026-grievance-resolution-month/",
-      "importance": 4,
-      "date_added": "2026-10-31"
-    },
-    {
-      "title": "TRAI Proposes AI Governance Framework for Telecom Networks",
-      "summary": "The Telecom Regulatory Authority of India (TRAI) has proposed an AI governance framework tailored for telecom networks. The framework intends to structure Artificial Intelligence oversight in telecommunications.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/trai-proposes-ai-governance-framework-for-telecom-networks/",
-      "importance": 4,
-      "date_added": "2026-10-31"
-    },
-    {
-      "title": "Phase Two of Census 2027 to Cover 40 Key Questions",
-      "summary": "The second phase of Census 2027 is scheduled to launch on December 1, involving 34 lakh enumerators who will record responses to 40 questions digitally. The survey questions cover aspects such as caste, religion, Aadhaar access, and parental details.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/what-are-the-new-questions-in-2027-census-and-how-are-enumerators-being-trained-explained/article71648192.ece",
-      "importance": 4,
-      "date_added": "2026-10-31"
-    },
-    {
-      "title": "Electoral System for State Legislative Council (MLC) Elections",
-      "summary": "Elections for Members of the Legislative Council (MLC) in India are conducted using paper ballots based on proportional representation by single transferable vote. Paper ballots are used because Electronic Voting Machines (EVMs) are designed for first-past-the-post elections rather than ranking candidate preferences.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/why-are-paper-ballots-used-for-mlc-polls-explained/article71648197.ece",
-      "importance": 4,
-      "date_added": "2026-10-31"
-    },
-    {
-      "title": "G20 Foreign Ministers Meeting in Atlanta Ends Without Joint Communique",
-      "summary": "The G20 foreign ministers meeting in Atlanta concluded without consensus on key issues due to divisions over Russia's war with Ukraine. U.S. Secretary of State Marco Rubio will release a chairman's statement instead of a joint communique.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/g20-foreign-ministers-to-end-atlanta-meeting-without-consensus-on-key-issues/article71648418.ece",
-      "importance": 4,
-      "date_added": "2026-10-31"
-    },
-    {
-      "title": "ISRO Operates NVS-03 Satellite with Open Pyro Valves to Resolve Technical Hurdles",
-      "summary": "ISRO flew the NVS-03 satellite with open pyro valves to address spacecraft propulsion challenges. Pyro valves are critical components in spacecraft propulsion systems, following the failure of NVS-02, which was the second satellite in the NVS series.",
-      "category": "science",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sci-tech/science/to-overcome-technical-hurdles-isro-flew-nvs-03-satellite-with-pyro-valves-open-narayanan/article71648408.ece",
-      "importance": 4,
-      "date_added": "2026-10-31"
-    },
-    {
-      "title": "2026-27 El Niño Event Projected to Peak with Record 3.8°C Temperature Anomaly",
-      "summary": "Driven by record heat in the Pacific Ocean, the 2026-27 El Niño event is projected to peak with a temperature anomaly of 3.8°C. This exceeds previous major El Niño events recorded in 2015-16 (2.6°C), 1997-98 (2.4°C), and 1982-83 (2.1°C).",
-      "category": "science",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/a-ferocious-el-nino-is-brewing-thanks-to-record-pacific-heat/article71610222.ece",
-      "importance": 4,
-      "date_added": "2026-10-31"
-    },
-    {
-      "title": "490 Personnel Awarded 'Kendriya Grihmantri Dakshata Padak' for Year 2026",
-      "summary": "A total of 490 personnel from various States, Union Territories, Central Armed Police Forces (CAPFs), and Central Police Organisations (CPOs) have been awarded the 'Kendriya Grihmantri Dakshata Padak' for the year 2026.",
-      "category": "national",
-      "source": "pib",
-      "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330730",
-      "importance": 4,
-      "date_added": "2026-10-31"
-    },
-    {
       "title": "IAF Chief Outlines 'VAYU' Vision for Operational Readiness",
       "summary": "Air Chief Marshal Dixit detailed his core strategic focus for the Indian Air Force using the acronym VAYU, representing Vigilance and operational readiness, Aatmanirbharta, Yukti, and Unity of effort.",
       "category": "national",
@@ -1520,6 +1349,141 @@
       "url": "https://www.gktoday.in/india-and-canada-hold-inaugural-defence-dialogue/",
       "importance": 4,
       "date_added": "2026-11-06"
+    },
+    {
+      "title": "Government Approves 12 Electronics Components Proposals Worth ₹7,503 Crore",
+      "summary": "The Union Government has approved 12 proposals related to electronics components manufacturing with a total financial commitment of ₹7,503 crore.",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/government-approves-12-electronics-components-proposals-worth-%e2%82%b97503-crore/",
+      "importance": 5,
+      "date_added": "2026-11-07"
+    },
+    {
+      "title": "India and EU conclude strategic Horizon global innovation programme",
+      "summary": "India and the European Union have concluded a multi-billion Euro global innovation programme named Horizon. The association forms a key part of the five-year comprehensive strategic agenda between both sides.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/india-eu-conclude-multi-billion-euro-global-innovation-programme/article71677171.ece",
+      "importance": 5,
+      "date_added": "2026-11-07"
+    },
+    {
+      "title": "TRAI Proposes Authorisation Framework for Satellite Network Providers",
+      "summary": "The Telecom Regulatory Authority of India (TRAI) has submitted proposals regarding authorisation for satellite network providers.",
+      "category": "science",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/trai-proposes-satellite-network-provider-authorisation/",
+      "importance": 4,
+      "date_added": "2026-11-07"
+    },
+    {
+      "title": "₹2,000-Crore Allocation Ordered for Vetri Laptop Scheme",
+      "summary": "An allocation of ₹2,000 crore has been ordered to implement the Vetri Laptop Scheme, benefiting first- and second-year undergraduate and diploma students in government and government-aided colleges for the 2026-2027 academic year.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/cm-vijay-orders-2000-crore-allocation-to-implement-vetri-laptop-scheme-for-college-students/article71677364.ece",
+      "importance": 4,
+      "date_added": "2026-11-07"
+    },
+    {
+      "title": "Vice President Confers Dr. Rajendra Prasad Award for Academic Excellence on Prof. K. Chockalingam",
+      "summary": "The Vice President conferred the Dr. Rajendra Prasad Award for Academic Excellence on Professor K. Chockalingam. The honour recognizes his academic career spanning over five decades and his pioneering work in criminology and victimology.",
+      "category": "awards",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/briefly-vice-president-confers-dr-rajendra-prasad-award-for-academic-excellence-on-professor-k-chockalingam/article71677284.ece",
+      "importance": 4,
+      "date_added": "2026-11-07"
+    },
+    {
+      "title": "Sonia Gandhi's memoir 'Belonging: A Journey of Love' set for release",
+      "summary": "Former Congress leader Sonia Gandhi's upcoming memoir titled 'Belonging: A Journey of Love' is scheduled for release on November 10. The book is published domestically by HarperCollins India.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/books/articles-on-sonia-gandhi-book-belonging/article71450926.ece",
+      "importance": 4,
+      "date_added": "2026-11-07"
+    },
+    {
+      "title": "Assam bans drone operations near Amur falcon roosting sites",
+      "summary": "The Assam government has prohibited drone operations near the roosting sites of Amur falcons to protect the migratory raptors. The restriction was imposed after visitors and content creators flew drones close to bird congregations for social media footage.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/assam/assam-prohibits-drone-operations-near-amur-falcon-roosting-sites/article71674015.ece",
+      "importance": 4,
+      "date_added": "2026-11-07"
+    },
+    {
+      "title": "Supreme Court Rules Temporary Silk Cotton Cultivators Ineligible for Protection Under FRA Act",
+      "summary": "The Supreme Court directed that temporary and non-resident silk cotton cultivators are not eligible for protection under the Forest Rights Act (FRA). The directive was issued in connection with the Agasthyamalai conservation case.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/agasthyamalai-conservation-case-sc-directs-temporary-and-non-resident-silk-cotton-cultivators-not-eligible-for-protection-under-fra-act/article71675811.ece",
+      "importance": 4,
+      "date_added": "2026-11-07"
+    },
+    {
+      "title": "Climate Scientist P.V. Joseph Passes Away",
+      "summary": "Climate scientist P.V. Joseph, who discovered the low-level monsoon jetstream, has passed away. He conducted extensive research on monsoon onset, Rossby waves, and ocean-atmosphere instability.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/climate-scientist-pv-joseph-passes-away/article71675962.ece",
+      "importance": 4,
+      "date_added": "2026-11-07"
+    },
+    {
+      "title": "Supreme Court Settles Dispute Over Himachal Pradesh Share in BBMB Power Projects",
+      "summary": "The Supreme Court settled a decades-old dispute concerning Himachal Pradesh's 7.19% share in the power generated from Bhakra Beas Management Board (BBMB) projects.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/himachal-pradesh/supreme-court-decision-on-bbmb-arrears-a-victory-for-himachal-says-cm-sukhu/article71675039.ece",
+      "importance": 4,
+      "date_added": "2026-11-07"
+    },
+    {
+      "title": "Abdul El-Sayed Becomes First Muslim Elected to the US Senate",
+      "summary": "Democrat Abdul El-Sayed made history by becoming the first Muslim elected to the United States Senate. He secured victory over Republican Mike Rogers during the 2026 midterm elections.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/videos/why-abdul-el-sayeds-victory-matters-beyond-michigan-explained/article71673969.ece",
+      "importance": 4,
+      "date_added": "2026-11-07"
+    },
+    {
+      "title": "Centre Mandates Rice and Paddy Stock Declaration to Prevent Hoarding",
+      "summary": "The Union government has mandated stock declarations for rice and paddy to prevent hoarding amidst rising prices. Additionally, five southern States have been permitted to impose stock limits.",
+      "category": "economy",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/amid-price-rise-centre-mandates-rice-paddy-stock-declaration/article71675997.ece",
+      "importance": 4,
+      "date_added": "2026-11-07"
+    },
+    {
+      "title": "ADNOC Signs 10-Year LNG Supply Deal with Gujarat Energy",
+      "summary": "Abu Dhabi National Oil Company (ADNOC) has executed a 10-year LNG supply and purchase agreement with Gujarat Energy. This marks the fifth long-term LNG agreement signed by ADNOC with India.",
+      "category": "economy",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/Industry/adnoc-inks-10-year-lng-supply-and-purchase-agreement-with-gujarat-energy/article71674806.ece",
+      "importance": 4,
+      "date_added": "2026-11-07"
+    },
+    {
+      "title": "ICAR-CMFRI Study Records Expansion in Kerala's Mangrove Cover",
+      "summary": "A study conducted by the ICAR-Central Marine Fisheries Research Institute in Kochi revealed an expansion in Kerala's coastal mangrove vegetation over the past decade. The research analyzed and compared satellite imagery from 2017 and 2026.",
+      "category": "environment",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/keralams-mangrove-cover-expanded-in-past-decade-despite-prior-decline-finds-study/article71673685.ece",
+      "importance": 4,
+      "date_added": "2026-11-07"
+    },
+    {
+      "title": "Mohammed Shami Retires from Test Cricket",
+      "summary": "Indian fast bowler Mohammed Shami has announced his retirement from Test cricket. He concluded his Test career with 229 wickets from 64 matches and will continue to play in white-ball formats.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/cricket/mohammed-shami-retires-from-test-cricket-to-continue-playing-white-ball-formats/article71676026.ece",
+      "importance": 4,
+      "date_added": "2026-11-07"
     }
   ]
 }
