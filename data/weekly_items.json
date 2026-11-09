@@ -1,222 +1,6 @@
 {
   "items": [
     {
-      "title": "Gross GST Revenue Reaches Second-Highest Level of ₹2.31 Lakh Crore in October",
-      "summary": "Gross GST collections surged 23% in October to ₹2.31 lakh crore, driven by domestic sales revenues of over ₹1.59 lakh crore and import revenues of ₹72,246 crore.",
-      "category": "economy",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/business/Economy/gst-collections-in-october/article71652320.ece",
-      "importance": 5,
-      "date_added": "2026-11-02"
-    },
-    {
-      "title": "Kimi Antonelli Becomes Youngest Formula One World Champion",
-      "summary": "Kimi Antonelli won his first F1 world championship at 20 years and 68 days old, breaking the record set by Germany's Sebastian Vettel in 2010.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/motorsport/kimi-antonelli-becomes-youngest-f1-champion-max-verstappen-wins-in-mexico/article71655119.ece",
-      "importance": 5,
-      "date_added": "2026-11-02"
-    },
-    {
-      "title": "Centre Extends Nilekani-Led Exam Reform Panel to January 2027",
-      "summary": "The Central Government has extended the tenure of the exam reform committee chaired by Nandan Nilekani to January 2027.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/centre-extends-nilekani-led-exam-reform-panel-to-january-2027/",
-      "importance": 5,
-      "date_added": "2026-11-02"
-    },
-    {
-      "title": "HSBC India Manufacturing PMI Eases to 54.7 in October",
-      "summary": "India's seasonally adjusted HSBC Manufacturing Purchasing Managers' Index (PMI) declined to 54.7 in October from 55.1 in September due to softer output and new order growth. Despite the slowdown, the index remained above its long-run average and well above the neutral threshold of 50.0.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/business/Industry/indias-manufacturing-sector-activity-growth-eases-in-october-on-softer-rise-in-output-new-orders/article71655680.ece",
-      "importance": 4,
-      "date_added": "2026-11-02"
-    },
-    {
-      "title": "PM Modi Inaugurates 23 Projects Near Statue of Unity",
-      "summary": "Prime Minister Narendra Modi has inaugurated 23 projects near the Statue of Unity.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/pm-modi-inaugurates-23-projects-near-statue-of-unity/",
-      "importance": 4,
-      "date_added": "2026-11-02"
-    },
-    {
-      "title": "Ankushita Boro Wins Gold at International Boxing Tournament",
-      "summary": "Assam boxer Ankushita Boro won a gold medal at an international tournament.",
-      "category": "sports",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/assam-boxer-ankushita-boro-wins-gold-at-international-tournament/",
-      "importance": 4,
-      "date_added": "2026-11-02"
-    },
-    {
-      "title": "Lakshya Sen Wins Hylo Open Title",
-      "summary": "Indian shuttler Lakshya Sen won the Hylo Open, securing his first BWF title of 2026.",
-      "category": "sports",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/lakshya-sen-wins-hylo-open-for-first-bwf-title-of-2026/",
-      "importance": 4,
-      "date_added": "2026-11-02"
-    },
-    {
-      "title": "East Bengal Sets Record in AFC Women's Champions League",
-      "summary": "East Bengal has established a new record in the AFC Women’s Champions League.",
-      "category": "sports",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/east-bengal-sets-afc-womens-champions-league-record/",
-      "importance": 4,
-      "date_added": "2026-11-02"
-    },
-    {
-      "title": "IIT Kanpur Secures Patent for Bamboo-Filled Vibration Barriers",
-      "summary": "IIT Kanpur has received a patent for developing bamboo-filled vibration barriers.",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/iit-kanpur-patents-bamboo-filled-vibration-barriers/",
-      "importance": 4,
-      "date_added": "2026-11-02"
-    },
-    {
-      "title": "Iliana Iotova Wins Bulgaria's Presidential Runoff",
-      "summary": "Iliana Iotova has won the presidential runoff election in Bulgaria.",
-      "category": "international",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/iliana-iotova-wins-bulgarias-presidential-runoff/",
-      "importance": 4,
-      "date_added": "2026-11-02"
-    },
-    {
-      "title": "KVS Prepares Samvaad-Parent Connect App for Student Updates",
-      "summary": "Kendriya Vidyalaya Sangathan is preparing the Samvaad-Parent Connect App to share student updates with parents.",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/kvs-prepares-samvaad-parent-connect-app-for-student-updates/",
-      "importance": 4,
-      "date_added": "2026-11-02"
-    },
-    {
-      "title": "Digi Yatra Trials Initiated at 7 Airports for International Passengers",
-      "summary": "Digi Yatra trials have begun at seven airports for international passengers. The facility is being provided on a trial basis for Indian citizens holding e-passports on select international flights operated by Air India and IndiGo.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/digi-yatra-trials-start-at-7-airports-for-international-passengers/article71655283.ece",
-      "importance": 4,
-      "date_added": "2026-11-02"
-    },
-    {
-      "title": "ESA's Gaia Space Mission Discovers 'Starquakes' on Star Surfaces",
-      "summary": "New data from the European Space Agency's Gaia mission has revealed 'starquakes', which are massive tsunami-like movements on the surface of stars in the Milky Way.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sci-tech/science/explained-what-is-the-gaia-space-mission-and-what-has-it-revealed-about-the-milky-way/article65527518.ece",
-      "importance": 4,
-      "date_added": "2026-11-02"
-    },
-    {
-      "title": "PV Sindhu and Lakshya Sen Win Titles at Hylo Open",
-      "summary": "Indian badminton players PV Sindhu and Lakshya Sen secured titles at the Hylo Open tournament. Former world champion Sindhu added the Hylo Open victory to her previous Japan Open triumph earlier in the year.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/sindhu-lakshya-make-it-a-double-delight-for-india/article71654391.ece",
-      "importance": 4,
-      "date_added": "2026-11-02"
-    },
-    {
-      "title": "Harmanpreet's Hat-Trick Propels India to Asian Champions Trophy Semifinals",
-      "summary": "Harmanpreet Singh scored a hat-trick to guide the Indian hockey team to a victory over Malaysia in the Asian Champions Trophy. India, Malaysia, Japan, and Korea have qualified for the semifinals.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/hockey/asian-champions-trophy-harmanpreets-hat-trick-helps-india-down-malaysia/article71653931.ece",
-      "importance": 4,
-      "date_added": "2026-11-02"
-    },
-    {
-      "title": "Manav Thakkar Wins Maiden International Crown at WTT Feeder Chennai",
-      "summary": "Indian table tennis player Manav Thakkar secured his first international title at the WTT Feeder Chennai tournament, while Sutirtha finished as the runner-up.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/wtt-feeder-chennai-manav-wins-maiden-international-crown-sutirtha-finishes-runner-up/article71652503.ece",
-      "importance": 4,
-      "date_added": "2026-11-02"
-    },
-    {
-      "title": "Ministry of Rural Development Notifies Grievance Redressal Rules, 2026 Under VB-G RAM G Act",
-      "summary": "The Ministry of Rural Development has notified the Grievance Redressal Rules, 2026 framed under the VB-G RAM G Act.",
-      "category": "national",
-      "source": "pib",
-      "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2331400",
-      "importance": 4,
-      "date_added": "2026-11-02"
-    },
-    {
-      "title": "IAF Chief Ashutosh Dixit Outlines VAYU Priorities",
-      "summary": "IAF Chief Ashutosh Dixit has set out key priorities for VAYU.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/iaf-chief-ashutosh-dixit-sets-out-vayu-priorities/",
-      "importance": 4,
-      "date_added": "2026-11-02"
-    },
-    {
-      "title": "Vizhinjam Port Receives First Import Container",
-      "summary": "Vizhinjam Port has received its first import container, marking an operational milestone.",
-      "category": "economy",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/vizhinjam-port-receives-its-first-import-container/",
-      "importance": 4,
-      "date_added": "2026-11-02"
-    },
-    {
-      "title": "Methil Radhakrishnan Wins Ezhuthachan Award",
-      "summary": "Methil Radhakrishnan has been selected for Kerala's Ezhuthachan Award.",
-      "category": "awards",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/methil-radhakrishnan-wins-keralas-ezhuthachan-award/",
-      "importance": 4,
-      "date_added": "2026-11-02"
-    },
-    {
-      "title": "NASA Crew Completes 378-Day Simulated Mars Mission",
-      "summary": "A NASA crew has successfully completed a 378-day simulated mission to Mars.",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/nasa-crew-completes-378-day-simulated-mars-mission/",
-      "importance": 4,
-      "date_added": "2026-11-02"
-    },
-    {
-      "title": "Prashant Chaudhary Awarded Rohini Nayyar Prize",
-      "summary": "Prashant Chaudhary has been awarded the prestigious Rohini Nayyar Prize.",
-      "category": "awards",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/prashant-chaudhary-wins-rohini-nayyar-prize/",
-      "importance": 4,
-      "date_added": "2026-11-02"
-    },
-    {
-      "title": "Kimi Antonelli Becomes Youngest Formula One Champion",
-      "summary": "Kimi Antonelli has set a milestone by becoming the youngest champion in Formula One history.",
-      "category": "sports",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/kimi-antonelli-becomes-formula-ones-youngest-champion/",
-      "importance": 4,
-      "date_added": "2026-11-02"
-    },
-    {
-      "title": "India Wins Commonwealth Kabaddi Championship",
-      "summary": "India claimed victory in the Commonwealth Kabaddi Championship, reaffirming its dominance in international kabaddi.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/india-reigns-supreme-in-commonwealth-kabaddi-championship/article71652831.ece",
-      "importance": 4,
-      "date_added": "2026-11-02"
-    },
-    {
       "title": "Maharashtra FDA confiscates Patanjali stock, suspends licences",
       "summary": "The FDA seized 2,279.7 litres of ghee worth ₹20.20 lakh from Divya Mahavitarak, a Patanjali distributor, in Chhatrapati Sambhajinagar. Officials suspect the stock may have been misbranded or adulterated",
       "category": "national",
@@ -1331,6 +1115,87 @@
       "url": "https://www.gktoday.in/pedro-alliana-sworn-in-as-paraguay-president/",
       "importance": 4,
       "date_added": "2026-11-08"
+    },
+    {
+      "title": "Anuj Shrivatri Becomes India’s 100th Chess Grandmaster",
+      "summary": "Twenty-two-year-old Anuj Shrivatri became India’s 100th chess Grandmaster after winning the 7th ASEAN+ Individual Open chess championship in Ozamiz City, the Philippines.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/anuj-shrivatri-becomes-indias-100th-chess-grandmaster/article71681083.ece",
+      "importance": 5,
+      "date_added": "2026-11-09"
+    },
+    {
+      "title": "COP31 Climate Conference Opens in Antalya",
+      "summary": "The COP31 international climate conference has opened in the Mediterranean seaside city of Antalya, with over 100,000 participants expected to attend amid growing climate and geopolitical pressures.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/cop31-in-turkiye-climate-and-geopolitical-pressures-mount/article71681273.ece",
+      "importance": 5,
+      "date_added": "2026-11-09"
+    },
+    {
+      "title": "Parliament’s Monsoon Session Remains Unprorogued for Record 88 Days",
+      "summary": "Neither the Lok Sabha nor the Rajya Sabha was formally prorogued for a record 88 days following the Monsoon Session, leaving open the possibility of an extended sitting.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/parliaments-monsoon-session-remains-unprorogued-for-record-88-days/article71681364.ece",
+      "importance": 4,
+      "date_added": "2026-11-09"
+    },
+    {
+      "title": "Modernist Artist Arpita Singh Passes Away at 89",
+      "summary": "Renowned modernist artist Arpita Singh has passed away at the age of 89. She was honored with the Padma Bhushan in 2011 and the Lalit Kala Akademi Fellowship in 2014 for her significant contributions to art.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/entertainment/art/modernist-artist-arpita-singh-aged-89-passes-away/article71681531.ece",
+      "importance": 4,
+      "date_added": "2026-11-09"
+    },
+    {
+      "title": "19 Indian Seafarers Stranded in Yemen Evacuated",
+      "summary": "Nineteen Indian seafarers who were stranded in Yemen have been evacuated. This evacuation follows the confirmation of safety for 14 Indian nationals involved in a yacht incident off the coast of Yemen.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/indian-seafarers-stranded-in-yemen-evacuated/article71681203.ece",
+      "importance": 4,
+      "date_added": "2026-11-09"
+    },
+    {
+      "title": "G7 Ministers Gather to Discuss Ukraine Conflict and Iran War",
+      "summary": "Ministers from the G7 leading industrialised nations—Britain, Canada, France, Germany, Italy, Japan, and the United States—have met to address efforts aimed at ending the Ukraine conflict and halting a new war involving Iran.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/g7-ministers-meeting-in-paris-russia-ukraine-conflict-us-israel-strikes-on-iran/article71681281.ece",
+      "importance": 4,
+      "date_added": "2026-11-09"
+    },
+    {
+      "title": "Vaishnavi and Rutuja Become First All-Indian Pair to Reach WTA Tour Final",
+      "summary": "Indian tennis players Vaishnavi and Rutuja finished as runners-up in the doubles final of the WTA Chennai Open against a Swiss pair. They achieved a historic milestone by becoming the first-ever all-Indian pair to reach the final of a WTA Tour event.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/wta-chennai-open-vaishnavi-and-rutuja-settle-for-runners-up-finish/article71681151.ece",
+      "importance": 4,
+      "date_added": "2026-11-09"
+    },
+    {
+      "title": "Ashwini Vaishnaw Launches Semicon India 2.0 Portal",
+      "summary": "Union Minister Ashwini Vaishnaw launched the Semicon India 2.0 Portal to further advance India's semiconductor initiatives.",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/ashwini-vaishnaw-launches-semicon-india-2-0-portal/",
+      "importance": 4,
+      "date_added": "2026-11-09"
+    },
+    {
+      "title": "Scientists Identify 4.1-Billion-Year-Old Martian Meteorite",
+      "summary": "Scientists have identified a Martian meteorite determined to be 4.1 billion years old.",
+      "category": "science",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/scientists-identify-4-1-billion-year-old-martian-meteorite/",
+      "importance": 4,
+      "date_added": "2026-11-09"
     }
   ]
 }
