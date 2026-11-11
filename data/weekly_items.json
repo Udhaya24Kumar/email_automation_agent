@@ -1,159 +1,6 @@
 {
   "items": [
     {
-      "title": "Supreme Court Questions Two-Child Norm Citing Decline in India's Total Fertility Rate",
-      "summary": "The Supreme Court noted that India's total fertility rate has fallen from 3 to 1.9, which is below the replacement rate of 2.1. In light of this decline, the Court questioned the validity of maintaining a two-child norm.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/supreme-court-judgment-questions-two-child-norm-with-falling-fertility-rate/article71664320.ece",
-      "importance": 5,
-      "date_added": "2026-11-04"
-    },
-    {
-      "title": "IndiaAI Mission Releases Indigenous AI Models EKA-1, Dhīr 2B, and Dhīr 5B",
-      "summary": "The IndiaAI Mission has released three indigenous foundation models, namely EKA-1, Dhīr 2B, and Dhīr 5B. This marks a significant milestone in advancing homegrown artificial intelligence technology in India.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sci-tech/technology/indiaai-mission-releases-indigenous-foundation-models-eka-1-dhir-2b-and-dhir-5b/article71663984.ece",
-      "importance": 5,
-      "date_added": "2026-11-04"
-    },
-    {
-      "title": "Rajkumari Lanchenbi Chanu Wins India's First Youth Olympic Wushu Medal",
-      "summary": "Rajkumari Lanchenbi Chanu has won India's first Youth Olympic medal in Wushu.",
-      "category": "sports",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/rajkumari-lanchenbi-chanu-wins-indias-first-youth-olympic-wushu-medal/",
-      "importance": 4,
-      "date_added": "2026-11-04"
-    },
-    {
-      "title": "NTPC Targets 149 GW Installed Capacity by 2032",
-      "summary": "NTPC has set a target to reach an installed capacity of 149 GW by the year 2032.",
-      "category": "economy",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/ntpc-targets-149-gw-installed-capacity-by-2032/",
-      "importance": 4,
-      "date_added": "2026-11-04"
-    },
-    {
-      "title": "Supreme Court Rules ECI in Error Over Form 6 Requirement for Excluded Voters",
-      "summary": "The Supreme Court clarified that the ECI erred in forcing pre-existing voters deleted from electoral rolls to reapply as new voters under Form 6 of the Registration of Electors Rules, 1960.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/eci-still-insisting-on-form-6-for-excluded-voters-in-delhi-sir-petitioners-make-urgent-mentioning-in-supreme-court/article71664356.ece",
-      "importance": 4,
-      "date_added": "2026-11-04"
-    },
-    {
-      "title": "Union Cabinet to Discuss Capex Support for Critical Mineral Processing and VGF for Renewable Energy Storage",
-      "summary": "The Union Cabinet is set to discuss capital expenditure support of approximately 30% for establishing critical mineral processing plants. The proposal also includes Viability Gap Funding (VGF) for grid-scale renewable energy storage systems.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/business/union-cabinet-discussion-capex-support-for-critical-mineral-processing-vgf-re-grid-scale-storage-system/article71664202.ece",
-      "importance": 4,
-      "date_added": "2026-11-04"
-    },
-    {
-      "title": "Strategic Context of IRNSS and NavIC Development",
-      "summary": "The concept of India's IRNSS (NavIC) system originated from a strategic necessity after the United States denied access to its Global Positioning Service (GPS) during the 1999 Kargil conflict.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sci-tech/science/what-is-the-debate-on-navic-vs-gps-explained/article71663982.ece",
-      "importance": 4,
-      "date_added": "2026-11-04"
-    },
-    {
-      "title": "Hakeem Jeffries Set to Become First Black Speaker of U.S. House of Representatives",
-      "summary": "Hakeem Jeffries, representing a New York City congressional district, is positioned to become the first Black Speaker of the U.S. House of Representatives. He will preside over the House majority starting in the first week of January, taking over leadership from the Republicans.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/hakeem-jeffries-poised-to-become-first-black-speaker-of-us-house-of-representatives/article71664413.ece",
-      "importance": 4,
-      "date_added": "2026-11-04"
-    },
-    {
-      "title": "Bhutan Sets Guinness World Record by Raising 108 Stupas in 9 Hours",
-      "summary": "Bhutan set a Guinness World Record by raising 108 stupas in nine hours with the help of around 40,000 trained volunteers. The achievement aims to lay the spiritual foundation for the country's proposed Gelephu Mindfulness City.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/bhutan-sets-guinness-record-by-raising-108-stupas-in-9-hours/article71663973.ece",
-      "importance": 4,
-      "date_added": "2026-11-04"
-    },
-    {
-      "title": "ICJ to Rule on Gambia's Rohingya Genocide Case Against Myanmar",
-      "summary": "The International Court of Justice will issue its ruling on November 19 regarding The Gambia's case against Myanmar. The case accuses Myanmar of breaching the 1948 UN Genocide Convention during its repression of the Rohingya population.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/top-un-court-to-rule-november-19-on-rohingya-genocide-case/article71662800.ece",
-      "importance": 4,
-      "date_added": "2026-11-04"
-    },
-    {
-      "title": "Delhi Imposes GRAP Stage 2 Restrictions as AQI Reaches Very Poor Category",
-      "summary": "Delhi has implemented Stage 2 of the Graded Response Action Plan (GRAP) after the Air Quality Index (AQI) worsened to the 'very poor' category. The measures include imposing bans on older vehicles, increasing parking fees, and promoting the use of public transport.",
-      "category": "environment",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/cities/Delhi/grap-stage-2-restrictions-in-delhi-what-is-allowed-and-what-is-not-allowed-full-list/article71660783.ece",
-      "importance": 4,
-      "date_added": "2026-11-04"
-    },
-    {
-      "title": "NITI Aayog Launches India S&T Scoreboard",
-      "summary": "NITI Aayog has launched the India S&T Scoreboard initiative.",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/niti-aayog-launches-india-st-scoreboard/",
-      "importance": 4,
-      "date_added": "2026-11-04"
-    },
-    {
-      "title": "IndiaAI Mission Unveils EKA-1 and Dhīr Foundation Models",
-      "summary": "The IndiaAI Mission has unveiled the EKA-1 and Dhīr foundation models.",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/indiaai-mission-unveils-eka-1-and-dhir-foundation-models/",
-      "importance": 4,
-      "date_added": "2026-11-04"
-    },
-    {
-      "title": "NPPA Updates Reduced Prices for 1,085 Anti-Cancer Medicines",
-      "summary": "The National Pharmaceutical Pricing Authority (NPPA) has updated reduced prices for 1,085 anti-cancer medicines.",
-      "category": "economy",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/nppa-updates-reduced-prices-for-1085-anti-cancer-medicines/",
-      "importance": 4,
-      "date_added": "2026-11-04"
-    },
-    {
-      "title": "SEBI Partners with BHASHINI to Expand Regional-Language Services",
-      "summary": "SEBI has partnered with BHASHINI to expand its regional-language services.",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/sebi-partners-with-bhashini-to-expand-regional-language-services/",
-      "importance": 4,
-      "date_added": "2026-11-04"
-    },
-    {
-      "title": "Panchayati Raj Ministry Proposes Linking Welfare Payments to Voter IDs",
-      "summary": "The Panchayati Raj Minister stated that welfare payments will be linked to voter IDs (EPIC numbers) along with biometrics. Welfare payments are currently linked to Aadhaar.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/welfare-payments-will-be-based-on-voter-ids-not-aadhaar-says-panchayati-raj-minister/article71662258.ece",
-      "importance": 4,
-      "date_added": "2026-11-04"
-    },
-    {
-      "title": "MEA Reaffirms Structured Mechanism for Ganga Water Treaty Ahead of Expiry",
-      "summary": "The Ministry of External Affairs affirmed that a structured mechanism remains in place for the Ganga Water Treaty between India and Bangladesh. The spokesperson also confirmed an invitation to the Bangladesh Prime Minister to visit New Delhi.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/weeks-before-expiry-of-ganga-water-treaty-mea-says-structured-mechanism-remains-in-place-for-pact/article71661782.ece",
-      "importance": 4,
-      "date_added": "2026-11-04"
-    },
-    {
       "title": "Tanvi Patri Becomes First Indian Badminton Player to Reach Youth Olympic Final",
       "summary": "Fifteen-year-old Tanvi Patri from Odisha became the first Indian badminton player to qualify for the Youth Olympic badminton final. She achieved the feat after defeating Japan's second seed Yuzuno Watanabe in the semifinals.",
       "category": "sports",
@@ -1196,6 +1043,276 @@
       "url": "https://www.thehindu.com/news/international/trump-to-meet-iran-war-mediator-qatar-no-imminent-deal-seen-to-end-war/article71682536.ece",
       "importance": 3,
       "date_added": "2026-11-10"
+    },
+    {
+      "title": "CII Partnership Summit Begins in Visakhapatnam",
+      "summary": "The two-day CII Partnership Summit commenced in Visakhapatnam, bringing together over 3,800 delegates from 59 countries and targeting more than 160 MoUs, with Union Home Minister Amit Shah scheduled to address the inaugural session.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/cities/Visakhapatnam/cii-partnership-summit-begins-in-visakhapatnam-on-november-12-amit-shah-to-address-inaugural-session/article71688259.ece",
+      "importance": 4,
+      "date_added": "2026-11-11"
+    },
+    {
+      "title": "Supreme Court Clarifies Criteria for OBC Creamy Layer Determination",
+      "summary": "The Supreme Court has clarified the criteria for determining OBC creamy-layer status, focusing on whether parental salary alone disqualifies a candidate from claiming reservation benefits. The ruling evaluates the application of the 1993 Office Memorandum and the 2004 clarification in determining eligibility.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/explained-what-did-the-supreme-court-clarify-on-the-obc-creamy-layer/article71685709.ece",
+      "importance": 4,
+      "date_added": "2026-11-11"
+    },
+    {
+      "title": "Turkiye Champions Electrification Initiative at COP31 Climate Summit",
+      "summary": "Turkiye, serving as the host of the COP31 summit, is championing a voluntary initiative to accelerate electrification across transport, buildings, and industry. The goal of the initiative is to increase electricity's share of global energy consumption to 35% by 2035.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/world-leaders-take-stage-at-cop31-but-big-names-missing/article71688148.ece",
+      "importance": 4,
+      "date_added": "2026-11-11"
+    },
+    {
+      "title": "Dhinidhi Desinghu Wins Two Swimming Bronzes at Youth Olympics",
+      "summary": "Indian swimmer Dhinidhi Desinghu achieved a double bronze medal win in swimming events at the Youth Olympics.",
+      "category": "sports",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/dhinidhi-desinghu-wins-two-swimming-bronzes-at-youth-olympics/",
+      "importance": 4,
+      "date_added": "2026-11-11"
+    },
+    {
+      "title": "GCC Approves Advanced Military Command Headquarters in Kuwait",
+      "summary": "The Gulf Cooperation Council (GCC) has approved the establishment of its Advanced Military Command Headquarters in Kuwait.",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/gcc-approves-advanced-military-command-headquarters-in-kuwait/",
+      "importance": 4,
+      "date_added": "2026-11-11"
+    },
+    {
+      "title": "Government Prohibits Export of Unsorted Lithium-Ion Battery Waste and Scrap",
+      "summary": "The Government has amended its policy to prohibit the export of unsorted lithium-ion battery waste and scrap. Under the latest amendment, exporters will no longer be permitted to export this material under the 'Free' category.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/govt-prohibits-export-of-unsorted-lithium-ion-batterywaste-scrap/article71688575.ece",
+      "importance": 4,
+      "date_added": "2026-11-11"
+    },
+    {
+      "title": "Andhra Pradesh Wins Six Swachh Survekshan Awards",
+      "summary": "Andhra Pradesh secured six Swachh Survekshan awards in the national cleanliness rankings. The State's Municipal Administration Department credited initiatives aimed at improving urban cleanliness and sanitation for the achievement.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/six-swachh-survekshan-awards-for-andhra-pradesh/article71688236.ece",
+      "importance": 4,
+      "date_added": "2026-11-11"
+    },
+    {
+      "title": "World Leaders Gather in Antalya for COP31 Climate Summit",
+      "summary": "World leaders meet in Antalya for the COP31 climate conference to focus on implementation, cutting emissions, and funding adaptation efforts for vulnerable nations.",
+      "category": "environment",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/videos/cop31-can-negotiators-finally-deliver-results-the-hindu-explains/article71685611.ece",
+      "importance": 4,
+      "date_added": "2026-11-11"
+    },
+    {
+      "title": "Goa Tops Access (In)Equality Index",
+      "summary": "Goa has secured the top position in the Access (In)Equality Index.",
+      "category": "reports",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/goa-tops-access-inequality-index/",
+      "importance": 4,
+      "date_added": "2026-11-11"
+    },
+    {
+      "title": "India and France Launch Critical Technologies Dialogue",
+      "summary": "India and France have officially launched a bilateral Critical Technologies Dialogue to strengthen partnership in strategic technology domains.",
+      "category": "international",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/india-and-france-launch-critical-technologies-dialogue/",
+      "importance": 4,
+      "date_added": "2026-11-11"
+    },
+    {
+      "title": "Kadambini Ganguly: First Indian Female Doctor to Practice Western Medicine",
+      "summary": "Kadambini Ganguly challenged social convention to become the first Indian female doctor to practice Western medicine.",
+      "category": "science",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/children/kadambini-ganguly-breaking-barriers-in-medicine/article71685840.ece",
+      "importance": 4,
+      "date_added": "2026-11-11"
+    },
+    {
+      "title": "Gulf Arab states approve military command headquarters in Kuwait, GCC chief says",
+      "summary": "The announcement followed the 23rd meeting ​of the ‌GCC’s Joint Defence Council, attended by Defence Ministers from the bloc’s member states, in Bahrain",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/gulf-arab-states-approve-military-command-headquarters-in-kuwait-gcc-chief-says/article71687293.ece",
+      "importance": 3,
+      "date_added": "2026-11-11"
+    },
+    {
+      "title": "Pannun’s civil lawsuit: U.S. court allows Pannun to serve NSA Doval and former intelligence chief Goyal",
+      "summary": "Order issued after U.S. State Department serves notice to officials at Indian Embassy in Washington; MEA rejects charges as ‘frivolous’, calls Pannun’s case ‘fabricated and malicious’",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/pannuns-civil-lawsuit-us-state-department-formally-serves-notice-to-india/article71685482.ece",
+      "importance": 3,
+      "date_added": "2026-11-11"
+    },
+    {
+      "title": "IND vs NZ Test series: New Zealand names Conway, Rachin subject to fitness against India",
+      "summary": "Conway (concussion), Ravindra (shoulder) and Blundell (quadriceps) are recovering from their respective injuries and are targeting a return for the first Test",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/cricket/india-vs-new-zealand-test-series-starting-on-november-19-2026/article71688250.ece",
+      "importance": 3,
+      "date_added": "2026-11-11"
+    },
+    {
+      "title": "U.S. House Oversight Committee criticises Trump administration over release of Epstein records",
+      "summary": "The 137-page report, released by the GOP-controlled committee, comes nearly a year after Congress passed and President Trump signed the Epstein Files Transparency Act",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/us-house-oversight-committee-criticises-trump-administration-over-release-of-epstein-records/article71688114.ece",
+      "importance": 3,
+      "date_added": "2026-11-11"
+    },
+    {
+      "title": "U.S. judge says Trump’s $10 billion BBC defamation case can proceed",
+      "summary": "U.S. District Judge Jeffrey Kuntz in Florida declined to throw out Mr. Trump’s defamation ​claim against the BBC, ‌saying Mr. Trump had plausibly alleged that the broadcaster damaged his reputation and knew or should have known the clip was misleading",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/us-judge-says-trumps-10-billion-bbc-defamation-case-can-proceed/article71688097.ece",
+      "importance": 3,
+      "date_added": "2026-11-11"
+    },
+    {
+      "title": "U.S. charges three ‘Iranian operatives’ over U.K. airbase plot",
+      "summary": "Mohammad Baqer Saad Dawood al-Saadi, Mohsen Mohajeri and Mohammad Ali al-Hassani allegedly helped plan and direct the September incident at Britain’s RAF Fairford airbase",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/us-charges-three-iranian-operatives-over-uk-airbase-plot/article71687536.ece",
+      "importance": 3,
+      "date_added": "2026-11-11"
+    },
+    {
+      "title": "Israeli forces shoot dead 14-year-old in West Bank: Palestinian officials",
+      "summary": "The Israeli military, asked by AFP about the incident, said on Tuesday (November 10, 2026) it had acted to \"thwart stone-hurling and terrorist attacks\" in the area.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/israeli-forces-shoot-dead-14-year-old-in-west-bank-palestinian-officials/article71687248.ece",
+      "importance": 3,
+      "date_added": "2026-11-11"
+    },
+    {
+      "title": "EU climate chief Wopke Hoekstra warns 'expectations low' from COP31 summit",
+      "summary": "\"If indeed we manage to make electrification the sole focus, or close to the sole focus of the COP, I think we have a chance to deliver on something that is truly meaningful,\" Wopke Hoekstra said",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/eu-climate-chief-wopke-hoekstra-warns-expectations-low-from-cop31-summit/article71686827.ece",
+      "importance": 3,
+      "date_added": "2026-11-11"
+    },
+    {
+      "title": "Carlsen heads the field as Total Chess World Championship Tour pilot begins",
+      "summary": "The full tour is due to begin in 2027, with the top four in the standings qualifying for the Grand Final to play for the FIDE World Combined Championship",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/carlsen-heads-the-field-as-total-chess-world-championship-tour-pilot-begins/article71687201.ece",
+      "importance": 3,
+      "date_added": "2026-11-11"
+    },
+    {
+      "title": "Sehwag junior carries India into semifinals with match-winning 160 against UAE",
+      "summary": "Aaryavir, son of the great Virender Sehwag, allowed India to post 309 for seven, a total which was beyond the grasp of the opposition; the UAE managed 239 all out in 50 overs",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/cricket/sehwag-junior-carries-india-into-semifinals-with-match-winning-160-against-uae/article71686797.ece",
+      "importance": 3,
+      "date_added": "2026-11-11"
+    },
+    {
+      "title": "Chennai set to host the 2029 Asian Athletics championships: TNAA chairman Latha",
+      "summary": "C.K. Valson, a member of the Competition Commission for Asian Athletics, inspected the Nehru Stadium last week and was reportedly happy with the track and the practice ground",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/athletics/chennai-set-to-host-the-2029-asian-athletics-championships-tnaa-chairman-latha/article71686614.ece",
+      "importance": 3,
+      "date_added": "2026-11-11"
+    },
+    {
+      "title": "Ukraine’s Zelenskyy says he is pleased with messages from U.S. envoys on diplomatic efforts to end war",
+      "summary": "“I see changes. I am very happy about what I hear,” Mr. Zelenskyy said when asked about the recent messages by U.S. presidential ‌envoys ⁠Jared Kushner and Steve Witkoff",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/ukraines-zelenskyy-says-he-is-pleased-with-messages-from-us-envoys-on-diplomatic-efforts-to-end-war/article71687545.ece",
+      "importance": 3,
+      "date_added": "2026-11-11"
+    },
+    {
+      "title": "Trump ally Jim Jordan elected U.S. House Republican leader after midterm election rout",
+      "summary": "The Ohio Congressman will replace House Speaker Mike Johnson, who announced he was stepping down from leadership after Republicans lost control of both chambers of Congress",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/trump-ally-jim-jordan-elected-us-house-republican-leader-after-midterm-election-rout/article71688105.ece",
+      "importance": 3,
+      "date_added": "2026-11-11"
+    },
+    {
+      "title": "U.S. Republicans derail bid to impeach Hegseth",
+      "summary": "The House voted 211 to 204 to send the impeachment resolution to the Judiciary Committee; this halts the immediate impeachment drive but does not prevent Democrats from reviving the effort after taking control of Congress in January",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/us-republicans-derail-bid-to-impeach-hegseth/article71687959.ece",
+      "importance": 3,
+      "date_added": "2026-11-11"
+    },
+    {
+      "title": "U.S. Senate Republicans vote to keep John Thune as leader after steep midterm election losses",
+      "summary": "South Dakota Sen. John Thune has spent much of the last two years navigating President Trump, who has often been at odds with the Senate",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/us-senate-republicans-vote-to-keep-john-thune-as-leader-after-steep-midterm-election-losses/article71688101.ece",
+      "importance": 3,
+      "date_added": "2026-11-11"
+    },
+    {
+      "title": "Myanmar army seizes key resistance headquarters and 10 bases held by opposition, state media says",
+      "summary": "The PDF emerged after the army seized power from the elected government of Aung San Suu Kyi in February 2021 and has since formed loose alliances with ethnic militias fighting the military.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/myanmar-army-seizes-key-resistance-headquarters-and-10-bases-held-by-opposition-state-media-says/article71687254.ece",
+      "importance": 3,
+      "date_added": "2026-11-11"
+    },
+    {
+      "title": "New Israeli parliament to take aim at Netanyahu as Eisenkot seeks government",
+      "summary": "President Isaac Herzog, ceremonially opening the session, called on all sides to work together and avoid a fresh election in a deeply polarised country weary from three years of war.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/new-israeli-parliament-to-take-aim-at-netanyahu-as-eisenkot-seeks-government/article71687117.ece",
+      "importance": 3,
+      "date_added": "2026-11-11"
+    },
+    {
+      "title": "Pentagon chief Hegseth calls moves to impeach him a farce that will fail",
+      "summary": "Pete Hegseth made the comment ‌at a news conference a day after U.S. Representative ‌Thomas Massie, a ‌Kentucky ⁠Republican, introduced eight articles of ⁠impeachment against him",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/pentagon-chief-hegseth-calls-moves-to-impeach-him-a-farce-that-will-fail/article71686563.ece",
+      "importance": 3,
+      "date_added": "2026-11-11"
+    },
+    {
+      "title": "India clinches 25m pistol team gold medal; Manu Bhaker, Esha Singh miss Olympic quota",
+      "summary": "India have so far secured just one Olympic quota place through men's 10m air pistol shooter Jaypal Malviya",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/india-clinches-25m-pistol-team-gold-medal-manu-bhaker-esha-singh-miss-olympic-quota/article71688289.ece",
+      "importance": 3,
+      "date_added": "2026-11-11"
     }
   ]
 }
