@@ -1,141 +1,6 @@
 {
   "items": [
     {
-      "title": "Government Approves 12 Electronics Components Proposals Worth ₹7,503 Crore",
-      "summary": "The Union Government has approved 12 proposals related to electronics components manufacturing with a total financial commitment of ₹7,503 crore.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/government-approves-12-electronics-components-proposals-worth-%e2%82%b97503-crore/",
-      "importance": 5,
-      "date_added": "2026-11-07"
-    },
-    {
-      "title": "India and EU conclude strategic Horizon global innovation programme",
-      "summary": "India and the European Union have concluded a multi-billion Euro global innovation programme named Horizon. The association forms a key part of the five-year comprehensive strategic agenda between both sides.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/india-eu-conclude-multi-billion-euro-global-innovation-programme/article71677171.ece",
-      "importance": 5,
-      "date_added": "2026-11-07"
-    },
-    {
-      "title": "TRAI Proposes Authorisation Framework for Satellite Network Providers",
-      "summary": "The Telecom Regulatory Authority of India (TRAI) has submitted proposals regarding authorisation for satellite network providers.",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/trai-proposes-satellite-network-provider-authorisation/",
-      "importance": 4,
-      "date_added": "2026-11-07"
-    },
-    {
-      "title": "₹2,000-Crore Allocation Ordered for Vetri Laptop Scheme",
-      "summary": "An allocation of ₹2,000 crore has been ordered to implement the Vetri Laptop Scheme, benefiting first- and second-year undergraduate and diploma students in government and government-aided colleges for the 2026-2027 academic year.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/cm-vijay-orders-2000-crore-allocation-to-implement-vetri-laptop-scheme-for-college-students/article71677364.ece",
-      "importance": 4,
-      "date_added": "2026-11-07"
-    },
-    {
-      "title": "Vice President Confers Dr. Rajendra Prasad Award for Academic Excellence on Prof. K. Chockalingam",
-      "summary": "The Vice President conferred the Dr. Rajendra Prasad Award for Academic Excellence on Professor K. Chockalingam. The honour recognizes his academic career spanning over five decades and his pioneering work in criminology and victimology.",
-      "category": "awards",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/briefly-vice-president-confers-dr-rajendra-prasad-award-for-academic-excellence-on-professor-k-chockalingam/article71677284.ece",
-      "importance": 4,
-      "date_added": "2026-11-07"
-    },
-    {
-      "title": "Sonia Gandhi's memoir 'Belonging: A Journey of Love' set for release",
-      "summary": "Former Congress leader Sonia Gandhi's upcoming memoir titled 'Belonging: A Journey of Love' is scheduled for release on November 10. The book is published domestically by HarperCollins India.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/books/articles-on-sonia-gandhi-book-belonging/article71450926.ece",
-      "importance": 4,
-      "date_added": "2026-11-07"
-    },
-    {
-      "title": "Assam bans drone operations near Amur falcon roosting sites",
-      "summary": "The Assam government has prohibited drone operations near the roosting sites of Amur falcons to protect the migratory raptors. The restriction was imposed after visitors and content creators flew drones close to bird congregations for social media footage.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/assam/assam-prohibits-drone-operations-near-amur-falcon-roosting-sites/article71674015.ece",
-      "importance": 4,
-      "date_added": "2026-11-07"
-    },
-    {
-      "title": "Supreme Court Rules Temporary Silk Cotton Cultivators Ineligible for Protection Under FRA Act",
-      "summary": "The Supreme Court directed that temporary and non-resident silk cotton cultivators are not eligible for protection under the Forest Rights Act (FRA). The directive was issued in connection with the Agasthyamalai conservation case.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/agasthyamalai-conservation-case-sc-directs-temporary-and-non-resident-silk-cotton-cultivators-not-eligible-for-protection-under-fra-act/article71675811.ece",
-      "importance": 4,
-      "date_added": "2026-11-07"
-    },
-    {
-      "title": "Climate Scientist P.V. Joseph Passes Away",
-      "summary": "Climate scientist P.V. Joseph, who discovered the low-level monsoon jetstream, has passed away. He conducted extensive research on monsoon onset, Rossby waves, and ocean-atmosphere instability.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/climate-scientist-pv-joseph-passes-away/article71675962.ece",
-      "importance": 4,
-      "date_added": "2026-11-07"
-    },
-    {
-      "title": "Supreme Court Settles Dispute Over Himachal Pradesh Share in BBMB Power Projects",
-      "summary": "The Supreme Court settled a decades-old dispute concerning Himachal Pradesh's 7.19% share in the power generated from Bhakra Beas Management Board (BBMB) projects.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/himachal-pradesh/supreme-court-decision-on-bbmb-arrears-a-victory-for-himachal-says-cm-sukhu/article71675039.ece",
-      "importance": 4,
-      "date_added": "2026-11-07"
-    },
-    {
-      "title": "Abdul El-Sayed Becomes First Muslim Elected to the US Senate",
-      "summary": "Democrat Abdul El-Sayed made history by becoming the first Muslim elected to the United States Senate. He secured victory over Republican Mike Rogers during the 2026 midterm elections.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/videos/why-abdul-el-sayeds-victory-matters-beyond-michigan-explained/article71673969.ece",
-      "importance": 4,
-      "date_added": "2026-11-07"
-    },
-    {
-      "title": "Centre Mandates Rice and Paddy Stock Declaration to Prevent Hoarding",
-      "summary": "The Union government has mandated stock declarations for rice and paddy to prevent hoarding amidst rising prices. Additionally, five southern States have been permitted to impose stock limits.",
-      "category": "economy",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/amid-price-rise-centre-mandates-rice-paddy-stock-declaration/article71675997.ece",
-      "importance": 4,
-      "date_added": "2026-11-07"
-    },
-    {
-      "title": "ADNOC Signs 10-Year LNG Supply Deal with Gujarat Energy",
-      "summary": "Abu Dhabi National Oil Company (ADNOC) has executed a 10-year LNG supply and purchase agreement with Gujarat Energy. This marks the fifth long-term LNG agreement signed by ADNOC with India.",
-      "category": "economy",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/business/Industry/adnoc-inks-10-year-lng-supply-and-purchase-agreement-with-gujarat-energy/article71674806.ece",
-      "importance": 4,
-      "date_added": "2026-11-07"
-    },
-    {
-      "title": "ICAR-CMFRI Study Records Expansion in Kerala's Mangrove Cover",
-      "summary": "A study conducted by the ICAR-Central Marine Fisheries Research Institute in Kochi revealed an expansion in Kerala's coastal mangrove vegetation over the past decade. The research analyzed and compared satellite imagery from 2017 and 2026.",
-      "category": "environment",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/keralams-mangrove-cover-expanded-in-past-decade-despite-prior-decline-finds-study/article71673685.ece",
-      "importance": 4,
-      "date_added": "2026-11-07"
-    },
-    {
-      "title": "Mohammed Shami Retires from Test Cricket",
-      "summary": "Indian fast bowler Mohammed Shami has announced his retirement from Test cricket. He concluded his Test career with 229 wickets from 64 matches and will continue to play in white-ball formats.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/cricket/mohammed-shami-retires-from-test-cricket-to-continue-playing-white-ball-formats/article71676026.ece",
-      "importance": 4,
-      "date_added": "2026-11-07"
-    },
-    {
       "title": "UNESCO Adds Three Indian Manuscripts to Asia-Pacific Register",
       "summary": "UNESCO has officially included three Indian manuscripts in its Asia-Pacific Regional Register.",
       "category": "national",
@@ -1295,6 +1160,96 @@
       "url": "https://www.thehindu.com/sci-tech/science/new-shark-species-identified-in-indian-ocean-after-decades-of-misclassification/article71694050.ece",
       "importance": 4,
       "date_added": "2026-11-13"
+    },
+    {
+      "title": "President Murmu Confers National Sports Awards; Lalremsiami First from Mizoram to Receive Arjuna Award",
+      "summary": "President Murmu presented the National Sports Awards, where 17 Arjuna awardees and three Dronacharya awardees were chosen. Lalremsiami became the first recipient from Mizoram to receive the Arjuna Award, while no Khel Ratna was awarded for the first time since 2014.",
+      "category": "awards",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/president-murmu-gives-away-national-sports-awards-lalremsiami-first-from-mizoram-to-receive-arjuna-award/article71697423.ece",
+      "importance": 5,
+      "date_added": "2026-11-14"
+    },
+    {
+      "title": "India and Egypt Discuss Bilateral Cooperation in Infrastructure, Manufacturing, and Logistics",
+      "summary": "Piyush Goyal visited Egypt to discuss increasing cooperation between India and Egypt in infrastructure, manufacturing, and logistics. Egypt's location provides opportunities for Indian businesses to expand into markets across Africa, the Middle East, and Europe.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/piyush-goyal-in-egypt-both-sides-to-discuss-increasing-cooperation-in-infra-manufacturing-logistics/article71701055.ece",
+      "importance": 4,
+      "date_added": "2026-11-14"
+    },
+    {
+      "title": "Kurumba Adivasi Community of Kerala and Census Language Classification Rules",
+      "summary": "The Kurumbas of Kerala are an Adivasi community with a population of 2,719 as of 2024, speaking Kurumba, an oral language without a script. Under Census guidelines, languages spoken by fewer than 10,000 people are classified under the 'others' category.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/kurumba-a-language-and-community-fighting-for-visibility/article71695235.ece",
+      "importance": 4,
+      "date_added": "2026-11-14"
+    },
+    {
+      "title": "Central Government Sanctions Fresh Infrastructure Along China Border in Arunachal Pradesh",
+      "summary": "The Central Government has sanctioned new infrastructure along the border with China in Arunachal Pradesh. The decision comes as tension persists in the region despite high-level border talks held between India and China since July 2026.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/why-has-centre-sanctioned-fresh-infrastructure-along-the-china-border-in-arunachal-pradesh-explained/article71700782.ece",
+      "importance": 4,
+      "date_added": "2026-11-14"
+    },
+    {
+      "title": "Himachal Pradesh Introduces Mukhya Mantri Apna Parivar Sukhi Parivar Yojna",
+      "summary": "The Himachal Pradesh government has launched the Mukhya Mantri Apna Parivar Sukhi Parivar Yojna, offering a ₹1,500 financial allowance scheme. The scheme provides social welfare support to targeted beneficiaries across the state.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/himachals-1500-allowance-scheme-who-benefits-and-whats-the-political-impact-explained/article71700979.ece",
+      "importance": 4,
+      "date_added": "2026-11-14"
+    },
+    {
+      "title": "IBM Quantum System to be Installed at Amaravati Quantum Valley",
+      "summary": "An IBM Quantum System from the United States is scheduled for installation at Amaravati Quantum Valley on February 3, 2027, to build an indigenous deep tech hub. Homegrown breakthroughs are emerging from the Amaravati 1Q and Amaravati 1S labs led by Q SHIVA and NAADA.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/inside-amaravatis-pioneering-leap-to-quantum-frontier/article71692735.ece",
+      "importance": 4,
+      "date_added": "2026-11-14"
+    },
+    {
+      "title": "Himachal Pradesh Approves ₹1,500 Monthly Assistance for Women and Free Electricity",
+      "summary": "The Himachal Pradesh government has approved ₹1,500 in monthly financial assistance for eligible women. Additionally, eligible beneficiary families under the scheme will receive 300 units of free electricity.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/himachal-pradesh/himachal-approves-1500-monthly-financial-assistance-for-women/article71698523.ece",
+      "importance": 4,
+      "date_added": "2026-11-14"
+    },
+    {
+      "title": "NPPA Directs Monitoring of Revised Prices for 137 Anti-Cancer Drugs",
+      "summary": "The National Pharmaceutical Pricing Authority (NPPA) has instructed State drug controllers to strictly monitor the market to ensure compliance with the new prices fixed for 137 anti-cancer drugs. Regulators warned that non-compliance with the revised price limits will invite strict official action.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sci-tech/health/comply-with-new-prices-of-137-anti-cancer-drugs-or-face-action-says-regulator/article71698592.ece",
+      "importance": 4,
+      "date_added": "2026-11-14"
+    },
+    {
+      "title": "Andhra Pradesh Secures ₹9.88 Lakh Crore Investment Commitments at CII Partnership Summit",
+      "summary": "Andhra Pradesh secured investment commitments worth ₹9.88 lakh crore during the Confederation of Indian Industry (CII) Partnership Summit held in Visakhapatnam. Chief Minister N. Chandrababu Naidu also announced that the state will implement the Investment Protection Act with retrospective effect from 2024.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-secures-988-lakh-crore-investment-commitments-at-cii-partnership-summit-in-vizag/article71699029.ece",
+      "importance": 4,
+      "date_added": "2026-11-14"
+    },
+    {
+      "title": "APEC Forum to be Hosted in Shenzhen, China",
+      "summary": "The Asia-Pacific Economic Cooperation forum is scheduled to take place in Shenzhen, where global leaders are expected to hold sideline meetings. According to the White House, discussions will include proposals regarding nuclear-arms cuts.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/donald-trump-to-raise-nuclear-arms-cuts-with-putin-xi-on-november-19-white-house-says/article71700773.ece",
+      "importance": 4,
+      "date_added": "2026-11-14"
     }
   ]
 }
