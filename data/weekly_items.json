@@ -1,123 +1,6 @@
 {
   "items": [
     {
-      "title": "UNESCO Adds Three Indian Manuscripts to Asia-Pacific Register",
-      "summary": "UNESCO has officially included three Indian manuscripts in its Asia-Pacific Regional Register.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/unesco-adds-three-indian-manuscripts-to-asia-pacific-register/",
-      "importance": 5,
-      "date_added": "2026-11-08"
-    },
-    {
-      "title": "Supreme Court Rules 24-Hour Arrest Clock Starts from Actual Detention",
-      "summary": "The Supreme Court has ruled that the mandatory 24-hour arrest clock for a detained person begins from the moment of actual detention.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/supreme-court-starts-24-hour-arrest-clock-from-actual-detention/",
-      "importance": 5,
-      "date_added": "2026-11-08"
-    },
-    {
-      "title": "India and EU Conclude Horizon Europe Association Talks",
-      "summary": "India and the European Union have concluded negotiations regarding India's association with the Horizon Europe research initiative.",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/india-and-eu-conclude-horizon-europe-association-talks/",
-      "importance": 5,
-      "date_added": "2026-11-08"
-    },
-    {
-      "title": "France Honours Narayana Health Founder Devi Shetty",
-      "summary": "France has conferred an honour upon Narayana Health founder Dr. Devi Shetty.",
-      "category": "awards",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/france-honours-narayana-health-founder-devi-shetty/",
-      "importance": 4,
-      "date_added": "2026-11-08"
-    },
-    {
-      "title": "FSSAI conducts nationwide enforcement drive, seizes 3,280 tonnes of food items",
-      "summary": "The Food Safety and Standards Authority of India (FSSAI) inspected 56,431 food establishments during a nationwide enforcement drive from September 1 to November 5. During the drive, the regulator seized 3,280 tonnes of non-compliant food products and cancelled 52 licences.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/fssai-seizes-3280-tonne-food-items-cancels-52-licences-in-nationwide-inspection-drive/article71680460.ece",
-      "importance": 4,
-      "date_added": "2026-11-08"
-    },
-    {
-      "title": "Bihar Museum ranked among the best in the world by German publication",
-      "summary": "A German publication has ranked the Bihar Museum among the best museums in the world. The museum is recognized for its contribution to showcasing the development of Indian civilization.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/bihar/a-bridge-between-past-and-present/article71678324.ece",
-      "importance": 4,
-      "date_added": "2026-11-08"
-    },
-    {
-      "title": "Defence Minister reviews LAC infrastructure and military readiness near China frontier",
-      "summary": "Defence Minister Rajnath Singh addressed military personnel at an airbase near the China frontier and called for high military readiness to face evolving threats. He also reviewed the Indian Army's operational preparedness and infrastructure along the Line of Actual Control.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/from-strategic-eastern-airbase-rajnath-calls-for-highest-military-preparedness/article71678566.ece",
-      "importance": 4,
-      "date_added": "2026-11-08"
-    },
-    {
-      "title": "East Bengal Becomes First Indian Club to Reach AFC Women's Champions League Knockout Stage",
-      "summary": "East Bengal became the first Indian club to advance to the knockout stage of the AFC Women's Champions League. The Kolkata-based team created history by qualifying for the elimination rounds of the elite competition.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/football/east-bengal-makes-history-in-afc-womens-champions-league/article71679362.ece",
-      "importance": 4,
-      "date_added": "2026-11-08"
-    },
-    {
-      "title": "Adkar and Bhosale Become First All-Indian Pair to Reach WTA Tour Doubles Final",
-      "summary": "The pair of Adkar and Bhosale became the first all-Indian team to reach a doubles final at the main WTA Tour level. Previously, no all-Indian combination had achieved a final appearance at this level in women's tennis.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/adkar-bhosale-become-first-all-indian-pair-to-reach-wta-tour-doubles-final/article71678367.ece",
-      "importance": 4,
-      "date_added": "2026-11-08"
-    },
-    {
-      "title": "Nivetha Wins AFC Youth Female Coach of the Year Award",
-      "summary": "Nivetha has been honoured with the AFC Youth Female Coach of the Year Award.",
-      "category": "awards",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/football/womens-football/article71677785.ece",
-      "importance": 4,
-      "date_added": "2026-11-08"
-    },
-    {
-      "title": "Mohammed Shami Announces Retirement from Test Cricket",
-      "summary": "Indian fast bowler Mohammed Shami has officially retired from Test cricket.",
-      "category": "sports",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/mohammed-shami-retires-from-test-cricket/",
-      "importance": 4,
-      "date_added": "2026-11-08"
-    },
-    {
-      "title": "Lt Gen Sushil Chander Mahant Appointed as Army DGIT",
-      "summary": "Lieutenant General Sushil Chander Mahant has taken charge as the Director General of Information Technology (DGIT) of the Indian Army.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/lt-gen-sushil-chander-mahant-takes-charge-as-army-dgit/",
-      "importance": 4,
-      "date_added": "2026-11-08"
-    },
-    {
-      "title": "Pedro Alliana Sworn In as President of Paraguay",
-      "summary": "Pedro Alliana has officially taken office as the President of Paraguay.",
-      "category": "international",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/pedro-alliana-sworn-in-as-paraguay-president/",
-      "importance": 4,
-      "date_added": "2026-11-08"
-    },
-    {
       "title": "Anuj Shrivatri Becomes India’s 100th Chess Grandmaster",
       "summary": "Twenty-two-year-old Anuj Shrivatri became India’s 100th chess Grandmaster after winning the 7th ASEAN+ Individual Open chess championship in Ozamiz City, the Philippines.",
       "category": "sports",
@@ -1250,6 +1133,213 @@
       "url": "https://www.thehindu.com/news/international/donald-trump-to-raise-nuclear-arms-cuts-with-putin-xi-on-november-19-white-house-says/article71700773.ece",
       "importance": 4,
       "date_added": "2026-11-14"
+    },
+    {
+      "title": "British Author M. John Harrison Wins Booker Prize",
+      "summary": "British author M. John Harrison has been awarded this year's Booker Prize. He has long championed resistance to the status quo, with his latest novel reflecting pessimism about humanity's future.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/books/books-authors/m-john-harrison-from-rebellion-to-despair/article71702830.ece",
+      "importance": 5,
+      "date_added": "2026-11-15"
+    },
+    {
+      "title": "Manila to Host Quad Summit in First Non-Quad Country Hosting",
+      "summary": "The Quad Summit featuring leaders from India, the U.S., Australia, and Japan is set to take place in Manila, marking the first time the summit is held in a non-Quad country. The meeting is expected to focus on critical minerals, energy supply chains, and safety of seafarers.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/quad-summit-likely-to-be-held-in-manila-on-november-17-sources-say/article71702178.ece",
+      "importance": 5,
+      "date_added": "2026-11-15"
+    },
+    {
+      "title": "Pioxaniliprole Launched as India’s First Indigenous Insecticide",
+      "summary": "Pioxaniliprole has been introduced as India's first indigenously developed insecticide. The development marks a significant achievement in domestic agricultural science and technology.",
+      "category": "science",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/indias-first-indigenous-insecticide-pioxaniliprole/",
+      "importance": 5,
+      "date_added": "2026-11-15"
+    },
+    {
+      "title": "India and Egypt Seek to Expand Bilateral Trade and Investment",
+      "summary": "Union Minister Piyush Goyal stated during an event in Cairo that bilateral trade between India and Egypt reached around $6.5 billion. Both nations are working to strengthen their economic and investment cooperation.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/piyush-goyal-in-egypt-talks-to-strengthen-india-egypt-ties/article71704146.ece",
+      "importance": 4,
+      "date_added": "2026-11-15"
+    },
+    {
+      "title": "AirTrunk Announces $11 Billion Data Centre Investment in Andhra Pradesh",
+      "summary": "AirTrunk plans to make an $11 billion investment to build data centres in Andhra Pradesh. The project represents a significant boost to state digital infrastructure.",
+      "category": "economy",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/airtrunk-plans-11-billion-data-centre-investment-in-andhra-pradesh/",
+      "importance": 4,
+      "date_added": "2026-11-15"
+    },
+    {
+      "title": "Jharkhand Celebrates Foundation Day on November 15",
+      "summary": "President Droupadi Murmu and Prime Minister Narendra Modi greeted residents of Jharkhand on its foundation day. The state was created on November 15, 2000, from the southern region of Bihar.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/leaders-greet-jharkhand-residents-on-states-foundation-day/article71704061.ece",
+      "importance": 4,
+      "date_added": "2026-11-15"
+    },
+    {
+      "title": "India Votes Against UNGA Resolution on Global Moratorium on Death Penalty",
+      "summary": "India voted against a United Nations General Assembly (UNGA) resolution calling for a global moratorium on the death penalty. The resolution noted concern over a surge in reported executions globally in 2025.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/india-votes-against-unga-resolution-calling-for-global-moratorium-on-death-penalty/article71704094.ece",
+      "importance": 4,
+      "date_added": "2026-11-15"
+    },
+    {
+      "title": "PM Modi Pays Tribute to Birsa Munda on Birth Anniversary",
+      "summary": "Prime Minister Narendra Modi paid tribute to tribal freedom fighter Birsa Munda, known as 'Dharti Aaba', on his birth anniversary. He commemorated his courage and sacrifice in inspiring generations to defend self-respect and rights.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/pm-modi-pays-tribute-to-birsa-munda-on-birth-anniversary/article71704060.ece",
+      "importance": 4,
+      "date_added": "2026-11-15"
+    },
+    {
+      "title": "India and Belgium Hold Bilateral Naval Talks on Maritime Security",
+      "summary": "India and Belgium conducted bilateral naval talks focused on maritime security. The engagement aimed to strengthen maritime cooperation and deepen navy-to-navy relations between the two nations.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/maritime-security-in-focus-at-india-belgium-naval-talks/article71702848.ece",
+      "importance": 4,
+      "date_added": "2026-11-15"
+    },
+    {
+      "title": "Cape Verde Prepares for Presidential Election with Potential First Female President",
+      "summary": "Cape Verde could elect its first woman president since gaining independence in 1975. Six candidates are competing in the election, with a runoff planned for November 29 if no candidate secures over half the votes.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/cape-verde-could-elect-first-woman-president-since-gaining-independence-in-1975/article71704206.ece",
+      "importance": 4,
+      "date_added": "2026-11-15"
+    },
+    {
+      "title": "NATO Scales Back Meetings and Skips Planned Leaders' Summit in Albania",
+      "summary": "NATO will skip a planned leaders' summit in Albania next year as high-level meetings are scaled back. NATO Secretary-General Mark Rutte addressed the change, noting that the organization remains flexible regarding its summits.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/nato-to-skip-a-leaders-summit-in-albania-next-year-as-high-level-meetings-are-scaled-back/article71704174.ece",
+      "importance": 4,
+      "date_added": "2026-11-15"
+    },
+    {
+      "title": "UN Climate Summit Grapples with Crossing of Paris Accord's 1.5°C Target",
+      "summary": "Nations at the UN climate summit discussed the imminent crossing of the Paris accord's 1.5°C target threshold. The UN declared in September that global temperatures have already warmed about 1.4°C above pre-industrial levels.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/nations-grapple-with-loss-of-15c-target-at-un-climate-summit/article71704051.ece",
+      "importance": 4,
+      "date_added": "2026-11-15"
+    },
+    {
+      "title": "SpaceX Starship Achieves First-Ever Capture by Launch Pad Arms",
+      "summary": "SpaceX's Starship returned from orbit and was successfully captured by launch pad arms for the first time in a major technical achievement. Launches of Starship from Florida's Kennedy Space Center are expected to begin within the coming months.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first/article71703046.ece",
+      "importance": 4,
+      "date_added": "2026-11-15"
+    },
+    {
+      "title": "Indian Railways to Launch Train Service Connecting Nepal's Janakpur Dham with Ayodhya",
+      "summary": "Indian Railways will operate a weekly train service connecting Nepal's Janakpur Dham with Ayodhya Dham. The service will stop at several major stations including Jaynagar, Sitamarhi, Raxaul, and Gorakhpur.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/indian-railways-to-connect-nepals-janakpur-dham-with-ayodhya-through-weekly-train-service/article71701555.ece",
+      "importance": 4,
+      "date_added": "2026-11-15"
+    },
+    {
+      "title": "NASA's Voyager 1 Nears One Light-Day Distance Record in Interstellar Space",
+      "summary": "NASA's Voyager 1 spacecraft is approaching a distance of one light-day in interstellar space, setting a new distance milestone. The spacecraft will require approximately 18,000 years to complete a full light-year distance.",
+      "category": "science",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/nasas-voyager-1-closes-in-on-a-light-day-in-interstellar-space-for-new-distance-record/article71704036.ece",
+      "importance": 4,
+      "date_added": "2026-11-15"
+    },
+    {
+      "title": "India Wins U-19 Asia Cup; Aaryavir Sehwag Named Player of the Tournament",
+      "summary": "India won the U-19 Asia Cup in Oman by defeating Pakistan in the final match. Aaryavir Sehwag was awarded Player of the Tournament after scoring a tournament-high 361 runs across five matches.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/cricket/aaryavir-sehwag-virender-sehwags-son-takes-first-steps-towards-forging-own-identity/article71704216.ece",
+      "importance": 4,
+      "date_added": "2026-11-15"
+    },
+    {
+      "title": "Lakshya Sen Wins Kumamoto Masters Japan Open Badminton Title",
+      "summary": "Indian badminton player Lakshya Sen defeated Japan's Koki Watanabe 13-21, 21-18, 21-14 to claim the Kumamoto Masters Japan Open title.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/lakshya-sen-beats-koki-watanabe-to-win-kumamoto-masters-japan-open/article71704106.ece",
+      "importance": 4,
+      "date_added": "2026-11-15"
+    },
+    {
+      "title": "India Beats Bhutan 2-1 to Reach SAFF Championship Final; VAR System Debuts",
+      "summary": "India defeated Bhutan 2-1 to enter the final of the SAFF Championship. The match featured the historic debut of the Video Assistant Referee (VAR) system in the SAFF Championship.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/football/india-beat-bhutan-2-1-to-enter-saff-championship-final/article71701546.ece",
+      "importance": 4,
+      "date_added": "2026-11-15"
+    },
+    {
+      "title": "Sooryavanshi Becomes Youngest Captain in Men's T20 Cricket History",
+      "summary": "Sooryavanshi became the youngest captain in the history of men's T20 cricket. During his record-breaking outing, he scored 18 runs off 12 deliveries before being dismissed by left-arm pacer Chetan Sakariya.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/cricket/sooryavanshi-becomes-youngest-captain-in-mens-t20-cricket-history/article71701393.ece",
+      "importance": 4,
+      "date_added": "2026-11-15"
+    },
+    {
+      "title": "NIELIT to Host 3rd National Conference on Cybersecurity, Digital Forensics and Intelligence in New Delhi",
+      "summary": "NIELIT will organise the 3rd National Conference on Cybersecurity, Digital Forensics and Intelligence (NCCDFI 2026) in New Delhi on November 16-17, 2026.",
+      "category": "science",
+      "source": "pib",
+      "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336461",
+      "importance": 4,
+      "date_added": "2026-11-15"
+    },
+    {
+      "title": "DPIIT and Commerce Department to Issue Defence Industrial Licences",
+      "summary": "The Department for Promotion of Industry and Internal Trade (DPIIT) alongside the Commerce Department will now issue defence industrial licences. This measure standardizes administrative oversight for manufacturing within the defence sector.",
+      "category": "economy",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/dpiit-commerce-department-to-issue-defence-industrial-licences/",
+      "importance": 4,
+      "date_added": "2026-11-15"
+    },
+    {
+      "title": "MeitY Opens Consent Manager Registration Portal",
+      "summary": "The Ministry of Electronics and Information Technology (MeitY) has launched the Consent Manager Registration Portal. The portal enables digital registration and consent management procedures under government oversight.",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/meity-opens-consent-manager-registration-portal/",
+      "importance": 4,
+      "date_added": "2026-11-15"
+    },
+    {
+      "title": "U.S. Assures India of Comparative Tariff Advantage in Trade Negotiations",
+      "summary": "The United States has assured India of a comparative tariff advantage over competing nations during ongoing trade discussions. Indian officials had designated this tariff advantage as a prerequisite for proceeding with a bilateral trade deal.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/in-major-breakthrough-us-assures-india-of-comparative-tariff-advantage-over-its-competitors/article71697805.ece",
+      "importance": 4,
+      "date_added": "2026-11-15"
     }
   ]
 }
