@@ -1,87 +1,6 @@
 {
   "items": [
     {
-      "title": "Anuj Shrivatri Becomes India’s 100th Chess Grandmaster",
-      "summary": "Twenty-two-year-old Anuj Shrivatri became India’s 100th chess Grandmaster after winning the 7th ASEAN+ Individual Open chess championship in Ozamiz City, the Philippines.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/anuj-shrivatri-becomes-indias-100th-chess-grandmaster/article71681083.ece",
-      "importance": 5,
-      "date_added": "2026-11-09"
-    },
-    {
-      "title": "COP31 Climate Conference Opens in Antalya",
-      "summary": "The COP31 international climate conference has opened in the Mediterranean seaside city of Antalya, with over 100,000 participants expected to attend amid growing climate and geopolitical pressures.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/cop31-in-turkiye-climate-and-geopolitical-pressures-mount/article71681273.ece",
-      "importance": 5,
-      "date_added": "2026-11-09"
-    },
-    {
-      "title": "Parliament’s Monsoon Session Remains Unprorogued for Record 88 Days",
-      "summary": "Neither the Lok Sabha nor the Rajya Sabha was formally prorogued for a record 88 days following the Monsoon Session, leaving open the possibility of an extended sitting.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/parliaments-monsoon-session-remains-unprorogued-for-record-88-days/article71681364.ece",
-      "importance": 4,
-      "date_added": "2026-11-09"
-    },
-    {
-      "title": "Modernist Artist Arpita Singh Passes Away at 89",
-      "summary": "Renowned modernist artist Arpita Singh has passed away at the age of 89. She was honored with the Padma Bhushan in 2011 and the Lalit Kala Akademi Fellowship in 2014 for her significant contributions to art.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/entertainment/art/modernist-artist-arpita-singh-aged-89-passes-away/article71681531.ece",
-      "importance": 4,
-      "date_added": "2026-11-09"
-    },
-    {
-      "title": "19 Indian Seafarers Stranded in Yemen Evacuated",
-      "summary": "Nineteen Indian seafarers who were stranded in Yemen have been evacuated. This evacuation follows the confirmation of safety for 14 Indian nationals involved in a yacht incident off the coast of Yemen.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/indian-seafarers-stranded-in-yemen-evacuated/article71681203.ece",
-      "importance": 4,
-      "date_added": "2026-11-09"
-    },
-    {
-      "title": "G7 Ministers Gather to Discuss Ukraine Conflict and Iran War",
-      "summary": "Ministers from the G7 leading industrialised nations—Britain, Canada, France, Germany, Italy, Japan, and the United States—have met to address efforts aimed at ending the Ukraine conflict and halting a new war involving Iran.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/g7-ministers-meeting-in-paris-russia-ukraine-conflict-us-israel-strikes-on-iran/article71681281.ece",
-      "importance": 4,
-      "date_added": "2026-11-09"
-    },
-    {
-      "title": "Vaishnavi and Rutuja Become First All-Indian Pair to Reach WTA Tour Final",
-      "summary": "Indian tennis players Vaishnavi and Rutuja finished as runners-up in the doubles final of the WTA Chennai Open against a Swiss pair. They achieved a historic milestone by becoming the first-ever all-Indian pair to reach the final of a WTA Tour event.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/wta-chennai-open-vaishnavi-and-rutuja-settle-for-runners-up-finish/article71681151.ece",
-      "importance": 4,
-      "date_added": "2026-11-09"
-    },
-    {
-      "title": "Ashwini Vaishnaw Launches Semicon India 2.0 Portal",
-      "summary": "Union Minister Ashwini Vaishnaw launched the Semicon India 2.0 Portal to further advance India's semiconductor initiatives.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/ashwini-vaishnaw-launches-semicon-india-2-0-portal/",
-      "importance": 4,
-      "date_added": "2026-11-09"
-    },
-    {
-      "title": "Scientists Identify 4.1-Billion-Year-Old Martian Meteorite",
-      "summary": "Scientists have identified a Martian meteorite determined to be 4.1 billion years old.",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/scientists-identify-4-1-billion-year-old-martian-meteorite/",
-      "importance": 4,
-      "date_added": "2026-11-09"
-    },
-    {
       "title": "U.K. Writer M. John Harrison Wins Booker Prize",
       "summary": "U.K. writer M. John Harrison, aged 81, has won the Booker Prize for his AI-tinged apocalyptic novel, becoming the oldest recipient of the award. The honor includes a prize of £50,000 ($67,000).",
       "category": "international",
@@ -1340,6 +1259,159 @@
       "url": "https://www.thehindu.com/news/national/in-major-breakthrough-us-assures-india-of-comparative-tariff-advantage-over-its-competitors/article71697805.ece",
       "importance": 4,
       "date_added": "2026-11-15"
+    },
+    {
+      "title": "India Wins Ninth Under-19 Asia Cup Title",
+      "summary": "India has secured its ninth Under-19 Asia Cup title.",
+      "category": "sports",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/india-claims-ninth-under-19-asia-cup-title/",
+      "importance": 5,
+      "date_added": "2026-11-16"
+    },
+    {
+      "title": "M. John Harrison Awarded 2026 Booker Prize",
+      "summary": "M. John Harrison has won the 2026 Booker Prize.",
+      "category": "awards",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/m-john-harrison-wins-2026-booker-prize/",
+      "importance": 5,
+      "date_added": "2026-11-16"
+    },
+    {
+      "title": "PM Announces ₹3,000 Crore Tribal Development Projects",
+      "summary": "The Prime Minister announced tribal development projects worth ₹3,000 crore.",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/pm-announces-%e2%82%b93000-crore-tribal-development-projects/",
+      "importance": 5,
+      "date_added": "2026-11-16"
+    },
+    {
+      "title": "India to Host 2029 ICC Champions Trophy and Co-host 2031 World Cup",
+      "summary": "India is set to host the 2029 Champions Trophy and co-host the 2031 Cricket World Cup.",
+      "category": "sports",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/india-to-host-2029-champions-trophy-and-co-host-2031-world-cup/",
+      "importance": 5,
+      "date_added": "2026-11-16"
+    },
+    {
+      "title": "Mumbai to Host Sixth Earthshot Prize Awards",
+      "summary": "Mumbai will host the sixth Earthshot Prize Awards on November 17. The prize, founded by Prince William in 2020, grants £1 million to each of five winners to scale environmental solutions.",
+      "category": "awards",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/cities/mumbai/mumbai-to-host-sixth-earthshot-prize-awards-on-november-17-organisers-promise-biggest-edition-yet/article71705598.ece",
+      "importance": 4,
+      "date_added": "2026-11-16"
+    },
+    {
+      "title": "Supreme Court Directs Status Reports on NDPS Act Special Courts",
+      "summary": "The Supreme Court has asked the Centre and States to file status reports regarding the establishment of special courts for hearing NDPS Act cases. The court noted submissions from Additional Solicitor General Aishwarya Bhati that limited progress has been made.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/supreme-court-asks-centre-states-to-file-status-reports-on-setting-up-of-special-courts-to-hear-ndps-act-cases/article71707052.ece",
+      "importance": 4,
+      "date_added": "2026-11-16"
+    },
+    {
+      "title": "Mumbai to Host 6th Earthshot Prize 2026 for Climate Solutions",
+      "summary": "The sixth Earthshot Prize, established by Britain’s Prince William to foster innovative climate change solutions, will be presented in Mumbai on November 17, 2026.",
+      "category": "awards",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/cities/mumbai/prince-of-wales-earthshot-prize-2026-in-mumbai-everything-you-need-to-know/article71706725.ece",
+      "importance": 4,
+      "date_added": "2026-11-16"
+    },
+    {
+      "title": "India and Egypt Agree to Form Joint Working Group for Trade Agreement",
+      "summary": "India and Egypt decided to set up a Joint Working Group to explore the Terms of Reference for a Preferential Trade Agreement (PTA) or Free Trade Agreement (FTA) to boost bilateral trade and investment linkages.",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/piyush-goyal-in-egypt-for-india-egypt-joint-trade-committee-jtc-meet/article71706845.ece",
+      "importance": 4,
+      "date_added": "2026-11-16"
+    },
+    {
+      "title": "China Confirms First Xi-Trump-Putin Summit Scheduled for November 19",
+      "summary": "The Chinese Foreign Ministry has confirmed that the first summit featuring Xi Jinping, Donald Trump, and Vladimir Putin will take place on November 19. The historic meeting is scheduled to be held in a southern Chinese city.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/china-confirms-first-xi-trump-putin-summit-on-november-19/article71706625.ece",
+      "importance": 4,
+      "date_added": "2026-11-16"
+    },
+    {
+      "title": "SpaceX Achieves Historic First-Ever Starship Rocket Catch",
+      "summary": "SpaceX successfully caught its returning Starship spacecraft using 'chopstick arms' at its Starbase launch pad in Texas. The event marks a major milestone for the development of fully reusable rockets.",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first/article71703046.ece",
+      "importance": 4,
+      "date_added": "2026-11-16"
+    },
+    {
+      "title": "Wholesale Inflation Rises to 12.29% in October Led by Fuel and Power",
+      "summary": "According to provisional government data, wholesale inflation surged to 12.29% in October, driven by a 32.84% rise in fuel and power prices. Primary articles recorded 9.24% inflation, while manufactured products eased slightly to 9.54%.",
+      "category": "economy",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/business/Economy/wholesale-price-inflation-october-government-data/article71707046.ece",
+      "importance": 4,
+      "date_added": "2026-11-16"
+    },
+    {
+      "title": "Jay Shah Reappointed as ICC Chairman for Second Term",
+      "summary": "Jay Shah has been reappointed as the Chairman of the International Cricket Council (ICC) for a second term. The reappointment took place during the global body's Board Meetings in Bali.",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/cricket/jay-shah-reappointed-as-icc-chairman-for-second-term/article71706905.ece",
+      "importance": 4,
+      "date_added": "2026-11-16"
+    },
+    {
+      "title": "India and Egypt Hold 7th Ministerial Joint Trade Committee Meeting",
+      "summary": "India and Egypt convened the 7th ministerial-level Joint Trade Committee (JTC) meeting to strengthen bilateral economic relations.",
+      "category": "economy",
+      "source": "pib",
+      "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336792",
+      "importance": 4,
+      "date_added": "2026-11-16"
+    },
+    {
+      "title": "Cyclone Akvan Forecast to Reach Andhra Pradesh Coast",
+      "summary": "Cyclone Akvan is forecast to reach the coast of Andhra Pradesh.",
+      "category": "environment",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/cyclone-akvan-forecast-to-reach-andhra-pradesh-coast/",
+      "importance": 4,
+      "date_added": "2026-11-16"
+    },
+    {
+      "title": "Telangana Unveils Khelo India Youth Games Logo and Mascot",
+      "summary": "Telangana has unveiled the official logo and mascot for the upcoming Khelo India Youth Games.",
+      "category": "sports",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/telangana-unveils-khelo-india-youth-games-logo-and-mascot/",
+      "importance": 4,
+      "date_added": "2026-11-16"
+    },
+    {
+      "title": "Earthshot Prize Ceremony to take place in Mumbai",
+      "summary": "The Earthshot Prize ceremony is scheduled to be held in Mumbai from November 16 to 18.",
+      "category": "environment",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/earthshot-prize-ceremony-comes-to-mumbai-on-november-16-18/",
+      "importance": 4,
+      "date_added": "2026-11-16"
+    },
+    {
+      "title": "Ladakh Approves 97 Ponds Under Project Amrit Sarovar",
+      "summary": "Ladakh has approved the construction of 97 new ponds under Project Amrit Sarovar.",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/ladakh-approves-97-new-ponds-under-project-amrit-sarovar/",
+      "importance": 4,
+      "date_added": "2026-11-16"
     }
   ]
 }
