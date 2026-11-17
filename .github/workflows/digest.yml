@@ -6,6 +6,10 @@ on:
     - cron: "0 1 * * *"
   workflow_dispatch: {}
 
+concurrency:
+  group: daily-digest-${{ github.ref }}
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
@@ -13,7 +17,15 @@ jobs:
   send-digest:
     runs-on: ubuntu-latest
 
+    outputs:
+      state_sha: ${{ steps.history.outputs.state_sha }}
+      weekday: ${{ steps.calendar.outputs.weekday }}
     steps:
+      - name: Check IST report date
+        id: calendar
+        run: |
+          echo "weekday=$(TZ=Asia/Kolkata date +%u)" >> "$GITHUB_OUTPUT"
+
       - name: Check out repo
         uses: actions/checkout@v4
 
@@ -31,10 +43,11 @@ jobs:
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           TO_EMAIL: ${{ secrets.TO_EMAIL }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GEMINI_MODEL: gemini-3.6-flash
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
         run: python scripts/main.py
 
       - name: Save deduplication state
+        id: history
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -42,4 +55,16 @@ jobs:
           touch data/seen_titles.json data/weekly_items.json
           git add -f data/seen_titles.json data/weekly_items.json
           git diff --staged --quiet || git commit -m "Update seen_titles.json / weekly_items.json [skip ci]"
-          git push
+          if ! git push; then
+            echo "::error::Digest step completed but history could not be pushed. Check delivery before rerunning."
+            exit 1
+          fi
+          echo "state_sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+          echo "Digest history is up to date." >> "$GITHUB_STEP_SUMMARY"
+  sunday-report:
+    needs: send-digest
+    if: github.event_name == 'schedule' && needs.send-digest.outputs.weekday == '7'
+    uses: ./.github/workflows/weekly_report.yml
+    with:
+      state_ref: ${{ needs.send-digest.outputs.state_sha }}
+    secrets: inherit

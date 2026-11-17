@@ -13,25 +13,28 @@ main.py calls append_today() once per successful run, right after the
 digest email sends. weekly_report.py calls load_week() to read it back.
 """
 import json
-from datetime import datetime, timedelta
+from datetime import date, timedelta
+
+from run_date import today_ist
 from pathlib import Path
 
 RETENTION_DAYS = 7
 
 # Only the fields the weekly report actually renders are kept — no need to
 # duplicate the full enriched item (keywords, relevance, also_reported_by).
-WEEKLY_FIELDS = ("title", "summary", "category", "source", "url", "importance")
+WEEKLY_FIELDS = ("title", "summary", "date", "category", "source", "url", "importance")
 
 
 def _prune(entries: list[dict]) -> list[dict]:
-    cutoff = datetime.now() - timedelta(days=RETENTION_DAYS)
+    today = today_ist()
+    cutoff = today - timedelta(days=RETENTION_DAYS - 1)
     kept = []
     for entry in entries:
         try:
-            added = datetime.fromisoformat(entry["date_added"])
-        except (KeyError, ValueError):
+            added = date.fromisoformat(entry["date_added"])
+        except (KeyError, TypeError, ValueError):
             continue
-        if added >= cutoff:
+        if cutoff <= added <= today:
             kept.append(entry)
     return kept
 

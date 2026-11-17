@@ -58,7 +58,7 @@ def _render_keywords(keywords) -> str:
         # Style them nicely with the category bold
         if ":" in keyword:
             category, value = keyword.split(":", 1)
-            formatted = f"<strong>{category.strip()}:</strong> {_safe(value.strip())}"
+            formatted = f"<strong>{_safe(category.strip())}:</strong> {_safe(value.strip())}"
         else:
             formatted = _safe(keyword)
         
@@ -165,7 +165,7 @@ def _render_item(item: dict, number: int) -> str:
             color:#666666;
             margin-bottom:7px;
         ">
-            {importance_label} &nbsp;•&nbsp; {_safe(source)}
+            {importance_label} &nbsp;•&nbsp; {_safe(source)} {_safe(item.get("date", ""))}
         </div>
 
         <div style="

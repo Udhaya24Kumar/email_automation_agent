@@ -1,4 +1,8 @@
-from datetime import datetime
+import argparse
+import hashlib
+import json
+
+from run_date import today_ist
 from pathlib import Path
 
 from gktoday_fetch import fetch_today_digest
@@ -30,7 +34,11 @@ def _fetch_with_fallback(name, fn):
 
 
 def main() -> None:
-    today = datetime.now().strftime("%d %B %Y")
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--preview", type=Path, help="Write HTML without sending or saving history")
+    args = parser.parse_args()
+    run_date = today_ist()
+    today = run_date.strftime("%d %B %Y")
 
     # 1. Pull all three sources independently. Any one of them failing
     #    should degrade the digest, not kill the run.
@@ -39,12 +47,19 @@ def main() -> None:
     pib_items = _fetch_with_fallback("PIB", fetch_pib)
     quiz = _fetch_with_fallback("GKToday quiz", fetch_today_quiz)
 
+    quiz_id = hashlib.sha256(
+        json.dumps(quiz, sort_keys=True, ensure_ascii=False).encode("utf-8")
+    ).hexdigest()
+    quiz_marker = f"Quiz delivery {quiz_id}"
+    if quiz and not filter_new_items([{"title": quiz_marker}], SEEN_PATH, exact=True)[0]:
+        quiz = []
+
     # 2. Merge + collapse cross-source duplicates (same story, different
     #    outlet) before we spend Gemini calls on it twice.
     merged = merge(gktoday_items, hindu_items, pib_items)
 
     # 3. Drop anything sent in the last N days (dedup.py), same as Phase 1.
-    new_items, updated_seen = filter_new_items(merged, SEEN_PATH)
+    new_items, _ = filter_new_items(merged, SEEN_PATH)
     skipped = len(merged) - len(new_items)
 
     # 4. Gemini: SSC-relevance scoring + grounded one-liner phrasing
@@ -54,21 +69,34 @@ def main() -> None:
     relevant_items = filter_low_relevance(enriched)
     filtered_low = len(enriched) - len(relevant_items)
 
+    html = build_html(relevant_items, quiz, today)
+    if args.preview:
+        args.preview.parent.mkdir(parents=True, exist_ok=True)
+        args.preview.write_text(html, encoding="utf-8")
+        print(f"Preview written to {args.preview}")
+        return
+
     if not relevant_items and not quiz:
         print("Nothing new/relevant to send today. Skipping email.")
         return
 
-    html = build_html(relevant_items, quiz, today)
     send_email(f"SSC Current Affairs — {today}", html)
 
     # Only mark items as seen once the email has actually gone out, so a
     # failed send doesn't silently swallow items on the next run.
+    _, updated_seen = filter_new_items(relevant_items, SEEN_PATH)
+    if quiz:
+        updated_seen.append({
+            "normalized": quiz_marker.lower(),
+            "title": quiz_marker,
+            "date_added": run_date.isoformat(),
+        })
     save_seen(SEEN_PATH, updated_seen)
 
     # Feed today's sent items into the rolling 7-day store that
     # weekly_report.py reads from every Sunday. Same "only after a
     # successful send" rule as save_seen() above.
-    append_weekly_items(WEEKLY_PATH, relevant_items, datetime.now().date().isoformat())
+    append_weekly_items(WEEKLY_PATH, relevant_items, run_date.isoformat())
 
     print(
         f"Sent digest with {len(relevant_items)} news item(s) "
