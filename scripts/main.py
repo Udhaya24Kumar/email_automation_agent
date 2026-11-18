@@ -62,9 +62,9 @@ def main() -> None:
     new_items, _ = filter_new_items(merged, SEEN_PATH)
     skipped = len(merged) - len(new_items)
 
-    # 4. Gemini: SSC-relevance scoring + grounded one-liner phrasing
-    #    (also handles translating PIB's Hindi titles). Fails open — see
-    #    gemini_filter.py's module docstring.
+    # 4. Gemini: SSC-relevance scoring, English summarisation and keywords
+    #    (including translation of PIB Hindi releases). Hindi-only items are
+    #    omitted if translation is unavailable.
     enriched = enrich_items(new_items)
     relevant_items = filter_low_relevance(enriched)
     filtered_low = len(enriched) - len(relevant_items)
@@ -84,7 +84,10 @@ def main() -> None:
 
     # Only mark items as seen once the email has actually gone out, so a
     # failed send doesn't silently swallow items on the next run.
-    _, updated_seen = filter_new_items(relevant_items, SEEN_PATH)
+    _, updated_seen = filter_new_items([
+        {**item, "title": item.get("original_title") or item["title"]}
+        for item in relevant_items
+    ], SEEN_PATH)
     if quiz:
         updated_seen.append({
             "normalized": quiz_marker.lower(),

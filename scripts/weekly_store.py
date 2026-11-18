@@ -22,7 +22,7 @@ RETENTION_DAYS = 7
 
 # Only the fields the weekly report actually renders are kept — no need to
 # duplicate the full enriched item (keywords, relevance, also_reported_by).
-WEEKLY_FIELDS = ("title", "summary", "date", "category", "source", "url", "importance")
+WEEKLY_FIELDS = ("title", "summary", "date", "category", "source", "url", "importance", "keywords")
 
 
 def _prune(entries: list[dict]) -> list[dict]:

@@ -31,7 +31,7 @@ class DigestTests(unittest.TestCase):
                 patch.object(main, "fetch_pib", return_value=[]),
                 patch.object(main, "fetch_today_quiz", return_value=quiz),
                 patch.object(main, "enrich_items", side_effect=lambda items: [
-                    dict(item, importance=4) for item in items if item["title"] == sent["title"]
+                    dict(item, summary="A new national space mission.", importance=4) for item in items if item["title"] == sent["title"]
                 ]),
                 patch.object(main, "send_email") as send,
             ):
@@ -48,20 +48,28 @@ class DigestTests(unittest.TestCase):
                 self.assertEqual(weekly_store.load_week(main.WEEKLY_PATH)[0]["title"], sent["title"])
                 self.assertNotIn(excluded["title"], [entry["title"] for entry in load_seen(main.SEEN_PATH)])
 
-    def test_gemini_cannot_replace_source_wording(self):
+    def test_english_notes_include_source_evidence(self):
         article = {"title": "Bill proposed", "excerpt": "The bill has not passed.",
                    "url": "https://example.org/bill", "source": "hindu"}
-        result = {"index": 0, "importance": 5, "title": "Bill passed"}
+        result = {
+            "index": 0,
+            "importance": 5,
+            "headline_en": "Bill proposed for parliamentary debate",
+            "summary_en": "The bill has not passed.",
+            "keywords": ["Bill: proposed", "Status: not passed"],
+            "evidence": ["The bill has not passed.", "Bill proposed", "not passed"],
+        }
         with (
             patch.dict(os.environ, {"GEMINI_API_KEY": "fixture"}),
             patch.object(gemini_filter.genai, "Client"),
             patch.object(gemini_filter, "_call_gemini", return_value=[result]),
         ):
             item, = gemini_filter.enrich_items([article])
-        self.assertEqual(item["title"], article["title"])
-        self.assertEqual(item["summary"], article["excerpt"])
+        self.assertEqual(item["title"], result["headline_en"])
+        self.assertEqual(item["summary"], result["summary_en"])
+        self.assertEqual(item["keywords"], result["keywords"])
 
-    def test_malformed_batch_falls_back_to_original_pib(self):
+    def test_malformed_batch_skips_news(self):
         pib = {"title": "Government release", "url": "https://example.org/pib", "source": "pib"}
         hindu = {"title": "Secondary article", "url": "https://example.org/news", "source": "hindu"}
         with (
@@ -69,9 +77,61 @@ class DigestTests(unittest.TestCase):
             patch.object(gemini_filter.genai, "Client"),
             patch.object(gemini_filter, "_call_gemini", return_value=[{"index": 0, "importance": "5"}]),
         ):
-            item, = gemini_filter.enrich_items([pib, hindu])
-        self.assertEqual(item["title"], pib["title"])
-        self.assertEqual(item["importance"], 3)
+            self.assertEqual(gemini_filter.enrich_items([pib, hindu]), [])
+
+    def test_hindi_fallback_is_not_sent_untranslated(self):
+        hindi = {
+            "title": "प्रधानमंत्री ने नई योजना की घोषणा की",
+            "url": "https://example.org/pib-hindi",
+            "source": "pib",
+            "lang": "hi",
+        }
+        english = {
+            "title": "Government announces defence programme",
+            "url": "https://example.org/pib-en",
+            "source": "pib",
+            "lang": "en",
+        }
+        with patch.dict(os.environ, {}, clear=True):
+            items = gemini_filter.enrich_items([hindi, english])
+        self.assertEqual(items, [])
+
+
+    def test_translation_keeps_evidence_and_original_title(self):
+        article = {
+            "title": "\u092d\u093e\u0930\u0924",
+            "excerpt": "\u092d\u093e\u0930\u0924 2026",
+            "source": "pib", "url": "https://example.org/release",
+        }
+        result = {
+            "headline_en": "India announces programme in 2026",
+            "summary_en": "India announces a programme in 2026.",
+            "keywords": ["Country: India", "Year: 2026"],
+            "evidence": [article["excerpt"], article["title"], "2026"],
+        }
+        item = gemini_filter._source_item(article, 4, result)
+        self.assertEqual(item["original_title"], article["title"])
+        self.assertEqual(item["lang"], "en")
+        self.assertEqual(gemini_filter.filter_low_relevance([item]), [item])
+        result["keywords"][0] = "Country: " + article["title"]
+        with self.assertRaises(ValueError):
+            gemini_filter._source_item(article, 4, result)
+
+    def test_unsupported_figures_and_missing_evidence_are_rejected(self):
+        article = {"title": "India publishes report", "excerpt": "Report published in 2026."}
+        result = {
+            "headline_en": "India publishes report",
+            "summary_en": "India publishes report in 2027.",
+            "keywords": ["Country: India", "Year: 2027"],
+            "evidence": ["Report published in 2026.", "India", "2026"],
+        }
+        with self.assertRaises(ValueError):
+            gemini_filter._source_item(article, 4, result)
+        result["summary_en"] = "India publishes report."
+        result["keywords"] = ["Country: India", "Year: 2026"]
+        result["evidence"] = ["Invented source text", "India", "2026"]
+        with self.assertRaises(ValueError):
+            gemini_filter._source_item(article, 4, result)
 
 
 class WeeklyTests(unittest.TestCase):

@@ -5,9 +5,16 @@ ranks them for SSC with Gemini, and emails the selected source headlines,
 excerpts, and links. It also includes GKToday's quiz. Sunday’s scheduled run
 builds and sends a weekly PDF after the daily job saves its delivery history.
 
-Gemini can select and score articles. The email retains source wording,
-including Hindi from PIB. If Gemini is unavailable, the news fallback is
-limited to original PIB releases. Use the source links to verify coverage.
+The daily digest selects up to ten SSC-relevant facts. Each has a concise English
+headline, a summary of up to 60 words, two to five recall keywords, and a source
+link. Hindi source material is translated into English. Generated notes must
+include exact source quotations as evidence and pass language, format, length,
+and numeric checks. These checks cannot guarantee the accuracy of a translation
+or the underlying source. Keep the source links available for verification.
+
+When English enrichment is unavailable or invalid, affected news is skipped.
+The independently fetched quiz can still be sent. Skipped news is left out of
+delivery history so it can be considered on a later run while still available.
 
 ## GitHub Actions setup
 
