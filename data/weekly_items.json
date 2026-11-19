@@ -1,186 +1,6 @@
 {
   "items": [
     {
-      "title": "India and Oman Hold 15th Naseem Al Bahr Naval Exercise",
-      "summary": "India and Oman are conducting the 15th edition of the Naseem Al Bahr naval exercise.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/india-and-oman-hold-15th-naseem-al-bahr-naval-exercise/",
-      "importance": 5,
-      "date_added": "2026-11-12"
-    },
-    {
-      "title": "Meghalaya Celebrates 50th Wangala Festival",
-      "summary": "Meghalaya is celebrating the 50th edition of the Wangala Festival.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/meghalaya-celebrates-50th-wangala-festival/",
-      "importance": 5,
-      "date_added": "2026-11-12"
-    },
-    {
-      "title": "Rifle Shooter Niraj Kumar Secures LA Olympics Quota with Bronze Medal",
-      "summary": "Indian rifle shooter Niraj Kumar secured a quota for the Los Angeles (LA) Olympics by winning a bronze medal in the men's 50m 3-position event. This marked India's second Olympic quota at the championships, following Jaypal Malviya's silver medal in the men's 10m air pistol event.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/rifle-shooter-niraj-kumar-secures-la-olympics-quota-with-bronze-in-mens-50m-3-position/article71690042.ece",
-      "importance": 5,
-      "date_added": "2026-11-12"
-    },
-    {
-      "title": "Swachh Survekshan Awards 2025-26 Announced",
-      "summary": "The Swachh Survekshan Awards for 2025-26 have been announced.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/swachh-survekshan-awards-2025-26/",
-      "importance": 5,
-      "date_added": "2026-11-12"
-    },
-    {
-      "title": "Vande Bharat Express Sets Speed Record Across Chenab and Anji Bridges",
-      "summary": "The Vande Bharat Express created a new record by crossing the world's highest Chenab Bridge and India's first cable-stayed Anji Bridge at a speed of 100 kmph. This milestone was achieved following an increase in the train speed limit along the Katra-Banihal section.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/vande-bharat-crosses-chenab-anji-bridges-at-100-kmph-as-katra-banihal-train-speed-limit-raised/article71539493.ece",
-      "importance": 4,
-      "date_added": "2026-11-12"
-    },
-    {
-      "title": "Niraj Kumar Wins Bronze and Secures India’s First Rifle Quota for 2028",
-      "summary": "Niraj Kumar won a bronze medal and secured India's first rifle quota for 2028.",
-      "category": "sports",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/niraj-kumar-wins-bronze-secures-indias-first-rifle-quota-for-2028/",
-      "importance": 4,
-      "date_added": "2026-11-12"
-    },
-    {
-      "title": "India Cuts Visa Categories from 13 to Nine",
-      "summary": "India has reduced its total number of visa categories from 13 down to nine.",
-      "category": "international",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/india-cuts-visa-categories-from-13-to-nine/",
-      "importance": 4,
-      "date_added": "2026-11-12"
-    },
-    {
-      "title": "India Simplifies Visa Norms and Renames Tourist Visa to Visitor Visa",
-      "summary": "India has simplified its visa rules by cutting categories and making forms 70% leaner. The tourist visa has been renamed 'visitor visa' with two sub-categories, V-1 and V-2, along with special provisions for subject-matter experts.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/india-simplifies-visa-regime-tourist-visa-renamed-as-visitor-visa/article71690588.ece",
-      "importance": 4,
-      "date_added": "2026-11-12"
-    },
-    {
-      "title": "GAIL Proposes ₹123-Crore Waste-to-Biogas Plant in Bengaluru",
-      "summary": "GAIL has proposed establishing a ₹123-crore waste-to-biogas facility across 18 acres in Bengaluru. The plant will process 300 tonnes of daily organic municipal waste to produce 12.6 tonnes of Compressed Biogas and 21.6 tonnes of fermented organic manure daily.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/cities/bangalore/gail-proposes-123-crore-waste-to-biogas-plant-at-kcdc-site-in-bengaluru/article71690616.ece",
-      "importance": 4,
-      "date_added": "2026-11-12"
-    },
-    {
-      "title": "Union Minister Inaugurates 'Promenade' and Lays Foundation Stone for ₹560 Crore Projects at Vizag Port",
-      "summary": "Union Minister Mr. Sonowal opened the 'Promenade' at Visakhapatnam Port and laid the foundation stone for projects worth ₹560 crore. He stated that Visakhapatnam possesses the potential to become a major economic and maritime hub.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/cities/Visakhapatnam/union-minister-opens-promenade-at-vizag-port-lays-foundation-stone-for-560-cr-projects/article71690652.ece",
-      "importance": 4,
-      "date_added": "2026-11-12"
-    },
-    {
-      "title": "COP31 Summit Negotiators Address Global Climate Action and Energy Transition",
-      "summary": "At the COP31 climate conference, negotiators representing nearly 200 nations gathered to evaluate a proposal by Turkey focused on raising the share of electricity in global energy consumption and phasing out fossil fuels.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/war-conflict-must-not-distract-from-climate-action-leaders-warn-cop31/article71690853.ece",
-      "importance": 4,
-      "date_added": "2026-11-12"
-    },
-    {
-      "title": "Moody's Upgrades India's FY27 Growth Forecast to 7%",
-      "summary": "Credit rating agency Moody's has raised India's GDP growth estimate for FY27 to 7%, driven by broad-based economic momentum. The projection is supported by robust consumption, improving investment dynamics, and strong macroeconomic fundamentals.",
-      "category": "economy",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/business/Economy/moodys-ups-indias-fy27-growth-estimate-to-7-on-broad-based-momentum/article71688844.ece",
-      "importance": 4,
-      "date_added": "2026-11-12"
-    },
-    {
-      "title": "Ambekar Meetei Reaches Men's 50kg Boxing Final at Youth Olympics",
-      "summary": "Indian boxer Ambekar Meetei advanced to the men's 50kg final at the Youth Olympics after winning his semifinal match against a Colombian opponent. This ended a 16-year wait for an Indian boxer to reach a Youth Olympics final, matching Shiva Thapa's record from the inaugural 2010 Singapore Games.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/ambekar-meetei-storms-into-mens-50kg-final-at-youth-olympics/article71691219.ece",
-      "importance": 4,
-      "date_added": "2026-11-12"
-    },
-    {
-      "title": "Sunil Chhetri Becomes First Male Participant in FIFA Player Impact Programme",
-      "summary": "Sunil Chhetri has been named the first male participant in the FIFA Player Impact Programme. He joins an international lineup of players that includes Spain's FIFA Women's World Cup winner Alexia Putellas.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/football/sunil-chhetri-joins-fifa-player-impact-programme-as-first-male-participant/article71691223.ece",
-      "importance": 4,
-      "date_added": "2026-11-12"
-    },
-    {
-      "title": "Rahmat Shah Becomes First Afghan to Enter Top 10 of ICC Men's Test Rankings",
-      "summary": "Rahmat Shah reached seventh place in the ICC Men's Test Player Rankings for batters after scoring 173 runs against Zimbabwe. He became the first cricketer from Afghanistan to break into the top 10 of the Test rankings.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/cricket/rahmat-shah-becomes-first-afghan-to-break-into-top-10-of-icc-mens-test-player-rankings/article71691153.ece",
-      "importance": 4,
-      "date_added": "2026-11-12"
-    },
-    {
-      "title": "Manipur Celebrates Ningol Chakouba Festival",
-      "summary": "Manipur has celebrated the Ningol Chakouba festival.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/manipur-celebrates-ningol-chakouba-festival/",
-      "importance": 4,
-      "date_added": "2026-11-12"
-    },
-    {
-      "title": "India and Myanmar Begin IMNEX-26 Naval Exercise",
-      "summary": "India and Myanmar have commenced the IMNEX-26 bilateral naval exercise.",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/india-and-myanmar-begin-imnex-26-naval-exercise/",
-      "importance": 4,
-      "date_added": "2026-11-12"
-    },
-    {
-      "title": "Hyderabad’s Panjagutta to Become India’s First AI Police Station",
-      "summary": "Panjagutta in Hyderabad is set to become India's first AI police station.",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/hyderabads-panjagutta-to-become-indias-first-ai-police-station/",
-      "importance": 4,
-      "date_added": "2026-11-12"
-    },
-    {
-      "title": "SS United States Sunk to Become World’s Largest Artificial Reef",
-      "summary": "The SS United States was sunk to create the world's largest artificial reef.",
-      "category": "environment",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/ss-united-states-sunk-to-become-worlds-largest-artificial-reef/",
-      "importance": 4,
-      "date_added": "2026-11-12"
-    },
-    {
-      "title": "Kutch Copper Becomes First Indian Producer with Copper Mark",
-      "summary": "Kutch Copper has become the first producer in India to achieve the Copper Mark recognition.",
-      "category": "economy",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/kutch-copper-becomes-first-indian-producer-with-copper-mark/",
-      "importance": 4,
-      "date_added": "2026-11-12"
-    },
-    {
       "title": "India Ranks 28th in 2026 Climate Change Performance Index",
       "summary": "India secured the 28th position in the 2026 Climate Change Performance Index.",
       "category": "reports",
@@ -1442,6 +1262,63 @@
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-seeks-immediate-central-assistance-to-cope-with-damages-caused-by-two-cyclones/article71712161.ece",
       "importance": 4,
       "date_added": "2026-11-18"
+    },
+    {
+      "title": "Riddhipratim Basu wins 2026 Infosys Prize in Mathematical Sciences",
+      "summary": "Riddhipratim Basu has been awarded the 2026 Infosys Prize in mathematical sciences. His research utilizes mathematics to analyze how random events generate predictable patterns within physical systems.",
+      "date": "November 18, 2026",
+      "category": "awards",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/riddhipratim-basu-infosys-prize-mathematics-artificial-intelligence-climate/article71715981.ece",
+      "importance": 5,
+      "keywords": [
+        "Award: Infosys Prize",
+        "Person: Riddhipratim Basu"
+      ],
+      "date_added": "2026-11-19"
+    },
+    {
+      "title": "Sports Ministry Forms 14-Member Committee to Formulate Professionally Managed Leagues in India",
+      "summary": "The Sports Ministry has formed a 14-member committee to formulate professionally managed sports leagues in India. The panel includes Board of Control for Cricket in India CEO Hemang Amin and Indian Olympic Association CEO Rahuram Iyer.",
+      "date": "November 18, 2026",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/sports-ministry-forms-14-member-committee-to-formulate-professionally-managed-leagues-in-india/article71715041.ece",
+      "importance": 4,
+      "keywords": [
+        "Ministry: Sports Ministry",
+        "Person: Hemang Amin",
+        "Person: Rahuram Iyer"
+      ],
+      "date_added": "2026-11-19"
+    },
+    {
+      "title": "China's LineShine leads global supercomputer list as India's Shakti Cloud ranks 35th",
+      "summary": "China's LineShine retained the top position on the list of the world's most powerful supercomputers. India's highest-ranked machine on the list is Shakti Cloud at number 35.",
+      "date": "November 18, 2026",
+      "category": "science",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/lineshine-computers-defending-champ/article71712174.ece",
+      "importance": 4,
+      "keywords": [
+        "Supercomputer: LineShine",
+        "Supercomputer: Shakti Cloud"
+      ],
+      "date_added": "2026-11-19"
+    },
+    {
+      "title": "Centre announces 30% to 75% environmental compensation relief for groundwater users",
+      "summary": "The Central government offered a one-time settlement scheme providing 30% to 75% relief on groundwater environmental compensation. The initiative aims to regulate usage and resolve disputes across projects in 19 States and Union Territories.",
+      "date": "November 18, 2026",
+      "category": "environment",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/centre-offers-up-to-75-relief-in-environmental-compensation-to-groundwater-users/article71715304.ece",
+      "importance": 4,
+      "keywords": [
+        "Scheme: One-time settlement scheme",
+        "Topic: groundwater environmental compensation"
+      ],
+      "date_added": "2026-11-19"
     }
   ]
 }
