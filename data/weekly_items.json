@@ -1,249 +1,6 @@
 {
   "items": [
     {
-      "title": "India Ranks 28th in 2026 Climate Change Performance Index",
-      "summary": "India secured the 28th position in the 2026 Climate Change Performance Index.",
-      "category": "reports",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/india-ranks-28th-in-2026-climate-change-performance-index/",
-      "importance": 5,
-      "date_added": "2026-11-13"
-    },
-    {
-      "title": "Ambekar Meetei Wins India’s First Youth Olympics Boxing Gold",
-      "summary": "Ambekar Meetei won India’s first-ever gold medal in boxing at the Youth Olympic Games.",
-      "category": "sports",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/ambekar-meetei-wins-indias-first-youth-olympics-boxing-gold/",
-      "importance": 5,
-      "date_added": "2026-11-13"
-    },
-    {
-      "title": "Navi Mumbai Named Cleanest City in Latest Swachh Survekshan",
-      "summary": "Navi Mumbai has been recognized as India's cleanest city in the latest Swachh Survekshan rankings. Indore, which held the cleanest city title for the past eight years, did not figure among the winners this year.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/navi-mumbai-emerges-as-cleanest-city-surat-vijayawada-runners-up-in-cleanliness-survey/article71689854.ece",
-      "importance": 5,
-      "date_added": "2026-11-13"
-    },
-    {
-      "title": "Centre Sanctions New Border Infrastructure Projects in Arunachal Pradesh",
-      "summary": "The Indo-Tibetan Border Police sanctioned the construction of 15 pedestrian suspension bridges and 18 log bridges in Arunachal Pradesh. Meanwhile, the Cabinet Committee on Security cleared 26 new roads under the ICBR-III project.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/centre-sanctions-new-roads-infrastructure-along-chinas-border/article71694100.ece",
-      "importance": 5,
-      "date_added": "2026-11-13"
-    },
-    {
-      "title": "India's Retail Inflation Rises to 6.1% in October 2026",
-      "summary": "India's Consumer Price Index-based retail inflation reached 6.1% in October 2026, breaching the Reserve Bank of India's upper tolerance limit for the first time in two years. Almost all categories recorded series highs as inflation spread across economic sectors.",
-      "category": "economy",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/business/Economy/retail-inflation-crosses-rbis-upper-limit-for-first-time-in-two-years-comes-in-at-61-in-october-2026/article71693503.ece",
-      "importance": 5,
-      "date_added": "2026-11-13"
-    },
-    {
-      "title": "M Surenthiran Wins Medal of Excellence at 48th WorldSkills Competition",
-      "summary": "M Surenthiran secured a Medal of Excellence in Plastering and Drywall Systems at the 48th WorldSkills Competition held in China. His foundation in construction work was built through exposure to his father's work as a mason.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/society/how-a-masons-son-from-erode-won-a-medal-of-excellence-at-worldskills-2026/article71687410.ece",
-      "importance": 4,
-      "date_added": "2026-11-13"
-    },
-    {
-      "title": "Delhi Overtakes Lahore as World's Most Polluted City in IQAir Ranking",
-      "summary": "According to Swiss air quality monitoring group IQAir, Delhi became the world's most polluted major city after recording a hazardous Air Quality Index of 334. The ranking is determined by measuring the concentration of environmental toxins.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/delhi-overtakes-lahore-as-worlds-most-polluted-city-as-air-quality-drops/article71696606.ece",
-      "importance": 4,
-      "date_added": "2026-11-13"
-    },
-    {
-      "title": "Vivaan Kapoor Secures India’s Third LA28 Shooting Quota",
-      "summary": "Vivaan Kapoor won India's third quota place in shooting for the LA28 Olympic Games.",
-      "category": "sports",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/vivaan-kapoor-wins-indias-third-la28-shooting-quota/",
-      "importance": 4,
-      "date_added": "2026-11-13"
-    },
-    {
-      "title": "ISRO Tests Upgraded PSLV Third Stage",
-      "summary": "The Indian Space Research Organisation (ISRO) tested an upgraded third stage of the Polar Satellite Launch Vehicle (PSLV) following two mission anomalies.",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/isro-tests-upgraded-pslv-third-stage-after-two-mission-anomalies/",
-      "importance": 4,
-      "date_added": "2026-11-13"
-    },
-    {
-      "title": "PM Flags Off Namma Metro Pink Line Stretch and Yeshwantpur-Madgaon Vande Bharat Express",
-      "summary": "Prime Minister Narendra Modi flagged off an elevated stretch of Bengaluru's Namma Metro Pink Line and inaugurated the Yeshwantpur-Madgaon Vande Bharat Express.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/pm-modi-karnataka-visit-namma-metro-pink-line-vande-bharat-train-inaugurations-prashanti-kutiram-celebrations-live-updates/article71696485.ece",
-      "importance": 4,
-      "date_added": "2026-11-13"
-    },
-    {
-      "title": "MHA Extends Ban on Islamic Research Foundation for Five Years",
-      "summary": "The Ministry of Home Affairs has extended the ban declaring Zakir Naik’s Islamic Research Foundation unlawful for another five years, marking its third extension since 2016.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/mha-declares-zakir-naiks-islamic-research-foundation-unlawful-for-another-five-years/article71696626.ece",
-      "importance": 4,
-      "date_added": "2026-11-13"
-    },
-    {
-      "title": "Sonia Gandhi's Memoir 'Belonging: A Journey of Love' Set for Release",
-      "summary": "Sonia Gandhi’s memoir, titled 'Belonging: A Journey of Love,' is scheduled for release on November 10. The domestic publication of the book is being handled by HarperCollins India.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/books/articles-on-sonia-gandhi-book-belonging/article71450926.ece",
-      "importance": 4,
-      "date_added": "2026-11-13"
-    },
-    {
-      "title": "India's Agricultural Growth Exceeds 4% for First Decade Since Independence",
-      "summary": "Prime Minister Narendra Modi announced that agricultural growth in India has topped 4% for the first decade since Independence. He noted that the Centre absorbed ₹43 of the diesel price hike to support farmers and promote self-reliance.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/agricultural-growth-tops-4-for-first-decade-since-independence-centre-absorbed-43-of-diesel-hike-pm-modi/article71696695.ece",
-      "importance": 4,
-      "date_added": "2026-11-13"
-    },
-    {
-      "title": "Key Personal Facts of Jagdeep Dhankhar, 14th Vice-President of India",
-      "summary": "Jagdeep Dhankhar serves as the 14th Vice-President of India. Born in 1951 in Rajasthan's Jhunjhunu district, he completed a degree in physics before pursuing a career in law.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/jagdeep-dhankhar-5-key-facts-about-india-14th-vice-president/article71696691.ece",
-      "importance": 4,
-      "date_added": "2026-11-13"
-    },
-    {
-      "title": "300-Year-Old Traditional Lavi Fair Celebrated in Himachal Pradesh",
-      "summary": "The historical 300-year-old Lavi Fair is held at Rampur Bushahr in Himachal Pradesh to celebrate Himalayan trade traditions. The fair highlights a cultural transition from traditional wool and barter trade to modern digital payments and women entrepreneurs.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/society/lavi-fair-rampur-himachal-pradesh-story/article71660853.ece",
-      "importance": 4,
-      "date_added": "2026-11-13"
-    },
-    {
-      "title": "IMF Upgrades India's Medium-Term Growth Potential to 6.8%",
-      "summary": "In its October World Economic Outlook, the International Monetary Fund (IMF) upgraded India's medium-term potential growth estimate to 6.8% from 6.5%. The report noted that India needs to create high-quality jobs and increase productivity growth.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/india-needs-to-create-high-quality-jobs-increase-productivity-growth-imf/article71696425.ece",
-      "importance": 4,
-      "date_added": "2026-11-13"
-    },
-    {
-      "title": "Cyclones Arnab and Murasu Hit Andhra Pradesh Coast",
-      "summary": "Cyclones Arnab and Murasu struck the Andhra Pradesh coastline within a span of a week. The twin storms delivered a severe blow to coastal communities and growers in West Godavari and Konaseema districts.",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/twin-cyclone-leave-livelihoods-in-tatters/article71695213.ece",
-      "importance": 4,
-      "date_added": "2026-11-13"
-    },
-    {
-      "title": "Prime Minister Modi to Attend ASEAN Summit in Manila",
-      "summary": "Prime Minister Narendra Modi will visit Manila for the ASEAN Summit to discuss maritime security and trade. He is also slated to meet leaders from Australia, the U.S., and Japan for the annual Quad summit.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/modi-to-visit-manila-for-asean-summit-maritime-security-trade-on-agenda/article71694308.ece",
-      "importance": 4,
-      "date_added": "2026-11-13"
-    },
-    {
-      "title": "RBI Proposes ₹50 Lakh Sub-Limit Under Liberalised Remittance Scheme",
-      "summary": "The Reserve Bank of India has proposed a ₹50 lakh sub-limit within the ₹2,50,000 annual Liberalised Remittance Scheme cap. The initiative aims to curb dollar outflows and protect the value of the Indian rupee.",
-      "category": "economy",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/business/Economy/why-rbi-wants-to-cap-select-overseas-remittances-at-50-lakh-to-save-rupees-explained/article71693547.ece",
-      "importance": 4,
-      "date_added": "2026-11-13"
-    },
-    {
-      "title": "CAG Expands Power Sector Audit Purview Starting with DISCOMs",
-      "summary": "The Comptroller and Auditor General of India has expanded the purview of its power sector audit, beginning with power distribution companies (DISCOMs). DISCOMs will be evaluated on performance over five years, followed by transmission, generation, renewable energy, and RDSS.",
-      "category": "economy",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/business/Industry/cag-widens-purview-of-power-sector-audit-starting-with-discoms-consumer-satisfaction-in-focus/article71694907.ece",
-      "importance": 4,
-      "date_added": "2026-11-13"
-    },
-    {
-      "title": "ISRO Successfully Conducts Ground Static Test of PSLV Third Stage",
-      "summary": "The Indian Space Research Organisation has successfully carried out a ground static test of the PSLV third stage. The test comprehensively evaluated design margins, raw material acceptance criteria, assembly procedures, and quality checks.",
-      "category": "science",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sci-tech/science/isro-successfully-carries-out-ground-static-test-of-pslv-third-stage/article71694068.ece",
-      "importance": 4,
-      "date_added": "2026-11-13"
-    },
-    {
-      "title": "Six Researchers Win Infosys Science Foundation Prizes for 2026",
-      "summary": "The Infosys Science Foundation announced six researchers as winners of the Infosys Science Foundation prizes for 2026 across six categories. A total of 222 applications were received, with the maximum entries in Engineering and Computer Science.",
-      "category": "science",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sci-tech/science/infosys-prize-2026-isf-full-list-of-winners-bengaluru-researcher/article71692819.ece",
-      "importance": 4,
-      "date_added": "2026-11-13"
-    },
-    {
-      "title": "Mohit Yadav Wins Bronze at Commonwealth Karate Championship",
-      "summary": "Indian athlete Mohit Yadav won the bronze medal at the Commonwealth Karate Championship held in Glasgow. He has been a continuous member of the Indian national team in the Team Kumite event for four years.",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/mohit-yadav-wins-bronze-at-commonwealth-karate-championship-in-glasgow/article71696759.ece",
-      "importance": 4,
-      "date_added": "2026-11-13"
-    },
-    {
-      "title": "India, Oman, and UAE to Establish Trilateral Technical Committee",
-      "summary": "India, Oman, and the UAE have agreed to establish a trilateral technical committee to advance joint technical cooperation.",
-      "category": "international",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/india-oman-and-uae-to-establish-trilateral-technical-committee/",
-      "importance": 4,
-      "date_added": "2026-11-13"
-    },
-    {
-      "title": "Skyroot and Concert Technologies Partner for Satellite Launch Vehicle",
-      "summary": "Skyroot and Concert Technologies have partnered to develop a satellite launch vehicle.",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/skyroot-and-concert-technologies-to-develop-satellite-launch-vehicle/",
-      "importance": 4,
-      "date_added": "2026-11-13"
-    },
-    {
-      "title": "UN Climate Summit Pushes Electrification Goal Building on COP Commitments",
-      "summary": "The UN climate summit introduced an electrification goal building on earlier international climate pledges. It references COP28 commitments to triple renewable energy capacity and COP29 priorities covering energy storage, grid modernisation, and climate finance.",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/un-climate-summit-pushes-electrification-goal-as-groups-call-for-mining-safeguards/article71696419.ece",
-      "importance": 4,
-      "date_added": "2026-11-13"
-    },
-    {
-      "title": "New Shark Species 'Indian Bramble Shark' Identified in Indian Ocean",
-      "summary": "Researchers have identified a new shark species named the Indian Bramble Shark (Echinorhinus roinee) in the Indian Ocean. The discovery follows decades of misclassification of the species.",
-      "category": "science",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sci-tech/science/new-shark-species-identified-in-indian-ocean-after-decades-of-misclassification/article71694050.ece",
-      "importance": 4,
-      "date_added": "2026-11-13"
-    },
-    {
       "title": "President Murmu Confers National Sports Awards; Lalremsiami First from Mizoram to Receive Arjuna Award",
       "summary": "President Murmu presented the National Sports Awards, where 17 Arjuna awardees and three Dronacharya awardees were chosen. Lalremsiami became the first recipient from Mizoram to receive the Arjuna Award, while no Khel Ratna was awarded for the first time since 2014.",
       "category": "awards",
@@ -1319,6 +1076,156 @@
         "Topic: groundwater environmental compensation"
       ],
       "date_added": "2026-11-19"
+    },
+    {
+      "title": "SCO Civilisations Dialogue Forum to Be Held at Delhi's Purana Quila",
+      "summary": "The SCO Civilisations Dialogue Forum, set to be inaugurated by Prime Minister Narendra Modi, will take place at Delhi’s 16th-century Purana Quila, built by Emperor Humayun. Pakistan holds the chair of the SCO Council of Heads of State for 2026-27.",
+      "date": "November 20, 2026",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/pakistan-climate-minister-in-delhi-to-attend-sco-meeting/article71723340.ece",
+      "importance": 5,
+      "keywords": [
+        "Event: SCO Civilisations Dialogue Forum",
+        "Place: Purana Quila",
+        "Historical figure: Emperor Humayun",
+        "Organization: SCO Council of Heads of State"
+      ],
+      "date_added": "2026-11-20"
+    },
+    {
+      "title": "International Court of Justice Rules Myanmar Committed Genocide Against Rohingya Community",
+      "summary": "The International Court of Justice ruled that Myanmar committed genocide against its minority Rohingya community. The decision follows a seven-year deliberation on accusations brought against Myanmar by Gambia.",
+      "date": "November 19, 2026",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/icj-to-rule-on-rohingya-genocide-refugee-crisis-timeline-of-the-case-and-more/article71707225.ece",
+      "importance": 5,
+      "keywords": [
+        "Organisation: International Court of Justice",
+        "Country: Myanmar",
+        "Complainant: Gambia",
+        "Community: Rohingya"
+      ],
+      "date_added": "2026-11-20"
+    },
+    {
+      "title": "ICJ Finds Myanmar Guilty of Genocide Against Rohingya Community in Historic Ruling",
+      "summary": "The International Court of Justice ruled that Myanmar committed genocide against the Rohingya minority. This decision marks the first time in the ICJ's 80-year history that the tribunal has determined a state committed genocide.",
+      "date": "November 19, 2026",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/icj-verdict-on-rohingya-crackdown-killings-in-myanmar/article71719604.ece",
+      "importance": 5,
+      "keywords": [
+        "Organization: International Court of Justice",
+        "Place: Myanmar",
+        "Community: Rohingya"
+      ],
+      "date_added": "2026-11-20"
+    },
+    {
+      "title": "Jal Shakti Ministry Launches Swachh Toilet Garimamaya Bhavishya Campaign on World Toilet Day 2026",
+      "summary": "The Ministry of Jal Shakti launched the 'Swachh Toilet – Garimamaya Bhavishya' (SSGB) campaign on the occasion of World Toilet Day 2026.",
+      "date": "",
+      "category": "environment",
+      "source": "pib",
+      "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2338902",
+      "importance": 5,
+      "keywords": [
+        "Ministry: Ministry of Jal Shakti",
+        "Campaign: Swachh Toilet – Garimamaya Bhavishya",
+        "Important Day: World Toilet Day 2026"
+      ],
+      "date_added": "2026-11-20"
+    },
+    {
+      "title": "Francisco Javier Wins 22nd International Children’s Peace Prize",
+      "summary": "Francisco Javier has been named the 22nd winner of the International Children’s Peace Prize. He joins a list of past laureates that includes Malala Yousafzai and Greta Thunberg.",
+      "date": "November 20, 2026",
+      "category": "awards",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/children-are-political-agents-whose-active-participation-strengthens-democracy-says-international-childrens-peace-prize-winner-francisco-javier/article71720462.ece",
+      "importance": 5,
+      "keywords": [
+        "Award: International Children’s Peace Prize",
+        "Recipient: Francisco Javier"
+      ],
+      "date_added": "2026-11-20"
+    },
+    {
+      "title": "NMC Asks Medical Colleges to Onboard PM-RAHAT Cashless Emergency Care Scheme",
+      "summary": "The National Medical Commission (NMC) has asked government medical colleges to onboard the PM-RAHAT scheme. The scheme provides cashless treatment of up to ₹1.5 lakh per road accident victim for up to seven days at designated hospitals.",
+      "date": "November 20, 2026",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/nmc-asks-government-medical-colleges-to-onboard-pm-rahat-scheme-for-cashless-emergency-care/article71719716.ece",
+      "importance": 5,
+      "keywords": [
+        "Scheme: PM-RAHAT scheme",
+        "Organization: NMC"
+      ],
+      "date_added": "2026-11-20"
+    },
+    {
+      "title": "NCB and U.S. DEA Launch Operation Monsoon Thunder to Bust Illicit Drug Network",
+      "summary": "The Narcotics Control Bureau and the U.S. Drug Enforcement Administration busted an illicit drug network under Operation Monsoon Thunder. The joint operation identified an Indian module supplying drugs and opioid medicines to consumers in the United States.",
+      "date": "November 20, 2026",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/ncb-us-dea-crack-down-on-drug-network-supplying-us-market-six-held/article71723553.ece",
+      "importance": 4,
+      "keywords": [
+        "Mission: Operation Monsoon Thunder",
+        "Agency: NCB",
+        "Agency: U.S. DEA"
+      ],
+      "date_added": "2026-11-20"
+    },
+    {
+      "title": "Dr. NTR University VC Pulala Chandrasekhar Elected Fellow of AP Akademi of Sciences",
+      "summary": "Dr. NTR University of Health Sciences Vice-Chancellor Pulala Chandrasekhar has been elected as a Fellow of the Andhra Pradesh Akademi of Sciences. The fellowship is an academic distinction conferred by the Akademi upon distinguished scientists and academicians.",
+      "date": "November 20, 2026",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/dr-ntr-university-of-health-sciences-vc-pulala-chandrasekhar-elected-fellow-of-ap-akademi-of-sciences/article71719135.ece",
+      "importance": 4,
+      "keywords": [
+        "Person: Pulala Chandrasekhar",
+        "Honor: Fellow of AP Akademi of Sciences",
+        "Office: Dr. NTR University of Health Sciences VC"
+      ],
+      "date_added": "2026-11-20"
+    },
+    {
+      "title": "India Possesses 59 Recognised Indigenous Cattle Breeds, Says SVVU Vice-Chancellor",
+      "summary": "Sri Venkateswara Veterinary University Vice-Chancellor V. Vaikunta Rao highlighted that India has 59 recognised indigenous cattle breeds. These native breeds possess disease resistance and adaptability, offering major scope for genetic research and improvement.",
+      "date": "November 20, 2026",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/preserve-native-cattle-breeds-for-their-disease-resistance-and-adaptability-say-experts-at-svvu-seminar/article71721030.ece",
+      "importance": 4,
+      "keywords": [
+        "Statistic: 59 recognised indigenous cattle breeds",
+        "Person: V. Vaikunta Rao",
+        "Organization: SVVU"
+      ],
+      "date_added": "2026-11-20"
+    },
+    {
+      "title": "India and Netherlands Sign 17 MoUs Including Semiconductor Chip Fabrication Pact",
+      "summary": "India and the Netherlands upgraded bilateral ties by signing 17 agreements covering water, renewable energy, and semiconductors. The signed MoUs include a joint semiconductor fabrication project between TATA Electronics and Dutch firm ASML.",
+      "date": "November 20, 2026",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/india-netherlands-elevating-ties-to-strategic-partnership-says-pm-modi/article70988590.ece",
+      "importance": 4,
+      "keywords": [
+        "Place: Netherlands",
+        "Company: TATA Electronics",
+        "Company: ASML"
+      ],
+      "date_added": "2026-11-20"
     }
   ]
 }
