@@ -1,306 +1,6 @@
 {
   "items": [
     {
-      "title": "Chandrayaan-3 Data Reveals Three Lunar Soil Layers",
-      "summary": "",
-      "date": "November 18, 2026",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/chandrayaan-3-data-reveals-three-lunar-soil-layers/",
-      "importance": 5,
-      "date_added": "2026-11-18"
-    },
-    {
-      "title": "Quad Announces First Joint Military Exercise for 2027",
-      "summary": "",
-      "date": "November 18, 2026",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/quad-announces-first-joint-military-exercise-for-2027/",
-      "importance": 5,
-      "date_added": "2026-11-18"
-    },
-    {
-      "title": "India to Dedicate Indigenous H5N1 Chicken Vaccine",
-      "summary": "",
-      "date": "November 18, 2026",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/india-to-dedicate-indigenous-h5n1-chicken-vaccine/",
-      "importance": 5,
-      "date_added": "2026-11-18"
-    },
-    {
-      "title": "Cabinet Secretary Launches Karmayogi Sankalpa",
-      "summary": "",
-      "date": "November 18, 2026",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/cabinet-secretary-launches-karmayogi-sankalpa/",
-      "importance": 5,
-      "date_added": "2026-11-18"
-    },
-    {
-      "title": "India Wins Record 10th SAFF Championship Title",
-      "summary": "",
-      "date": "November 18, 2026",
-      "category": "sports",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/india-wins-record-10th-saff-championship-title/",
-      "importance": 5,
-      "date_added": "2026-11-18"
-    },
-    {
-      "title": "India to Host First Quad Business Leaders’ Forum in 2027",
-      "summary": "",
-      "date": "November 18, 2026",
-      "category": "international",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/india-to-host-first-quad-business-leaders-forum-in-2027/",
-      "importance": 5,
-      "date_added": "2026-11-18"
-    },
-    {
-      "title": "GIFT City Becomes India’s First UN-Recognised Resilience Hub",
-      "summary": "",
-      "date": "November 18, 2026",
-      "category": "international",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/gift-city-becomes-indias-first-un-recognised-resilience-hub/",
-      "importance": 5,
-      "date_added": "2026-11-18"
-    },
-    {
-      "title": "Nepal Approved to Import 350 MW of Electricity from India",
-      "summary": "",
-      "date": "November 18, 2026",
-      "category": "international",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/nepal-approved-to-import-350-mw-of-electricity-from-india/",
-      "importance": 5,
-      "date_added": "2026-11-18"
-    },
-    {
-      "title": "When does the 24-hour countdown begin after arrest? Supreme Court answers",
-      "summary": "The Supreme Court ruled that the 24-hour custody limit under Article 22(2) of the Indian Constitution begins when a person’s liberty is curtailed during detention, not from the formal arrest",
-      "date": "November 18, 2026",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/when-does-the-24-hour-countdown-begin-after-arrest-supreme-court-answers/article71714859.ece",
-      "importance": 5,
-      "date_added": "2026-11-18"
-    },
-    {
-      "title": "India, Japan set to review defence ties as Rajnath, Jaishankar arrive in Tokyo",
-      "summary": "The two-day visit comes a day after the Quad leaders' summit in Manila, Philippines and as India hosts a joint humanitarian assistance and disaster relief (HADR) exercise involving the four member countries",
-      "date": "November 18, 2026",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/india-japan-set-to-review-defence-ties-as-rajnath-jaishankar-arrive-in-tokyo/article71714856.ece",
-      "importance": 5,
-      "date_added": "2026-11-18"
-    },
-    {
-      "title": "World needs peace, stability, predictability: Modi in Manila",
-      "summary": "Quad leaders issue joint statement opposing economic and maritime 'coercion' in Indo-Pacific; Modi proposes seafarers’ safety initiative at East Asia Summit, also attends meeting with ASEAN leaders",
-      "date": "November 18, 2026",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/world-needs-peace-stability-predictability-modi-in-manila/article71712862.ece",
-      "importance": 5,
-      "date_added": "2026-11-18"
-    },
-    {
-      "title": "NASA’s Voyager 1 reaches one light-day from Earth on November 18: What does it mean?",
-      "summary": "NASA’s Voyager 1, humanity’s farthest spacecraft, is about to reach one light-day from Earth, more than 16 billion miles away; Know what it means",
-      "date": "November 18, 2026",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sci-tech/science/voyager-1-reaches-one-light-day-from-earth-on-november-18-what-it-means-nasa-latest-news/article71704297.ece",
-      "importance": 5,
-      "date_added": "2026-11-18"
-    },
-    {
-      "title": "ASEAN, Quad Summit updates on November 17, 2026",
-      "summary": "Quad is a ‘trusted partnership’ delivering solutions, says PM Modi",
-      "date": "November 17, 2026",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/asean-india-summit-manila-november-2026-quad-live-updates-pm-modi-trump-meeting-latest-news/article71710382.ece",
-      "importance": 5,
-      "date_added": "2026-11-18"
-    },
-    {
-      "title": "Three space companies selected to develop high-resolution 3D reconstruction techniques for Indian cities",
-      "summary": "The pilot demonstrations will cover Bengaluru and Shimla, and the deliverables will include the horizontal and vertical dimensions of urban settlements, offering a more comprehensive understanding of how Indian cities are expanding and densifying.",
-      "date": "November 17, 2026",
-      "category": "science",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/three-space-companies-selected-to-develop-high-resolution-3d-reconstruction-techniques-for-indian-cities/article71711538.ece",
-      "importance": 5,
-      "date_added": "2026-11-18"
-    },
-    {
-      "title": "Prince William says Gen Z is the torchbearer of the global movement for change",
-      "summary": "Himalayan Kingdom of Bhutan, Mahindra Last Mile Mobility among the five winners of Earthshot Prize",
-      "date": "November 18, 2026",
-      "category": "environment",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/maharashtra/prince-william-says-gen-z-is-the-torchbearer-of-the-global-movement-for-change/article71713218.ece",
-      "importance": 5,
-      "date_added": "2026-11-18"
-    },
-    {
-      "title": "Manu Bhaker elected to ISSF Athletes Committee for 2026-30 term",
-      "summary": "During her nomination earlier this month, Bhaker had outlined an athlete-centric vision, focusing on strengthening the sport and creating a more supportive, sustainable and progressive environment for shooters worldwide",
-      "date": "November 17, 2026",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/manu-bhaker-elected-to-issf-athletes-committee-for-2026-30-term/article71711814.ece",
-      "importance": 5,
-      "date_added": "2026-11-18"
-    },
-    {
-      "title": "श्री शिवराज सिंह चौहान 20 नवम्‍बर को भारत की पहली स्वदेशी एच5एन1 (क्लेड 2.3.2.1a) चिकन वैक्सीन करेंगे राष्‍ट्र को समर्पित",
-      "summary": "",
-      "date": "",
-      "category": "national",
-      "source": "pib",
-      "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337717",
-      "importance": 5,
-      "date_added": "2026-11-18"
-    },
-    {
-      "title": "ग्रामीण विकास मंत्रालय ने विकसित भारत- जी राम जी अधिनियम अंतर्गत पारदर्शिता एवं जवाबदेही को सुदृढ़ करने के लिए लोकपाल संबंधी दिशानिर्देश जारी किए",
-      "summary": "",
-      "date": "",
-      "category": "national",
-      "source": "pib",
-      "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337721",
-      "importance": 5,
-      "date_added": "2026-11-18"
-    },
-    {
-      "title": "भारत का पवन ऊर्जा परिवर्तन",
-      "summary": "",
-      "date": "",
-      "category": "national",
-      "source": "pib",
-      "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337737",
-      "importance": 5,
-      "date_added": "2026-11-18"
-    },
-    {
-      "title": "Cambridge Dictionary Names ‘Human’ Word of the Year 2026",
-      "summary": "",
-      "date": "November 18, 2026",
-      "category": "awards",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/cambridge-dictionary-names-human-word-of-the-year-2026/",
-      "importance": 4,
-      "date_added": "2026-11-18"
-    },
-    {
-      "title": "European Commission Approves Biocon’s Pebrilzo Biosimilar",
-      "summary": "",
-      "date": "November 18, 2026",
-      "category": "science",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/european-commission-approves-biocons-pebrilzo-biosimilar/",
-      "importance": 4,
-      "date_added": "2026-11-18"
-    },
-    {
-      "title": "Indian Navy Marks 50 Years of Maritime Reconnaissance",
-      "summary": "",
-      "date": "November 18, 2026",
-      "category": "national",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/indian-navy-marks-50-years-of-maritime-reconnaissance/",
-      "importance": 4,
-      "date_added": "2026-11-18"
-    },
-    {
-      "title": "India Wins Silver at Asian Nations Chess Cup 2026",
-      "summary": "",
-      "date": "November 18, 2026",
-      "category": "sports",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/india-wins-silver-at-asian-nations-chess-cup-2026/",
-      "importance": 4,
-      "date_added": "2026-11-18"
-    },
-    {
-      "title": "Amazon Plans $7 Billion Renewable Energy Investment in India by 2030",
-      "summary": "",
-      "date": "November 18, 2026",
-      "category": "environment",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/amazon-plans-7-billion-renewable-energy-investment-in-india-by-2030/",
-      "importance": 4,
-      "date_added": "2026-11-18"
-    },
-    {
-      "title": "Reliance Plans ₹15,000 Crore Investment in Compressed Biogas",
-      "summary": "",
-      "date": "November 18, 2026",
-      "category": "economy",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/reliance-plans-%e2%82%b915000-crore-investment-in-compressed-biogas/",
-      "importance": 4,
-      "date_added": "2026-11-18"
-    },
-    {
-      "title": "Black-Necked Crane Population in Ladakh Rises to 108",
-      "summary": "",
-      "date": "November 18, 2026",
-      "category": "environment",
-      "source": "gktoday",
-      "url": "https://www.gktoday.in/black-necked-crane-population-in-ladakh-rises-to-108/",
-      "importance": 4,
-      "date_added": "2026-11-18"
-    },
-    {
-      "title": "Telangana’s YTPS final unit commercial operations likely in December 2026, to further boost State’s energy sector",
-      "summary": "Telangana-Genco is implementing a comprehensive action plan to ensure full-scale generation of 4,000 MW through all five units during the coming Rabi and summer season",
-      "date": "November 18, 2026",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/telangana/telanganas-ytps-final-unit-commercial-operations-likely-in-december-2026-to-further-boost-states-energy-sector/article71712752.ece",
-      "importance": 4,
-      "date_added": "2026-11-18"
-    },
-    {
-      "title": "Why Ukraine keeps targeting the Kerch Bridge",
-      "summary": "Ukraine has targeted the structure several times, latest on November 17, 2026",
-      "date": "November 18, 2026",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/why-ukraine-keeps-targeting-the-kerch-bridge/article71714957.ece",
-      "importance": 4,
-      "date_added": "2026-11-18"
-    },
-    {
-      "title": "Three Hyderabad shopping streets feature in APAC’s retail rankings, Delhi’s Khan Market tops India’s retail streets with ₹1,875/sft rental",
-      "summary": "Jubilee Hills leads Hyderabad’s retail areas with ₹250/sft monthly rental. It is ₹230/sft in Banjara Hills and ₹225/sft in Himayatnagar",
-      "date": "November 18, 2026",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/three-hyderabad-shopping-streets-feature-in-apacs-retail-rankings-delhis-khan-market-tops-indias-retail-streets-with-1875sft-rental/article71714808.ece",
-      "importance": 4,
-      "date_added": "2026-11-18"
-    },
-    {
-      "title": "Naidu seeks immediate Central assistance to cope with damages caused by two cyclones",
-      "summary": "The successive weather systems, ‘Arnab’ and ‘Murasu’, have inflicted losses estimated at over ₹7,000 crore, he informs Union Finance Minister Nirmala Sitharaman; he also urges release of funds for developing infrastructure for the Rayalaseema Horticulture Hub",
-      "date": "November 18, 2026",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-seeks-immediate-central-assistance-to-cope-with-damages-caused-by-two-cyclones/article71712161.ece",
-      "importance": 4,
-      "date_added": "2026-11-18"
-    },
-    {
       "title": "Riddhipratim Basu wins 2026 Infosys Prize in Mathematical Sciences",
       "summary": "Riddhipratim Basu has been awarded the 2026 Infosys Prize in mathematical sciences. His research utilizes mathematics to analyze how random events generate predictable patterns within physical systems.",
       "date": "November 18, 2026",
@@ -943,6 +643,157 @@
         "Country: Nicaragua"
       ],
       "date_added": "2026-11-24"
+    },
+    {
+      "title": "NSA Ajit Doval Emphasizes Colombo Security Conclave and MAHASAGAR Vision",
+      "summary": "National Security Advisor Ajit Doval called for enhanced regional security cooperation in the Indian Ocean, describing the Colombo Security Conclave as the intersection of India's Neighbourhood First outlook and MAHASAGAR vision.",
+      "date": "November 25, 2026",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/nsa-doval-calls-for-closer-regional-security-cooperation-to-counter-challenges-in-indian-ocean/article71741299.ece",
+      "importance": 5,
+      "keywords": [
+        "Person: Ajit Doval",
+        "Conclave: Colombo Security Conclave",
+        "Vision: MAHASAGAR vision"
+      ],
+      "date_added": "2026-11-25"
+    },
+    {
+      "title": "ICJ Finds Myanmar Responsible for Genocide Against Rohingya in Landmark Ruling",
+      "summary": "The International Court of Justice has found Myanmar responsible for committing genocide against the Rohingya. This marks the first time the court has held a state liable for the crime of genocide.",
+      "date": "November 24, 2026",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/videos/the-first-genocide-conviction-of-a-state-what-it-means-the-hindu-editorial/article71739738.ece",
+      "importance": 5,
+      "keywords": [
+        "Organization: International Court of Justice",
+        "Country: Myanmar",
+        "Community: Rohingya"
+      ],
+      "date_added": "2026-11-25"
+    },
+    {
+      "title": "Anthropic and Levent Alpöge Announce AI Proof of Riemann Hypothesis",
+      "summary": "Levent Alpöge of Anthropic announced that he and the AI model Claude have found a proof of the Riemann hypothesis. The famous mathematical problem concerning the distribution of prime numbers had remained unproven for more than 160 years.",
+      "date": "November 25, 2026",
+      "category": "science",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/anthropic-scientist-claims-proof-of-maths-most-famous-problem-with-ai-help/article71727161.ece",
+      "importance": 5,
+      "keywords": [
+        "Person: Levent Alpöge",
+        "Company: Anthropic",
+        "Concept: Riemann hypothesis"
+      ],
+      "date_added": "2026-11-25"
+    },
+    {
+      "title": "Indian Women's Hockey Team Rises to Best-Ever Fifth Position in FIH Rankings",
+      "summary": "The Indian women's hockey team achieved its highest-ever position of fifth in the rankings released by the International Hockey Federation (FIH). The Netherlands retained the top spot, followed by Argentina, Belgium, and Spain.",
+      "date": "November 25, 2026",
+      "category": "sports",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sport/hockey/indian-womens-hockey-team-climbs-to-best-ever-ranking-of-fifth-in-fih-chart/article71741216.ece",
+      "importance": 4,
+      "keywords": [
+        "Organization: FIH",
+        "Team: Indian women’s hockey team",
+        "Rank: Fifth",
+        "Top Rank: Netherlands"
+      ],
+      "date_added": "2026-11-25"
+    },
+    {
+      "title": "Anand Kumar Honored with Special Achievement Award in Japan",
+      "summary": "Educator Anand Kumar has received a Special Achievement Award during an event in Japan.",
+      "date": "November 25, 2026",
+      "category": "awards",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/anand-kumar-receives-special-achievement-award-in-japan/",
+      "importance": 4,
+      "keywords": [
+        "Person: Anand Kumar",
+        "Award: Special Achievement Award",
+        "Place: Japan"
+      ],
+      "date_added": "2026-11-25"
+    },
+    {
+      "title": "Shodhan Rai Secures Silver Medal at Natural Olympia 2026",
+      "summary": "Shodhan Rai won the silver medal at the Natural Olympia 2026 competition.",
+      "date": "November 25, 2026",
+      "category": "sports",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/shodhan-rai-wins-silver-at-natural-olympia-2026/",
+      "importance": 4,
+      "keywords": [
+        "Person: Shodhan Rai",
+        "Award: Silver",
+        "Event: Natural Olympia 2026"
+      ],
+      "date_added": "2026-11-25"
+    },
+    {
+      "title": "Ariane 6 Deploys 36 Amazon Satellites from French Guiana",
+      "summary": "Ariane 6 has successfully deployed 36 Amazon satellites into space from French Guiana.",
+      "date": "November 25, 2026",
+      "category": "science",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/ariane-6-deploys-36-amazon-satellites-from-french-guiana/",
+      "importance": 4,
+      "keywords": [
+        "Mission: Ariane 6",
+        "Organisation: Amazon",
+        "Place: French Guiana"
+      ],
+      "date_added": "2026-11-25"
+    },
+    {
+      "title": "NIELIT to Build Talent Pipeline for Amaravati Quantum Valley",
+      "summary": "The National Institute of Electronics and Information Technology (NIELIT) will build a talent pipeline covering technicians, operators, and researchers for the Amaravati Quantum Valley, stated Director General Madan Mohan Tripathi.",
+      "date": "November 25, 2026",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/nielit-brings-a-talent-boost-to-amaravati-quantum-valley/article71739231.ece",
+      "importance": 4,
+      "keywords": [
+        "Organization: NIELIT",
+        "Person: Madan Mohan Tripathi",
+        "Place: Amaravati Quantum Valley"
+      ],
+      "date_added": "2026-11-25"
+    },
+    {
+      "title": "China Launches Spacecraft Carrying First Pakistani Astronaut to Space Station",
+      "summary": "China launched a crewed spaceship carrying the first Pakistani astronaut to its space station. The spacecraft took off using a Long March-2F rocket from the Jiuquan Satellite Launch Centre in northwest China.",
+      "date": "November 25, 2026",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/chinas-shenzhou-24-space-flight-takes-off-with-pakistani-national-as-first-foreign-astronaut/article71740891.ece",
+      "importance": 4,
+      "keywords": [
+        "Place: Jiuquan Satellite Launch Centre",
+        "Vehicle: Long March-2F",
+        "Country: Pakistan"
+      ],
+      "date_added": "2026-11-25"
+    },
+    {
+      "title": "China to Launch Shenzhou-20 Spaceflight Carrying Three Astronauts on April 24",
+      "summary": "China is scheduled to launch the Shenzhou-20 spaceflight on April 24. The mission will carry three astronauts: Chen Dong, Chen Zhongrui, and Wang Jie.",
+      "date": "November 25, 2026",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sci-tech/china-to-launch-shenzhou-20-spaceflight-on-april-24/article69481128.ece",
+      "importance": 4,
+      "keywords": [
+        "Mission: Shenzhou-20",
+        "Person: Chen Dong",
+        "Person: Chen Zhongrui"
+      ],
+      "date_added": "2026-11-25"
     }
   ]
 }
