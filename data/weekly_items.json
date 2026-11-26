@@ -1,63 +1,6 @@
 {
   "items": [
     {
-      "title": "Riddhipratim Basu wins 2026 Infosys Prize in Mathematical Sciences",
-      "summary": "Riddhipratim Basu has been awarded the 2026 Infosys Prize in mathematical sciences. His research utilizes mathematics to analyze how random events generate predictable patterns within physical systems.",
-      "date": "November 18, 2026",
-      "category": "awards",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sci-tech/science/riddhipratim-basu-infosys-prize-mathematics-artificial-intelligence-climate/article71715981.ece",
-      "importance": 5,
-      "keywords": [
-        "Award: Infosys Prize",
-        "Person: Riddhipratim Basu"
-      ],
-      "date_added": "2026-11-19"
-    },
-    {
-      "title": "Sports Ministry Forms 14-Member Committee to Formulate Professionally Managed Leagues in India",
-      "summary": "The Sports Ministry has formed a 14-member committee to formulate professionally managed sports leagues in India. The panel includes Board of Control for Cricket in India CEO Hemang Amin and Indian Olympic Association CEO Rahuram Iyer.",
-      "date": "November 18, 2026",
-      "category": "sports",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sport/sports-ministry-forms-14-member-committee-to-formulate-professionally-managed-leagues-in-india/article71715041.ece",
-      "importance": 4,
-      "keywords": [
-        "Ministry: Sports Ministry",
-        "Person: Hemang Amin",
-        "Person: Rahuram Iyer"
-      ],
-      "date_added": "2026-11-19"
-    },
-    {
-      "title": "China's LineShine leads global supercomputer list as India's Shakti Cloud ranks 35th",
-      "summary": "China's LineShine retained the top position on the list of the world's most powerful supercomputers. India's highest-ranked machine on the list is Shakti Cloud at number 35.",
-      "date": "November 18, 2026",
-      "category": "science",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sci-tech/science/lineshine-computers-defending-champ/article71712174.ece",
-      "importance": 4,
-      "keywords": [
-        "Supercomputer: LineShine",
-        "Supercomputer: Shakti Cloud"
-      ],
-      "date_added": "2026-11-19"
-    },
-    {
-      "title": "Centre announces 30% to 75% environmental compensation relief for groundwater users",
-      "summary": "The Central government offered a one-time settlement scheme providing 30% to 75% relief on groundwater environmental compensation. The initiative aims to regulate usage and resolve disputes across projects in 19 States and Union Territories.",
-      "date": "November 18, 2026",
-      "category": "environment",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/centre-offers-up-to-75-relief-in-environmental-compensation-to-groundwater-users/article71715304.ece",
-      "importance": 4,
-      "keywords": [
-        "Scheme: One-time settlement scheme",
-        "Topic: groundwater environmental compensation"
-      ],
-      "date_added": "2026-11-19"
-    },
-    {
       "title": "SCO Civilisations Dialogue Forum to Be Held at Delhi's Purana Quila",
       "summary": "The SCO Civilisations Dialogue Forum, set to be inaugurated by Prime Minister Narendra Modi, will take place at Delhi’s 16th-century Purana Quila, built by Emperor Humayun. Pakistan holds the chair of the SCO Council of Heads of State for 2026-27.",
       "date": "November 20, 2026",
@@ -794,6 +737,92 @@
         "Person: Chen Zhongrui"
       ],
       "date_added": "2026-11-25"
+    },
+    {
+      "title": "India records 378.53 million tonnes of foodgrain production in 2025-26, says Agriculture Minister",
+      "summary": "Union Agriculture Minister Shivraj Singh Chouhan announced that India produced a record 378.53 million tonnes of foodgrains in the 2025–26 crop year. Releasing the first advance estimates for 2026–27, he stated that output is expected to remain on track despite El Niño and inadequate rainfall.",
+      "date": "November 26, 2026",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/india-foodgrains-record-production-rice-wheat-2026-shivraj-singh-chouhan/article71745422.ece",
+      "importance": 5,
+      "keywords": [
+        "Person: Shivraj Singh Chouhan",
+        "Record: 378.53 million tonnes foodgrains"
+      ],
+      "date_added": "2026-11-26"
+    },
+    {
+      "title": "India and Netherlands sign 17 MoUs including semiconductor fabrication project between TATA Electronics and ASML",
+      "summary": "India and the Netherlands upgraded their bilateral relations by signing 17 MoUs across water, renewable energy, and semiconductors. The key agreements include a semiconductor fabrication project between TATA Electronics and Dutch company ASML.",
+      "date": "November 26, 2026",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/india-netherlands-elevating-ties-to-strategic-partnership-says-pm-modi/article70988590.ece",
+      "importance": 5,
+      "keywords": [
+        "Country: Netherlands",
+        "Project: TATA Electronics and ASML semiconductor fabrication"
+      ],
+      "date_added": "2026-11-26"
+    },
+    {
+      "title": "Union Minister Nitin Gadkari Announces ₹1 Lakh Crore Road Projects for West Bengal",
+      "summary": "Union Minister Nitin Gadkari announced road projects worth ₹1 lakh crore for West Bengal. The initiative aims to strengthen road infrastructure in the state and accelerate projects to improve connectivity with neighbouring states.",
+      "date": "November 26, 2026",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/west-bengal/gadkari-announces-1-lakh-crore-road-projects-for-bengal/article71745900.ece",
+      "importance": 4,
+      "keywords": [
+        "Person: Nitin Gadkari",
+        "Place: West Bengal",
+        "Amount: ₹1 lakh crore"
+      ],
+      "date_added": "2026-11-26"
+    },
+    {
+      "title": "Dev Deepavali Celebrated in Varanasi with 21 Lakh Diyas and 2,100 Drones",
+      "summary": "Dev Deepavali was celebrated in Varanasi with the lighting of 21 lakh diyas and a display by 2,100 Made-in-India drones. The drone show depicted Shiv Tandav and Ganga Avtaran.",
+      "date": "November 26, 2026",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/21-lakh-diyas-2100-drones-light-up-varanasi-on-dev-deepavali/article71745558.ece",
+      "importance": 4,
+      "keywords": [
+        "Festival: Dev Deepavali",
+        "Place: Varanasi",
+        "Event Feature: 2,100 Made-in-India drones"
+      ],
+      "date_added": "2026-11-26"
+    },
+    {
+      "title": "Karnataka charts India's first comprehensive care and rehabilitation policy for burns survivors",
+      "summary": "Karnataka has formulated India's first comprehensive care and rehabilitation policy for burns survivors. The state will set up 15-bed burns care wards in district hospitals and upgrade the Mahabodhi Burns Care Centre at BMCRI into a Centre of Excellence.",
+      "date": "November 26, 2026",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-charts-indias-first-comprehensive-care-and-rehabilitation-policy-for-burns-survivors/article71742493.ece",
+      "importance": 4,
+      "keywords": [
+        "State: Karnataka",
+        "Policy: Care and rehabilitation policy for burns survivors"
+      ],
+      "date_added": "2026-11-26"
+    },
+    {
+      "title": "India and China hold second round of Corps Commander talks on LAC in Arunachal Pradesh",
+      "summary": "India and China concluded their second round of Corps Commander-level talks on November 24, 2026. The meeting aimed to ease tensions along the Line of Actual Control (LAC) in Arunachal Pradesh.",
+      "date": "November 26, 2026",
+      "category": "international",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/international/situation-in-india-china-border-areas-remain-generally-stable-says-china/article71745929.ece",
+      "importance": 4,
+      "keywords": [
+        "Place: Line of Actual Control (LAC) in Arunachal Pradesh",
+        "Event: Second round of Corps Commander-level talks"
+      ],
+      "date_added": "2026-11-26"
     }
   ]
 }
