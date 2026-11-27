@@ -1,156 +1,6 @@
 {
   "items": [
     {
-      "title": "SCO Civilisations Dialogue Forum to Be Held at Delhi's Purana Quila",
-      "summary": "The SCO Civilisations Dialogue Forum, set to be inaugurated by Prime Minister Narendra Modi, will take place at Delhi’s 16th-century Purana Quila, built by Emperor Humayun. Pakistan holds the chair of the SCO Council of Heads of State for 2026-27.",
-      "date": "November 20, 2026",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/pakistan-climate-minister-in-delhi-to-attend-sco-meeting/article71723340.ece",
-      "importance": 5,
-      "keywords": [
-        "Event: SCO Civilisations Dialogue Forum",
-        "Place: Purana Quila",
-        "Historical figure: Emperor Humayun",
-        "Organization: SCO Council of Heads of State"
-      ],
-      "date_added": "2026-11-20"
-    },
-    {
-      "title": "International Court of Justice Rules Myanmar Committed Genocide Against Rohingya Community",
-      "summary": "The International Court of Justice ruled that Myanmar committed genocide against its minority Rohingya community. The decision follows a seven-year deliberation on accusations brought against Myanmar by Gambia.",
-      "date": "November 19, 2026",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/icj-to-rule-on-rohingya-genocide-refugee-crisis-timeline-of-the-case-and-more/article71707225.ece",
-      "importance": 5,
-      "keywords": [
-        "Organisation: International Court of Justice",
-        "Country: Myanmar",
-        "Complainant: Gambia",
-        "Community: Rohingya"
-      ],
-      "date_added": "2026-11-20"
-    },
-    {
-      "title": "ICJ Finds Myanmar Guilty of Genocide Against Rohingya Community in Historic Ruling",
-      "summary": "The International Court of Justice ruled that Myanmar committed genocide against the Rohingya minority. This decision marks the first time in the ICJ's 80-year history that the tribunal has determined a state committed genocide.",
-      "date": "November 19, 2026",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/international/icj-verdict-on-rohingya-crackdown-killings-in-myanmar/article71719604.ece",
-      "importance": 5,
-      "keywords": [
-        "Organization: International Court of Justice",
-        "Place: Myanmar",
-        "Community: Rohingya"
-      ],
-      "date_added": "2026-11-20"
-    },
-    {
-      "title": "Jal Shakti Ministry Launches Swachh Toilet Garimamaya Bhavishya Campaign on World Toilet Day 2026",
-      "summary": "The Ministry of Jal Shakti launched the 'Swachh Toilet – Garimamaya Bhavishya' (SSGB) campaign on the occasion of World Toilet Day 2026.",
-      "date": "",
-      "category": "environment",
-      "source": "pib",
-      "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2338902",
-      "importance": 5,
-      "keywords": [
-        "Ministry: Ministry of Jal Shakti",
-        "Campaign: Swachh Toilet – Garimamaya Bhavishya",
-        "Important Day: World Toilet Day 2026"
-      ],
-      "date_added": "2026-11-20"
-    },
-    {
-      "title": "Francisco Javier Wins 22nd International Children’s Peace Prize",
-      "summary": "Francisco Javier has been named the 22nd winner of the International Children’s Peace Prize. He joins a list of past laureates that includes Malala Yousafzai and Greta Thunberg.",
-      "date": "November 20, 2026",
-      "category": "awards",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/children-are-political-agents-whose-active-participation-strengthens-democracy-says-international-childrens-peace-prize-winner-francisco-javier/article71720462.ece",
-      "importance": 5,
-      "keywords": [
-        "Award: International Children’s Peace Prize",
-        "Recipient: Francisco Javier"
-      ],
-      "date_added": "2026-11-20"
-    },
-    {
-      "title": "NMC Asks Medical Colleges to Onboard PM-RAHAT Cashless Emergency Care Scheme",
-      "summary": "The National Medical Commission (NMC) has asked government medical colleges to onboard the PM-RAHAT scheme. The scheme provides cashless treatment of up to ₹1.5 lakh per road accident victim for up to seven days at designated hospitals.",
-      "date": "November 20, 2026",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/nmc-asks-government-medical-colleges-to-onboard-pm-rahat-scheme-for-cashless-emergency-care/article71719716.ece",
-      "importance": 5,
-      "keywords": [
-        "Scheme: PM-RAHAT scheme",
-        "Organization: NMC"
-      ],
-      "date_added": "2026-11-20"
-    },
-    {
-      "title": "NCB and U.S. DEA Launch Operation Monsoon Thunder to Bust Illicit Drug Network",
-      "summary": "The Narcotics Control Bureau and the U.S. Drug Enforcement Administration busted an illicit drug network under Operation Monsoon Thunder. The joint operation identified an Indian module supplying drugs and opioid medicines to consumers in the United States.",
-      "date": "November 20, 2026",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/ncb-us-dea-crack-down-on-drug-network-supplying-us-market-six-held/article71723553.ece",
-      "importance": 4,
-      "keywords": [
-        "Mission: Operation Monsoon Thunder",
-        "Agency: NCB",
-        "Agency: U.S. DEA"
-      ],
-      "date_added": "2026-11-20"
-    },
-    {
-      "title": "Dr. NTR University VC Pulala Chandrasekhar Elected Fellow of AP Akademi of Sciences",
-      "summary": "Dr. NTR University of Health Sciences Vice-Chancellor Pulala Chandrasekhar has been elected as a Fellow of the Andhra Pradesh Akademi of Sciences. The fellowship is an academic distinction conferred by the Akademi upon distinguished scientists and academicians.",
-      "date": "November 20, 2026",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/dr-ntr-university-of-health-sciences-vc-pulala-chandrasekhar-elected-fellow-of-ap-akademi-of-sciences/article71719135.ece",
-      "importance": 4,
-      "keywords": [
-        "Person: Pulala Chandrasekhar",
-        "Honor: Fellow of AP Akademi of Sciences",
-        "Office: Dr. NTR University of Health Sciences VC"
-      ],
-      "date_added": "2026-11-20"
-    },
-    {
-      "title": "India Possesses 59 Recognised Indigenous Cattle Breeds, Says SVVU Vice-Chancellor",
-      "summary": "Sri Venkateswara Veterinary University Vice-Chancellor V. Vaikunta Rao highlighted that India has 59 recognised indigenous cattle breeds. These native breeds possess disease resistance and adaptability, offering major scope for genetic research and improvement.",
-      "date": "November 20, 2026",
-      "category": "national",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/preserve-native-cattle-breeds-for-their-disease-resistance-and-adaptability-say-experts-at-svvu-seminar/article71721030.ece",
-      "importance": 4,
-      "keywords": [
-        "Statistic: 59 recognised indigenous cattle breeds",
-        "Person: V. Vaikunta Rao",
-        "Organization: SVVU"
-      ],
-      "date_added": "2026-11-20"
-    },
-    {
-      "title": "India and Netherlands Sign 17 MoUs Including Semiconductor Chip Fabrication Pact",
-      "summary": "India and the Netherlands upgraded bilateral ties by signing 17 agreements covering water, renewable energy, and semiconductors. The signed MoUs include a joint semiconductor fabrication project between TATA Electronics and Dutch firm ASML.",
-      "date": "November 20, 2026",
-      "category": "international",
-      "source": "hindu",
-      "url": "https://www.thehindu.com/news/national/india-netherlands-elevating-ties-to-strategic-partnership-says-pm-modi/article70988590.ece",
-      "importance": 4,
-      "keywords": [
-        "Place: Netherlands",
-        "Company: TATA Electronics",
-        "Company: ASML"
-      ],
-      "date_added": "2026-11-20"
-    },
-    {
       "title": "Lonar Lake Added to IUGS Geological Heritage List",
       "summary": "Lonar Lake has been added to the IUGS Geological Heritage List.",
       "date": "November 21, 2026",
@@ -823,6 +673,153 @@
         "Event: Second round of Corps Commander-level talks"
       ],
       "date_added": "2026-11-26"
+    },
+    {
+      "title": "Rahul Madan Takes Charge as IBBI Chairperson",
+      "summary": "Rahul Madan has officially taken charge as the Chairperson of the Insolvency and Bankruptcy Board of India (IBBI).",
+      "date": "November 27, 2026",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/rahul-madan-takes-charge-as-ibbi-chairperson/",
+      "importance": 5,
+      "keywords": [
+        "Person: Rahul Madan",
+        "Organization: IBBI",
+        "Office: Chairperson"
+      ],
+      "date_added": "2026-11-27"
+    },
+    {
+      "title": "JAXA Unveils Rover Prototype for Chandrayaan-5/LUPEX Mission in Japan",
+      "summary": "Japanese space agency JAXA unveiled the rover prototype for the Chandrayaan-5/LUPEX lunar mission in Japan on November 25. The Chandrayaan-5/LUPEX project is the fifth mission in the Chandrayaan series of lunar missions.",
+      "date": "November 27, 2026",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/prototype-of-chandrayaan-5lupex-rover-unveiled/article71746762.ece",
+      "importance": 5,
+      "keywords": [
+        "Mission: Chandrayaan-5/LUPEX",
+        "Space Agency: JAXA",
+        "Place: Japan"
+      ],
+      "date_added": "2026-11-27"
+    },
+    {
+      "title": "WCD and Skill Development Ministries to jointly launch Navya 2.0 in Haridwar",
+      "summary": "The Ministry of Women and Child Development along with the Ministry of Skill Development and Entrepreneurship will jointly launch Navya 2.0 in Haridwar on November 28, 2026.",
+      "date": "",
+      "category": "economy",
+      "source": "pib",
+      "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2342453",
+      "importance": 5,
+      "keywords": [
+        "Scheme: Navya 2.0",
+        "Ministry: Ministry of Women and Child Development",
+        "Place: Haridwar"
+      ],
+      "date_added": "2026-11-27"
+    },
+    {
+      "title": "Bhargavastra Counter-Drone System Completes Trials in Pokhran",
+      "summary": "The Bhargavastra Counter-Drone System has successfully completed its trials conducted in Pokhran.",
+      "date": "November 27, 2026",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/bhargavastra-counter-drone-system-completes-pokhran-trials/",
+      "importance": 5,
+      "keywords": [
+        "Defence System: Bhargavastra Counter-Drone System",
+        "Place: Pokhran"
+      ],
+      "date_added": "2026-11-27"
+    },
+    {
+      "title": "India Plans Fifth S-400 Deployment Along Pakistan Border by February 2027",
+      "summary": "India plans to deploy its fifth S-400 air defence system unit along the Pakistan border by February 2027.",
+      "date": "November 27, 2026",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/india-plans-fifth-s-400-deployment-along-pakistan-border-by-february-2027/",
+      "importance": 5,
+      "keywords": [
+        "Defence System: S-400",
+        "Place: Pakistan Border"
+      ],
+      "date_added": "2026-11-27"
+    },
+    {
+      "title": "JAXA Unveils Rover Prototype for Chandrayaan-5/LUPEX Mission",
+      "summary": "The Japan Aerospace Exploration Agency (JAXA) has unveiled the prototype of the rover for the joint Chandrayaan-5/LUPEX mission.",
+      "date": "November 27, 2026",
+      "category": "science",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/jaxa-unveils-chandrayaan-5-lupex-rover-prototype/",
+      "importance": 5,
+      "keywords": [
+        "Agency: JAXA",
+        "Mission: Chandrayaan-5/LUPEX"
+      ],
+      "date_added": "2026-11-27"
+    },
+    {
+      "title": "Sabita Toppo Wins Gold in 100-Metre Hurdles at BIMSTEC U-23 Championships",
+      "summary": "Sabita Toppo won the gold medal in the 100-metre hurdles event at the BIMSTEC U-23 Championships.",
+      "date": "November 27, 2026",
+      "category": "national",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/sabita-toppo-wins-100-metre-hurdles-gold-at-bimstec-u-23-championships/",
+      "importance": 4,
+      "keywords": [
+        "Person: Sabita Toppo",
+        "Event: BIMSTEC U-23 Championships",
+        "Sport: 100-Metre Hurdles"
+      ],
+      "date_added": "2026-11-27"
+    },
+    {
+      "title": "Hera Mission Reveals Impact of DART on Dimorphos",
+      "summary": "Findings from the Hera mission have revealed details regarding DART's impact on Dimorphos.",
+      "date": "November 27, 2026",
+      "category": "science",
+      "source": "gktoday",
+      "url": "https://www.gktoday.in/hera-reveals-darts-impact-on-dimorphos/",
+      "importance": 4,
+      "keywords": [
+        "Mission: Hera",
+        "Mission: DART",
+        "Celestial Body: Dimorphos"
+      ],
+      "date_added": "2026-11-27"
+    },
+    {
+      "title": "Telangana's Traditional Martial Art Karra Samu to Be Showcased at Khelo India",
+      "summary": "Telangana's traditional stick-fighting art, Karra samu, will be showcased for the first time at a national event during Khelo India. Demonstrations of the martial art will take place at the Hakimpet Sports School.",
+      "date": "November 27, 2026",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/telanganas-traditional-martial-art-karra-samu-to-take-centre-stage-at-khelo-india/article71749370.ece",
+      "importance": 4,
+      "keywords": [
+        "State: Telangana",
+        "Martial Art: Karra samu",
+        "Event: Khelo India"
+      ],
+      "date_added": "2026-11-27"
+    },
+    {
+      "title": "UN Declares November 27 as International Day for Elimination of Child Marriage",
+      "summary": "The United Nations has declared November 27 as the International Day for the Elimination of Child, Early and Forced Marriage. Additionally, the National Family Health Survey (2023-24) reports that Rajasthan ranks sixth among Indian states in child marriage prevalence.",
+      "date": "November 27, 2026",
+      "category": "national",
+      "source": "hindu",
+      "url": "https://www.thehindu.com/news/national/rajasthan/in-rajasthan-the-girls-who-refuse-to-be-spoken-for/article71742334.ece",
+      "importance": 4,
+      "keywords": [
+        "Important Day: International Day for the Elimination of Child, Early and Forced Marriage",
+        "Organization: United Nations",
+        "Date: November 27"
+      ],
+      "date_added": "2026-11-27"
     }
   ]
 }
